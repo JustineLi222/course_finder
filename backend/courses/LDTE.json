@@ -1,0 +1,59 @@
+[
+    {
+        "course_title": "Intro to Learning Sciences 學習科學導論",
+        "class_code": "LDTE1300-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSE Chi Shing",
+        "quota": "31",
+        "mode": "LEC",
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Des Think'g as Scientific Inq 設計思維作為科學探究",
+        "class_code": "LDTE3100-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN To",
+        "quota": "16",
+        "mode": "LEC",
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Digital Citizenship Education 數碼公民的教育",
+        "class_code": "LDTE3110-",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHIU Kin Fung",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "HTB_G3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

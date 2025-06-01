@@ -1,0 +1,255 @@
+[
+    {
+        "course_title": "Nutrition for Health 營養與健康",
+        "class_code": "FNSC2002-",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Tsz Yan- Ms. YIP Pui Sze- Professor CHEN Zhenyu- Professor CHOW Hei Man- Professor WONG Wing Tak Jack",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Ethics and Professionalism 營養學家的道德和專業操守",
+        "class_code": "FNSC2005-",
+        "period": [
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. YIP Pui Sze",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT6"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Nutritional Science Lab I 營養科學實驗（一）",
+        "class_code": "FNSC3002A",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LI Yuk Man",
+        "quota": "27",
+        "mode": "LAB",
+        "room": [
+            "SC_190"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Nutritional Science Lab I 營養科學實驗（一）",
+        "class_code": "FNSC3002B",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LI Yuk Man",
+        "quota": "27",
+        "mode": "LAB",
+        "room": [
+            "SC_190"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Nutritional Science Lab I 營養科學實驗（一）",
+        "class_code": "FNSC3002C",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LI Yuk Man",
+        "quota": "27",
+        "mode": "LAB",
+        "room": [
+            "SC_190"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Nutrition and Human Dev 營養及人體發育",
+        "class_code": "FNSC3010-",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Tsz Yan- Ms. SIN Man Ching- Professor CHEN Zhenyu",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Food Microbiology 食品微生物學",
+        "class_code": "FNSC3180-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Yuk Man",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT6",
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Food Science Laboratory II 食品科學實驗（二）",
+        "class_code": "FNSC4001A",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Tsz Yan",
+        "quota": "15",
+        "mode": "LAB",
+        "room": [
+            "SC_394"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Food Science Laboratory II 食品科學實驗（二）",
+        "class_code": "FNSC4001B",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Tsz Yan",
+        "quota": "15",
+        "mode": "LAB",
+        "room": [
+            "SC_394"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Human Physi for Nut Studies II 人類生理學（營養學專科）（二）",
+        "class_code": "FNSC4102-",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Erika KWEK- Dr. WONG Tsz Yan- Professor WONG Wing Tak Jack",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT6"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Nutrition Plan & Food Policy 營養規劃及食品政策",
+        "class_code": "FNSC4160-",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Tsz Yan- Ms. YIP Pui Sze",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Food Prod Dev & Qual Control 食品開發及品質控制",
+        "class_code": "FNSC4170-",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Cheng",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Nutrition Practicum 體驗實習",
+        "class_code": "FNSC4907-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. YIP Pui Sze",
+        "quota": "15",
+        "mode": "PRA",
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

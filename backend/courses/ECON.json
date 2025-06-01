@@ -1,0 +1,733 @@
+[
+    {
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "class_code": "ECON1010C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Chi Ming Michael",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "class_code": "ECON1010D",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "class_code": "ECON1010E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Mathematical Methods in Eco II 經濟數學方法（二）",
+        "class_code": "ECON1111A",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Mathematical Methods in Eco II 經濟數學方法（二）",
+        "class_code": "ECON1111B",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "140",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Contemporary Economic Thinking 當代經濟思想",
+        "class_code": "ECON1220B",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT6"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "class_code": "ECON1420C",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "class_code": "ECON1420D",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Microeconomics 基本微觀經濟學",
+        "class_code": "ECON2011C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basic Microeconomics 基本微觀經濟學",
+        "class_code": "ECON2011D",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Macroeconomics 基本宏觀經濟學",
+        "class_code": "ECON2021B",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basic Macroeconomics 基本宏觀經濟學",
+        "class_code": "ECON2021C",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Methods of Economic Statistics 經濟統計方法",
+        "class_code": "ECON2121B",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Guided Stud Curr Eco Prob I 現代經濟問題導修（一）",
+        "class_code": "ECON2901A",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor ZHANG Yifan",
+        "quota": "34",
+        "mode": "SEM",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Guided Stud Curr Eco Prob I 現代經濟問題導修（一）",
+        "class_code": "ECON2901B",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "34",
+        "mode": "SEM",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Guided Stud Curr Eco Prob I 現代經濟問題導修（一）",
+        "class_code": "ECON2901C",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHOW Yan Chi Vinci",
+        "quota": "34",
+        "mode": "SEM",
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Guided Stud Curr Eco Prob I 現代經濟問題導修（一）",
+        "class_code": "ECON2901D",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MOK Kai Chung",
+        "quota": "34",
+        "mode": "SEM",
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermed Microeconomic Theory 中級微觀經濟理論",
+        "class_code": "ECON3011B",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MURAYAMA Kota",
+        "quota": "112",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermed Macroeconomic Theory 中級宏觀經濟理論",
+        "class_code": "ECON3021B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MOK Kai Chung",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Econometrics 計量經濟學導論",
+        "class_code": "ECON3121C",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor FAN Qingliang",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Econometrics 計量經濟學導論",
+        "class_code": "ECON3121D",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor FAN Qingliang",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Data Analysis 財務數據分析",
+        "class_code": "ECON3140B",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Game Theory 博弈論",
+        "class_code": "ECON3160-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Wei",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Eco: Heritage & Change 中國經濟：傳承與變革",
+        "class_code": "ECON3250-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Patrick",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Asia-Pacific Economies 亞太區經濟",
+        "class_code": "ECON3320-",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "China & the World Economy 中國及世界經濟",
+        "class_code": "ECON3350-",
+        "period": [
+            "We 04:30PM - 07:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Sau Leung",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Money and Banking 貨幣與銀行學",
+        "class_code": "ECON3410B",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Sau Leung",
+        "quota": "90",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Public Finance 財政學",
+        "class_code": "ECON3430B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Emerging Fin Markets of China 中國新興金融市場",
+        "class_code": "ECON3580-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHONG Tai Leung",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Business Economics 商業經濟學",
+        "class_code": "ECON3590B",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "110",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "International Trade 國際貿易",
+        "class_code": "ECON3610-",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SHENG Liugang",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "International Macroeconomics 國際宏觀經濟學",
+        "class_code": "ECON3620-",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Law and Economics 法律經濟學",
+        "class_code": "ECON3630-",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Ka Ho",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Macroeconomics 高級宏觀經濟學",
+        "class_code": "ECON4020-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YIP Chong Kee",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Applied Forecasting Methods 應用預測方法",
+        "class_code": "ECON4120-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Zhen",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Economics of Derivatives 衍生工具經濟學",
+        "class_code": "ECON4450-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor DU Julan",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Economics in Practice 經濟學之實踐",
+        "class_code": "ECON4903-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHOW Yan Chi Vinci- Dr. YUNG Chor Wing Linda",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

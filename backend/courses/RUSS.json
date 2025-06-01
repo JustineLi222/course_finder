@@ -1,0 +1,41 @@
+[
+    {
+        "course_title": "Russian I 俄語（一）",
+        "class_code": "RUSS1000-",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Irina USTYUGOVA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_508"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Russian II 俄語（二）",
+        "class_code": "RUSS2000-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Irina USTYUGOVA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

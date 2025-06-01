@@ -1,0 +1,42 @@
+[
+    {
+        "course_title": "S-L:Action towards Personhood 服務學習課程—踐行立人",
+        "class_code": "GESH2012-",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr SHIK Wai Yan Angela- Miss FUNG Wing Yan",
+        "quota": "80",
+        "mode": "PRJ",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Work and Productive Life 圓工立人－善衡書院通識總結課程",
+        "class_code": "GESH4010-",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Ting Fung Philos- Professor LAU Kwok Chi",
+        "quota": "70",
+        "mode": "WKS",
+        "room": [
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

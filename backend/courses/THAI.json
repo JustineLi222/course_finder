@@ -1,0 +1,40 @@
+[
+    {
+        "course_title": "Thai I 泰語（一）",
+        "class_code": "THAI1000-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Titima RUNGUPHAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Thai II 泰語（二）",
+        "class_code": "THAI2000-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Titima RUNGUPHAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

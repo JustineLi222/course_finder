@@ -1,0 +1,326 @@
+[
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000K",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Marie-helene Christiane F. MOULLOT",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000L",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000M",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000N",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mrs. Hyon Sou KUNEGEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000O",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000P",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000Q",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000R",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mrs. Hyon Sou KUNEGEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000S",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "French I 法語（一）",
+        "class_code": "FREN1000T",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mrs Anahi G. FRAUENFELDER NGUYEN TANG",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "French II 法語（二）",
+        "class_code": "FREN2000B",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "French II 法語（二）",
+        "class_code": "FREN2000C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "French II 法語（二）",
+        "class_code": "FREN2000D",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mrs. Hyon Sou KUNEGEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "French II 法語（二）",
+        "class_code": "FREN2000E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr Jean-Luc REY",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_501"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "French IV 法語（四）",
+        "class_code": "FREN3000-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "French VI 法語（六）",
+        "class_code": "FREN3002-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "French Through Literature 從文學學法語",
+        "class_code": "FREN3110-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

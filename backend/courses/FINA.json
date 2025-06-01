@@ -1,0 +1,873 @@
+[
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010D",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WU Botao",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WU Botao",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010F",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WU Botao",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010G",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Jangwoo",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010H",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Jangwoo",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010I",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Jangwoo",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010J",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Gang",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010K",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010L",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Gang",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010M",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Financial Management 財務管理",
+        "class_code": "FINA2010N",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Actuarial Sci 精算學導論",
+        "class_code": "FINA2200A",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04",
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Quant Methods for Act Ana II 精算分析之基礎計量方法（二）",
+        "class_code": "FINA2230A",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04",
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Markets 金融市場",
+        "class_code": "FINA3010D",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor JO Chanik",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Markets 金融市場",
+        "class_code": "FINA3010E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor JO Chanik",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Markets 金融市場",
+        "class_code": "FINA3010F",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "International Finance 國際金融",
+        "class_code": "FINA3020C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AU YEUNG Chau Kin",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "International Finance 國際金融",
+        "class_code": "FINA3020D",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AU YEUNG Chau Kin",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Mgt of Financial Institutions 金融機構管理",
+        "class_code": "FINA3030A",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TANG Nai Pan",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Mgt of Financial Institutions 金融機構管理",
+        "class_code": "FINA3030B",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TANG Nai Pan",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "class_code": "FINA3070D",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor FONG Wai Ming",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "class_code": "FINA3070E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Chao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "class_code": "FINA3070F",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Chao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_305"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "class_code": "FINA3070G",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Chao",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "class_code": "FINA3080F",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Sicong",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "class_code": "FINA3080G",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Sicong",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "class_code": "FINA3080H",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Sicong",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "class_code": "FINA3080I",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Risk Management and Insurance 風險管理與保險",
+        "class_code": "FINA3210C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Basic Long-term Actuarial Math 基本長期保險數學",
+        "class_code": "FINA3221A",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHU Xiao Bai",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT3",
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basic Short-term Act Math 基本短期保險數學",
+        "class_code": "FINA3222B",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanc Sta Mod for Insur & Fin 高級統計模型與保險及金融應用",
+        "class_code": "FINA3295A",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIM Hong Beng",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Alternative Invest 另類投資導論",
+        "class_code": "FINA3330A",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. VUN Yu Seng Isaac",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_307",
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "18/1, 25/1",
+            "8/2, 15/2",
+            "22/2"
+        ]
+    },
+    {
+        "course_title": "Foreign Exchange MKT Practices 外匯市場實務",
+        "class_code": "FINA3350B",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAI Siu Chung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1",
+            "8/2, 15/2"
+        ]
+    },
+    {
+        "course_title": "Intro to Bloomberg & Reuters 彭博及路透終端機應用",
+        "class_code": "FINA3370C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "CYT_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2"
+        ]
+    },
+    {
+        "course_title": "Intro to Bloomberg & Reuters 彭博及路透終端機應用",
+        "class_code": "FINA3370D",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "CYT_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2"
+        ]
+    },
+    {
+        "course_title": "Current Issues in Finance 當前金融專題",
+        "class_code": "FINA3399B",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Kin Nam Simon",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "22/2, 1/3",
+            "15/3, 22/3, 29/3"
+        ]
+    },
+    {
+        "course_title": "Current Issues in Finance 當前金融專題",
+        "class_code": "FINA3399C",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FOK Ho Wah",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "22/2, 1/3",
+            "15/3, 22/3",
+            "5/4"
+        ]
+    },
+    {
+        "course_title": "Current Issues in Finance 當前金融專題",
+        "class_code": "FINA3399D",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LEE Kam Wing Bruno",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2"
+        ]
+    },
+    {
+        "course_title": "Options and Futures 期權與期貨",
+        "class_code": "FINA4110C",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Fixed Income Securities Ana 固定收入證券分析",
+        "class_code": "FINA4120B",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XIAO Yizhou",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Fixed Income Securities Ana 固定收入證券分析",
+        "class_code": "FINA4120C",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XIAO Yizhou",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Long-term Act Math 高級長期保險數學",
+        "class_code": "FINA4211A",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 01:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Siu Hang",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_303",
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Algor Trad Strate, Arbit & HFT 算法交易策略、套利與高頻交易",
+        "class_code": "FINA4380A",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAW Ka Fai",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1",
+            "8/2, 15/2, 22/2, 1/3",
+            "15/3, 22/3, 29/3, 5/4, 12/4"
+        ]
+    },
+    {
+        "course_title": "Behavioral Finance 行為金融學",
+        "class_code": "FINA4400A",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CEN Ling",
+        "quota": "51",
+        "mode": "LEC",
+        "room": [
+            "CYT_409"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

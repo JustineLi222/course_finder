@@ -1,0 +1,353 @@
+[
+    {
+        "course_title": "History for Today 通古今之變",
+        "class_code": "HIST1000B",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Trad & Transform in West Hist 西方歷史之傳統與變革",
+        "class_code": "HIST1002-",
+        "period": [
+            "Fr 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "History for Tomorrow: T & H History for Tomorrow: T & H",
+        "class_code": "HIST1701-",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Stuart Michael MCMANUS",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Historiography (Advanced) 史學（進階）",
+        "class_code": "HIST2002-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSE Wai Kit Wicky",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Int to World His: Modern Era 現代世界通史",
+        "class_code": "HIST2007-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Oral Hist: Methods & Practices 口述歷史的方法與實踐",
+        "class_code": "HIST2010-",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEN Wenyan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "History of Ancient China 中國上古史",
+        "class_code": "HIST2141-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "History of Hong Kong 香港史",
+        "class_code": "HIST2500-",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "HK History in the Field 田野中的香港史",
+        "class_code": "HIST2501-",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Regional Cultures in Han China 漢代之區域文化",
+        "class_code": "HIST3106-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAI Ming Chiu",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Society in Late Imperial China 中國明清社會史",
+        "class_code": "HIST3118-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Xi",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Philippines & Trans Pacific Philippines & Trans Pacific",
+        "class_code": "HIST3375-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Ian Brandon MORLEY",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "War and Society (1000-1900) 戰爭與社會(1000-1900)",
+        "class_code": "HIST3402-",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Hist Literature & Documents 史學名著與典籍",
+        "class_code": "HIST3404-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor James Deas David Jack MORTON",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "TS in Modern Chinese History 中國近代史專題研究",
+        "class_code": "HIST4180-",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Chang'an, Luoyang & Kaifeng 帝都長安、洛陽、開封史(公元前202-公元1130年)",
+        "class_code": "HIST4260-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 09:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Women, Soc & Pol in Mod China 近代中國的女性、政治與社會",
+        "class_code": "HIST4704-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor POON Shuk Wah",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Soc Hist of Civil Exam in Chi 中國科舉制度的社會史研究",
+        "class_code": "HIST4920-",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

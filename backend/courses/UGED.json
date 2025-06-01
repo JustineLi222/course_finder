@@ -1,0 +1,944 @@
+[
+    {
+        "course_title": "Appreciation of Screen Music 電影音樂欣賞：Marvel工作",
+        "class_code": "UGED1082-",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111A",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr LEE King Hang Roger",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111B",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr ZHANG Haipeng",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111C",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHAN Hei Man",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111D",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr CHIN Chin Shing Arthur",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111F",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111G",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Kin Lok",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Logic 邏輯",
+        "class_code": "UGED1111H",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHAN Hei Man",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Logic and Argumentation 邏輯與論辯",
+        "class_code": "UGED1112-",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Chi Lang, Cul & Lang Learning 中國語言及文化與語言學習",
+        "class_code": "UGED1146-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Siu Lun",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "The Successful Self 成功自我",
+        "class_code": "UGED1252-",
+        "period": [
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Study of Christianity 基督宗教研究",
+        "class_code": "UGED1520-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAI Pan Chiu",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "class_code": "UGED1553E",
+        "period": [
+            "Tu 10:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss LEE Wan Ying Anita",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "class_code": "UGED1553F",
+        "period": [
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss LEE Wan Ying Anita",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "class_code": "UGED1553G",
+        "period": [
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss LEE Wan Ying Anita",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "class_code": "UGED1553H",
+        "period": [
+            "Mo 02:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Choices in Life:Self Develop’t 生命的選擇：個人成長之旅",
+        "class_code": "UGED1600B",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHYU Pui Yung",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Living with grief 與哀傷共存：認識死亡、垂死與喪",
+        "class_code": "UGED1602-",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LEE Wang",
+        "quota": "36",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "class_code": "UGED1651D",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. CHAN Kar Choi",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "class_code": "UGED1651E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss YUE Sau Chun Judia",
+        "quota": "43",
+        "mode": "LEC",
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "class_code": "UGED1651F",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHYU Pui Yung",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Issues of Political Philosophy 政治哲學問題",
+        "class_code": "UGED1660-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 01:15PM",
+            "We 04:30PM - 06:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHOW Po Chung",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCC_C1",
+            "UCC_108",
+            "UCC_103",
+            "UCC_205",
+            "UCC_105"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Critical Thinking 批判思考",
+        "class_code": "UGED1810-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy as a Way of Life 哲學與生活之道",
+        "class_code": "UGED1815-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Taiwan Lit Appreciation 臺灣文學欣賞",
+        "class_code": "UGED2063-",
+        "period": [
+            "We 01:30PM - 03:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TENG Shao Hung",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Apprec of W Classical Music 西洋古典音樂欣賞",
+        "class_code": "UGED2080-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. POON Kiu Tung- Miss IP Wing Wun",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Existentialism and Literature 存在主義與文學作品",
+        "class_code": "UGED2172-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Eli Park SORENSEN",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "SWH_2",
+            "LHC_G01",
+            "UCA_102",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Superheroes in Comics and Film 超級英雄漫畫及電影",
+        "class_code": "UGED2187-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Wan Tung Carolyn",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NRR",
+            "LSK_203"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy and Human Life 哲學與人生",
+        "class_code": "UGED2261-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TAO Kwok Cheung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Human Happiness 幸福論",
+        "class_code": "UGED2321-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Understanding Movies 認識電影",
+        "class_code": "UGED2637B",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr CHOW Pui Ha",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Preserving Cultural Heritage 文化遺產保護",
+        "class_code": "UGED2668-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yee",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Death and Culture 死亡、死亡儀式與文化",
+        "class_code": "UGED2669-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Andrew Byron KIPNIS",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAH_114",
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Bioethical Perspectives on HLD 生死與健康：生命倫理綜觀",
+        "class_code": "UGED2761-",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAU Sin Nga- Professor CHUNG Roger Yat Nork",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Freedom and Destiny 自由與命運",
+        "class_code": "UGED2852-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TAO Kwok Cheung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy of Love 愛情哲學",
+        "class_code": "UGED2891-",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Death and Immortality 死亡與不朽",
+        "class_code": "UGED2901-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy, Film and Life 哲學、電影與人生",
+        "class_code": "UGED2921-",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Literature and Film 文學與電影",
+        "class_code": "UGED3143-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 09:30AM - 10:15AM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Wan Tung Carolyn",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Women's Narratives & HK Hist 女性敘述與香港歷史",
+        "class_code": "UGED3206-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Yuk Ying",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Love and Intimate Relationship 愛情與親密關係",
+        "class_code": "UGED3208-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Yuk Ying",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "course_title": "College Assembly 書院聚會",
+        "class_code": "GESC1000-",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1400",
+        "mode": "ASB",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Assembly 書院聚會",
+        "class_code": "GESC1000A",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "2000",
+        "mode": "ASB",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Science and Our Lives 科學與人生",
+        "class_code": "GESC1210-",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss YAM Kwan Mei",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230AB",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AU Yi Man- Mr. CHAN Ying Kwok Kelvin- Ms. TAM Man Ching",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230BB",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Hung",
+        "quota": "25",
+        "mode": "PRJ",
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230DA",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Sai Hau- Miss CHOI Yat Sum Anna- Ms. LI Ching Man",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230GB",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TO Wai Chun Clara",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230HA",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN Ka Ming",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230JA",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHUI Man Chi- Professor CHENG Sea Ling",
+        "quota": "20",
+        "mode": "PRJ",
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "class_code": "GESC1230KA",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHAU Wing Sze",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Film Gen:Love, Death & Laughs 電影類型：愛情、死亡及笑話",
+        "class_code": "GESC2010-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr TSUI Hong Chee Clarence",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Debating Globalization 全球化正、反、合",
+        "class_code": "GESC2060-",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE King Wa",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Questions of a Modern Person 現代人的問題",
+        "class_code": "GESC2111-",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Siu Lun",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Challenges of University Life 大學生活的挑戰",
+        "class_code": "GESC2117-",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Yiu Kin Freedom",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Fm Pag to Sta:Exp'g Art of D&T 由文本到舞台- 戲劇與劇場的探索",
+        "class_code": "GESC2240-",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr TSOI Hardy Sik Cheong",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "SWC_LT"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "ServiceLearn: Care for Society 服務學習",
+        "class_code": "GESC2330-",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr WONG Kon Chi",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Appreciating Cantonese Opera 粵劇導賞",
+        "class_code": "GESC2400-",
+        "period": [
+            "Fr 04:30PM - 07:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TAI Suk Yan",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Emotion Reg & Mental Health 情緒調適與精神健康",
+        "class_code": "GESC2420-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHAN Yawen",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Learning Mgt Tru Humanities 從人文學科學習管理學",
+        "class_code": "GESC2450-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Hok Ming Frederick",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "WMY_305"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

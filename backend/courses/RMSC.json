@@ -1,0 +1,179 @@
+[
+    {
+        "course_title": "Intro to Risk Management 風險管理導論",
+        "class_code": "RMSC2001B",
+        "period": [
+            "We 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SIT Tony",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro Topics in Risk Mgt 風險管理入門導讀",
+        "class_code": "RMSC2101-",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHAN Chun Man",
+        "quota": "70",
+        "mode": "SEM",
+        "room": [
+            "LSB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Principles of Credit Risk Mgt 信用風險管理原理",
+        "class_code": "RMSC3001-",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 05:30PM - 06:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. John Alexander WRIGHT",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "MMW_707",
+            "LSB_LT5"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics in Risk Mgt 風險管理專題導讀",
+        "class_code": "RMSC3101-",
+        "period": [
+            "We 12:30PM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG King Chau",
+        "quota": "80",
+        "mode": "SEM",
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Simulation Methods: Rms & Fin 財務與風險管理之模擬方法",
+        "class_code": "RMSC4001-",
+        "period": [
+            "Mo 08:30AM - 11:15AM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Hoi Ying",
+        "quota": "110",
+        "mode": "LEC",
+        "room": [
+            "SC_L2",
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Stochastic Cal for Fin & Risk 財務與風險之隨機微積分",
+        "class_code": "RMSC4005-",
+        "period": [
+            "Th 03:30PM - 06:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YAU Chun Yip",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "MMW_707",
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Research Project 專題研究",
+        "class_code": "RMSC4102-",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YAU Chun Yip",
+        "quota": "60",
+        "mode": "PRJ",
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Research Project in Risk Analy 風險分析專題研究",
+        "class_code": "RMSC4112-",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YAU Chun Yip",
+        "quota": "10",
+        "mode": "PRJ",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "course_title": "German I 德語（一）",
+        "class_code": "GERM1000G",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "German I 德語（一）",
+        "class_code": "GERM1000H",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "German I 德語（一）",
+        "class_code": "GERM1000I",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "German I 德語（一）",
+        "class_code": "GERM1000J",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "German I 德語（一）",
+        "class_code": "GERM1000K",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "German II 德語（二）",
+        "class_code": "GERM2000B",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "German II 德語（二）",
+        "class_code": "GERM2000C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "German II 德語（二）",
+        "class_code": "GERM2000D",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "German II 德語（二）",
+        "class_code": "GERM2000E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "German Cinema 德國電影",
+        "class_code": "GERM2200-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "German IV 德語（四）",
+        "class_code": "GERM3000A",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "German VI 德語（六）",
+        "class_code": "GERM3002A",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

@@ -1,0 +1,856 @@
+[
+    {
+        "course_title": "Foundations in Financial Acctg 基礎財務會計",
+        "class_code": "ACCT1111D",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Foundations in Financial Acctg 基礎財務會計",
+        "class_code": "ACCT1111E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "HTB_B6",
+            "WMY_305",
+            "ELB_LT1",
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2",
+            "27/2",
+            "13/3",
+            "20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "class_code": "ACCT2111I",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Jiapeng",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "class_code": "ACCT2111J",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Jiapeng",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "class_code": "ACCT2111K",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Jiapeng",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121D",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Yue",
+        "quota": "74",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121E",
+        "period": [
+            "Mo 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Yue",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121F",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Yue",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121G",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YANG Yucheng",
+        "quota": "76",
+        "mode": "LEC",
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121H",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121I",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "class_code": "ACCT2121J",
+        "period": [
+            "Mo 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Legal Environment for Business 商業法律環境",
+        "class_code": "ACCT2151D",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Legal Environment for Business 商業法律環境",
+        "class_code": "ACCT2151E",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003A",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHEN Jun",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003B",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor HE Jiapeng",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003C",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor SHAO Xinyuan",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003D",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor XU Ruoxi",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "CYT_215"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003E",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor ZHOU Yuqing",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Seminar Series 專業研討講座系列",
+        "class_code": "ACCT3003F",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor ZHU Chunmei",
+        "quota": "35",
+        "mode": "SEM",
+        "room": [
+            "CYT_214"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Reporting I 財務報告（一）",
+        "class_code": "ACCT3111B",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Yichang",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Financial Reporting I 財務報告（一）",
+        "class_code": "ACCT3111C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Yichang",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Financial Reporting I 財務報告（一）",
+        "class_code": "ACCT3111D",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Yichang",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "CYT_202",
+            "ELB_203",
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4",
+            "9/4",
+            "16/4"
+        ]
+    },
+    {
+        "course_title": "Financial Reporting II 財務報告（二）",
+        "class_code": "ACCT3112D",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Cost and Management Accounting 成本及管理會計",
+        "class_code": "ACCT3121C",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MENG Kuo",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Cost and Management Accounting 成本及管理會計",
+        "class_code": "ACCT3121D",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MENG Kuo",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Accounting Information Systems 會計資訊系統",
+        "class_code": "ACCT3142C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Accounting Information Systems 會計資訊系統",
+        "class_code": "ACCT3142D",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Business Law 商業法",
+        "class_code": "ACCT3151C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAW Man Wai Anthony",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Company Law 公司法",
+        "class_code": "ACCT3152B",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Company Law 公司法",
+        "class_code": "ACCT3152C",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Taxation 稅務學",
+        "class_code": "ACCT3161C",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SHAO Xinyuan",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "WMY_305"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Taxation 稅務學",
+        "class_code": "ACCT3161D",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SHAO Xinyuan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Cap Proj: Bus Ethics & Entrep 頂點項目：商業道德與企業研究",
+        "class_code": "ACCT4001E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor YANG Yucheng",
+        "quota": "70",
+        "mode": "PRJ",
+        "room": [
+            "WLS_LG204",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3",
+            "24/3",
+            "31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Cap Proj: Bus Ethics & Entrep 頂點項目：商業道德與企業研究",
+        "class_code": "ACCT4001F",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor YANG Yucheng",
+        "quota": "70",
+        "mode": "PRJ",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Financial Accounting 高級財務會計",
+        "class_code": "ACCT4111C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Financial Accounting 高級財務會計",
+        "class_code": "ACCT4111D",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Auditing 審計學",
+        "class_code": "ACCT4131D",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Fin Stat Analysis & Valuation 財務報表分析與估價",
+        "class_code": "ACCT4213B",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSENG Chun Kai",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Acctg Data Analytics for Bus 商業會計數據分析",
+        "class_code": "ACCT4242A",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHANG Qi",
+        "quota": "52",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Legal Env for Business 中國的商業法律環境",
+        "class_code": "ACCT4253A",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAW Man Wai Anthony",
+        "quota": "52",
+        "mode": "LEC",
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Taxes and Business Strategy 稅務與商業策略",
+        "class_code": "ACCT4261A",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. BUTT Yiu Yu",
+        "quota": "51",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "International Taxation 國際税法",
+        "class_code": "ACCT4263A",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. BUTT Yiu Yu",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Rep Iss in Fin'l Serv Industry 金融服務業的報告問題",
+        "class_code": "ACCT4282A",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

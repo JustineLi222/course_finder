@@ -1,0 +1,1010 @@
+[
+    {
+        "course_title": "Understanding Japan 透視日本",
+        "class_code": "JASP1090C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TU Shiu Hong Simon",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Jap Culture & Society 日本文化與社會",
+        "class_code": "JASP1100C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr IP Kin Ho",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
+        "class_code": "JASP1120B",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HO Chi Ming",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
+        "class_code": "JASP1120C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HO Chi Ming",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "WMY_408"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "class_code": "JASP1160D",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Wai Ming",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "class_code": "JASP1160E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Wai Ming",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Modern Sino-Japanese Relations 現代中日關係論",
+        "class_code": "JASP1180B",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LIN Chaochun",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Tourism & Sus Dev 旅遊與可持續發展",
+        "class_code": "JASP1190-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TU Shiu Hong Simon",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460A",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms KONG Sung Tak",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_204",
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460B",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. KITAMURA Aya",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_204",
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460C",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms HAYASHI Atsuko",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460D",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss KITAGAMI Akiko",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_506",
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr KUZUMOTO Takahiro",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "ERB_402",
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460F",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr SHEN Lok Hin Kevin",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_501",
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460G",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss CHOW Oi Wah",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_407",
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460H",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. SAKAGUCHI Kaori",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_504",
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460I",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr CHAU Wang Yeung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460J",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr KOIDE Masao",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "WMY_407",
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese II 新實用日語（二）",
+        "class_code": "JASP1460K",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GUO Yingxia",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "WMY_401",
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "New Comprehensive Japanese II 新綜合日語（二）",
+        "class_code": "JASP1480-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 10:30AM - 12:15PM",
+            "Th 09:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AOYAMA Reijiro",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "YIA_509",
+            "CKB_UG05",
+            "LSK_212",
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Japan: Hist., Cul. & Modernity 現代日本：從歴史和近代角度",
+        "class_code": "JASP2010-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Isaac Thomas GAGNE",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_301",
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Field Research Methods 實地考察研究方法",
+        "class_code": "JASP2050-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TU Shiu Hong Simon",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_212",
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Jas & Asian Creat'e Ind 日本及亞洲文化創意工業",
+        "class_code": "JASP2100-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LAU Ching",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Jas ACG 日本動畫、漫畫及遊戲入門",
+        "class_code": "JASP2200B",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Kyle Austin PETERS",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese IV 新實用日語（四）",
+        "class_code": "JASP2460A",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms HAYASHI Atsuko",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese IV 新實用日語（四）",
+        "class_code": "JASP2460B",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr CHAU Wang Yeung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese IV 新實用日語（四）",
+        "class_code": "JASP2460C",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms KONG Sung Tak",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "LSK_204",
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese IV 新實用日語（四）",
+        "class_code": "JASP2460D",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHOI Wing Sum",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_508",
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "New Practical Japanese IV 新實用日語（四）",
+        "class_code": "JASP2460E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms KOIKE Shinobu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "UCC_114",
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "New Comprehensive Japanese IV 新綜合日本語（四）",
+        "class_code": "JASP2480-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 04:30PM - 06:15PM",
+            "Fr 09:30AM - 11:15AM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "6.00",
+        "staff": "- Dr. UEDA Sanae",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_408",
+            "ERB_408",
+            "YIA_511",
+            "ERB_713",
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "The Hist. of 20th C. Japan 二十世紀日本歷史",
+        "class_code": "JASP2910-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LIN Chaochun",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Jap. Ethnic and Cul. Identity 日本文化及民族性格的形成",
+        "class_code": "JASP3110-",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Wood Hung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Selected Topics in Jap Grammar 日語語法專題",
+        "class_code": "JASP3200-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GUO Yingxia",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Japanese Reading 日語閱讀",
+        "class_code": "JASP3310-",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr KOIDE Masao",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Spoken Japanese 日語口語",
+        "class_code": "JASP3320B",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss KITAGAMI Akiko",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Japanese-Chinese Translation 日中翻譯",
+        "class_code": "JASP3350C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. FONG Wan",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chinese-Japanese Translation 中日翻譯",
+        "class_code": "JASP3360-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr KUZUMOTO Takahiro",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Japanese Through Media 傳媒日語",
+        "class_code": "JASP3390-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GUO Yingxia",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Japan and Hong Kong 日本與香港",
+        "class_code": "JASP3430B",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LAU Ching",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Jas Youth Cultures in Asia 日本青少年文化在亞洲",
+        "class_code": "JASP3470-",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr IP Kin Ho",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Inter Jap. thr List. & Reading 從「聽」和「讀」學習中級日語",
+        "class_code": "JASP3600-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHOI Wing Sum",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_408",
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Pop. Rel. in China, Jap & Kor 中日韓的宗教面面觀",
+        "class_code": "JASP3900-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KIM Minku",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Japanese Dialectology 日語方言學",
+        "class_code": "JASP4100-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. UEDA Sanae",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Business Japanese 高級商業日語",
+        "class_code": "JASP4180-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AOYAMA Reijiro",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Jap-Chi Translation 高級日中翻譯",
+        "class_code": "JASP4350-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHOI Wing Sum",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Eng-Jap Translation 高級英日翻譯",
+        "class_code": "JASP4380-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AOYAMA Reijiro",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

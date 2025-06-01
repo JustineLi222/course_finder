@@ -1,0 +1,194 @@
+[
+    {
+        "course_title": "Intro to Spatial Planning 空間規劃導論",
+        "class_code": "URSP1003-",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHUNG King Lam Calvin",
+        "quota": "59",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Belt and Road Collab Modern 一帶一路與合作現代化",
+        "class_code": "URSP2010-",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Urb Plan & Design Prac China 中國城市規劃與設計實踐",
+        "class_code": "URSP2070-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. YANG Tse Chyi",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Urban Economic Studies 城巿經濟學",
+        "class_code": "URSP2200-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Ying",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG02",
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Urban Design and Place Making 城巿設計及地方營造工作室",
+        "class_code": "URSP2300-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Hendrik TIEBEN",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Recommoning 共有資產的再思",
+        "class_code": "URSP2900-",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Housing Issues and Policy 房屋問題及政策",
+        "class_code": "URSP3100-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Urban Design Studio 城巿設計工作室",
+        "class_code": "URSP3200-",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Professor MO Kar Him",
+        "quota": "12",
+        "mode": "STD",
+        "room": [
+            "CKB_510"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Sustainability Valuation 可持續發展估值",
+        "class_code": "URSP3800-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

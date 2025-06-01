@@ -1,0 +1,590 @@
+[
+    {
+        "course_title": "Humans and Culture 人類與文化",
+        "class_code": "ANTH1010-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NAH_12",
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Anth: The Study of Global Huma 人類學：環球人類研究",
+        "class_code": "ANTH1020-",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHENG Sea Ling",
+        "quota": "90",
+        "mode": "LEC",
+        "room": [
+            "LHC_103"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Marriage, Family and Kinship 婚姻、家庭與親屬",
+        "class_code": "ANTH1310-",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Aaron Jeffrey HAMES",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Culture of Hong Kong 香港的文化",
+        "class_code": "ANTH1410-",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Gordon Clark MATHEWS",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "UCC_C1",
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Indian Cultures and Society 印度文化與社會",
+        "class_code": "ANTH2324-",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Leilah Sohrab VEVAINA",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAH_114",
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Gender in Asia 性別在亞洲",
+        "class_code": "ANTH2330-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Manynooch FAMING",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Magic, Myth & the Supernatural 魔法、神話與超自然",
+        "class_code": "ANTH2340-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Leilah Sohrab VEVAINA",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "SWH_2",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Death and Culture 死亡、死亡儀式與文化",
+        "class_code": "ANTH2351-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Andrew Byron KIPNIS",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAH_114",
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intangible Heritage in HK 香港的非物質文化遺產",
+        "class_code": "ANTH2370-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Tu 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Env Crises and Cul of Sur 環境危機、生存與文化",
+        "class_code": "ANTH2380-",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TAM Man Kei",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3",
+            "UCC_108"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Sports and Culture 體育與文化",
+        "class_code": "ANTH2390-",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Marco MONTAGNER",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Topics in Ethnography III 民族誌專題（三）",
+        "class_code": "ANTH2403-",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Niko BESNIER",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Peoples & Cultures of SE Asia 東南亞的民族和文化",
+        "class_code": "ANTH2450-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yee",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Culture and Business 文化與商業",
+        "class_code": "ANTH2510-",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Avron Albert BORETZ",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Globalization and Culture 全球化與文化",
+        "class_code": "ANTH2520-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 05:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Gordon Clark MATHEWS",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "NAH_115",
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Working Cultures 工作文化 - 認識廿十一世紀的",
+        "class_code": "ANTH2550-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Tim ROSENKRANZ",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCA_312",
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Archaeology of Hong Kong 香港考古學",
+        "class_code": "ANTH2720-",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yee",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Preserving Cultural Heritage 文化遺產保護",
+        "class_code": "ANTH2730-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yee",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Human Evolution 人類的演化",
+        "class_code": "ANTH2810-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Christina",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Topics in Anthropology III 人類學專題（三）",
+        "class_code": "ANTH3323-",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Christina",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3",
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Food and Culture 飲食與文化",
+        "class_code": "ANTH3350-",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "UCC_C4",
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Economy, Culture and Power 經濟、文化和權力",
+        "class_code": "ANTH3380-",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "Mo 05:30PM - 06:15PM",
+            "Tu 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Tim ROSENKRANZ",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "UCC_C4",
+            "UCC_208",
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Visual Anthropology 映像人類學",
+        "class_code": "ANTH4220-",
+        "period": [
+            "Mo 06:30PM - 08:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Alberto GEROSA",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Medicine, Health and Culture 醫藥、健康與文化",
+        "class_code": "ANTH4330-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Venera KHALIKOVA",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

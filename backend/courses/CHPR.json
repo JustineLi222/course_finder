@@ -1,0 +1,154 @@
+[
+    {
+        "course_title": "Health Edu & Health Behaviours 健康教育與健康行為",
+        "class_code": "CHPR3002-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MO Phoenix Kit Han",
+        "quota": "43",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Foundations of Health Promo 健康促進基礎",
+        "class_code": "CHPR3008-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor YEUNG Chun Yiu",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Settings-App for Health Promo 場所主導的健康促進",
+        "class_code": "CHPR4001-",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Health Communication 健康傳訊",
+        "class_code": "CHPR4002-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor DONG Dong",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Management of NGOs 非政府機構的管理",
+        "class_code": "CHPR4004-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. MUI Wai Ho",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "WLS_LG204"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Social Marketing Methods 社會營銷學",
+        "class_code": "CHPR4005-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MUI Wai Ho",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Food Security 糧食保障：全球及本地視野",
+        "class_code": "CHPR4011-",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Mental Health as a PH Issue 公共衞生與心理健康",
+        "class_code": "CHPR4012-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YEUNG Chun Yiu",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "course_title": "College Assembly/ Forum 書院聚會／書院論壇",
+        "class_code": "GEYS1000-",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1300",
+        "mode": "ASB",
+        "room": [
+            "LSK_LT5"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Creative Social Responsibility 創新社會責任及持續發展",
+        "class_code": "GEYS1010-",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Po Kin- Dr. WONG Wing Yu Esther- Professor LEE Albert- Professor WONG Ka Fai",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Senior Seminar 專題討論",
+        "class_code": "GEYS4010A",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr HEUNG Louis Sai Kit",
+        "quota": "65",
+        "mode": "SEM",
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Senior Seminar 專題討論",
+        "class_code": "GEYS4010B",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Albert",
+        "quota": "65",
+        "mode": "SEM",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Senior Seminar 專題討論",
+        "class_code": "GEYS4010C",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "45",
+        "mode": "SEM",
+        "room": [
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Senior Seminar 專題討論",
+        "class_code": "GEYS4010D",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Tse Fong Terry",
+        "quota": "20",
+        "mode": "SEM",
+        "room": [
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Senior Seminar 專題討論",
+        "class_code": "GEYS4010E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YIP Ngai Ming",
+        "quota": "20",
+        "mode": "SEM",
+        "room": [
+            "SC_139"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

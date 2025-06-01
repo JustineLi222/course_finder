@@ -1,0 +1,1155 @@
+[
+    {
+        "course_title": "College Biweekly Assembly 書院雙週會",
+        "class_code": "GENA1000-",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1438",
+        "mode": "ASB",
+        "room": [
+            "RRS"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Biweekly Assembly 書院雙週會",
+        "class_code": "GENA1000A",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "2000",
+        "mode": "ASB",
+        "room": [
+            "RRS"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AA",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Francesco VECCHIO",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AB",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor ZHENG Zemian",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AC",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor WAN Chui Ki",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AD",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Frank Joseph Emmanuel VIGNERON",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AE",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Ching Man",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AF",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AG",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TSE Wai Kit Wicky",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AH",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. LAU Ching",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AI",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor KO Chiu Yu",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AJ",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEI Ka Yan Margaret",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AK",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor James George ST ANDRE",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AL",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEE Siu Lun",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AM",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. CHANG Kwun Hung",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AN",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AO",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Hang Yee",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AP",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. TAI Bik Wai",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AQ",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor XU Hong",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AR",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LI Hongsheng",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AS",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YIP Kit Sang Danny",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AT",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor WAI Hoi To",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AU",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Wai Kai",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AV",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor HUI Xiaoyan Hannah",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AW",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WAI Sen Mun",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AX",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TAM Man Kei",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AY",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. TSOI Yan Wang",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113AZ",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LAM Kam Ki",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BA",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. CHEUNG Ka Lai",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BB",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor YAN Xiaoyu",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BC",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEUNG Yin Ting",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BD",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor YANG Xue",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BE",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Chui Man",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BF",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Michael MCBREEN",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BG",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. TONG Shiu Sing Dominic",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BH",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HO Kwok Wah",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BI",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor GUO Dianjing",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BJ",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor WONG Wing Tak Jack",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BK",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. CHUNG Lok Wai",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BL",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Hendrik TIEBEN",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BM",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BN",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. CHAN Sik Chee",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BO",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor HUANG Liqiang",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BP",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. GAO Xin- Dr. YIP Lo Ming",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BQ",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. TSUI Po Yung",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BR",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Std-oriented Teaching & Sem 學生為本教學與研討",
+        "class_code": "GENA1113BS",
+        "period": [
+            "Fr 11:30AM - 01:15PM",
+            "We 02:30PM - 05:15PM",
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor DAI Xianchi",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "WMY_402",
+            "UCC_111",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Characteristics of W Culture 西方文化的特質",
+        "class_code": "GENA2112-",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEUNG Hok Ming Frederick",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Appreciation of Literature 文學欣賞",
+        "class_code": "GENA2142-",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Women, Men and Culture 女人、男人與文化",
+        "class_code": "GENA2192-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Venera KHALIKOVA",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Appreciation of Western Art 西方藝術欣賞",
+        "class_code": "GENA2272-",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Wai Yee",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Am ThemesThrCreative Express'n 美國文化傳意",
+        "class_code": "GENA2292-",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss Alison Martin BROWN- Miss CHEN Cheryl",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "General History of China 中國通史",
+        "class_code": "GENA2322A",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEUNG Hok Ming Frederick",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Peoples & Cultures of SE Asia 東南亞的民族和文化",
+        "class_code": "GENA2332-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yee",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Service Learning Project 服務學習計劃",
+        "class_code": "GENA2352B",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr CHOY Bing Kong",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Intangible Heritage in HK 香港的非物質文化遺產",
+        "class_code": "GENA2362-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Tu 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Media and Everyday Life 媒體．生活",
+        "class_code": "GENA3070C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Louis Joseph TRAVIS",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

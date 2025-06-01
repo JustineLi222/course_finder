@@ -1,0 +1,21 @@
+[
+    {
+        "course_title": "Arabic I 阿拉伯語（一）",
+        "class_code": "ARAB1000-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Amgad Refai Mohamed REFAI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

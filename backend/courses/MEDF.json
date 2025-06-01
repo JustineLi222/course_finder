@@ -1,0 +1,68 @@
+[
+    {
+        "course_title": "Health Sciences II",
+        "class_code": "MEDF1012A",
+        "period": [
+            "Fr 09:30AM - 11:15AM",
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YEUNG Hang Mee",
+        "quota": "416",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Health Sciences II",
+        "class_code": "MEDF1012B",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel",
+        "quota": "285",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Communication Skills",
+        "class_code": "MEDF1031-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. KWAN Siu Kuen",
+        "quota": "412",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

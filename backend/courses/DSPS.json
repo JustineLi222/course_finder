@@ -1,0 +1,158 @@
+[
+    {
+        "course_title": "Statistics for DSPS 數據科學及政策研究的統計學",
+        "class_code": "DSPS1004-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "39",
+        "mode": "LEC",
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Stat Analysis for Pol Decision 政策決定之統計分析",
+        "class_code": "DSPS2102-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Chee Hon",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Data Preprocess for Data Analy 資料分析的資料預處理",
+        "class_code": "DSPS2201-",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "31",
+        "mode": "LEC",
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "AI Governance & Public Policy 人工智能治理與公共政策",
+        "class_code": "DSPS2320-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Ho",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Managing Tech & Pol Innovation 科技管理及政策創新",
+        "class_code": "DSPS2501-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Data Science Proj Management 數據科學項目管理",
+        "class_code": "DSPS2520-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Pol Leader and Entrepreneur WS 政策領導及企業家精神工作坊",
+        "class_code": "DSPS3501-",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Ho",
+        "quota": "32",
+        "mode": "WKS",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Social Network Analysis for PP 公共政策的社會網絡分析",
+        "class_code": "DSPS3790-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

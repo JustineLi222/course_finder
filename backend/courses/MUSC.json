@@ -1,0 +1,684 @@
+[
+    {
+        "course_title": "Choral Singing II 合唱訓練二",
+        "class_code": "MUSC1002-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "40",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "African Drumming II 非洲擊鼓樂實習二",
+        "class_code": "MUSC1023-",
+        "period": [
+            "Mo 09:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Javanese Gamelan Ensemble II 印尼爪哇甘美朗理論與實技二",
+        "class_code": "MUSC1027-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Orchestral Training II 管弦樂合奏二",
+        "class_code": "MUSC1032-",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Wind Orchestra II 管樂團二",
+        "class_code": "MUSC1042-",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals of Tonal Music II 基本調性音樂二",
+        "class_code": "MUSC1222-",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Choral Singing IV 合唱訓練四",
+        "class_code": "MUSC2002-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "40",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "African Drumming IV 非洲擊鼓樂實習四",
+        "class_code": "MUSC2023-",
+        "period": [
+            "Mo 09:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Javanese Gamelan Ensemble IV 印尼爪哇甘美朗理論與實技四",
+        "class_code": "MUSC2027-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Orchestral Training IV 管弦樂合奏四",
+        "class_code": "MUSC2032-",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Wind Orchestra IV 管樂團四",
+        "class_code": "MUSC2042-",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Harmonic Practice 和聲運用高階",
+        "class_code": "MUSC2262-",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHAN Kai Young",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Music Information Technology 音樂訊息科技",
+        "class_code": "MUSC2333-",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_104"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Conducting 指揮學",
+        "class_code": "MUSC2543-",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Music, Culture and Society 音樂、文化與社會",
+        "class_code": "MUSC2552-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "History of Western Music II 西洋音樂史二",
+        "class_code": "MUSC2882-",
+        "period": [
+            "Tu 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LIAO Yvonne",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "CYT_214"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Choral Singing VI 合唱訓練六",
+        "class_code": "MUSC3002-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "African Drumming VI 非洲擊鼓樂實習六",
+        "class_code": "MUSC3023-",
+        "period": [
+            "Mo 09:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Orchestral Training VI 管弦樂合奏六",
+        "class_code": "MUSC3032-",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Wind Orchestra VI 管樂團六",
+        "class_code": "MUSC3042-",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Counterpoint (Tonal & Modern) 對位法（調性及現代）",
+        "class_code": "MUSC3323-",
+        "period": [
+            "Tu 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Composition II 作曲二",
+        "class_code": "MUSC3353-",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Scoring for Film & Television 電影及電視配樂",
+        "class_code": "MUSC3373-",
+        "period": [
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Post-tonal Music Analysis 後調性音樂分析",
+        "class_code": "MUSC3442-",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEONG Wai Ling",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Theory&Analysis: Sp Topic IV 理論及分析專題研究四",
+        "class_code": "MUSC3482-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEONG Wai Ling",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_304"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Analysis and Performance 音樂分析與演奏",
+        "class_code": "MUSC3492-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor MAK Susanna Su Yin",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Vocal/Instrumental Pedagogy 聲樂及器樂教學法",
+        "class_code": "MUSC3502-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor MOK On Nei Annie",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Music: Selected Topics 中國音樂選論",
+        "class_code": "MUSC3562-",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "21",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Composition: Special Topic III 作曲專題三",
+        "class_code": "MUSC3732-",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_304"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Approaches to Popular Music 探討流行音樂的方法",
+        "class_code": "MUSC3892-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LI Ka Chi",
+        "quota": "16",
+        "mode": "LEC",
+        "room": [
+            "HYS_304"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Choral Singing VIII 合唱訓練八",
+        "class_code": "MUSC4002-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "African Drumming VIII 非洲擊鼓樂實習八",
+        "class_code": "MUSC4023-",
+        "period": [
+            "Mo 09:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Javanese Gamelan Ensemble VIII 印尼爪哇甘美朗理論與實技八",
+        "class_code": "MUSC4027-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Orchestral Training VIII 管弦樂合奏八",
+        "class_code": "MUSC4032-",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor KOON Mee Yu",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Wind Orchestra VIII 管樂團八",
+        "class_code": "MUSC4042-",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "30",
+        "mode": "PRA",
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Research Methods in Music 音樂的研究方法",
+        "class_code": "MUSC4243-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor MAK Susanna Su Yin",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

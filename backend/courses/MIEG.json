@@ -1,0 +1,26 @@
+[
+    {
+        "course_title": "Discrete Struc and Probability 離散結構及概率論",
+        "class_code": "MIEG2440-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Cheuk Ting",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "MMW_704",
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

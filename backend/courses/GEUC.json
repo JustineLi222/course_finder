@@ -1,0 +1,264 @@
+[
+    {
+        "course_title": "College Assembly 書院聚會",
+        "class_code": "GEUC1000-",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Professor LEE Hung Kay",
+        "quota": "1400",
+        "mode": "ASB",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1, 31/1, 7/2, 14/2, 21/2, 28/2, 7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "College Assembly 書院聚會",
+        "class_code": "GEUC1000A",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Professor LEE Hung Kay",
+        "quota": "1400",
+        "mode": "ASB",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1, 31/1, 7/2, 14/2, 21/2, 28/2, 7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Bacchus:Exploring Grape Wine 巴格斯：萄葡酒之旅",
+        "class_code": "GEUC2017-",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr LUK Yiu Man Raymond",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Leadership in Practice 實踐領導才",
+        "class_code": "GEUC2018-",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Design Thinking 創新設計思維方法",
+        "class_code": "GEUC2019-",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HO Wing Chee Beatrice",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Social Service: P&R 社會服務：參與及反思",
+        "class_code": "GEUC2101A",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. FUNG Yin King Helina",
+        "quota": "50",
+        "mode": "FLD",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Social Service: P&R 社會服務：參與及反思",
+        "class_code": "GEUC2101B",
+        "period": [
+            "Mo 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr CHOY Bing Kong",
+        "quota": "50",
+        "mode": "FLD",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4"
+        ]
+    },
+    {
+        "course_title": "Social Service: P&R 社會服務：參與及反思",
+        "class_code": "GEUC2101C",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHU Fung",
+        "quota": "50",
+        "mode": "FLD",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Social Service: P&R 社會服務：參與及反思",
+        "class_code": "GEUC2101D",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr CHOY Bing Kong",
+        "quota": "50",
+        "mode": "FLD",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Public Affairs: P&R 公共事務：參與及反思",
+        "class_code": "GEUC2102A",
+        "period": [
+            "Mo 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor TAM Kam Lan Annie",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Public Affairs: P&R 公共事務：參與及反思",
+        "class_code": "GEUC2102B",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor TAM Kam Lan Annie",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Social innovation 社會創新：社會企業與需求",
+        "class_code": "GEUC2103-",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Chui Ha",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Social Enterprise & Innovation 社會企業與創新：實習",
+        "class_code": "GEUC4012A",
+        "period": [
+            "Fr 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Chui Ha",
+        "quota": "25",
+        "mode": "PRA",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Social Enterprise & Innovation 社會企業與創新：實習",
+        "class_code": "GEUC4012B",
+        "period": [
+            "Fr 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TSE Sze Hei",
+        "quota": "25",
+        "mode": "PRA",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

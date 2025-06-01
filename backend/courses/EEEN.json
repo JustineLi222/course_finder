@@ -1,0 +1,123 @@
+[
+    {
+        "course_title": "Energy & Environ Econ & Mgmt 能源和環境經濟學及管理",
+        "class_code": "EEEN2030-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XU Yunjian",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "LPN_LT",
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "HVAC I 供熱通風與空調（一）",
+        "class_code": "EEEN2040-",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Chun",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT3",
+            "LSB_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Engineering Materials 工程材料",
+        "class_code": "EEEN3030-",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Qiguang",
+        "quota": "165",
+        "mode": "LEC",
+        "room": [
+            "ERB_LT",
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Energy Storage Devices & Sys 能源存儲裝置與系統",
+        "class_code": "EEEN4050-",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Yue",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L5",
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Green Building & Sustain Tech 綠色建築與可持續發展技術",
+        "class_code": "EEEN4070-",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Xi",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ERB_404",
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

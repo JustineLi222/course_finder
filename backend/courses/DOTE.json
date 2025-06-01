@@ -1,0 +1,649 @@
+[
+    {
+        "course_title": "Basic Econ for the H&T Ind 酒店及旅遊業經濟學",
+        "class_code": "DOTE1031A",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basic Econ for the H&T Ind 酒店及旅遊業經濟學",
+        "class_code": "DOTE1031B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040A",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040B",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YE Lei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040D",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YE Lei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040F",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040G",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040H",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040I",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040J",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040K",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Eco for Business Studies II 企業經濟學（二）",
+        "class_code": "DOTE1040L",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Applied Econ for Bus Decisions 企業決策之應用計量經濟",
+        "class_code": "DOTE2021A",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Ka William",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Applied Econ for Bus Decisions 企業決策之應用計量經濟",
+        "class_code": "DOTE2021B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Ka William",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Applied Econ for Bus Decisions 企業決策之應用計量經濟",
+        "class_code": "DOTE2021C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TANG Wei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Applied Econ for Bus Decisions 企業決策之應用計量經濟",
+        "class_code": "DOTE2021D",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TANG Wei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Applied Econ for Bus Decisions 企業決策之應用計量經濟",
+        "class_code": "DOTE2021E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TANG Wei",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Operations Management 營運管理",
+        "class_code": "DOTE2030E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YEUNG Hoi Yan Jeff",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Operations Management 營運管理",
+        "class_code": "DOTE2030F",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YEUNG Hoi Yan Jeff",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Operations Management 營運管理",
+        "class_code": "DOTE2030G",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Hongfan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Operations Management 營運管理",
+        "class_code": "DOTE2030H",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHU Kaijie",
+        "quota": "69",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Business Analytics 商務分析",
+        "class_code": "DOTE2040B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHU Kaijie",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Business Information Systems 商業資訊系統",
+        "class_code": "DOTE2051F",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor DONG Wanxue",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Business Information Systems 商業資訊系統",
+        "class_code": "DOTE2051G",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Myunghwan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Business Information Systems 商業資訊系統",
+        "class_code": "DOTE2051H",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor DONG Wanxue",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Business Information Systems 商業資訊系統",
+        "class_code": "DOTE2051I",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor DONG Wanxue",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Business Forecasting 商情預測",
+        "class_code": "DOTE3030-",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Hongyi",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Global Economics 國際經濟學",
+        "class_code": "DOTE3050-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YE Lei",
+        "quota": "47",
+        "mode": "LEC",
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Decision Modeling & Analytics 決策建模和分析",
+        "class_code": "DOTE4020B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor GAO Xiangyu",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Data Mgt & Big Data Analytics 數據管理及大數據分析",
+        "class_code": "DOTE4070B",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Zhi",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Economic Analytics 經濟分析",
+        "class_code": "DOTE4110B",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YUEN Chi Lok",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Supply Chain & Logistics Analy 供應鏈及物流分析",
+        "class_code": "DOTE4240-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YEUNG Hoi Yan Jeff",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

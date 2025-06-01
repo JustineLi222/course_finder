@@ -1,0 +1,523 @@
+[
+    {
+        "course_title": "Introduction to Architecture 建築學導論",
+        "class_code": "ARCH1001A",
+        "period": [
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. CHOW Kelly Chi Wai",
+        "quota": "36",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Architecture 建築學導論",
+        "class_code": "ARCH1001B",
+        "period": [
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Tsz Wai",
+        "quota": "36",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Architecture 建築學導論",
+        "class_code": "ARCH1001C",
+        "period": [
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss Caroline Barbara WUETHRICH",
+        "quota": "38",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Architecture 建築學導論",
+        "class_code": "ARCH1001D",
+        "period": [
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SHINJI Wataru- Professor ZHANG Lily Jing",
+        "quota": "36",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Understanding Cities 認識城市",
+        "class_code": "ARCH1002-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Pedram GHELICHI",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Experiencing Architecture 建築之體驗",
+        "class_code": "ARCH1320-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HAN Man",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Arch Design II 建築設計導論（二）",
+        "class_code": "ARCH2112A",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. Pedram GHELICHI",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Arch Design II 建築設計導論（二）",
+        "class_code": "ARCH2112B",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. HAN Man",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Arch Design II 建築設計導論（二）",
+        "class_code": "ARCH2112C",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. HO Tsz Wai",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Arch Design II 建築設計導論（二）",
+        "class_code": "ARCH2112D",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Miss KO Kar Yeung Rina",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Digital Media 數碼媒體",
+        "class_code": "ARCH2222-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WONG Wai Hou",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Cultural Contexts II 文化脈絡（二）",
+        "class_code": "ARCH2323-",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Pedram GHELICHI",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Bldg Tech II: Materials & Cons 建築技術（二）：材料和營造",
+        "class_code": "ARCH2422-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WANG Shuaizhong",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio II 建築設計工作室（二）",
+        "class_code": "ARCH3114A",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor SHINOHARA Hiroyuki",
+        "quota": "22",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio II 建築設計工作室（二）",
+        "class_code": "ARCH3114B",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor WANG Shuaizhong",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio II 建築設計工作室（二）",
+        "class_code": "ARCH3114C",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor NG Yan Yung",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio II 建築設計工作室（二）",
+        "class_code": "ARCH3114D",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor LEE Sarah Kwok Yan",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Bldg Tech III : Environ Tech 建築技術（三）：環境技術",
+        "class_code": "ARCH3424-",
+        "period": [
+            "Th 08:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Yan Yung",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Land and City 地貌與城市",
+        "class_code": "ARCH3721-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHU Cecilia Louise",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_401",
+            "ELB_203",
+            "ELB_304"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio IV 建築設計工作室（四）",
+        "class_code": "ARCH4116A",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor Inge GOUDSMIT",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio IV 建築設計工作室（四）",
+        "class_code": "ARCH4116B",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Mr. CHOW Kelly Chi Wai",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio IV 建築設計工作室（四）",
+        "class_code": "ARCH4116C",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor Francesco ROSSINI",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio IV 建築設計工作室（四）",
+        "class_code": "ARCH4116D",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Mr. Victor Ioan PRICOP- Ms. Ioana Alexandra PRICOP",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Architectural Design Studio IV 建築設計工作室（四）",
+        "class_code": "ARCH4116E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Mr. SUEN Wai Kuen Ricky",
+        "quota": "20",
+        "mode": "STD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Fut Pract and Sustainable Res 未來實踐與可持續對策",
+        "class_code": "ARCH4426-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MA Kit Yi",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

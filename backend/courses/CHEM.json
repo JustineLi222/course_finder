@@ -1,0 +1,833 @@
+[
+    {
+        "course_title": "Principles of Modern Chemistry 現代化學概論",
+        "class_code": "CHEM1070B",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Th 11:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HAU Chun Kit",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT3",
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Org Chm & Biomolecule 有機化學與生物分子導論",
+        "class_code": "CHEM1280B",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Chui Man- Professor YEUNG Ying Yeung",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4",
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals in Physical Chem. 化學物理基礎",
+        "class_code": "CHEM1300-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor Oleksandr SAVATIEIEV",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chem Lab: STEM and Daily Life 化學實驗：STEM 與日常生活",
+        "class_code": "CHEM1870B",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. LO Chui Man",
+        "quota": "24",
+        "mode": "LAB",
+        "room": [
+            "SC_257"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Chem Lab: STEM and Daily Life 化學實驗：STEM 與日常生活",
+        "class_code": "CHEM1870C",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. LO Chui Man",
+        "quota": "24",
+        "mode": "LAB",
+        "room": [
+            "SC_257"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Fund of Spectroscopic Analysis 波譜分析法原理",
+        "class_code": "CHEM2110-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Fr 09:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor NG Kee Pui Dennis",
+        "quota": "92",
+        "mode": "LEC",
+        "room": [
+            "SWH_1",
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "class_code": "CHEM2270A",
+        "period": [
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "mode": "SEM",
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "class_code": "CHEM2270B",
+        "period": [
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "mode": "SEM",
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "class_code": "CHEM2270C",
+        "period": [
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "mode": "SEM",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Atoms and Molecules 原子與分子",
+        "class_code": "CHEM2310-",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSE Ying Lung",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "KKB_101",
+            "LSB_LT5"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Analytical Chemistry 分析化學",
+        "class_code": "CHEM2400-",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Wing Fat- Professor LEE Hung Kay",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "SC_L2",
+            "SWH_2"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870A",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "6",
+        "mode": "LAB",
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870B",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "11",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870C",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "3",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870D",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "12",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870E",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "4",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870F",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "17",
+        "mode": "LAB",
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870G",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "2",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "class_code": "CHEM2870H",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "8",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Fundamental Ana Chem Lab 基礎分析化學實驗",
+        "class_code": "CHEM2872-",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald",
+        "quota": "4",
+        "mode": "LAB",
+        "room": [
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "class_code": "CHEM2878B",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "3",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "class_code": "CHEM2878C",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "11",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "class_code": "CHEM2878D",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "1",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "class_code": "CHEM2878E",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "3",
+        "mode": "LAB",
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Transition Metal Chemistry 過渡金屬化學",
+        "class_code": "CHEM3130-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 10:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NG Kee Pui Dennis",
+        "quota": "90",
+        "mode": "LEC",
+        "room": [
+            "ICS_L1",
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Conjugated Mol. Synth. Polymer 共軛分子與合成高分子",
+        "class_code": "CHEM3230-",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor MIAO Qian",
+        "quota": "52",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Materials Chemistry 材料科學",
+        "class_code": "CHEM3340-",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEN Ye- Professor NGAI To",
+        "quota": "53",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Accreditation of Lab Tests 實驗室測試的認證",
+        "class_code": "CHEM3420-",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Wing Fat",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Organic Chemistry Lab 高等有機化學實驗",
+        "class_code": "CHEM3820-",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAK Kin Wah- Professor MIAO Qian",
+        "quota": "24",
+        "mode": "LAB",
+        "room": [
+            "SC_356"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Chemistry Lab II 物理化學實驗(二)",
+        "class_code": "CHEM3840-",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Professor CHEN Ye- Professor NGAI To",
+        "quota": "16",
+        "mode": "LAB",
+        "room": [
+            "SC_227"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "class_code": "CHEM3860A",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "mode": "LAB",
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "class_code": "CHEM3860B",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "mode": "LAB",
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "class_code": "CHEM3860C",
+        "period": [
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "mode": "LAB",
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Quality Testing Laboratory 質量保證測試實驗",
+        "class_code": "CHEM3880-",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHAN Wing Fat",
+        "quota": "16",
+        "mode": "LAB",
+        "room": [
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Bioorganic Chem & Chemical Bio 生物有機化學及化學生物學",
+        "class_code": "CHEM4200-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor XIA Jiang",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Nanosci & Nanotech 納米科學與技術概論",
+        "class_code": "CHEM4303-",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHEN Ye- Professor HUANG Zhifeng",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Mass Spectrometry 質譜分析法",
+        "class_code": "CHEM4780-",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHAN Tak Wah Dominic",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chem Appl in Forensic Science 化學在法庭科學上之應用",
+        "class_code": "CHEM4788-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. SHUM Shuk Wah Nora",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

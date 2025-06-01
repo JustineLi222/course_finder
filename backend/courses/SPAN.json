@@ -1,0 +1,345 @@
+[
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000O",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss Veronica J. CONSTANTINO CASTILLO",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000P",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000Q",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000R",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000S",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms Maria Cecilia BEDOYA GARCIA MONTERO",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000T",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000U",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss Maria Del Carmen JORDAN FERNANDEZ",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000V",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss Maria Del Carmen JORDAN FERNANDEZ",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000W",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000X",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms Maria Cecilia BEDOYA GARCIA MONTERO",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Spanish I 西班牙語（一）",
+        "class_code": "SPAN1000Y",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms Maria Cecilia BEDOYA GARCIA MONTERO",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Spanish II 西班牙語（二）",
+        "class_code": "SPAN2000B",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Spanish II 西班牙語（二）",
+        "class_code": "SPAN2000C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Spanish II 西班牙語（二）",
+        "class_code": "SPAN2000D",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Spanish II 西班牙語（二）",
+        "class_code": "SPAN2000F",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Spanish IV 西班牙語（四）",
+        "class_code": "SPAN3000-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics in Spanish 西班牙語專題",
+        "class_code": "SPAN3100A",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics in Spanish 西班牙語專題",
+        "class_code": "SPAN3100B",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "24",
+        "mode": "CLW",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

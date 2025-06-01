@@ -1,0 +1,510 @@
+[
+    {
+        "course_title": "Intro to Python for Engg Appls Python導論及工程應用",
+        "class_code": "IERG1080-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 10:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YUE Xiangyu",
+        "quota": "140",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT1",
+            "ERB_1004"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Electronic Circuit Design Lab 電子線路設計實驗",
+        "class_code": "IERG1810A",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor YAN Zhenyu",
+        "quota": "44",
+        "mode": "LAB",
+        "room": [
+            "ERB_1008"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Basic Circuits 基礎模擬和數字電路",
+        "class_code": "IERG2060-",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YAN Zhenyu",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "SHB_833",
+            "SHB_801"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Sys Programming 系統編程導論",
+        "class_code": "IERG2080-",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "We 04:30PM - 06:15PM",
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIN Ho Fai Hoover",
+        "quota": "130",
+        "mode": "LEC",
+        "room": [
+            "ERB_1004",
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Principles of Communication Sy 通信系統原理",
+        "class_code": "IERG2310-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LOK Tat Ming",
+        "quota": "130",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT1",
+            "LSB_LT6"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Probability Models and Appli'n 概率模型及應用",
+        "class_code": "IERG2470-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Fr 09:30AM - 10:15AM",
+            "We 09:30AM - 10:15AM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIN Xiaojun",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "SC_L4",
+            "ERB_803",
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Simulation & Statistical Analy 仿真與統計分析",
+        "class_code": "IERG3050-",
+        "period": [
+            "Tu 04:30PM - 05:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIN Ho Fai Hoover",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Netwks: Tech, Eco, & Soc Inter 網絡：技術，經濟，和社會互動",
+        "class_code": "IERG3280-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHAO Changhong",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "SC_L1",
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Computer Networks 計算機網絡",
+        "class_code": "IERG3310-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XING Guoliang",
+        "quota": "117",
+        "mode": "LEC",
+        "room": [
+            "SC_L4",
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Communications Lab 通信實驗",
+        "class_code": "IERG3820A",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHAN Chun Kit",
+        "quota": "44",
+        "mode": "LAB",
+        "room": [
+            "ERB_1007"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Communications Lab 通信實驗",
+        "class_code": "IERG3820B",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHAN Chun Kit",
+        "quota": "44",
+        "mode": "LAB",
+        "room": [
+            "ERB_1007"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Communications Lab 通信實驗",
+        "class_code": "IERG3820C",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHAN Chun Kit",
+        "quota": "44",
+        "mode": "LAB",
+        "room": [
+            "ERB_1007"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Product Design and Development 產品設計與開發",
+        "class_code": "IERG3830-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Kit Sang Danny",
+        "quota": "50",
+        "mode": "PRJ",
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Web Appl Development Project 網頁應用程式開發",
+        "class_code": "IERG3840-",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. YIP Kit Sang Danny",
+        "quota": "60",
+        "mode": "PRA",
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Mobile Network App Dev Project 流動網絡應用程式開發",
+        "class_code": "IERG3842-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. YIP Kit Sang Danny",
+        "quota": "60",
+        "mode": "PRA",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Networking Protocols and Sys 網絡協議與系統",
+        "class_code": "IERG4090-",
+        "period": [
+            "Tu 11:30AM - 12:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEE Yiu Bun",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18",
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Wireless Communication Systems 無線通信系統",
+        "class_code": "IERG4100-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN He",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "SC_L4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Functional Programming 函式程式設計",
+        "class_code": "IERG4120-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHANG Kehuan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L3",
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Image Proc & Visual Understand 影像處理與電腦視覺理解",
+        "class_code": "IERG4160-",
+        "period": [
+            "Th 03:30PM - 04:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor OUYANG Wanli",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Multimedia Coding & Processing 多媒體編碼和處理",
+        "class_code": "IERG4190-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XUE Tianfan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "SC_L1",
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Web Programming and Security 網頁編程及網頁安全",
+        "class_code": "IERG4210-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MA Pui Kit",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "SC_L2",
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Cloud Computing Security 雲端計算安全",
+        "class_code": "IERG4350-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAU Sze Yiu",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

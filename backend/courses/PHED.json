@@ -1,0 +1,3109 @@
+[
+    {
+        "course_title": "Track and Field 田徑",
+        "class_code": "PHED1011A",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Track and Field 田徑",
+        "class_code": "PHED1012A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. SUN Li",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017A",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017B",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017C",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017D",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017F",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017G",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017H",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017J",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1017K",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018A",
+        "period": [
+            "Tu 09:30AM - 10:15AM",
+            "Th 09:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LEUNG Fung Lin Elean",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018B",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018C",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018D",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018F",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018G",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018H",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018J",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018K",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1018L",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021B",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021D",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021E",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021F",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021G",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021H",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021J",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1021K",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022A",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022B",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022D",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHENG Yuk Chuen",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022F",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022G",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basketball 籃球",
+        "class_code": "PHED1022H",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "NAG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1023A",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1023B",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1023C",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1023D",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1024A",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1024B",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. SUN Li",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1024C",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. SUN Li",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Volleyball 排球",
+        "class_code": "PHED1024D",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1025A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1025B",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHENG Yuk Chuen",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1025C",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1025D",
+        "period": [
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1025E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1026A",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1026B",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHENG Yuk Chuen",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1026C",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1026D",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Softball 壘球",
+        "class_code": "PHED1026E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027A",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027B",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027C",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027D",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Tsz Fai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1027F",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028A",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028B",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAI Ka Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028C",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028D",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028E",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Team Handball 手球",
+        "class_code": "PHED1028F",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Soccer 足球",
+        "class_code": "PHED1029A",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Soccer 足球",
+        "class_code": "PHED1029B",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HO Sze Tak Robin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Soccer 足球",
+        "class_code": "PHED1029M",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LN"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031A",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031B",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031D",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031E",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031F",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HO Wai Keung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1031G",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032B",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WONG On Tung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032C",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032D",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "HTC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032E",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HO Wai Keung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032F",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Tennis 網球",
+        "class_code": "PHED1032G",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "TC"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033A",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033B",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033C",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033D",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. NG Siu Kuen",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033F",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1033G",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LEUNG Fung Lin Elean",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034B",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LEUNG Fung Lin Elean",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034C",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034D",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034E",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034F",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034G",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034H",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Squash 壁球",
+        "class_code": "PHED1034M",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "KSB_SC"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Woodball 木球",
+        "class_code": "PHED1040A",
+        "period": [
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Woodball 木球",
+        "class_code": "PHED1040B",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Woodball 木球",
+        "class_code": "PHED1040C",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Woodball 木球",
+        "class_code": "PHED1040D",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Woodball 木球",
+        "class_code": "PHED1040E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1041A",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHENG Yuk Chuen",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1041B",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1041C",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1041D",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1041E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042A",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HON Suet",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042B",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HON Suet",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042C",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHENG Yuk Chuen",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042D",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042E",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1042F",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043A",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043B",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043D",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043E",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043F",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043G",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043H",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. KONG Tsz Yeung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043J",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043K",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043L",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1043M",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044A",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAK Wai Sze Angel",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044B",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. TAM Chi Kin",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044C",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. FONG William Wing Lun",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044D",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044F",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044G",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. CHEUNG Ka Yee Crystal",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044H",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. SUN Li",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044J",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. SUN Li",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044K",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044L",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. WU Tat Cheung Clement",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044N",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044P",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. LIU Chi Fung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1044Q",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Yoga 瑜伽",
+        "class_code": "PHED1046A",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HON Suet",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "USCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Yoga 瑜伽",
+        "class_code": "PHED1046B",
+        "period": [
+            "Th 11:30AM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HON Suet",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "USCTT"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Taekwondo 跆拳道",
+        "class_code": "PHED1120XA",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HO Wai Keung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Taekwondo 跆拳道",
+        "class_code": "PHED1122A",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HO Wai Keung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Taekwondo 跆拳道",
+        "class_code": "PHED1122B",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HO Wai Keung",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Modern Dance 現代舞",
+        "class_code": "PHED1130A",
+        "period": [
+            "Tu 11:30AM - 01:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAN Wai Kei",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "USCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Modern Dance 現代舞",
+        "class_code": "PHED1130B",
+        "period": [
+            "Tu 01:30PM - 03:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss MAN Wai Kei",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "USCTT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Table Tennis 乒乓球",
+        "class_code": "PHED1140A",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Wai Kit",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Badminton 羽毛球",
+        "class_code": "PHED1180A",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. HUI Ka Kit",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Cycling and Fitness 單車及體能",
+        "class_code": "PHED1200XA",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. HON Suet",
+        "quota": "16",
+        "mode": "LEC",
+        "room": [
+            "USCCP"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Tai Chi 太極拳",
+        "class_code": "PHED1210A",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Tai Chi 太極拳",
+        "class_code": "PHED1210B",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAU Kwok On",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Physical Conditioning 體能鍛鍊",
+        "class_code": "PHED1220A",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. AU YEUNG Ka Hym Calvin",
+        "quota": "28",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Golf 高爾夫球",
+        "class_code": "PHED1240XA",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Miss HUANG Minyi",
+        "quota": "16",
+        "mode": "LEC",
+        "room": [
+            "HCF"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Table Tennis 中級乒乓球",
+        "class_code": "PHED2060XA",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "SCSH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

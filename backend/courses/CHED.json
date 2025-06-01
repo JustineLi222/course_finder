@@ -1,0 +1,138 @@
+[
+    {
+        "course_title": "Lang & Lit Dev in Young Child 幼兒之語言發展",
+        "class_code": "CHED4120-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TONG Ka Lai Evian",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "YIA_508"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Maths, Sci & Tech Exper in EC 幼兒的數學、科學與科技的體驗",
+        "class_code": "CHED4140-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN To",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Home-Sch-Community Collabor 家庭、學校與社區協作：促進學校發展",
+        "class_code": "CHED4220-",
+        "period": [
+            "Mo 09:30AM - 12:15PM",
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HUNG Fan Sing",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_303",
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Intro to Educational Research 教育研究方法導論",
+        "class_code": "CHED4320-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Cin Yee Cindy",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Assessment for the Development 幼兒發展與學習評估方法",
+        "class_code": "CHED4350-",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss YIP Lai Ying",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Counselling Young Children 幼童輔導",
+        "class_code": "CHED4370-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. TSANG Yu Yan",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2"
+        ]
+    },
+    {
+        "course_title": "Research Project 研究報告",
+        "class_code": "CHED4540-",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN To- Professor LEUNG Kit Ying Suzannie- Professor SIU Fung Ying Angela",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

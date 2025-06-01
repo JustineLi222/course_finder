@@ -1,0 +1,309 @@
+[
+    {
+        "course_title": "Human Structure and Function 人體結構與功能",
+        "class_code": "SBMS1102-",
+        "period": [
+            "Mo 10:30AM - 01:15PM",
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. POON Hong Kit",
+        "quota": "47",
+        "mode": "LEC",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Human Anatomy and Physiology 2 人類解剖學與生理學（二）",
+        "class_code": "SBMS1432-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. AU Chak Leung- Dr. TANG Mei Kuen- Dr. WAI Sen Mun- Dr. WONG Pui Man Molly- Dr. WONG Wai Kai- Dr. ZHOU Yuhuan- Professor Wilbert Jan Hendrick SCHNUPP",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "LHC_103",
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Cell and Molecular Biology 生物醫學工程的細胞與分子生物學",
+        "class_code": "SBMS1440-",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. ZHOU Yuhuan- Professor CHEN Yangchao- Professor FENG Bo- Professor WANG Dan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Bioethics 生命倫理學入門",
+        "class_code": "SBMS2104-",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. Kanchan Rao SINGH- Dr. WAI Sen Mun",
+        "quota": "72",
+        "mode": "LEC",
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Laboratory Techniques in Biome 生物醫學實驗技術",
+        "class_code": "SBMS2105-",
+        "period": [
+            "Tu 08:30AM - 11:15AM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TANG Mei Kuen",
+        "quota": "44",
+        "mode": "LEC",
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Pharmacology and Toxicology 藥理學與毒理學",
+        "class_code": "SBMS2106-",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "Th 09:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA",
+        "quota": "41",
+        "mode": "LEC",
+        "room": [
+            "ERB_401",
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Human Functions and Diseases 2 人體功能與疾病(二)",
+        "class_code": "SBMS2108-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel- Professor CHAN Hon Fai",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ERB_703",
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Microbiology 微生物學",
+        "class_code": "SBMS3105-",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. Shivani Salil SHINDE- Professor FENG Bo",
+        "quota": "41",
+        "mode": "LEC",
+        "room": [
+            "IBSB_G02"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Cancer Biology 癌症生物學",
+        "class_code": "SBMS3202-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Leung Franky",
+        "quota": "42",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Neuroscience 神經科學",
+        "class_code": "SBMS3204-",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent- Professor IP Pak Kan",
+        "quota": "27",
+        "mode": "LEC",
+        "room": [
+            "IBSB_G02",
+            "IBSB_G01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "10/1, 17/1, 24/1, 31/1, 7/2, 14/2, 21/2, 28/2, 7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Cardiovascular & Metabolic Bio 心血管與代謝生物學",
+        "class_code": "SBMS3206-",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "Th 09:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KEE Francis",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "ERB_402",
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Clinical Anatomical Pathology 臨床解剖病理學",
+        "class_code": "SBMS3209-",
+        "period": [
+            "We 01:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSANG Chi Man",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "PWH"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Instrumental Analysis and Appl 儀器分析與應用",
+        "class_code": "SBMS3210-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor WAN Chao",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "IBSB_G02"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Molecular Techniques in Geneti 遺傳學與醫學分子技術",
+        "class_code": "SBMS3211-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor GU Shen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Drug Design and Development 藥物設計與開發",
+        "class_code": "SBMS3213-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

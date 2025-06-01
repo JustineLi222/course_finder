@@ -1,0 +1,219 @@
+[
+    {
+        "course_title": "Teach & Learn thro Play in ECE 幼兒教育中的遊戲教與學",
+        "class_code": "BECE2120-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LEUNG Ai Kei Annie",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Lang & Lit in the Early Years 幼兒語言發展及素養",
+        "class_code": "BECE2130-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TONG Ka Lai Evian- Professor TSANG Wai Chung",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "STEM Edu&Early Math,Sci Learn STEM 教育與早期數學、科學學習體驗",
+        "class_code": "BECE2140-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN To",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Social & Emotional Develop 幼兒社群及情感發展",
+        "class_code": "BECE2320-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Tracy Ka Yee",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "YIA_506"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Health,Nutrit'n&Safe for Child 幼兒健康、營養與安全",
+        "class_code": "BECE2510-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr CHEUNG Chi Leung",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Inclusive Edu in EC Settings 幼兒融合教育",
+        "class_code": "BECE3120-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. SIN Suk Yee",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Art Therapy in KG Settings 幼稚園場景的藝術治療",
+        "class_code": "BECE3130-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss AU Wai Yin",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Music Edu for Young Children 幼兒音樂教育",
+        "class_code": "BECE3140-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHOW Wing Yin Nicole",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "App of Digital Tech in KG 數碼科技於幼稚園的應用",
+        "class_code": "BECE3150-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LEUNG Ai Kei Annie",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Practice I 教學實踐（一）",
+        "class_code": "BECE4010-",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Miss LEUNG Ai Kei Annie",
+        "quota": "30",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Teaching strategies for SEN 對有特殊教育需要的幼兒之教學策略",
+        "class_code": "BECE4341-",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. CHENG Wan Yee",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "FYB_603"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

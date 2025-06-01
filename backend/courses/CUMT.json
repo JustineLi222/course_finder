@@ -1,0 +1,173 @@
+[
+    {
+        "course_title": "Cultural Theories 文化理論",
+        "class_code": "CUMT1002-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor PENG Peng",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Lang & Practice of Cult Mgt 文化管理的語言和實踐",
+        "class_code": "CUMT2002-",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIM Kok Wai Benny",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Mgt of Pub. & NP Cult Org 公共及非牟利文化團體管理",
+        "class_code": "CUMT2005-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms FUNG Mei Wah",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to the Art Market 藝術市場導論",
+        "class_code": "CUMT2009-",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Hok Bun Isaac",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Visual Arts Management 視覺藝術管理",
+        "class_code": "CUMT3001-",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr LEUNG Chin Fung",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Design Your Exhibition 策展計劃及實踐",
+        "class_code": "CUMT3005-",
+        "period": [
+            "We 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Hok Bun Isaac",
+        "quota": "18",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Interpret. Chinese Antiquities 中國古物詮釋",
+        "class_code": "CUMT3009-",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor PENG Peng",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Studies in CUMT 文化管理綜合研習",
+        "class_code": "CUMT4001-",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHUNG Ming Yan Fanny",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Antiquities and Heritage Mgt 文化專題：古物與文物遺產管理",
+        "class_code": "CUMT4101-",
+        "period": [
+            "Th 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN Chun Kwok",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

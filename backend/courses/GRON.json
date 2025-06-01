@@ -1,0 +1,136 @@
+[
+    {
+        "course_title": "Ageing, Health and Society 老齡化、健康與社會的相關議題",
+        "class_code": "GRON3111-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WANG Jingxuan",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Promoting Successful Ageing 促進成功老齡化：個人與社會角度",
+        "class_code": "GRON3113-",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LAI Pui Man",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Dementia: Prevent. & Mgmt. 認知障礙症：預防與管理",
+        "class_code": "GRON3213-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. CHIU Cheuk Pong",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Ethical & Fin Issues in Ageing 與老齡化相關的倫理和財務問題",
+        "class_code": "GRON3214-",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. LAI Pui Man",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Aged Care Svc Plan & Deliv Mdl 長者服務的規劃和實踐模式",
+        "class_code": "GRON3311-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LAI Pui Man",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Death, Dying and EOL Care 死亡、垂死和臨終照顧服務",
+        "class_code": "GRON4212-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LAI Pui Man",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "HSC Policy in Ageing 長者健康與社會照顧服務政策",
+        "class_code": "GRON4411-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LAI Pui Man",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

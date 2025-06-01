@@ -1,0 +1,99 @@
+[
+    {
+        "course_title": "English Lang Teaching Tech I 英語教學技巧（一）",
+        "class_code": "ELED4720-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. CHENG Ho Hei",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "English Lang Teaching Tech III 英語教學技巧（三）",
+        "class_code": "ELED4740-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SHIU Wing Hoi Cathy",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "HTB_G4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Lang Assessment & Evaluation 外語測試",
+        "class_code": "ELED4840-",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHOU Sihan",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "HTB_G6"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2"
+        ]
+    },
+    {
+        "course_title": "ELT Project Report 英語學習研究報告",
+        "class_code": "ELED4860B",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor BAI Barry- Professor Scott Charles AUBREY- Professor TSANG Wai Chung- Professor ZHOU Sihan",
+        "quota": "30",
+        "mode": "TMC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Info & Mult Technology & ELT 資訊及多媒體科技與英語教學",
+        "class_code": "ELED4880-",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. SZE Man Man",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HTB_M1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    }
+]

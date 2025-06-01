@@ -1,0 +1,21 @@
+[
+    {
+        "course_title": "Business Lecture Series 商業管理講座系列",
+        "class_code": "IBBA3040B",
+        "period": [
+            "Th 06:30PM - 08:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "270",
+        "mode": "SEM",
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

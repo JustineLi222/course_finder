@@ -1,0 +1,360 @@
+[
+    {
+        "course_title": "Teaching Volleyball: T & P 排球教學：理論與實踐",
+        "class_code": "SPED2021-",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. LI Sau Ying",
+        "quota": "29",
+        "mode": "PRA",
+        "room": [
+            "UCG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Handball: T & P 手球教學：理論與實踐",
+        "class_code": "SPED2041-",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. LI Sau Ying",
+        "quota": "31",
+        "mode": "PRA",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Badminton: T & P 羽毛球教學：理論與實踐",
+        "class_code": "SPED2051A",
+        "period": [
+            "Mo 01:30PM - 03:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. MUI Suet Ying Rosetta",
+        "quota": "20",
+        "mode": "PRA",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Badminton: T & P 羽毛球教學：理論與實踐",
+        "class_code": "SPED2051B",
+        "period": [
+            "Mo 03:30PM - 05:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. MUI Suet Ying Rosetta",
+        "quota": "20",
+        "mode": "PRA",
+        "room": [
+            "UG"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Table Tennis: T & P 乒乓球教學：理論與實踐",
+        "class_code": "SPED2061A",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "20",
+        "mode": "PRA",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Table Tennis: T & P 乒乓球教學：理論與實踐",
+        "class_code": "SPED2061B",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Mr. CHEUNG Yuk Kit",
+        "quota": "20",
+        "mode": "PRA",
+        "room": [
+            "UCTT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Tea Track & Field II: T&P 田徑教學 II：理論與實踐",
+        "class_code": "SPED2134-",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Ms. TAM Sze Man Simone",
+        "quota": "33",
+        "mode": "PRA",
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Exercise Physiology 運動生理學導論",
+        "class_code": "SPED2540-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. John Timothy O'REILLY",
+        "quota": "84",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Exercise Biomechanics 運動生物力學導論",
+        "class_code": "SPED2610-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YANG Yijian",
+        "quota": "74",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Sociology of P.E. & Sports 體育與運動社會學",
+        "class_code": "SPED2710-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss MA Man Sum",
+        "quota": "73",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Psychomotor Learning 運動學習心理學",
+        "class_code": "SPED2810-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. TAM Sze Man Simone",
+        "quota": "79",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Adm & Manage in PE & Sports 體育及運動行政管理",
+        "class_code": "SPED3430-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LI Sau Ying",
+        "quota": "79",
+        "mode": "LEC",
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Physiology of Human Perf 運動表現生理學",
+        "class_code": "SPED3550-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Sinead SHERIDAN",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Research Methods 研究法導論",
+        "class_code": "SPED3630A",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MUI Suet Ying Rosetta",
+        "quota": "33",
+        "mode": "LEC",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Research Methods 研究法導論",
+        "class_code": "SPED3630B",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. John Timothy O'REILLY",
+        "quota": "48",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Select Topics in Sp Sociology 運動社會學專題研習",
+        "class_code": "SPED3731-",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SUM Kim Wai Raymond",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "HTB_B5"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Adapted Physical Edu & Sports 適應體育與運動",
+        "class_code": "SPED3910-",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HA Sau Ching Amy",
+        "quota": "51",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Human Growth & Health Edu 人體生長、發育和健康教育",
+        "class_code": "SPED3920-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Sinead SHERIDAN",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

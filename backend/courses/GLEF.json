@@ -1,0 +1,59 @@
+[
+    {
+        "course_title": "Economic Integration 環球與區域經濟整合",
+        "class_code": "GLEF3020-",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Kevin Joseph Meredith DEVEREUX",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Global Financial Markets 環球金融市場",
+        "class_code": "GLEF3030-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Banking & Financial Regulation 國際金融與銀行監管",
+        "class_code": "GLEF4020-",
+        "period": [
+            "Tu 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

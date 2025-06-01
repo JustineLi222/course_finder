@@ -1,0 +1,918 @@
+[
+    {
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "class_code": "CLCP1113A",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HE Shan",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "LSK_404"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "class_code": "CLCP1113B",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WU Bill Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "class_code": "CLCP1113C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WU Bill Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_605"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "class_code": "CLCP1113D",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_603"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "class_code": "CLCP1123A",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "LSK_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "class_code": "CLCP1123B",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WU Bill Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "class_code": "CLCP1123C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_605"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "class_code": "CLCP1123D",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WU Bill Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Comm in Context I 普通話能力訓練（一）",
+        "class_code": "CLCP1133A",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LIU Zhenxia",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Presentation Skills I 基本表達技巧訓練（一）",
+        "class_code": "CLCP1153A",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LIU Zhenxia",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_608"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice II 口語技能訓練（二）",
+        "class_code": "CLCP2223-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HE Shan",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "LSK_401"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Comm in Context II 普通話能力訓練（二）",
+        "class_code": "CLCP2233-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. WU Bill Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Presentation Skills II 基本表達技巧訓練（二）",
+        "class_code": "CLCP2253-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HE Shan",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_605"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703A",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "FYB_603"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703B",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ho Put",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703D",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ho Put",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703E",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703F",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703G",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703H",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703I",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HE Shan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703J",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703K",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703L",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703M",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703N",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LIN Xiaojing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703O",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ho Put- Mr. LI Chunpu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703P",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WEI Danli",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703Q",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703R",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. SUN Lei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703S",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "class_code": "CLCP2703T",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LIN Xiaojing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Oral Skills Practice III 口語技能訓練（三）",
+        "class_code": "CLCP3323-",
+        "period": [
+            "We 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ho Put",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "YIA_603"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Presentation Skills & Dai Sit 表達技巧訓練",
+        "class_code": "CLCP3353-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Ho Put",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Learning PTH thru Movies 看電影學普通話",
+        "class_code": "CLCP3702A",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss HE Shan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Learning PTH thru Movies 看電影學普通話",
+        "class_code": "CLCP3702B",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss HE Shan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 高級普通話",
+        "class_code": "CLCP3703A",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han- Mr. LI Chunpu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 高級普通話",
+        "class_code": "CLCP3703B",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 高級普通話",
+        "class_code": "CLCP3703C",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_501"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 高級普通話",
+        "class_code": "CLCP3703D",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss LIN Xiaojing",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 高級普通話",
+        "class_code": "CLCP3703E",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss JIANG Han",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics I 特別論題（一）",
+        "class_code": "CLCP4463-",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "FYB_105"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "News & Presentation Skills II 新聞及專題討論訓練（二）",
+        "class_code": "CLCP4513-",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "News & Presentation Skills II 新聞及專題討論訓練（二）",
+        "class_code": "CLCP4513B",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HON Sun Yu",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Learning PTH thru Travelling 說著普通話去旅行",
+        "class_code": "CLCP4702-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss JIANG Han- Mr. LI Chunpu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics in PTH (Bus) 普通話專題科（商貿）",
+        "class_code": "CLCP4763A",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss HE Shan- Mr. LI Chunpu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Putonghua Speech Training 普通話口才訓練（表達技巧及備考科）",
+        "class_code": "CLCP4773-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LI Chunpu",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "YIA_608"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "course_title": "Fundamentals of Government 政治學初基",
+        "class_code": "GPAD1020B",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHANG Wenya",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals of Public Admin 行政學初基",
+        "class_code": "GPAD1030-",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWAN Chung Yin",
+        "quota": "77",
+        "mode": "LEC",
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Government of Hong Kong 香港政府",
+        "class_code": "GPAD1050-",
+        "period": [
+            "Mo 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Government & Politics of China 中國政府與政治",
+        "class_code": "GPAD1070-",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Xi",
+        "quota": "63",
+        "mode": "LEC",
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Reading Chi Cul/Pol Thr Movies 從電影看中國文化與政治",
+        "class_code": "GPAD1073-",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MA Shu Yun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thinking Politically 政治思考",
+        "class_code": "GPAD1076-",
+        "period": [
+            "Th 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. CHOY Chi Keung Ivan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Issues of Political Philosophy 政治哲學問題",
+        "class_code": "GPAD1095-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 01:15PM",
+            "We 04:30PM - 06:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHOW Po Chung",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "UCC_C1",
+            "UCC_108",
+            "UCC_103",
+            "UCC_205",
+            "UCC_105"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Politics, Law and Society 政治、法律與社會",
+        "class_code": "GPAD1100-",
+        "period": [
+            "We 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Governance & Public Policy 管治與公共政策",
+        "class_code": "GPAD2090-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Tsan Yin Peter",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Political Research Methodology 基本研究方法",
+        "class_code": "GPAD2111-",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHUNG Wai Keung",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_405",
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Pub. Opin. Research: Theo & Po 民情民意研究：理論與實踐",
+        "class_code": "GPAD2196-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHUNG Ting Yiu Robert",
+        "quota": "46",
+        "mode": "LEC",
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "State-Soc Rel in Contem China 當代中國的國家與社會關係",
+        "class_code": "GPAD2555-",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEN Dakeng",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Democratization 民主化",
+        "class_code": "GPAD3040-",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "Mo 02:30PM - 04:15PM",
+            "We 10:30AM - 12:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MA Ngok",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NAH_11",
+            "UCC_208",
+            "LSK_203",
+            "UCC_205"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "The Idea of Freedom 自由的理念",
+        "class_code": "GPAD3146-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor William James Clark SMITH",
+        "quota": "52",
+        "mode": "LEC",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Politics of Space 空間政治學",
+        "class_code": "GPAD3220-",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Seminar in Comp Politics 比較政治研討",
+        "class_code": "GPAD4142-",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Xi",
+        "quota": "22",
+        "mode": "SEM",
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Theories of Int'l Relations 國際關係理論",
+        "class_code": "GPAD4225-",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TING Wai",
+        "quota": "20",
+        "mode": "SEM",
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "course_title": "Sign Linguistics I: Phonetics 手語語言學（一）：語音學與音系學",
+        "class_code": "BMBL2001-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor David Philip THIERFELDER",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Sign Linguistics III: Syntax, 手語語言學（三）：句法學、語義學與語用學",
+        "class_code": "BMBL2003-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Emily Anna Jantien KOENDERS",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intro to SL Interpreting 手語傳譯概論",
+        "class_code": "BMBL3002-",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss FUNG Hiu Man Cat",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "YIA_503",
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Language Acquisition of Deaf C 聾童語言獲得",
+        "class_code": "BMBL4001-",
+        "period": [
+            "Fr 09:30AM - 11:15AM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Jieqiong",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_201",
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

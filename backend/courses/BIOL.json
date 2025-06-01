@@ -1,0 +1,377 @@
+[
+    {
+        "course_title": "Ecology 生態學",
+        "class_code": "BIOL2210-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HUI Jerome Ho Lam- Professor Shelby Eileen MC SHARRY MC ILROY",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Ecology Laboratory 生態學實驗",
+        "class_code": "BIOL2213A",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAW Man Suet Michelle",
+        "quota": "22",
+        "mode": "LAB",
+        "room": [
+            "SC_295"
+        ],
+        "meeting_date": [
+            "6/1",
+            "20/1",
+            "24/2",
+            "17/3",
+            "7/4"
+        ]
+    },
+    {
+        "course_title": "Ecology Laboratory 生態學實驗",
+        "class_code": "BIOL2213B",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAW Man Suet Michelle",
+        "quota": "22",
+        "mode": "LAB",
+        "room": [
+            "SC_295"
+        ],
+        "meeting_date": [
+            "13/1",
+            "27/1",
+            "17/2",
+            "10/3",
+            "24/3",
+            "14/4"
+        ]
+    },
+    {
+        "course_title": "Genetics Laboratory 遺傳學實驗",
+        "class_code": "BIOL2313A",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHUNG Kwok Cheong",
+        "quota": "23",
+        "mode": "LAB",
+        "room": [
+            "SCE_E402"
+        ],
+        "meeting_date": [
+            "7/1, 14/1",
+            "4/2",
+            "18/2",
+            "11/3",
+            "25/3",
+            "16/4"
+        ]
+    },
+    {
+        "course_title": "Genetics Laboratory 遺傳學實驗",
+        "class_code": "BIOL2313B",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHUNG Kwok Cheong",
+        "quota": "23",
+        "mode": "LAB",
+        "room": [
+            "SCE_E402"
+        ],
+        "meeting_date": [
+            "8/1, 15/1",
+            "5/2",
+            "19/2",
+            "12/3",
+            "26/3",
+            "9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Genetics Laboratory 遺傳學實驗",
+        "class_code": "BIOL2313C",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHUNG Kwok Cheong",
+        "quota": "23",
+        "mode": "LAB",
+        "room": [
+            "SCE_E402"
+        ],
+        "meeting_date": [
+            "7/1, 14/1",
+            "4/2",
+            "18/2",
+            "11/3",
+            "25/3",
+            "16/4"
+        ]
+    },
+    {
+        "course_title": "Genetics Laboratory 遺傳學實驗",
+        "class_code": "BIOL2313D",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. CHUNG Kwok Cheong",
+        "quota": "23",
+        "mode": "LAB",
+        "room": [
+            "SCE_E402"
+        ],
+        "meeting_date": [
+            "8/1, 15/1",
+            "5/2",
+            "19/2",
+            "12/3",
+            "26/3",
+            "9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "General Genetics 普通遺傳學",
+        "class_code": "BIOL2410-",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor GUO Dianjing",
+        "quota": "220",
+        "mode": "LEC",
+        "room": [
+            "TYW_LT"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3"
+        ]
+    },
+    {
+        "course_title": "Population Genetics 族群遺傳學",
+        "class_code": "BIOL2420-",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor LUO Haiwei",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "TYW_LT"
+        ],
+        "meeting_date": [
+            "25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Biodiversity Laboratory II 生物多樣性實驗（二）",
+        "class_code": "BIOL3022A",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss YAM Kwan Mei",
+        "quota": "20",
+        "mode": "LAB",
+        "room": [
+            "SC_392"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Biodiversity Laboratory II 生物多樣性實驗（二）",
+        "class_code": "BIOL3022B",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss YAM Kwan Mei",
+        "quota": "20",
+        "mode": "LAB",
+        "room": [
+            "SC_392"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Human Biology 人類生物學",
+        "class_code": "BIOL3310-",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SIOW Lam",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT2",
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Plant Physiology 植物生理學",
+        "class_code": "BIOL3530-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Junxian",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT3",
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Biology of Vascular Plants 維管植物生物學",
+        "class_code": "BIOL3570-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor GUO Dianjing",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Vertebrate Life 脊椎動物之生活",
+        "class_code": "BIOL3620-",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor TSANG Ling Ming",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Conservation Biology 保育生物學",
+        "class_code": "BIOL4260-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAW Man Suet Michelle- Professor TSANG Ling Ming",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Human Genetics 人類遺傳學",
+        "class_code": "BIOL4310-",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Ho Yin Edwin- Professor CHAN Ting Fung Philos- Professor CHOW Hei Man",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ERB_404",
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Hong Kong Flora & Vegetation 香港植物及植被",
+        "class_code": "BIOL4510-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Tai Wai David",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

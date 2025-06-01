@@ -1,0 +1,376 @@
+[
+    {
+        "course_title": "Lost and Found: Tran 取與捨—翻譯的實踐與創新",
+        "class_code": "TRAN1000B",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHOU Mengyuan",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Interpreting 傳譯入門",
+        "class_code": "TRAN1030C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHOU Mengyuan",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Basic Skills of Translation 翻譯基本技巧",
+        "class_code": "TRAN1120A",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WANG Yan",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_201",
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Textual Analysis and Readings 文本分析及閱讀",
+        "class_code": "TRAN1130-",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WU Yinran",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "YIA_403",
+            "SB_239"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Writing Skills & Translation 寫作技巧與翻譯",
+        "class_code": "TRAN2020-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Jiawei",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Lexicography and Translation 辭典學與翻譯",
+        "class_code": "TRAN2050-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEONG Chon",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Culture and Translation 文化與翻譯",
+        "class_code": "TRAN2110-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHOU Mengyuan",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Language Studies for Tran 語言研究與翻譯",
+        "class_code": "TRAN2130-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Long",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Simultaneous Interpr'g:C-E 同聲傳譯：粵語－英語",
+        "class_code": "TRAN2150-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEONG Chon",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Computer-aided Tran 電腦輔助翻譯導論",
+        "class_code": "TRAN2610B",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WU Yinran",
+        "quota": "32",
+        "mode": "LEC",
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Literary Tran Strategies: E-C 文學翻譯策略：英譯中",
+        "class_code": "TRAN3270-",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor JI Lingjie",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Arts Translation 藝術翻譯",
+        "class_code": "TRAN3800-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHENG Chung",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Commercial Translation 商業翻譯",
+        "class_code": "TRAN3820-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tran of Legal Doc in Jud. Pro. 法律翻譯與司法程序",
+        "class_code": "TRAN3844-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WANG Yan",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "UCC_102",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Tran of Texts in Social Sci 社會科學文本的翻譯",
+        "class_code": "TRAN3870-",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Li",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_206",
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Public Relations Translation 公共關係翻譯",
+        "class_code": "TRAN3880-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

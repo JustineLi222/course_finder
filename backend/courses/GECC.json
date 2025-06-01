@@ -1,0 +1,50 @@
+[
+    {
+        "course_title": "College Assembly 書院週會",
+        "class_code": "GECC1000-",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "mode": "ASB",
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "College Assembly 書院週會",
+        "class_code": "GECC1000A",
+        "period": [
+            "Fr 11:30AM - 01:15PM",
+            "Fr 02:30PM - 04:15PM",
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "mode": "ASB",
+        "room": [
+            "CCCC",
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "10/1, 17/1, 24/1",
+            "7/2",
+            "14/3",
+            "28/3",
+            "11/4"
+        ]
+    }
+]

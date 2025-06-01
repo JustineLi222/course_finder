@@ -1,0 +1,332 @@
+[
+    {
+        "course_title": "Operations Research I 運籌學（一）",
+        "class_code": "SEEM2420-",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Chi Kong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "MMW_710",
+            "LSB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Data Science 數據科學化基礎",
+        "class_code": "SEEM2460-",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MENG Mei Ling Helen- Professor WU Xixin",
+        "quota": "152",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT1",
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Systems Engineering Practicum 系統工程實務",
+        "class_code": "SEEM2602-",
+        "period": [
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "60",
+        "mode": "PRA",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Engg Innov & Entrepreneurship 工程創新和企業開發",
+        "class_code": "SEEM3450-",
+        "period": [
+            "Tu 05:30PM - 06:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHUNG Wai Keung David",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "MMW_707",
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Information Systems Management 資訊系統管理",
+        "class_code": "SEEM3490-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "53",
+        "mode": "LEC",
+        "room": [
+            "ERB_804",
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals in Info Syst 訊息系統工程概念",
+        "class_code": "SEEM3550A",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHENG Hong",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "WMY_507",
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals in Info Syst 訊息系統工程概念",
+        "class_code": "SEEM3550B",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YU Jeffrey Xu",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "LHC_G04",
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Risk Anal for Financial Engg 金融工程的風險分析",
+        "class_code": "SEEM3580-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YANG Chen",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ERB_407",
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to LSCM 物流與供應鏈管理入門",
+        "class_code": "SEEM3620-",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LONG Zhuoyu",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundament Decision & Data Anal 決策與數據分析",
+        "class_code": "SEEM3650-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "86",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT4",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Open Systems for E-Commerce 電子商務的開放系統",
+        "class_code": "SEEM4540-",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Xunying",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ERB_713",
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "E-Commerce Data Mining 電子商務數據採集和分析",
+        "class_code": "SEEM4630-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAM Wai",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ERB_703",
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Computational Finance 計算金融學",
+        "class_code": "SEEM4720-",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor AHN Dohyun",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ERB_706",
+            "ERB_909"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Stat. Modeling & Anal. in FE 金融工程中的統計模型與分析",
+        "class_code": "SEEM4730-",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Lingfei",
+        "quota": "48",
+        "mode": "LEC",
+        "room": [
+            "ERB_703",
+            "ERB_612"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

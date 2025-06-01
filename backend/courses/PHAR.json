@@ -1,0 +1,319 @@
+[
+    {
+        "course_title": "Pharmaceutical Chemistry 基礎藥物化學",
+        "class_code": "PHAR1110-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Th 09:30AM - 12:15PM",
+            "Tu 09:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor NG Wai Lung- Professor TO Kin Wah",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ERB_404",
+            "TBA"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Anatomy and Physiology II 解剖學及生理學（二）",
+        "class_code": "PHAR1434-",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KEE Francis- Dr. LAU Sin Nga- Dr. TANG Mei Kuen- Dr. WONG Wai Kai- Professor HUI Xiaoyan Hannah- Professor KO Wing Hung- Professor LAM Fu Yuen",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_LG23",
+            "WMY_304",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Clin Microbio Infect Cont 臨床微生物學及感染控制",
+        "class_code": "PHAR1440-",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor LAI Koon Chi Christopher- Professor NG Wai Yin- Professor YOU Hoi Sze Joyce",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Dosage Form Science II 方劑學（二）",
+        "class_code": "PHAR2212-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 02:30PM - 05:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE- Professor TO Kin Wah",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_301",
+            "TBA",
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Biopharma & Pharmacokinetics 生物藥學及藥物代謝動力學",
+        "class_code": "PHAR2220-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LAM Tai Ning- Professor YAN Xiaoyu",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "WMY_301",
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Contemporary Pharmacy Practice 當代藥劑執業",
+        "class_code": "PHAR2330-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. TAI Bik Wai- Mr MAK Ho Kin Ivan- Ms. NG Yuen Tung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ARC_G01",
+            "TBA",
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Pharmacology & Therapeutics I 藥理學及治療學（一）",
+        "class_code": "PHAR2410-",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Tu 11:30AM - 12:15PM",
+            "We 01:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Kanchan Rao SINGH- Dr. LEE Carol- Dr. LEE Chui Ping- Dr. NG Wai Hung William- Dr. TAI Bik Wai- Dr. ZHOU Keary Rui- Professor John Anthony RUDD- Professor LAM Fu Yuen- Professor LAM Tai Ning",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "WMY_301",
+            "LPN_LT",
+            "WMY_305",
+            "TBA"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals of Herbal Med 基礎草藥學",
+        "class_code": "PHAR2520-",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Mo 02:30PM - 05:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr LUNG Chi Ho- Ms. NG Yuen Tung- Professor ZUO Zhong",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT1",
+            "TBA",
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Pharmaceutical Res Meth 藥物研究方法",
+        "class_code": "PHAR2710-",
+        "period": [
+            "Th 09:30AM - 10:15AM",
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. ZHOU Keary Rui- Professor CHEUNG Yin Ting- Professor LAM Tai Ning",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "WMY_301",
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Healthcare Mgmt Pharm Mktg 醫療管理及藥物營銷",
+        "class_code": "PHAR2711-",
+        "period": [
+            "Tu 01:30PM - 03:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE- Professor CHEUNG Yin Ting",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Pharmacology & TherapeuticsIII 藥理學及治療學（三）",
+        "class_code": "PHAR3414-",
+        "period": [
+            "We 02:30PM - 05:15PM",
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA- Dr. LEE Chui Ping- Dr. POON Hong Kit- Dr. SEE Christopher Yew Hong- Dr. ZHOU Keary Rui- Professor CHAN Man Lok Andrew- Professor CHEN Yangchao- Professor John Anthony RUDD- Professor LEUNG Kam Tong",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "CYT_201",
+            "YIA_403",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Pgx and Pharm Biotechnology 藥物遺傳學及生物製劑技術",
+        "class_code": "PHAR3420-",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEE Carol- Professor TO Kin Wah- Professor YAN Xiaoyu",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Clin Assessment Monitoring 臨床評估及監控",
+        "class_code": "PHAR3812-",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEE Chui Ping- Dr. TAI Bik Wai- Dr. YUEN Siu Hong Johnny- Dr. ZHOU Keary Rui- Ms. NG Yuen Tung- Professor CHEUNG Yin Ting- Professor LAM Tai Ning",
+        "quota": "60",
+        "mode": "FLD",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

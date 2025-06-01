@@ -1,0 +1,335 @@
+[
+    {
+        "course_title": "China in Global Perspectives 全球視角下的中國",
+        "class_code": "CHES1101-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Timothy Andrew SUMMERS",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "China’s Business Environment 歷史角度看中國營商環境",
+        "class_code": "CHES2102-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Chen",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Media China 媒體中國",
+        "class_code": "CHES3004-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIN Zhenru",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Urban China 城市中國",
+        "class_code": "CHES3007-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Anna Maria ISKRA",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ARC_211",
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Youth in China 中國青年",
+        "class_code": "CHES3009-",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SUN Lin",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "East Asian Film Genres 全球化下的東亞電影類型",
+        "class_code": "CHES3102-",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. Abraham OVERBEEKE",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Legal Justice Cultures 中國法律與司法文化",
+        "class_code": "CHES3106-",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. William Joseph MORIARTY",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "YIA_201",
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "China and Regional Order 中國與地區秩序",
+        "class_code": "CHES3107-",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Timothy Andrew SUMMERS",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Adv Chinese Literature Seminar 中國文學高級專題研究",
+        "class_code": "CHES3200-",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GAO Yunwen",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Directed Studies Practicum 研究實踐指導",
+        "class_code": "CHES4005-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GAO Yunwen",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500A",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GAO Yunwen",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500B",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIN Zhenru",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500C",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Chen",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "FYB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500D",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SUN Lin",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "FYB_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. William Joseph MORIARTY",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "FYB_107B"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500F",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Kristof VAN DEN TROOST",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Thesis Research Paper 畢業論文",
+        "class_code": "CHES4500G",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Timothy Andrew SUMMERS",
+        "quota": "7",
+        "mode": "PRJ",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

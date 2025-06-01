@@ -1,0 +1,372 @@
+[
+    {
+        "course_title": "A World of Diversity 多元世界面面觀",
+        "class_code": "GRMD1401-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Wai Ying Joanna- Professor LAI Yuk Fo",
+        "quota": "125",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Global Change & Env Sus 全球變化與環境可持續性",
+        "class_code": "GRMD1402-",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Chung Shing- Professor CHUNG King Lam Calvin",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Remote Sensing of Environment 環境遙感",
+        "class_code": "GRMD2104-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MA Peifeng- Professor ZHENG Qiming",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Economic Geography 經濟地理學",
+        "class_code": "GRMD2321-",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Jack Laurie HARRIS",
+        "quota": "66",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Natural Resource Management 自然資源管理",
+        "class_code": "GRMD2402-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Lawal Mohammed MARAFA",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Nature Conservation in HK 自然保育在香港",
+        "class_code": "GRMD2403-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Theory and Practice of Smart C 智慧城市：理論與實踐",
+        "class_code": "GRMD2501-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HE Ying",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG03",
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Research Design & Methodology 研究設計與方法",
+        "class_code": "GRMD3102-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Jack Laurie HARRIS- Professor LU Xingcheng",
+        "quota": "85",
+        "mode": "LEC",
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Environmental Management 環境管理",
+        "class_code": "GRMD3202-",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAM Kin Che",
+        "quota": "54",
+        "mode": "LEC",
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Geomorphology 地貌學",
+        "class_code": "GRMD3205-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Geography of China 中國地理",
+        "class_code": "GRMD3301-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GUO Chunlan",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Population and Migration 人口與遷移",
+        "class_code": "GRMD3302-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GUO Chunlan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Cultural Geography 文化地理學",
+        "class_code": "GRMD3304-",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Energy Resources for Carbon Ne 碳中和時代的能源資源",
+        "class_code": "GRMD3401-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor XU Yuan",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Natural Hazards and Human Res 自然災害與人類應對",
+        "class_code": "GRMD3404-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Kam Biu",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "GIS Workshop 地理信息系統工作坊",
+        "class_code": "GRMD4101-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAM Siu Ngan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Hydrology and Water Resources 水文與水資源",
+        "class_code": "GRMD4202-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Jianfeng",
+        "quota": "65",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Ecosystem Restoration and Mgt 生態系統修復及管理",
+        "class_code": "GRMD4203-",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAI Yuk Fo",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Urban Planning Workshop 城市規劃工作坊",
+        "class_code": "GRMD4302-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Wai Ying Joanna",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_507"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

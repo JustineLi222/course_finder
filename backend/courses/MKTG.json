@@ -1,0 +1,326 @@
+[
+    {
+        "course_title": "Marketing Management 市場管理",
+        "class_code": "MKTG2010H",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Kenneth Justin",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Management 市場管理",
+        "class_code": "MKTG2010J",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TANG Wing Kin Jacky",
+        "quota": "71",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Management 市場管理",
+        "class_code": "MKTG2010K",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Hang Yee",
+        "quota": "72",
+        "mode": "LEC",
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Management 市場管理",
+        "class_code": "MKTG2010L",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Ka Chat Andrew",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Research 市場研究",
+        "class_code": "MKTG3010C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Kenneth Justin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Research 市場研究",
+        "class_code": "MKTG3010D",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TSE Ching Biu",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Consumer Behaviour 消費者行為",
+        "class_code": "MKTG3020C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Kenneth Justin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Integrated Mkt Communication 整合營銷傳播",
+        "class_code": "MKTG3030C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LUK Ka Chick Edwin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Global Marketing Management 環球營銷管理",
+        "class_code": "MKTG3050-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEE Kenneth Justin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Service Marketing 服務市場學",
+        "class_code": "MKTG4030-",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHANG Meng",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Strategic Marketing 策略市場學",
+        "class_code": "MKTG4040B",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SHEN Hao",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Marketing in China 中國市場營銷",
+        "class_code": "MKTG4070B",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. POON Kwok Ho",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Marketing in China 中國市場營銷",
+        "class_code": "MKTG4070C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. POON Kwok Ho",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Digital Marketing 數碼營銷",
+        "class_code": "MKTG4080B",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LUK Ka Chick Edwin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Marketing Analytics 營銷數據分析",
+        "class_code": "MKTG4090-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHUNG Jae Hyen",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Pricing 定價",
+        "class_code": "MKTG4160-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHUNG Jae Hyen",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Machine Learning 市場營銷中的機器學習實踐",
+        "class_code": "MKTG4190-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WANG Jingbo",
+        "quota": "47",
+        "mode": "LEC",
+        "room": [
+            "CYT_410",
+            "CYT_613"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

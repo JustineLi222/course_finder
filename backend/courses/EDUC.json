@@ -1,0 +1,294 @@
+[
+    {
+        "course_title": "Princ&Imp of Curr & Inst Desig 課程與教學設計原理和實施",
+        "class_code": "EDUC2120A",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WAN Wai Yan",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Princ&Imp of Curr & Inst Desig 課程與教學設計原理和實施",
+        "class_code": "EDUC2120B",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Ronnel Bornasal KING",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Environmentalism and Envir Ed 環境主義與環境教育",
+        "class_code": "EDUC2130-",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LAU Kwok Chi",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Educational Thought 教育思想",
+        "class_code": "EDUC2220-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor KWOK Yan Shing Henry",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "WMY_406",
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Understand'g Sch'n&EDU Poli HK 學校制度與香港教育政策導論",
+        "class_code": "EDUC2240B",
+        "period": [
+            "Mo 08:30AM - 11:15AM",
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor KWOK Yan Shing Henry",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "WMY_507",
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Glob Dia on Ed for ESD in Curr 全球對話：在課程中推行可持續發展教育",
+        "class_code": "EDUC3150-",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WAN Wai Yan",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_203",
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Ethics&Prof Stan for Teachers 教師倫理及專業標準",
+        "class_code": "EDUC3201B",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAU Ngar Sze",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT2",
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Psy App to Learn'g & Teach'g 心理學的教學應用",
+        "class_code": "EDUC3311B",
+        "period": [
+            "Tu 10:30AM - 01:15PM",
+            "Th 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Pak Ho",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "KKB_101",
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2"
+        ]
+    },
+    {
+        "course_title": "Teaching Practice I 教學實習(一)",
+        "class_code": "EDUC4030A",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. NG Mau Yuen Eric",
+        "quota": "45",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Practice I 教學實習(一)",
+        "class_code": "EDUC4030B",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Professor TSANG Wai Chung",
+        "quota": "45",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Teaching Practice I 教學實習(一)",
+        "class_code": "EDUC4030C",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. MOK Ah Chee Ida",
+        "quota": "45",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4",
+            "7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "School Guidance & Counselling 學校輔導",
+        "class_code": "EDUC4330-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor LAM Yu Hin",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ELB_203",
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    },
+    {
+        "course_title": "Support'g Students with SEN 支援有特殊教育需要的學生",
+        "class_code": "EDUC4340B",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor SO Wing Chee",
+        "quota": "75",
+        "mode": "LEC",
+        "room": [
+            "WMY_507",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    }
+]

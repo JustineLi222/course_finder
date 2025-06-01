@@ -1,0 +1,251 @@
+[
+    {
+        "course_title": "Computational Earth Science 地球與環境科學的電腦運算",
+        "class_code": "ESSC2030-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AU-YEUNG Yee Man",
+        "quota": "3",
+        "mode": "LEC",
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Structural Geology 構造地質學",
+        "class_code": "ESSC3100-",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. TAM Pui Yuk- Professor ZHAN Yan",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "SC_331"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Atmospheric Chemistry 大氣化學",
+        "class_code": "ESSC3220-",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Man Nin",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "MMW_705",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Oceanography 海洋學",
+        "class_code": "ESSC3300-",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Kwan Kit Ronald- Professor Benoit THIBODEAU- Professor TAN Yen Joe",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "ERB_804",
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Ecosystems and Climate 生態系統與氣候",
+        "class_code": "ESSC3600-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Kwan Kit Ronald- Professor TAI Pui Kuen Amos",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "MMW_702",
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Climate & Ecosystems 生態系統與氣候原理",
+        "class_code": "ESSC3601-",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LI Kwan Kit Ronald- Professor TAI Pui Kuen Amos",
+        "quota": "5",
+        "mode": "LEC",
+        "room": [
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Soil Mechanics 土力學與應用",
+        "class_code": "ESSC4020-",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Fr 09:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAU Kam Tim",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LHC_106",
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Atmospheric Dynamic 大氣動力學專題討論",
+        "class_code": "ESSC4250-",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LI Kwan Kit Ronald- Professor TAM Chi Yung Francis",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "ERB_407"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Statistical Data Analysis 地球系統科學的統計方法與數據分析",
+        "class_code": "ESSC4510-",
+        "period": [
+            "We 01:30PM - 02:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. AU-YEUNG Yee Man- Dr. ZHANG Li",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "MMW_707",
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Remote Sensing 遙感原理與應用",
+        "class_code": "ESSC4540-",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Lin",
+        "quota": "19",
+        "mode": "LEC",
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

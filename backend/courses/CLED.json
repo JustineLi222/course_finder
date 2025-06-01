@@ -1,0 +1,103 @@
+[
+    {
+        "course_title": "Language, Thought and Writing 語言、思維與寫作",
+        "class_code": "CLED2640-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yin Chu",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Advanced Putonghua 進階普通話",
+        "class_code": "CLED3530-",
+        "period": [
+            "We 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KOU Zhihui",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Methods of Chi Lang Teach II 中文教學法（二）",
+        "class_code": "CLED4510-",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Mau Yuen Eric",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "HTB_107",
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2"
+        ]
+    },
+    {
+        "course_title": "Mat & Curr Design in Chi Teach 語文教材編選與課程設計",
+        "class_code": "CLED4520-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yin Chu",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Putonghua Teaching Methodology 普通話教學法",
+        "class_code": "CLED4640-",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KOU Zhihui",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "WMY_402",
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2"
+        ]
+    }
+]

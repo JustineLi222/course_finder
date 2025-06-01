@@ -1,0 +1,560 @@
+[
+    {
+        "course_title": "Drawing Fundamentals 素描基礎",
+        "class_code": "FAAS1100-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr TSE Yim On",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_310"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Principles of Chi Painting 國畫基礎",
+        "class_code": "FAAS1130A",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Fan Fong",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "NAA_207"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Principles of Chi Painting 國畫基礎",
+        "class_code": "FAAS1130B",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Fan Fong",
+        "quota": "22",
+        "mode": "LEC",
+        "room": [
+            "NAA_207"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals of 3D Forming 立體造型藝術基礎",
+        "class_code": "FAAS1140A",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHAN Tsz Man Ivy",
+        "quota": "12",
+        "mode": "LEC",
+        "room": [
+            "NAH_1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Fundamentals of 3D Forming 立體造型藝術基礎",
+        "class_code": "FAAS1140B",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHAN Tsz Man Ivy",
+        "quota": "12",
+        "mode": "LEC",
+        "room": [
+            "NAH_1"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Artistic Traditions in China 中國藝術傳統",
+        "class_code": "FAAS1600A",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr CHAN Kwun Nam- Dr. LIU Zelan- Dr. TONG Yu- Dr. WANG Guanyu- Professor HO Ka Yi- Professor LI Yu Chieh- Professor WAN Chui Ki",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114",
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Artistic Traditions in China 中國藝術傳統",
+        "class_code": "FAAS1600B",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr CHAN Kwun Nam- Dr. LIU Zelan- Dr. TONG Yu- Dr. WANG Guanyu- Professor HO Ka Yi- Professor LI Yu Chieh- Professor WAN Chui Ki",
+        "quota": "45",
+        "mode": "LEC",
+        "room": [
+            "UCC_C5",
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Western Painting I 西畫 (一)",
+        "class_code": "FAAS2211-",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss AU Hoi Lam",
+        "quota": "18",
+        "mode": "LEC",
+        "room": [
+            "NAA_309"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Digital Imaging Workshop 數位影像工作坊",
+        "class_code": "FAAS2219-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. WONG Suk Yin",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "NAA_219"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Artistic Stra in Postmod Era 當代藝術──後現代時期的藝術取向",
+        "class_code": "FAAS3108-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Frank Joseph Emmanuel VIGNERON",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Western Painting II 西畫 (二)",
+        "class_code": "FAAS3201-",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr CHOW Chun Fai",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_303"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Printmaking 版畫藝術",
+        "class_code": "FAAS3202-",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr CHUNG Tai Fu",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "NAA_312"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Xieyi: Chi Expressive Painting 中國寫意畫",
+        "class_code": "FAAS3204-",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHOU Jin",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_207"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Art in Public Space 藝術在公共空間",
+        "class_code": "FAAS3210-",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor YIM Sui Fong",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_303"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Experimental Drawing 實驗素描",
+        "class_code": "FAAS3211-",
+        "period": [
+            "Tu 11:30AM - 01:15PM",
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_303"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Sculpture:Building and Carving 雕塑──構成與雕刻",
+        "class_code": "FAAS3216-",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss CHU Cheuk Wai Margaret",
+        "quota": "12",
+        "mode": "EXR",
+        "room": [
+            "NAH_1"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Calligraphy in Ancient Scripts 古文字書法",
+        "class_code": "FAAS3223-",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Delineative Painting 中國工筆畫",
+        "class_code": "FAAS3224-",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TONG Kam Tang",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Ceramic :Surface Treat & Explo 陶瓷藝術：表面處理與探索",
+        "class_code": "FAAS3246-",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Miss WONG Lai Ching",
+        "quota": "12",
+        "mode": "LEC",
+        "room": [
+            "NAH_2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Special Topics in Art History 藝術史專題研究",
+        "class_code": "FAAS4100-",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Stacey Jean PIERSON",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Literati Painting 傳統與變化──中國文人畫",
+        "class_code": "FAAS4106-",
+        "period": [
+            "We 06:30PM - 08:15PM",
+            "We 08:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HO Ka Yi",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Illust Hist of West Art Theo 西方藝術理論史圖說──柏拉圖至後現代主義",
+        "class_code": "FAAS4119-",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Frank Joseph Emmanuel VIGNERON",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Seal Carving 篆刻",
+        "class_code": "FAAS4203-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Creative Workshop II 創作研討（二）",
+        "class_code": "FAAS4211-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "NAA_202"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

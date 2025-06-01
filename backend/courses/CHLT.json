@@ -1,0 +1,2602 @@
+[
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001KA",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_501"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001KB",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Wing Mui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001KC",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001KD",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001KE",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001MA",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001MB",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NA",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Wing Mui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NB",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NC",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001ND",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NF",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NG",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NH",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CYT_214"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001NJ",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001QA",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Wing Mui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001QB",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001QC",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Ka Wing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001QD",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001QE",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001RA",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Wing Mui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001RB",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001RC",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001RD",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001RE",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LIU Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001SA",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001SB",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001SC",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001SD",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Ka Wing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TA",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Wing Mui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TB",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TC",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TD",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LIU Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TE",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TF",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIM Chi Sing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TG",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TH",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Ka Wing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TJ",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TK",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. NG Tsz Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TL",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TM",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_501"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TN",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. TSANG Heung Kam",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001TP",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UA",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CYT_215"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UB",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LIU Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UC",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UD",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. YIP Ka Wing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UE",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UF",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UG",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UH",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. TSANG Heung Kam",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UJ",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UK",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UL",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001UM",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VA",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VB",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Lo",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_501"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VC",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Kim Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VD",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VE",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. POON Wai Ting",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VF",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VG",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VH",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. TSANG Heung Kam",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese I 大學中文（一）",
+        "class_code": "CHLT1001VJ",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002KA",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002KB",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002KC",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002KD",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MA",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MB",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ning",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MC",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ka Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MD",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAN Ying Ha",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002ME",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MF",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CAI Xuanhui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MG",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Tsz Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MH",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002MJ",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Tsz Him",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002NA",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ning",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002NB",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002NC",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002ND",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Siu Yung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002NE",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QA",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ning",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QB",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ka Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QC",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CAI Xuanhui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QE",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. POON Wai Ting",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QF",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAN Ying Ha",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QG",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ting Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QH",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Tsz Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QJ",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. TSANG Heung Kam",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QK",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002QL",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Tsz Him",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RA",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ning",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RB",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Siu Yung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RC",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ka Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RD",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. POON Wai Ting",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "FYB_603"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RE",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CAI Xuanhui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RF",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YIM Chi Sing",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RG",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAN Ying Ha",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RH",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RJ",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RK",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RL",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002RM",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_401"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SA",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SB",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. POON Wai Ting",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SC",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YIM Chi Sing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SD",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAN Ying Ha",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SE",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CAI Xuanhui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SF",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SG",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_511"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SH",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_305"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SJ",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. TSANG Heung Kam",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002SK",
+        "period": [
+            "Mo 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Tsz Yan",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TA",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ning",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TB",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Siu Yung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TC",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr WONG Nap Hei",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TD",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. MAN Ying Ha",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TE",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. POON Wai Ting",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TF",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TG",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TH",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. YIM Chi Sing",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TJ",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Shu Fung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TK",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Ms. LEUNG Wai Sze",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002TL",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002UA",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002UB",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Siu Yung",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002VA",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Pit Shun",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002VB",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Siu Yung",
+        "quota": "26",
+        "mode": "LEC",
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002VC",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CAI Xuanhui",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1002VD",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Tsz Him",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "University Elem Chinese I 大學中文初階（一）",
+        "class_code": "CHLT1102CA",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "10",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "University Chinese II 大學中文（二）",
+        "class_code": "CHLT1200B",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAM Chi Chiu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1",
+            "8/2, 15/2, 22/2, 1/3",
+            "15/3, 22/3, 29/3, 5/4, 12/4"
+        ]
+    },
+    {
+        "course_title": "Chin Lang Com and App I 中國語文傳意與應用（一）",
+        "class_code": "CHLT1204CA",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. WONG Wun Yu",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Chin Lang Com and App II 中國語文傳意與應用（二）",
+        "class_code": "CHLT1205DA",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. NG Ka Yi",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Introd'n to Classical Chinese 古代漢語概論",
+        "class_code": "CHLT2884-",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Ki Wai",
+        "quota": "38",
+        "mode": "LEC",
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

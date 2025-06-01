@@ -1,0 +1,341 @@
+[
+    {
+        "course_title": "Fundamental Physiology II 基礎生理學（二）",
+        "class_code": "BCME1610-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel- Dr. LEE Carol- Dr. SEE Christopher Yew Hong- Professor CHEN Yangchao- Professor FOK Kin Lam Ellis- Professor HUI Xiaoyan Hannah- Professor Wilbert Jan Hendrick SCHNUPP",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "ELB_207",
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Methodologies of Diag in CM 中醫診斷學",
+        "class_code": "BCME2001-",
+        "period": [
+            "Mo 09:30AM - 12:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. CHAN Sze Nga- Professor LIN Zhixiu- Professor WONG Chi Chung",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "HYS_G01",
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chi Med Classic-Nei-Jing 內經選讀",
+        "class_code": "BCME2102-",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor SUN Waizhu",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Diseases II 西醫臨床學科 II",
+        "class_code": "BCME2106-",
+        "period": [
+            "Mo 01:30PM - 06:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr WONG Ho Ching- Professor TSE Man Kit Gary",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Meridian System 經穴學",
+        "class_code": "BCME2204-",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss HUNG Hing Yu- Professor WANG Qian",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "LWC_113"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to West Med Practice II 西醫診治方法原理(二)",
+        "class_code": "BCME2206-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. SIU Kam Wang- Dr. TAI Bik Wai- Dr. ZHOU Keary Rui- Professor DAO Man Chi- Professor TSE Sut Yee- Professor WAI Heung On Jonathan- Professor WONG Chi Lung- Professor WONG Tsz Kau- Professor ZUO Zhong",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "WMY_502",
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Formulae of Chi Med 中醫方劑學",
+        "class_code": "BCME2208-",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "We 02:30PM - 05:15PM",
+            "Th 11:30AM - 01:15PM"
+        ],
+        "units": "5.00",
+        "staff": "- Dr. LIONG Ching- Dr. SO Tsz Ho- Miss CHU Oi Yu- Mr. LU Guoan- Professor JIANG Yuanan",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "CKB_UG05",
+            "WMY_304",
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "CM Classic-Jin-Gui-Yao-Lue 金匱要略選讀",
+        "class_code": "BCME3104-",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HUA Heyu- Dr. MOK Tik Lun- Dr. SO Tsz Ho- Miss CHU Oi Yu",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "WMY_301",
+            "LWC_111"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Specialties in Chi Med: Obg 中醫婦科學",
+        "class_code": "BCME3105-",
+        "period": [
+            "We 08:30AM - 11:15AM",
+            "Fr 08:30AM - 10:15AM",
+            "We 11:30AM - 12:15PM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. CHAN Sze Nga- Miss CHU Oi Yu- Professor MIAO Jiang Xia- Professor WONG Tak Yu Louisa",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_406",
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Internal Medicine II 中醫內科學（二）",
+        "class_code": "BCME3202-",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. HUA Heyu- Dr. LIN Wai Ling- Dr. LIONG Ching- Professor ZHANG Baoting",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "WMY_406"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Promo & Mainte of Health By CM 中醫保健養生學",
+        "class_code": "BCME3206-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Sze Nga- Dr. SO Tsz Ho- Dr. TSOI Yan Wang- Professor ZHANG Jianguo",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Clinical Orth and Trau in CM 中醫臨牀骨傷科學",
+        "class_code": "BCME3209-",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "We 02:30PM - 04:15PM",
+            "Th 09:30AM - 12:15PM"
+        ],
+        "units": "4.00",
+        "staff": "- Dr. TSOI Yan Wang- Professor CHU Hung Man- Professor LAM Koon Kit",
+        "quota": "35",
+        "mode": "LEC",
+        "room": [
+            "ELB_205",
+            "LWC_113"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Clinical Study I 臨牀實習（一）",
+        "class_code": "BCME4101-",
+        "period": [
+            "Mo 08:30AM - 04:15PM",
+            "Tu 08:30AM - 04:15PM",
+            "We 08:30AM - 04:15PM",
+            "Th 08:30AM - 04:15PM",
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "12.00",
+        "staff": "- Dr ZHANG Hongwei- Dr. CHAN Kam Leung- Dr. HUA Heyu- Miss HUNG Hing Yu- Mr. LU Guoan",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "10/1, 17/1, 24/1, 31/1, 7/2, 14/2, 21/2, 28/2, 7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    },
+    {
+        "course_title": "Clinical Study III 臨牀實習（三）",
+        "class_code": "BCME4104-",
+        "period": [
+            "Mo 08:30AM - 04:15PM",
+            "Tu 08:30AM - 04:15PM",
+            "We 08:30AM - 04:15PM",
+            "Th 08:30AM - 04:15PM",
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "units": "12.00",
+        "staff": "- Dr ZHANG Hongwei- Dr. CHAN Kam Leung- Dr. HUA Heyu- Miss HUNG Hing Yu- Mr. LU Guoan",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1, 3/2, 10/2, 17/2, 24/2, 3/3, 10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "8/1, 15/1, 22/1, 29/1, 5/2, 12/2, 19/2, 26/2, 5/3, 12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "10/1, 17/1, 24/1, 31/1, 7/2, 14/2, 21/2, 28/2, 7/3, 14/3, 21/3, 28/3, 4/4, 11/4, 18/4"
+        ]
+    }
+]

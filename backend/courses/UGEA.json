@@ -1,0 +1,710 @@
+[
+    {
+        "course_title": "Artistic Traditions in China 中國藝術傳統",
+        "class_code": "UGEA1310A",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr CHAN Kwun Nam- Dr. LIU Zelan- Dr. TONG Yu- Dr. WANG Guanyu- Professor HO Ka Yi- Professor LI Yu Chieh- Professor WAN Chui Ki",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_114",
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Artistic Traditions in China 中國藝術傳統",
+        "class_code": "UGEA1310B",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr CHAN Kwun Nam- Dr. LIU Zelan- Dr. TONG Yu- Dr. WANG Guanyu- Professor HO Ka Yi- Professor LI Yu Chieh- Professor WAN Chui Ki",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "UCC_C5",
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Reading Chi Cul/Pol Thr Movies 從電影看中國文化與政治",
+        "class_code": "UGEA1515-",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MA Shu Yun",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Everyday Chinese Medicine 日常中醫藥",
+        "class_code": "UGEA1881-",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LIN Wai Ling- Dr. MOK Tik Lun- Dr. YIM Wan Sze- Miss HUNG Hing Yu- Mr. MOK Ho Yin",
+        "quota": "320",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT5"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100A",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Kit Hung",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100B",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr TSE Sai Kit",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100D",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Leong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100F",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100G",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. HON Hiu Wah",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100H",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. KWAN Ho Chuen",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "class_code": "UGEA2100I",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr WANG Xiaohong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "An Intro to Chinese Culture 中國文化導論",
+        "class_code": "UGEA2110A",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "An Intro to Chinese Culture 中國文化導論",
+        "class_code": "UGEA2110B",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. IP Tat Leung",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "An Intro to Chinese Culture 中國文化導論",
+        "class_code": "UGEA2110C",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HON Hiu Wah",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Chi Culture & Modernization 中國文化與現代化",
+        "class_code": "UGEA2140-",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Music and Culture 中國音樂與文化",
+        "class_code": "UGEA2145-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHIU Wai Yee Lulu",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "class_code": "UGEA2150A",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "class_code": "UGEA2150C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHIU King Pong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "class_code": "UGEA2150D",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Mainstream Chinese Phi Thought 中國哲學主流思想",
+        "class_code": "UGEA2160A",
+        "period": [
+            "Fr 01:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Kit Hung",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Mainstream Chinese Phi Thought 中國哲學主流思想",
+        "class_code": "UGEA2160B",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Debates on Chi Trad Thoughts 百家爭鳴：中國傳統思想大辯論",
+        "class_code": "UGEA2163-",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Society 中國社會",
+        "class_code": "UGEA2190B",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. HO Ching Wai",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Transform in Chi Hist 中國歷史變革概論",
+        "class_code": "UGEA2230B",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Transform in Chi Hist 中國歷史變革概論",
+        "class_code": "UGEA2230D",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Ching Man",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Imperial and Religious Power 皇權與神權：中國社會與文化的變",
+        "class_code": "UGEA2234-",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Intro to Classical Hist Books 歷史經典導讀",
+        "class_code": "UGEA2236-",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Understanding China 認識中國：傳統與現代",
+        "class_code": "UGEA2288A",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHOI Sze Hang",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Understanding China 認識中國：傳統與現代",
+        "class_code": "UGEA2288D",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SONG Ruifeng",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Understanding China 認識中國：傳統與現代",
+        "class_code": "UGEA2288E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SONG Ruifeng",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Understanding China 認識中國：傳統與現代",
+        "class_code": "UGEA2288F",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. SONG Ruifeng",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Chinese Culture and Literature 中國文化與文學",
+        "class_code": "UGEA2290B",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr CHOR Koon Fai",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "China Today 今日中國",
+        "class_code": "UGEA2334-",
+        "period": [
+            "Fr 02:30PM - 04:15PM",
+            "Fr 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HO Hang Kei",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    }
+]

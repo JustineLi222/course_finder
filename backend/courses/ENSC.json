@@ -1,0 +1,169 @@
+[
+    {
+        "course_title": "Environ Prot & Pollut Control 環境保護與污染管制導論",
+        "class_code": "ENSC3230-",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LAU Yee Wai- Professor TSUI Tsz Ki Martin",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LSK_515",
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Biogeochemistry 生物地球化學",
+        "class_code": "ENSC3330-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. ZHANG Li- Professor Benoit THIBODEAU",
+        "quota": "15",
+        "mode": "LEC",
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Environ Inst Techniques 環境儀器分析技術",
+        "class_code": "ENSC3415-",
+        "period": [
+            "Th 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LI Hung Wing",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Environ Inst Techniques Lab 環境儀器分析技術實驗",
+        "class_code": "ENSC3417-",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald",
+        "quota": "11",
+        "mode": "LAB",
+        "room": [
+            "SC_130A"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Envir & Biochemical Toxicology 環境及生化毒理學",
+        "class_code": "ENSC3520-",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor AU Wing Ngor Shannon- Professor CHOW Hei Man- Professor NGO Chi Ki Jacky",
+        "quota": "90",
+        "mode": "LEC",
+        "room": [
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Envi and Biochemical Toxi Lab 環境及生化毒理學實驗",
+        "class_code": "ENSC3820-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LO Fai Hang",
+        "quota": "20",
+        "mode": "LAB",
+        "room": [
+            "LHC_103",
+            "SC_188"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Environmental Health 環境衛生學",
+        "class_code": "ENSC4250-",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Benoit THIBODEAU",
+        "quota": "25",
+        "mode": "LEC",
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Chemical Treatment Processes 化學處理程序",
+        "class_code": "ENSC4535-",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN Ka Long Donald",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

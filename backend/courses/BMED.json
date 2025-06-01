@@ -1,0 +1,63 @@
+[
+    {
+        "course_title": "The Teach'g of Probab. & Stat. 概率與統計的教學",
+        "class_code": "BMED3071-",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Mr. LEE Kin Sum",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2"
+        ]
+    },
+    {
+        "course_title": "The Teach'g of Sp Sense & Geo 幾何與空間感的教學",
+        "class_code": "BMED3081-",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Allen Yuk Lun",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "ActionResearch in Maths Classr 數學教學行動研究",
+        "class_code": "BMED4510-",
+        "period": [
+            "Mo 11:30AM - 02:15PM",
+            "We 11:30AM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. MOK Ah Chee Ida",
+        "quota": "24",
+        "mode": "LEC",
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2"
+        ]
+    }
+]

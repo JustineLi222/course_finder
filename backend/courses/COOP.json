@@ -1,0 +1,95 @@
+[
+    {
+        "course_title": "Greater Bay Area Field Trip 大灣區考察",
+        "class_code": "COOP1001-",
+        "period": [
+            "Mo -"
+        ],
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "30",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1"
+        ]
+    },
+    {
+        "course_title": "Asia Field Trip 亞洲考察",
+        "class_code": "COOP2001-",
+        "period": [
+            "Mo -"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "30",
+        "mode": "FLD",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "6/1"
+        ]
+    },
+    {
+        "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "class_code": "COOP3002A",
+        "period": [
+            "Fr 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "class_code": "COOP3002B",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "class_code": "COOP3002C",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "100",
+        "mode": "LEC",
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

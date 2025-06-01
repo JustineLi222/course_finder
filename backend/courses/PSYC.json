@@ -1,0 +1,423 @@
+[
+    {
+        "course_title": "General Psychology 心理學概論",
+        "class_code": "PSYC1000C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHAO Jingjing",
+        "quota": "400",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Introduction to Statistics 統計學概論",
+        "class_code": "PSYC2010-",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor INOUE Tomohiro",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT4",
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Psychological Testing 心理測驗",
+        "class_code": "PSYC2050-",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. XU Xingya",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Physiological Psychology 生理心理學",
+        "class_code": "PSYC2190-",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LIU Xiaonan",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3",
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Basic Learning Processes 基本學習歷程",
+        "class_code": "PSYC2300-",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GONG Xianmin",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3",
+            "YIA_LT6"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Developmental Psychology 人類發展心理學",
+        "class_code": "PSYC2540-",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor INOUE Tomohiro",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Personality Psychology 性格心理學",
+        "class_code": "PSYC2650-",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHOW Tak Sang",
+        "quota": "150",
+        "mode": "LEC",
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Psychology of Music 音樂心理學",
+        "class_code": "PSYC3440-",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor TENG Xiangbin",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Machine Learning in Psychology 心理學中的機器學習",
+        "class_code": "PSYC3460-",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor QIU Lin",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Educational Psychology 教育心理學",
+        "class_code": "PSYC3550-",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. XU Xingya",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "YIA_LT5",
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Culture and Psychology 文化與心理學",
+        "class_code": "PSYC3610-",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Ka Yee",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Health Psychology 健康心理學",
+        "class_code": "PSYC3720-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr FOK Hung Kit",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Professional Development 心理健康服務的專業發展與議題",
+        "class_code": "PSYC3730-",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHAN Hoi Kei Gloria",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "SB_LT2",
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Counseling in Applied Settings 輔導理論及其於臨床、職場及組織的應用",
+        "class_code": "PSYC3750-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Low-Intensity Interventions 常見心理健康問題的實證為本低強度心理治療",
+        "class_code": "PSYC3770-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHIU Chui De",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "FYB_107A"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Applied Psychology in Business 商業應用心理學",
+        "class_code": "PSYC3810-",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Julian PFROMBECK",
+        "quota": "120",
+        "mode": "LEC",
+        "room": [
+            "FYB_LT4",
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Research Practicum 研究實習",
+        "class_code": "PSYC4905-",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. GONG Xianmin",
+        "quota": "25",
+        "mode": "PRA",
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Psychology in Action II 心理學實踐（二）",
+        "class_code": "PSYC4909-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr FOK Hung Kit",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "course_title": "FinTech Regul & Legal Policy 金融科技的監管與法律政策",
+        "class_code": "FTEC2001-",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Mr. Ernest Kenneth SOUTHWORTH",
+        "quota": "63",
+        "mode": "SEM",
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Optimization Methods 優化方法",
+        "class_code": "FTEC2101-",
+        "period": [
+            "We 03:30PM - 04:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WAI Hoi To",
+        "quota": "66",
+        "mode": "LEC",
+        "room": [
+            "MMW_710",
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Financial Technology Practicum 金融科技實務",
+        "class_code": "FTEC2602-",
+        "period": [
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "60",
+        "mode": "PRA",
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Financial Innov & Stru Prods 金融創新和結構性產品",
+        "class_code": "FTEC3001-",
+        "period": [
+            "Tu 11:30AM - 01:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Nan",
+        "quota": "70",
+        "mode": "LEC",
+        "room": [
+            "SC_L5",
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Intro Blockch & Dist Led Tech 區塊鏈及分布式分類帳技術介紹",
+        "class_code": "FTEC4007-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor JIA Yanwei",
+        "quota": "56",
+        "mode": "LEC",
+        "room": [
+            "LHC_G04",
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Natur Lang Process for FinTech 面向金融科技的自然語言處理",
+        "class_code": "FTEC4008-",
+        "period": [
+            "Tu 03:30PM - 04:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHEN Nan- Professor WU Xixin",
+        "quota": "55",
+        "mode": "LEC",
+        "room": [
+            "ERB_712",
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]

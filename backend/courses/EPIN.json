@@ -1,0 +1,21 @@
+[
+    {
+        "course_title": "Bus Model Inno' for Startups 初創企業創新商業營運模式",
+        "class_code": "EPIN3010-",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor WONG Ka Chat Andrew",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    }
+]

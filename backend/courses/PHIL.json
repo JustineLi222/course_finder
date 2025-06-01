@@ -1,0 +1,366 @@
+[
+    {
+        "course_title": "Introduction to Philosophy 哲學概論",
+        "class_code": "PHIL1110-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LAU Chong Fuk",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Philosophies of Life 人生哲學",
+        "class_code": "PHIL1413-",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "History of Chin Philosophy II 中國哲學史（二）",
+        "class_code": "PHIL2030-",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor ZHENG Zemian",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "History of West Philosophy II 西方哲學史（二）",
+        "class_code": "PHIL2050-",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Gregory Scott MOSS",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy & Human Conditions 哲學與人生處境",
+        "class_code": "PHIL2060A",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor MANG Fan Lun",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy & Human Conditions 哲學與人生處境",
+        "class_code": "PHIL2060B",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. LO Kit Hung",
+        "quota": "20",
+        "mode": "LEC",
+        "room": [
+            "UCC_204"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Symbolic Logic 符號邏輯",
+        "class_code": "PHIL2202-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LO Tien Chun",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Pre-Qin Confucian Philosophy 先秦儒家哲學",
+        "class_code": "PHIL3111-",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor HUANG Yong",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Pre-Qin Daoist Philosophy 先秦道家哲學",
+        "class_code": "PHIL3131-",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor David CHAI",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Topics in Modern Western Phil 現代西方哲學專題",
+        "class_code": "PHIL3592-",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LEUNG Ka Wing",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Topics in Contempo West Phil 當代西方哲學專題",
+        "class_code": "PHIL3652-",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Nicolas James Laurent FERNANDO",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Metaphysics 形上學",
+        "class_code": "PHIL3800-",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor LO Tien Chun",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+        ]
+    },
+    {
+        "course_title": "Epistemology 知識論",
+        "class_code": "PHIL3820-",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Nicholas K RIMELL",
+        "quota": "60",
+        "mode": "LEC",
+        "room": [
+            "ICS_L1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Existentialism 存在主義",
+        "class_code": "PHIL4262-",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Gregory Scott MOSS",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    },
+    {
+        "course_title": "Philosophy of Mind 心靈哲學",
+        "class_code": "PHIL4333-",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor Nicholas K RIMELL",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Seminar on Western Philosophy 西方哲學研討",
+        "class_code": "PHIL4532-",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "40",
+        "mode": "LEC",
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
+            "6/1, 13/1, 20/1, 27/1",
+            "10/2, 17/2, 24/2",
+            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+        ]
+    }
+]

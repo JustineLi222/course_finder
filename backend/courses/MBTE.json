@@ -1,0 +1,184 @@
+[
+    {
+        "course_title": "Introduction to Molecular Biot 分子生物科技導論",
+        "class_code": "MBTE2000-",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHAN Ho Yin Edwin- Professor CHOI Chung Hang Jonathan- Professor LAM Hon Ming- Professor WONG Kam Bo- Professor WONG Wing Tak Jack",
+        "quota": "80",
+        "mode": "LEC",
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Diversity of Life: Application 生物多樣性：應用及可持續發展",
+        "class_code": "MBTE2010-",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. CHIU Siu Wai- Professor HUI Jerome Ho Lam- Professor LAM Hon Ming- Professor TSUI Tsz Ki Martin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    },
+    {
+        "course_title": "Transgen Tech in Animals & App 動物轉基因技術及其應用",
+        "class_code": "MBTE3521-",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Fr 08:30AM - 10:15AM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor CHAN Ho Yin Edwin",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT6",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2"
+        ]
+    },
+    {
+        "course_title": "Project in Tran Tech in Animal 動物轉基因技術及其應用專題研習",
+        "class_code": "MBTE3528-",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Fr 08:30AM - 10:15AM"
+        ],
+        "units": "2.00",
+        "staff": "- Professor CHAN Ho Yin Edwin",
+        "quota": "30",
+        "mode": "PRJ",
+        "room": [
+            "LSB_LT6",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Microbes and Bioremediation 微生物與生物修復",
+        "class_code": "MBTE3531-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor WANG Guanqun",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "13/2, 20/2, 27/2",
+            "13/3"
+        ]
+    },
+    {
+        "course_title": "Protein Engineer & Drug Design 蛋白質工程和藥物設計",
+        "class_code": "MBTE3560-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "1.00",
+        "staff": "- Professor WONG Kam Bo",
+        "quota": "30",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2"
+        ]
+    },
+    {
+        "course_title": "Methods in MBT Lab II 分子生物技術學方法實驗（二）",
+        "class_code": "MBTE4034-",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "units": "2.00",
+        "staff": "- Dr. SIOW Lam",
+        "quota": "28",
+        "mode": "LAB",
+        "room": [
+            "SC_188"
+        ],
+        "meeting_date": [
+            "8/1, 15/1, 22/1",
+            "5/2, 12/2, 19/2, 26/2",
+            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+        ]
+    },
+    {
+        "course_title": "Animal Biotechnology 動物生物技術學",
+        "class_code": "MBTE4520-",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Fr 08:30AM - 10:15AM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Ho Yin Edwin",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "LSB_LT6",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "7/1, 14/1, 21/1",
+            "4/2, 11/2, 18/2, 25/2",
+            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
+            "10/1, 17/1, 24/1",
+            "7/2, 14/2, 21/2, 28/2",
+            "14/3, 21/3, 28/3",
+            "11/4"
+        ]
+    },
+    {
+        "course_title": "Microbial Biotechnology 微生物生物技術學",
+        "class_code": "MBTE4530-",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "units": "3.00",
+        "staff": "- Professor CHAN Michael Kenneth- Professor WANG Guanqun- Professor WONG Kam Bo",
+        "quota": "50",
+        "mode": "LEC",
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "9/1, 16/1, 23/1",
+            "6/2, 13/2, 20/2, 27/2",
+            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+        ]
+    }
+]
