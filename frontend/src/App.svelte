@@ -9,16 +9,34 @@
     let allCourses = [];
     let filteredCourses = [];
     let distanceRange = 1000; // Default 1000 meters
+    // Track "have we finished loading?" separately from "did we get results?".
+    // Using allCourses.length as the loading test made an empty result set spin forever.
+    let loaded = false;
+    let loadError = "";
 
     // Calculate slider percentage for dynamic background
     $: sliderPercent = ((distanceRange - 100) / (5000 - 100)) * 100;
 
     async function getCourses() {
-        let res = await fetch("http://localhost:3001/api/courses");
-        let courses = await res.json();
-        allCourses = courses;
-        filteredCourses = courses;
-        return courses;
+        // Optional time-travel: /?at=2026-02-05T15:00 (or "5/2 15:00") is forwarded to the API.
+        // The dataset is a single past term, so "happening right now" is otherwise always empty.
+        const apiBase = "http://localhost:3001/api/courses";
+        const at = new URLSearchParams(window.location.search).get("at");
+        try {
+            let res = await fetch(at ? `${apiBase}?at=${encodeURIComponent(at)}` : apiBase);
+            if (!res.ok) throw new Error(`API responded ${res.status}`);
+            let courses = await res.json();
+            allCourses = courses;
+            filteredCourses = courses;
+            return courses;
+        } catch (err) {
+            loadError = err && err.message ? err.message : String(err);
+            allCourses = [];
+            filteredCourses = [];
+            return [];
+        } finally {
+            loaded = true;
+        }
     }
 
     let coursesPromise = getCourses();
@@ -211,12 +229,16 @@
 
     <!-- Results Section -->
     <div class="results-section">
-        {#if allCourses.length > 0}
+        {#if loaded}
             <div class="results-header">
                 <h2 class="results-title">
                     {filteredCourses.length > 0
                         ? `Found ${filteredCourses.length} course${filteredCourses.length === 1 ? "" : "s"}`
-                        : "No courses found"}
+                        : loadError
+                          ? "Couldn't load courses"
+                          : allCourses.length === 0
+                            ? "No courses in session"
+                            : "No courses found"}
                 </h2>
                 {#if filteredCourses.length > 0 && (search_bar_question || distanceRange < 5000)}
                     <p class="results-subtitle">
@@ -254,12 +276,24 @@
                 </div>
             {:else}
                 <div class="empty-state">
-                    <div class="empty-icon">🔍</div>
-                    <h3>No courses found</h3>
-                    <p>
-                        Try adjusting your search criteria or increasing the
-                        search range
-                    </p>
+                    <div class="empty-icon">{loadError ? "⚠️" : "🔍"}</div>
+                    {#if loadError}
+                        <h3>Couldn't reach the API</h3>
+                        <p>
+                            {loadError} — is the backend running on port 3001?
+                        </p>
+                    {:else if allCourses.length === 0}
+                        <h3>No courses in session</h3>
+                        <p>
+                            Nothing in the timetable matches the current date and time.
+                        </p>
+                    {:else}
+                        <h3>No courses found</h3>
+                        <p>
+                            Try adjusting your search criteria or increasing the
+                            search range
+                        </p>
+                    {/if}
                 </div>
             {/if}
         {:else}
