@@ -1,0 +1,118 @@
+[
+    {
+        "class_code": "IBBA3032AD",
+        "class_nbr": "10200",
+        "course_title": "Corporate Project 企業專題研討",
+        "units": "2.00",
+        "staff": "- Dr. NG Wing Fung",
+        "quota": "12",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "ADJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "IBBA3032AE",
+        "class_nbr": "10201",
+        "course_title": "Corporate Project 企業專題研討",
+        "units": "2.00",
+        "staff": "- Professor ZHOU Xiang",
+        "quota": "8",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AEJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "IBBA3032AF",
+        "class_nbr": "10202",
+        "course_title": "Corporate Project 企業專題研討",
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Hang Yee",
+        "quota": "8",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "AFJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "IBBA3032AG",
+        "class_nbr": "10203",
+        "course_title": "Corporate Project 企業專題研討",
+        "units": "2.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AGJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "IBBA3040A",
+        "class_nbr": "7194",
+        "course_title": "Business Lecture Series 商業管理講座系列",
+        "units": "1.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "270",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "E",
+        "period": [
+            "Th 06:30PM - 08:15PM"
+        ],
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

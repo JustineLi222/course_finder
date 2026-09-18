@@ -1,0 +1,830 @@
+[
+    {
+        "class_code": "FAAS1100A",
+        "class_nbr": "8833",
+        "course_title": "Drawing Fundamentals 素描基礎",
+        "units": "2.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "20",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_310"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1100B",
+        "class_nbr": "8832",
+        "course_title": "Drawing Fundamentals 素描基礎",
+        "units": "2.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAA_310"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1110A",
+        "class_nbr": "4762",
+        "course_title": "Principles of Chi Calligraphy 書法基礎",
+        "units": "2.00",
+        "staff": "- Dr. HO Weng Chi",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1110B",
+        "class_nbr": "8835",
+        "course_title": "Principles of Chi Calligraphy 書法基礎",
+        "units": "2.00",
+        "staff": "- Mr. TSO Cheuk Yim",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1140-",
+        "class_nbr": "4765",
+        "course_title": "Fundamentals of 3D Forming 立體造型藝術基礎",
+        "units": "2.00",
+        "staff": "- Miss CHU Cheuk Wai Margaret",
+        "quota": "15",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 11:30AM - 01:15PM",
+            "Tu 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAH_1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1700-",
+        "class_nbr": "9500",
+        "course_title": "Artistic Trad in the West 西方藝術傳統",
+        "units": "3.00",
+        "staff": "- Professor LI Yu Chieh",
+        "quota": "60",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS1900-",
+        "class_nbr": "4767",
+        "course_title": "Introduction to Art History 藝術史入門",
+        "units": "3.00",
+        "staff": "- Professor HO Ka Yi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "NAH_213",
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2101-",
+        "class_nbr": "5114",
+        "course_title": "Reading Chinese Painting 閱讀中國繪畫",
+        "units": "3.00",
+        "staff": "- Professor HO Ka Yi",
+        "quota": "40",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2206-",
+        "class_nbr": "8847",
+        "course_title": "Becoming a Comics Director 成為漫畫導演",
+        "units": "3.00",
+        "staff": "- Miss SO Man Yee",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAA_207"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2208-",
+        "class_nbr": "8654",
+        "course_title": "Basic Photography 攝影藝術",
+        "units": "3.00",
+        "staff": "- Mr SO Hing Keung",
+        "quota": "18",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "NAA_301"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2211-",
+        "class_nbr": "8980",
+        "course_title": "Western Painting I 西畫 (一)",
+        "units": "3.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "18",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_309"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2217-",
+        "class_nbr": "9000",
+        "course_title": "Mixed Media 混合媒介",
+        "units": "3.00",
+        "staff": "- Miss LAM Laam Jaffa",
+        "quota": "20",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_303"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS2218-",
+        "class_nbr": "8846",
+        "course_title": "Art, Archive and Technology 藝術、檔案與科技",
+        "units": "3.00",
+        "staff": "- Professor YIM Sui Fong",
+        "quota": "15",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_219"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3111-",
+        "class_nbr": "8842",
+        "course_title": "Chi Ceramic Tech: Theo & Pract 中國陶瓷工藝──理論與實踐",
+        "units": "3.00",
+        "staff": "- Miss WONG Lai Ching- Professor WAN Chui Ki",
+        "quota": "14",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3112-",
+        "class_nbr": "4768",
+        "course_title": "Ritual Bronzes of Ancient Chi 吉金──中國古代青銅禮器",
+        "units": "3.00",
+        "staff": "- Professor PENG Peng",
+        "quota": "50",
+        "vacancy": "47",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3202-",
+        "class_nbr": "8728",
+        "course_title": "Printmaking 版畫藝術",
+        "units": "3.00",
+        "staff": "- Mr CHUNG Tai Fu",
+        "quota": "17",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAA_312"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3206-",
+        "class_nbr": "8747",
+        "course_title": "Sculpting Moulding and Casting 塑形、模製與鑄造",
+        "units": "3.00",
+        "staff": "- Mr MOK Yat San",
+        "quota": "14",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3221-",
+        "class_nbr": "8898",
+        "course_title": "Figure Sketching 人物寫生",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Jin",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "EXR",
+        "section_code": "-E01",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "NAA_303"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3223-",
+        "class_nbr": "8929",
+        "course_title": "Calligraphy in Ancient Scripts 古文字書法",
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS3224-",
+        "class_nbr": "8722",
+        "course_title": "Chinese Delineative Painting 中國工筆畫",
+        "units": "3.00",
+        "staff": "- Professor TONG Kam Tang",
+        "quota": "20",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_204"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4101-",
+        "class_nbr": "6402",
+        "course_title": "Summer Internship 暑期實習",
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yin- Mr. LEUNG Ho Yin Harry",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4180A",
+        "class_nbr": "8166",
+        "course_title": "Thesis Research I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor HO Ka Yi",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4180B",
+        "class_nbr": "6463",
+        "course_title": "Thesis Research I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Yu Chieh",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4180C",
+        "class_nbr": "8009",
+        "course_title": "Thesis Research I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor WAN Chui Ki",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4180D",
+        "class_nbr": "8607",
+        "course_title": "Thesis Research I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor PENG Peng",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4201-",
+        "class_nbr": "9229",
+        "course_title": "Art As Profession 藝術專業專修",
+        "units": "3.00",
+        "staff": "- Dr. WONG Wai Yin",
+        "quota": "45",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4212-",
+        "class_nbr": "9044",
+        "course_title": "Creative Workshop III 創作研討（三）",
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui- Professor ZHOU Jin",
+        "quota": "20",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAA_207"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280A",
+        "class_nbr": "8167",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor TAM Wai Ping",
+        "quota": "20",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280B",
+        "class_nbr": "7877",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui",
+        "quota": "20",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280C",
+        "class_nbr": "6164",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor YIM Sui Fong",
+        "quota": "20",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280D",
+        "class_nbr": "6235",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Jin",
+        "quota": "20",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280E",
+        "class_nbr": "6565",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor TAM Wai Ping- Professor YIM Sui Fong",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FAAS4280F",
+        "class_nbr": "6456",
+        "course_title": "Graduation Workshop I 畢業創作 （一）",
+        "units": "3.00",
+        "staff": "- Professor TAO Shuhui- Professor ZHOU Jin",
+        "quota": "20",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

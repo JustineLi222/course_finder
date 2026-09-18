@@ -1,0 +1,1216 @@
+[
+    {
+        "class_code": "CHEM1070B",
+        "class_nbr": "9670",
+        "course_title": "Principles of Modern Chemistry 現代化學概論",
+        "units": "3.00",
+        "staff": "- Dr. HAU Chun Kit",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Th 11:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM1280B",
+        "class_nbr": "5652",
+        "course_title": "Intro to Org Chm & Biomolecule 有機化學與生物分子導論",
+        "units": "3.00",
+        "staff": "- Dr. LO Chui Man",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_LT4",
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM1300B",
+        "class_nbr": "9592",
+        "course_title": "Fundamentals in Physical Chem. 物理化學基礎",
+        "units": "2.00",
+        "staff": "- Professor Oleksandr SAVATIEIEV- Professor ZHANG Xinglong",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Fr 08:30AM - 09:15AM"
+        ],
+        "room": [
+            "LSK_LT1",
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM1870B",
+        "class_nbr": "8568",
+        "course_title": "Chem Lab: STEM and Daily Life 化學實驗：STEM 與日常生活",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. LO Chui Man",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_257"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM1870C",
+        "class_nbr": "8729",
+        "course_title": "Chem Lab: STEM and Daily Life 化學實驗：STEM 與日常生活",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. LO Chui Man",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_257"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2110-",
+        "class_nbr": "5764",
+        "course_title": "Fund of Spectroscopic Analysis 波譜分析法原理",
+        "units": "2.00",
+        "staff": "- Professor NG Kee Pui Dennis",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Fr 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "SC_L2",
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2270A",
+        "class_nbr": "5767",
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2270B",
+        "class_nbr": "5768",
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2270C",
+        "class_nbr": "5734",
+        "course_title": "Student Oriented Teaching 學生導讀",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Yu San- Dr. HAU Chun Kit- Dr. LO Chui Man",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "CS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2310-",
+        "class_nbr": "6094",
+        "course_title": "Atoms and Molecules 原子與分子",
+        "units": "3.00",
+        "staff": "- Professor TSE Ying Lung",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "MMW_710",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2400-",
+        "class_nbr": "5866",
+        "course_title": "Analytical Chemistry 分析化學",
+        "units": "2.00",
+        "staff": "- Professor WANG Ying",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_LT3",
+            "MMW_703"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870A",
+        "class_nbr": "9005",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "9",
+        "vacancy": "9",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870B",
+        "class_nbr": "8656",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "11",
+        "vacancy": "11",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Th 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870C",
+        "class_nbr": "9042",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870D",
+        "class_nbr": "8650",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "11",
+        "vacancy": "11",
+        "mode": "LAB",
+        "section_code": "DL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870E",
+        "class_nbr": "9034",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "LAB",
+        "section_code": "EL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "We 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870F",
+        "class_nbr": "8787",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "13",
+        "vacancy": "13",
+        "mode": "LAB",
+        "section_code": "FL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870G",
+        "class_nbr": "9035",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "LAB",
+        "section_code": "GL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2870H",
+        "class_nbr": "8936",
+        "course_title": "Integrated Chemistry Lab II 綜合化學實驗（二）",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "LAB",
+        "section_code": "HL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2872-",
+        "class_nbr": "8913",
+        "course_title": "Fundamental Ana Chem Lab 基礎分析化學實驗",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald",
+        "quota": "4",
+        "vacancy": "4",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2878A",
+        "class_nbr": "8700",
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "2",
+        "vacancy": "2",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2878B",
+        "class_nbr": "8978",
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "2",
+        "vacancy": "2",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Th 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2878C",
+        "class_nbr": "9018",
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "4",
+        "vacancy": "4",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227",
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2878D",
+        "class_nbr": "8969",
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "4",
+        "vacancy": "4",
+        "mode": "LAB",
+        "section_code": "DL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM2878E",
+        "class_nbr": "8970",
+        "course_title": "Basic Integrated Chem Lab II 基礎綜合化學實驗（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San",
+        "quota": "2",
+        "vacancy": "2",
+        "mode": "LAB",
+        "section_code": "EL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM",
+            "We 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52",
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3130-",
+        "class_nbr": "7355",
+        "course_title": "Transition Metal Chemistry 過渡金屬化學",
+        "units": "3.00",
+        "staff": "- Professor NG Kee Pui Dennis",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 10:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "MMW_703",
+            "SC_L4"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3230-",
+        "class_nbr": "5655",
+        "course_title": "Conjugated Mol. Synth. Polymer 共軛分子與合成高分子",
+        "units": "2.00",
+        "staff": "- Professor MIAO Qian",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3340-",
+        "class_nbr": "9540",
+        "course_title": "Materials Chemistry 材料科學",
+        "units": "2.00",
+        "staff": "- Professor CHEN Ye- Professor NGAI To",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3420-",
+        "class_nbr": "9241",
+        "course_title": "Accreditation of Lab Tests 實驗室測試的認證",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Wing Fat",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3820-",
+        "class_nbr": "8719",
+        "course_title": "Advanced Organic Chemistry Lab 高等有機化學實驗",
+        "units": "2.00",
+        "staff": "- Dr. MAK Kin Wah- Professor MIAO Qian",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_356"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3840-",
+        "class_nbr": "6990",
+        "course_title": "Physical Chemistry Lab II 物理化學實驗(二)",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San- Professor CHEN Ye- Professor NGAI To",
+        "quota": "16",
+        "vacancy": "16",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_227"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3860A",
+        "class_nbr": "8720",
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3860B",
+        "class_nbr": "8718",
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3860C",
+        "class_nbr": "8688",
+        "course_title": "Transition Metal Chemistry Lab 過渡金屬化學實驗",
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit- Professor NG Kee Pui Dennis",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_157"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM3880-",
+        "class_nbr": "8574",
+        "course_title": "Quality Testing Laboratory 質量保證測試實驗",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHAN Wing Fat",
+        "quota": "16",
+        "vacancy": "16",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_G52"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4040-",
+        "class_nbr": "8119",
+        "course_title": "Problem-based Learning II(Chm) 化學專題研習(二)",
+        "units": "4.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. CHEUNG Yu San- Dr. HAU Chun Kit- Dr. LO Chui Man- Dr. MAK Kin Wah",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4100-",
+        "class_nbr": "9230",
+        "course_title": "Advanced Inorganic Chemistry 高等無機化學",
+        "units": "3.00",
+        "staff": "- Professor LEE Hung Kay- Professor LYU Hairong",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LHC_104",
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4101-",
+        "class_nbr": "8469",
+        "course_title": "Organic Electronics 有機電子學",
+        "units": "2.00",
+        "staff": "- Professor WAN Qingyun",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4200-",
+        "class_nbr": "8457",
+        "course_title": "Bioorganic Chem & Chemical Bio 生物有機化學及化學生物學",
+        "units": "2.00",
+        "staff": "- Professor XIA Jiang",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4630-",
+        "class_nbr": "9273",
+        "course_title": "Asymmetric Organic Synthesis 不對稱有機合成",
+        "units": "2.00",
+        "staff": "- Professor YEUNG Ying Yeung",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4788-",
+        "class_nbr": "9409",
+        "course_title": "Chem Appl in Forensic Science 化學在法庭科學上之應用",
+        "units": "2.00",
+        "staff": "- Ms. SHUM Shuk Wah Nora",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4970-",
+        "class_nbr": "6628",
+        "course_title": "Research in Chem Sci II 化學專題研究（二）",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald- Dr. LO Chui Man",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CHEM4990-",
+        "class_nbr": "6949",
+        "course_title": "Undergraduate Thesis II 畢業論文（二）",
+        "units": "4.00",
+        "staff": "- Professor CHAN Tak Wah Dominic- Professor CHEN Ye- Professor KWONG Fuk Yee- Professor NG Kee Pui Dennis- Professor XIA Jiang- Professor YEUNG Ying Yeung",
+        "quota": "4",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

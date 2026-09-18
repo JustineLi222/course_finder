@@ -1,0 +1,194 @@
+[
+    {
+        "class_code": "ELED1010A",
+        "class_nbr": "6036",
+        "course_title": "Immersion Experience I 海外沉浸學習（一）",
+        "units": "1.00",
+        "staff": "- Professor BAI Barry",
+        "quota": "40",
+        "vacancy": "39",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED1020A",
+        "class_nbr": "6035",
+        "course_title": "Immersion Experience II 海外沉浸學習（二）",
+        "units": "1.00",
+        "staff": "- Professor BAI Barry",
+        "quota": "40",
+        "vacancy": "39",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED1030A",
+        "class_nbr": "6033",
+        "course_title": "Immersion Experience III 海外沉浸學習（三）",
+        "units": "1.00",
+        "staff": "- Professor BAI Barry",
+        "quota": "40",
+        "vacancy": "39",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED2810-",
+        "class_nbr": "8361",
+        "course_title": "Eng Lang Teach Theo & Method'y 英語教學的理論與方法",
+        "units": "3.00",
+        "staff": "- Dr. SHIU Wing Hoi Cathy",
+        "quota": "27",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED4730-",
+        "class_nbr": "8362",
+        "course_title": "English Lang Teaching Tech II 英語教學技巧（二）",
+        "units": "3.00",
+        "staff": "- Dr. SHIU Wing Hoi Cathy",
+        "quota": "25",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED4850-",
+        "class_nbr": "8363",
+        "course_title": "Stu Sec Lang Learner & Classrm 外語教學研究",
+        "units": "3.00",
+        "staff": "- Professor Scott Charles AUBREY",
+        "quota": "22",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "HTB_G4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED4920-",
+        "class_nbr": "8364",
+        "course_title": "ELT Curriculum Theory & Design 英語教學之課程理論與設計",
+        "units": "3.00",
+        "staff": "- Dr. CHOW Wai Kwan Alice",
+        "quota": "22",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HTB_G3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ELED4960-",
+        "class_nbr": "8365",
+        "course_title": "Teaching Eng Through Lang Arts 語言藝術與英語教學",
+        "units": "2.00",
+        "staff": "- Ms. LO Cheuk Ling",
+        "quota": "40",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_302",
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

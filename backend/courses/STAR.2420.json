@@ -1,0 +1,140 @@
+[
+    {
+        "class_code": "STAR2000-",
+        "class_nbr": "6196",
+        "course_title": "UG Research in Science I 科研培訓（一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAR2050-",
+        "class_nbr": "7883",
+        "course_title": "Seminar I 學術報告（一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "18",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAR3000-",
+        "class_nbr": "6037",
+        "course_title": "UG Research in Science II 科研培訓（二）",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "24",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAR3050-",
+        "class_nbr": "7884",
+        "course_title": "Seminar II 學術報告（二）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAR4000-",
+        "class_nbr": "6371",
+        "course_title": "UG Research in Science III 科研培訓（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAR4050-",
+        "class_nbr": "6392",
+        "course_title": "Seminar III 學術報告（三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "26",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

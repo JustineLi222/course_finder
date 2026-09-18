@@ -1,0 +1,611 @@
+[
+    {
+        "class_code": "GESC1000-",
+        "class_nbr": "8635",
+        "course_title": "College Assembly 書院聚會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1400",
+        "vacancy": "0",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1000A",
+        "class_nbr": "8781",
+        "course_title": "College Assembly 書院聚會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "2000",
+        "vacancy": "1005",
+        "mode": "ASB",
+        "section_code": "AA01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1130-",
+        "class_nbr": "9697",
+        "course_title": "University and Society 大學與社會",
+        "units": "3.00",
+        "staff": "- Dr. LAU Siu Lun",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1160-",
+        "class_nbr": "7478",
+        "course_title": "Environmental Problems in HK 香港環境問題",
+        "units": "3.00",
+        "staff": "- Professor TSANG Ling Ming",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_L4"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230AA",
+        "class_nbr": "8644",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Dr. AU Yi Man- Mr. CHAN Ying Kwok Kelvin- Ms. TAM Man Ching",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AAJ1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230BA",
+        "class_nbr": "7070",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Miss HSU Ka Lam- Mr. MA Kin Wai",
+        "quota": "25",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230CA",
+        "class_nbr": "5972",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Mr. LAM Ting Hin",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CAJ1",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230CB",
+        "class_nbr": "5968",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Mr. LAM Ting Hin",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CBJ1",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230DA",
+        "class_nbr": "7810",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Dr. HO Sai Hau- Ms. LI Ching Man",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "DAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230EA",
+        "class_nbr": "8689",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Miss TANG Chi Shan",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "EAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230FA",
+        "class_nbr": "5956",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Ms. MA Wai Man Anita",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "FAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230GA",
+        "class_nbr": "7793",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "GAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230HA",
+        "class_nbr": "7019",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Ka Ming",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "HAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230KA",
+        "class_nbr": "5973",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Ms. CHAU Wing Sze",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "KAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230MA",
+        "class_nbr": "6964",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Ms. CHUNG Ho Yan- Ms. LAI Siu Yuk",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "MAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230PA",
+        "class_nbr": "7216",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Ms. CHAN Man Hei",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "PAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230QA",
+        "class_nbr": "4980",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Ms. CHAU Wing Sze",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "QAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230RA",
+        "class_nbr": "7021",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Dr CHEUNG Pui Kei Eleanor",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "RAJ1",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1230TA",
+        "class_nbr": "7020",
+        "course_title": "Caring Heart Service Learning 懷仁服務學習",
+        "units": "3.00",
+        "staff": "- Dr. GAO Xin",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "TAJ1",
+        "language": "P",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1240-",
+        "class_nbr": "8498",
+        "course_title": "Buddhism As Lived 生活中的佛教：身、心與現代課題",
+        "units": "3.00",
+        "staff": "- Dr TONG Sau Lin",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;C",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1250-",
+        "class_nbr": "9565",
+        "course_title": "Startup Exploration 創業探索",
+        "units": "3.00",
+        "staff": "- Professor LAM Hiu Fung",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC1260-",
+        "class_nbr": "5847",
+        "course_title": "The Hong Kong Story 香港故事",
+        "units": "3.00",
+        "staff": "- Dr. LEE King Wa",
+        "quota": "87",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT8",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC2010-",
+        "class_nbr": "8218",
+        "course_title": "Film Gen:Love, Death & Laughs 電影類型：愛情、死亡及笑話",
+        "units": "3.00",
+        "staff": "- Mr TSUI Hong Chee Clarence",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC2131-",
+        "class_nbr": "7217",
+        "course_title": "Comprehending the City 現代城市剖析",
+        "units": "3.00",
+        "staff": "- Professor JIN Ting",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC2150-",
+        "class_nbr": "9807",
+        "course_title": "Reconstr'n of HK His & Soc Dev 香港歷史的重構與社會發展",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Wenyan",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 04:15PM",
+            "Fr 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESC2390-",
+        "class_nbr": "7339",
+        "course_title": "Genethics 基因倫理學",
+        "units": "3.00",
+        "staff": "- Dr. LO Fai Hang- Dr. NGAI Hung Kui",
+        "quota": "50",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

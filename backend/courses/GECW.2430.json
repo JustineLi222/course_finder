@@ -1,0 +1,179 @@
+[
+    {
+        "class_code": "GECW1000-",
+        "class_nbr": "8543",
+        "course_title": "Non-formal Learning I 非形式學習（一）",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Tu 06:30PM - 08:15PM",
+            "We 06:30PM - 08:15PM",
+            "Th 06:30PM - 08:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW2000-",
+        "class_nbr": "6439",
+        "course_title": "Non-formal Learning II 非形式學習（二）",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW3000-",
+        "class_nbr": "6383",
+        "course_title": "Non-formal Learning III 非形式學習（三）",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW4000-",
+        "class_nbr": "6384",
+        "course_title": "Non-formal Learning IV 非形式學習（四）",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW4021A",
+        "class_nbr": "6707",
+        "course_title": "College Project 專題討論",
+        "units": "3.00",
+        "staff": "- Professor Kenneth YOUNG",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "TUT",
+        "section_code": "AT01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW4022A",
+        "class_nbr": "6396",
+        "course_title": "College Project (Service) 專題討論（服務學習）",
+        "units": "3.00",
+        "staff": "- Professor Kenneth YOUNG",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "TUT",
+        "section_code": "AT01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECW4030-",
+        "class_nbr": "6493",
+        "course_title": "Service 服務",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

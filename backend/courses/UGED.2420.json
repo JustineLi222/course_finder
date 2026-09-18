@@ -1,0 +1,1185 @@
+[
+    {
+        "class_code": "UGED1084-",
+        "class_nbr": "8302",
+        "course_title": "Understanding Musicals 音樂劇賞析：從百老匯出發",
+        "units": "2.00",
+        "staff": "- Professor WONG Hei Yin",
+        "quota": "80",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111A",
+        "class_nbr": "7461",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "80",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111B",
+        "class_nbr": "4977",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Kin Lok",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111C",
+        "class_nbr": "7470",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Ka Fu",
+        "quota": "80",
+        "vacancy": "57",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111D",
+        "class_nbr": "7289",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Dr CHIN Chin Shing Arthur",
+        "quota": "80",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111E",
+        "class_nbr": "7290",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Miss CHAN Hei Man",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111F",
+        "class_nbr": "7769",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Miss CHAN Hei Man",
+        "quota": "80",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111G",
+        "class_nbr": "7368",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Dr. LO Kit Hung",
+        "quota": "80",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "P&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111H",
+        "class_nbr": "7190",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Professor Nicholas K RIMELL",
+        "quota": "80",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1111I",
+        "class_nbr": "5212",
+        "course_title": "Logic 邏輯",
+        "units": "2.00",
+        "staff": "- Miss CHAN Hei Man",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "C&amp;E",
+        "period": [
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1112-",
+        "class_nbr": "5550",
+        "course_title": "Logic and Argumentation 邏輯與論辯",
+        "units": "3.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "60",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_UG01",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1146-",
+        "class_nbr": "5878",
+        "course_title": "Chi Lang, Cul & Lang Learning 中國語言及文化與語言學習",
+        "units": "3.00",
+        "staff": "- Dr. LEE Siu Lun",
+        "quota": "40",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1252A",
+        "class_nbr": "8573",
+        "course_title": "The Successful Self 成功自我",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 10:15AM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1252B",
+        "class_nbr": "8556",
+        "course_title": "The Successful Self 成功自我",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1400-",
+        "class_nbr": "8377",
+        "course_title": "World Religions 世界宗教",
+        "units": "3.00",
+        "staff": "- Professor James D FRANKEL",
+        "quota": "20",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1520-",
+        "class_nbr": "8381",
+        "course_title": "Study of Christianity 基督宗教研究",
+        "units": "3.00",
+        "staff": "- Professor LAI Pan Chiu",
+        "quota": "20",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1553A",
+        "class_nbr": "7095",
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "units": "2.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1553B",
+        "class_nbr": "7685",
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "units": "2.00",
+        "staff": "- Miss LEE Wan Ying Anita",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1553C",
+        "class_nbr": "7097",
+        "course_title": "Live to Flourish 豐盛人生：正向心理學的理論與實",
+        "units": "2.00",
+        "staff": "- Miss LEE Wan Ying Anita",
+        "quota": "40",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1554A",
+        "class_nbr": "6283",
+        "course_title": "Positive Psy in Everyday 正向心理學的生活應用",
+        "units": "1.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "160",
+        "vacancy": "0",
+        "mode": "WBL",
+        "section_code": "AX01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1600A",
+        "class_nbr": "5932",
+        "course_title": "Choices in Life:Self Develop’t 生命的選擇：個人成長之旅",
+        "units": "3.00",
+        "staff": "- Dr. HO Wai Ming",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1651A",
+        "class_nbr": "7462",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Kar Choi",
+        "quota": "40",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1651B",
+        "class_nbr": "8244",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Miss CHEUNG Lok Yi",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1651C",
+        "class_nbr": "5933",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Mr. CHOI Wai Leuk Willy",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1796-",
+        "class_nbr": "7764",
+        "course_title": "Anatomy of an Entrepreneur 創業家解構",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chi Bong Dominic",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1810-",
+        "class_nbr": "5792",
+        "course_title": "Critical Thinking 批判思考",
+        "units": "2.00",
+        "staff": "- Dr CHIN Chin Shing Arthur",
+        "quota": "80",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1815-",
+        "class_nbr": "9346",
+        "course_title": "Philosophy as a Way of Life 哲學與生活之道",
+        "units": "2.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "60",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1997-",
+        "class_nbr": "8076",
+        "course_title": "Understanding Hearing Loss 認識聽力損失",
+        "units": "1.00",
+        "staff": "- Miss TANG Hoi Man Mandy",
+        "quota": "150",
+        "vacancy": "0",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED1998-",
+        "class_nbr": "6895",
+        "course_title": "Understand ADHD 認識注意力不足/過度活躍症與腦",
+        "units": "1.00",
+        "staff": "- Professor LAM Yu Hin",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2133-",
+        "class_nbr": "8303",
+        "course_title": "Music in Film 電影中的音樂",
+        "units": "3.00",
+        "staff": "- Dr. WONG Chun Wai",
+        "quota": "80",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2172-",
+        "class_nbr": "7740",
+        "course_title": "Existentialism and Literature 存在主義與文學作品",
+        "units": "3.00",
+        "staff": "- Professor Eli Park SORENSEN",
+        "quota": "20",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 12:30PM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C2",
+            "UCC_109",
+            "UCC_114",
+            "UCA_111",
+            "UCC_103",
+            "UCC_104",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2194-",
+        "class_nbr": "7514",
+        "course_title": "Children's Literature 兒童文學",
+        "units": "3.00",
+        "staff": "- Professor Jason Gawain GLECKMAN",
+        "quota": "20",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 01:30PM - 02:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_11",
+            "UCC_111",
+            "UCC_109",
+            "LDS_218",
+            "UCC_108",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2197-",
+        "class_nbr": "7525",
+        "course_title": "Gods Behaving Badly 神之惡：世界神話與傳說",
+        "units": "3.00",
+        "staff": "- Dr. LUI Chung Man",
+        "quota": "20",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 12:30PM - 01:15PM",
+            "We 01:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C5",
+            "UCC_204",
+            "UCC_105",
+            "UCC_104",
+            "LSK_203",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2261-",
+        "class_nbr": "4976",
+        "course_title": "Philosophy and Human Life 哲學與人生",
+        "units": "2.00",
+        "staff": "- Professor MANG Fan Lun",
+        "quota": "60",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2327-",
+        "class_nbr": "6646",
+        "course_title": "\"The Book of Changes\" & Wisdom 《易經》與人生智慧",
+        "units": "3.00",
+        "staff": "- Professor LAI Tsz Pang",
+        "quota": "45",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2338-",
+        "class_nbr": "5112",
+        "course_title": "Reading Chinese Painting 閱讀中國繪畫",
+        "units": "3.00",
+        "staff": "- Professor HO Ka Yi",
+        "quota": "20",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2637A",
+        "class_nbr": "5993",
+        "course_title": "Understanding Movies 認識電影",
+        "units": "3.00",
+        "staff": "- Dr CHOW Pui Ha",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2666-",
+        "class_nbr": "7577",
+        "course_title": "Ethics and Experience 倫理與人類體驗",
+        "units": "3.00",
+        "staff": "- Professor KUAN Teresa",
+        "quota": "20",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C2",
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2852-",
+        "class_nbr": "8612",
+        "course_title": "Freedom and Destiny 自由與命運",
+        "units": "2.00",
+        "staff": "- Professor Gregory Scott MOSS",
+        "quota": "60",
+        "vacancy": "47",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2891-",
+        "class_nbr": "5728",
+        "course_title": "Philosophy of Love 愛情哲學",
+        "units": "3.00",
+        "staff": "- Dr. MA Chun Fai",
+        "quota": "60",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2892-",
+        "class_nbr": "9423",
+        "course_title": "Philosophy of Travel 旅行哲學",
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "60",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2901-",
+        "class_nbr": "5384",
+        "course_title": "Death and Immortality 死亡與不朽",
+        "units": "2.00",
+        "staff": "- Professor TAO Kwok Cheung",
+        "quota": "60",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2921-",
+        "class_nbr": "5776",
+        "course_title": "Philosophy, Film and Life 哲學、電影與人生",
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2923-",
+        "class_nbr": "7758",
+        "course_title": "Sign Lang & Deaf Communities 探索手語及聾人社群",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Wenjing",
+        "quota": "50",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED2980-",
+        "class_nbr": "5881",
+        "course_title": "Meanings of Life 生活的意義",
+        "units": "3.00",
+        "staff": "- Professor Gordon Clark MATHEWS",
+        "quota": "30",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM",
+            "Th 03:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_115",
+            "UCC_114",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGED3322-",
+        "class_nbr": "8399",
+        "course_title": "Buddhism and Contemporary Life 佛教與現代生活",
+        "units": "3.00",
+        "staff": "- Professor WU Jiang",
+        "quota": "20",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

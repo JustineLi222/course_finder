@@ -1,0 +1,967 @@
+[
+    {
+        "class_code": "ACCT1111A",
+        "class_nbr": "9637",
+        "course_title": "Foundations in Financial Acctg 基礎財務會計",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "70",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT1111B",
+        "class_nbr": "9602",
+        "course_title": "Foundations in Financial Acctg 基礎財務會計",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "77",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT1111C",
+        "class_nbr": "5857",
+        "course_title": "Foundations in Financial Acctg 基礎財務會計",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "70",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2111A",
+        "class_nbr": "5652",
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "units": "3.00",
+        "staff": "- Professor GENG Lingfeng",
+        "quota": "130",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2111B",
+        "class_nbr": "7071",
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "units": "3.00",
+        "staff": "- Professor Janja BRENDEL",
+        "quota": "130",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2111C",
+        "class_nbr": "7035",
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "units": "3.00",
+        "staff": "- Professor GENG Lingfeng",
+        "quota": "130",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2111D",
+        "class_nbr": "7069",
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "units": "3.00",
+        "staff": "- Professor Janja BRENDEL",
+        "quota": "130",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2111E",
+        "class_nbr": "7287",
+        "course_title": "Introductory Fin'l Accounting 財務會計導論",
+        "units": "3.00",
+        "staff": "- Professor GENG Lingfeng",
+        "quota": "130",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2121A",
+        "class_nbr": "9076",
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2121B",
+        "class_nbr": "9690",
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2121C",
+        "class_nbr": "9446",
+        "course_title": "Introductory Mgt Accounting 管理會計導論",
+        "units": "3.00",
+        "staff": "- Professor KANG Ya",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2151A",
+        "class_nbr": "9133",
+        "course_title": "Legal Environment for Business 商業法律環境",
+        "units": "2.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2151B",
+        "class_nbr": "9600",
+        "course_title": "Legal Environment for Business 商業法律環境",
+        "units": "2.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT2151C",
+        "class_nbr": "9134",
+        "course_title": "Legal Environment for Business 商業法律環境",
+        "units": "2.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3111A",
+        "class_nbr": "5580",
+        "course_title": "Financial Reporting I 財務報告（一）",
+        "units": "3.00",
+        "staff": "- Dr. GUAN Yanling",
+        "quota": "60",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3112A",
+        "class_nbr": "5447",
+        "course_title": "Financial Reporting II 財務報告（二）",
+        "units": "3.00",
+        "staff": "- Professor Erik Thomas ELFRINK",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3112B",
+        "class_nbr": "7395",
+        "course_title": "Financial Reporting II 財務報告（二）",
+        "units": "3.00",
+        "staff": "- Professor Erik Thomas ELFRINK",
+        "quota": "60",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3112C",
+        "class_nbr": "5939",
+        "course_title": "Financial Reporting II 財務報告（二）",
+        "units": "3.00",
+        "staff": "- Professor Erik Thomas ELFRINK",
+        "quota": "60",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3121A",
+        "class_nbr": "5581",
+        "course_title": "Cost and Management Accounting 成本及管理會計",
+        "units": "3.00",
+        "staff": "- Professor YIN Laiyi",
+        "quota": "50",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3121B",
+        "class_nbr": "5582",
+        "course_title": "Cost and Management Accounting 成本及管理會計",
+        "units": "3.00",
+        "staff": "- Professor YIN Laiyi",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3121C",
+        "class_nbr": "9421",
+        "course_title": "Cost and Management Accounting 成本及管理會計",
+        "units": "3.00",
+        "staff": "- Professor YIN Laiyi",
+        "quota": "60",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3142A",
+        "class_nbr": "9689",
+        "course_title": "Accounting Information Systems 會計資訊系統",
+        "units": "3.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3142B",
+        "class_nbr": "9601",
+        "course_title": "Accounting Information Systems 會計資訊系統",
+        "units": "3.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3151A",
+        "class_nbr": "5677",
+        "course_title": "Business Law 商業法",
+        "units": "3.00",
+        "staff": "- Dr. LAW Man Wai Anthony",
+        "quota": "77",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3151B",
+        "class_nbr": "5404",
+        "course_title": "Business Law 商業法",
+        "units": "3.00",
+        "staff": "- Dr. LAW Man Wai Anthony",
+        "quota": "76",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3152A",
+        "class_nbr": "7153",
+        "course_title": "Company Law 公司法",
+        "units": "3.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "65",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3161A",
+        "class_nbr": "5405",
+        "course_title": "Taxation 稅務學",
+        "units": "3.00",
+        "staff": "- Dr. BUTT Yiu Yu",
+        "quota": "60",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3161B",
+        "class_nbr": "7154",
+        "course_title": "Taxation 稅務學",
+        "units": "3.00",
+        "staff": "- Dr. BUTT Yiu Yu",
+        "quota": "60",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT3241A",
+        "class_nbr": "9764",
+        "course_title": "Intro Python- Bus&AcctAnalytic 商業與會計分析的Python入門基礎",
+        "units": "3.00",
+        "staff": "- Professor WU Fan",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_408"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4001A",
+        "class_nbr": "7710",
+        "course_title": "Cap Proj: Bus Ethics & Entrep 頂點項目：商業道德與企業研究",
+        "units": "2.00",
+        "staff": "- Professor XU Ruoxi",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "We 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4001B",
+        "class_nbr": "7711",
+        "course_title": "Cap Proj: Bus Ethics & Entrep 頂點項目：商業道德與企業研究",
+        "units": "2.00",
+        "staff": "- Professor XU Ruoxi",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4111A",
+        "class_nbr": "9628",
+        "course_title": "Advanced Financial Accounting 高級財務會計",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4111B",
+        "class_nbr": "9629",
+        "course_title": "Advanced Financial Accounting 高級財務會計",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4111C",
+        "class_nbr": "9521",
+        "course_title": "Advanced Financial Accounting 高級財務會計",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4131A",
+        "class_nbr": "5653",
+        "course_title": "Auditing 審計學",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Meiling",
+        "quota": "53",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4131B",
+        "class_nbr": "5845",
+        "course_title": "Auditing 審計學",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Meiling",
+        "quota": "47",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CYT_215"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4131C",
+        "class_nbr": "9291",
+        "course_title": "Auditing 審計學",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Meiling",
+        "quota": "50",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4215A",
+        "class_nbr": "7079",
+        "course_title": "Cont Acct Iss in Global Market 全球市場中的當代會計問題",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Yiu Wing Eric",
+        "quota": "50",
+        "vacancy": "41",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4244A",
+        "class_nbr": "9558",
+        "course_title": "Blockchain Fund'tal for Acct 會計師區塊鏈基礎知識",
+        "units": "3.00",
+        "staff": "- Professor XU Ruoxi",
+        "quota": "50",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4262A",
+        "class_nbr": "7160",
+        "course_title": "China Taxation 中國稅法",
+        "units": "3.00",
+        "staff": "- Dr. GUAN Yanling",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ACCT4290A",
+        "class_nbr": "4729",
+        "course_title": "Pro Acct Intern 專業會計實習",
+        "units": "3.00",
+        "staff": "- Dr. SO Lok Kan",
+        "quota": "100",
+        "vacancy": "45",
+        "mode": "PRA",
+        "section_code": "AP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

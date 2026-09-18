@@ -1,0 +1,2899 @@
+[
+    {
+        "class_code": "GECC1000-",
+        "class_nbr": "8983",
+        "course_title": "College Assembly 書院週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "vacancy": "1391",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1000A",
+        "class_nbr": "8888",
+        "course_title": "College Assembly 書院週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "vacancy": "2784",
+        "mode": "ASB",
+        "section_code": "AA01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1130-",
+        "class_nbr": "8693",
+        "course_title": "Idea of a University 大學修學指導",
+        "units": "2.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "1000",
+        "vacancy": "252",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132-",
+        "class_nbr": "8659",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "1200",
+        "vacancy": "1200",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132A",
+        "class_nbr": "10191",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "500",
+        "vacancy": "499",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AA",
+        "class_nbr": "9609",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor YAM Cheuk Yin Colten",
+        "quota": "20",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "AAF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AB",
+        "class_nbr": "9608",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Rev. YIU Chi Ho",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "ABF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AC",
+        "class_nbr": "9607",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. SZETO Ka Sinn",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "ACF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_511"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AD",
+        "class_nbr": "4844",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. WONG Kin Ho",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "ADF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AE",
+        "class_nbr": "5976",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor TSANG Tak Ming Desmond",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "AEF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_511"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AF",
+        "class_nbr": "5977",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. LAM Kin Wing",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "FLD",
+        "section_code": "AFF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AG",
+        "class_nbr": "5888",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. LAM King Tin",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "AGF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AH",
+        "class_nbr": "5890",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Wing Shing David",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "AHF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AI",
+        "class_nbr": "5978",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. AHMAT Ricky",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AIF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_305"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AJ",
+        "class_nbr": "5981",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor CHOW Ka Ming",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AJF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AK",
+        "class_nbr": "5957",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. KWOK Ching Man",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AKF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AL",
+        "class_nbr": "5979",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. TANG Pui Yin",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "ALF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AM",
+        "class_nbr": "5984",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AMF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AN",
+        "class_nbr": "5887",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor LAW Thomas Ka Tung",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "ANF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_504"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AO",
+        "class_nbr": "5975",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor CHAN Kai Tai",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AOF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AP",
+        "class_nbr": "4819",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. TAM Pui Yuk",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "APF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AQ",
+        "class_nbr": "5891",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. LO Fai Hang",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "AQF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AR",
+        "class_nbr": "5889",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. NGAI Hung Kui",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "ARF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_139"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AS",
+        "class_nbr": "5895",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. SIN Man Ching",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "ASF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AT",
+        "class_nbr": "5980",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor ZHUANG Xiaohong",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "ATF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AU",
+        "class_nbr": "5894",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. NG Ming Ho",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AUF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AV",
+        "class_nbr": "5974",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. CHOY Siu Wah",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AVF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_406"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AW",
+        "class_nbr": "5948",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. YIP Long Sang Kenny",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AWF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AX",
+        "class_nbr": "5983",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor MO Kar Him",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "AXF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AY",
+        "class_nbr": "7204",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. TAM Sin Lung",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AYF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132AZ",
+        "class_nbr": "5982",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor LI Jianfeng",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "AZF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_105"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BA",
+        "class_nbr": "7205",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. CHIU Renee",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BAF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BB",
+        "class_nbr": "4827",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor YIM Cheuk Ling",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BBF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BC",
+        "class_nbr": "4828",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor KONG Siu Kai",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BCF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BD",
+        "class_nbr": "4860",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Wing Shan",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "BDF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BE",
+        "class_nbr": "4862",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor SO Kwok Wei",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "BEF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BF",
+        "class_nbr": "4863",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. WONG Yuk Shim",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BFF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BG",
+        "class_nbr": "4864",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor XIAN Yanfang",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BGF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BH",
+        "class_nbr": "4865",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor LEUNG Shui Yee",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "BHF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BI",
+        "class_nbr": "4866",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BIF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_204"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BJ",
+        "class_nbr": "4867",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. HO Ching Wai",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "FLD",
+        "section_code": "BJF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BK",
+        "class_nbr": "4868",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. HO Ching Wai",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "BKF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BL",
+        "class_nbr": "4869",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. LEUNG Suk Kit",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BLF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_304"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BM",
+        "class_nbr": "4870",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor WONG Pak Ho",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "BMF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BN",
+        "class_nbr": "4871",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Miss NG Sze Wing",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "BNF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BO",
+        "class_nbr": "4946",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. SIOW Lam",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "BOF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BP",
+        "class_nbr": "4872",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. CHIM Wong Kit",
+        "quota": "20",
+        "vacancy": "6",
+        "mode": "FLD",
+        "section_code": "BPF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BQ",
+        "class_nbr": "4873",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Rev. KO Kwok Hung",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "BQF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BR",
+        "class_nbr": "4874",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor MAK Ka Fai",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "BRF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BS",
+        "class_nbr": "5307",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. FONG Yuen Shan",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BSF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BT",
+        "class_nbr": "5383",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. YAU Chun Lung",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "BTF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BU",
+        "class_nbr": "7791",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. WONG Ka Lok",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "BUF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BV",
+        "class_nbr": "4830",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "FLD",
+        "section_code": "BVF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_506"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132BW",
+        "class_nbr": "4815",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "FLD",
+        "section_code": "BWF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CA",
+        "class_nbr": "4875",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. Benjamin Mark DRISCOL",
+        "quota": "22",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "CAF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CB",
+        "class_nbr": "4822",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. Thomas Michael HOPPER",
+        "quota": "22",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CBF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CC",
+        "class_nbr": "4878",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. ZHANG Li",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CCF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CD",
+        "class_nbr": "4879",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor WANG Jian",
+        "quota": "24",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "CDF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CE",
+        "class_nbr": "5951",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. GUO Yingxia",
+        "quota": "24",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "CEF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CF",
+        "class_nbr": "5949",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor DONG Wanxue",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CFF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CG",
+        "class_nbr": "5950",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor GAO Bo",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CGF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CH",
+        "class_nbr": "9463",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor YAN Yangqian",
+        "quota": "24",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "CHF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CI",
+        "class_nbr": "9810",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. LEE Ching",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "CIF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "FYB_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CJ",
+        "class_nbr": "4880",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor KANG Byung Ho",
+        "quota": "22",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "CJF1",
+        "language": "E",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132CK",
+        "class_nbr": "4845",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor MA Yuan",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CKF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132DA",
+        "class_nbr": "4881",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. AU YEUNG Chau Kin",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "DAF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_204"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132DB",
+        "class_nbr": "4917",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. CHAN Tze Kwan",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "DBF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132DC",
+        "class_nbr": "4919",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "FLD",
+        "section_code": "DCF1",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 10:30AM - 05:15PM"
+        ],
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "18/9"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EA",
+        "class_nbr": "4920",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. LEUNG Kit Chi Ella",
+        "quota": "20",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "EAF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EB",
+        "class_nbr": "9548",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. LI Jiawei",
+        "quota": "20",
+        "vacancy": "4",
+        "mode": "FLD",
+        "section_code": "EBF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_506"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EC",
+        "class_nbr": "9552",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Miss HE Shan",
+        "quota": "20",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "ECF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_504"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132ED",
+        "class_nbr": "4921",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor LI Yufan",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EDF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ARC_212"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EE",
+        "class_nbr": "4922",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. TIAN Jie Jenny",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EEF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_501"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EF",
+        "class_nbr": "4924",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Ms. Lucie ROGERS",
+        "quota": "22",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EFF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EG",
+        "class_nbr": "4926",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Mr. Jonathan Christopher STOECKEL",
+        "quota": "22",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EGF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EH",
+        "class_nbr": "4928",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Dr. LUI Wing Sing",
+        "quota": "20",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "EHF1",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1132EQ",
+        "class_nbr": "4954",
+        "course_title": "Learning through Serving: STOT 從服務中學習：學生為本教學",
+        "units": "1.00",
+        "staff": "- Professor Naomi Elaine THURSTON",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EQF1",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "FYB_403"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1230-",
+        "class_nbr": "10127",
+        "course_title": "Learning of Life 人生問學",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "500",
+        "vacancy": "500",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1230A",
+        "class_nbr": "4942",
+        "course_title": "Learning of Life 人生問學",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ka Fu Keith- Professor Raag ROLFSEN",
+        "quota": "65",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1230B",
+        "class_nbr": "4933",
+        "course_title": "Learning of Life 人生問學",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ka Fu Keith- Professor Raag ROLFSEN",
+        "quota": "154",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC1230C",
+        "class_nbr": "7087",
+        "course_title": "Learning of Life 人生問學",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ka Fu Keith- Professor Raag ROLFSEN",
+        "quota": "400",
+        "vacancy": "136",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130A",
+        "class_nbr": "8003",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Dr. HAN Man",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130AA",
+        "class_nbr": "8101",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "AAF1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130B",
+        "class_nbr": "8005",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Professor Raag ROLFSEN",
+        "quota": "16",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130C",
+        "class_nbr": "6220",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130D",
+        "class_nbr": "6141",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Dr. AHMAT Ricky",
+        "quota": "27",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "DF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA",
+            "Mo -"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "14/9"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130E",
+        "class_nbr": "6138",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Dr. KAM Ho Chuen",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130F",
+        "class_nbr": "6142",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Dr. YIN Ho Fai Hoover",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "FF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130G",
+        "class_nbr": "6146",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Mr. WAN Tsz Ki",
+        "quota": "27",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "GF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR",
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "2/10, 9/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130H",
+        "class_nbr": "6139",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Mr. WAN Tsz Ki",
+        "quota": "27",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "HF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR",
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "16/10, 23/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3130I",
+        "class_nbr": "6147",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Dr. LO Hau Man",
+        "quota": "12",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "IF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA",
+            "Fr 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR",
+            "HYS_G03"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "2/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230A",
+        "class_nbr": "6326",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor TANG Wai Lan Gladys",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230AA",
+        "class_nbr": "8105",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "AAF1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230B",
+        "class_nbr": "6123",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Dr. YEUNG Chi Yan",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230C",
+        "class_nbr": "6198",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor SHIU Tak Ying",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230D",
+        "class_nbr": "6124",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor MO Phoenix Kit Han",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "DF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230E",
+        "class_nbr": "8015",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor MO Kar Him",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "EF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230F",
+        "class_nbr": "7973",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Yin Colten",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "FF01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230H",
+        "class_nbr": "6264",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Ching Angela",
+        "quota": "16",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "HF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230I",
+        "class_nbr": "6265",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor WONG Pak Ho",
+        "quota": "16",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "IF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230J",
+        "class_nbr": "8619",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Dr. LI Chun Hong",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "JF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230K",
+        "class_nbr": "8618",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kit Fai",
+        "quota": "4",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "KF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC3230L",
+        "class_nbr": "8014",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kit Fai",
+        "quota": "16",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "LF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130A",
+        "class_nbr": "7476",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LI Kwan Hung Leo",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_UG02"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130AA",
+        "class_nbr": "6485",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "SEM",
+        "section_code": "AAS1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130B",
+        "class_nbr": "9139",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "28",
+        "vacancy": "10",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130C",
+        "class_nbr": "5841",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. AU YEUNG Chau Kin",
+        "quota": "28",
+        "vacancy": "8",
+        "mode": "SEM",
+        "section_code": "CS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130D",
+        "class_nbr": "4877",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. NG Chi Kong",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "DS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130E",
+        "class_nbr": "5963",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LING Cheuk Chi",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "ES01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130F",
+        "class_nbr": "7206",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor TAM Hon Lon",
+        "quota": "28",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "FS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130G",
+        "class_nbr": "9128",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CHUNG Ka Ki",
+        "quota": "28",
+        "vacancy": "6",
+        "mode": "SEM",
+        "section_code": "GS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_502"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130H",
+        "class_nbr": "5961",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor MIAO Qian",
+        "quota": "28",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "HS01",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130I",
+        "class_nbr": "5340",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Xinglong",
+        "quota": "28",
+        "vacancy": "13",
+        "mode": "SEM",
+        "section_code": "IS01",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130J",
+        "class_nbr": "5914",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor WANG Dajun",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "JS01",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130K",
+        "class_nbr": "5960",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. OUYANG Ming",
+        "quota": "28",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "KS01",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130L",
+        "class_nbr": "5937",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor LEE Wai Ying Joanna",
+        "quota": "28",
+        "vacancy": "8",
+        "mode": "SEM",
+        "section_code": "LS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130M",
+        "class_nbr": "5964",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "28",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "MS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130N",
+        "class_nbr": "5892",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor KIM Minseop",
+        "quota": "28",
+        "vacancy": "9",
+        "mode": "SEM",
+        "section_code": "NS01",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130O",
+        "class_nbr": "7207",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YANG Haibin",
+        "quota": "28",
+        "vacancy": "8",
+        "mode": "SEM",
+        "section_code": "OS01",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130P",
+        "class_nbr": "7792",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CAO Xinyu",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "PS01",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130Q",
+        "class_nbr": "5962",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor LAU LEUNG Mei Yee",
+        "quota": "28",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "QS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130R",
+        "class_nbr": "5905",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor MOK Bong Ho",
+        "quota": "28",
+        "vacancy": "8",
+        "mode": "SEM",
+        "section_code": "RS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130S",
+        "class_nbr": "5928",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Hong",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "SEM",
+        "section_code": "SS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GECC4130YA",
+        "class_nbr": "7814",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor Anna Maria BLOCKI",
+        "quota": "23",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "YAS1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "class_code": "LING1000-",
+        "class_nbr": "7778",
+        "course_title": "Invitation to Linguistics 語言學概論",
+        "units": "3.00",
+        "staff": "- Dr. LEI Ka Yan Margaret",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING1002-",
+        "class_nbr": "7780",
+        "course_title": "Exploring Grammar: Cantonese 語法探索：粵語",
+        "units": "3.00",
+        "staff": "- Professor Stephen James MATTHEWS",
+        "quota": "75",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING2003-",
+        "class_nbr": "8346",
+        "course_title": "Phonetics I 語音學（一）",
+        "units": "3.00",
+        "staff": "- Dr. ZHANG Weijun",
+        "quota": "65",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM",
+            "We 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING2006-",
+        "class_nbr": "7782",
+        "course_title": "Semantics 語義學",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Zhuo",
+        "quota": "85",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_103",
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING2008A",
+        "class_nbr": "7546",
+        "course_title": "Linguistic Argumentation II 語言學論證（二）",
+        "units": "3.00",
+        "staff": "- Dr. LEI Ka Yan Margaret",
+        "quota": "25",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING2008B",
+        "class_nbr": "7548",
+        "course_title": "Linguistic Argumentation II 語言學論證（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Zhuo",
+        "quota": "25",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING3103-",
+        "class_nbr": "7550",
+        "course_title": "Phonology II 音系學（二）",
+        "units": "3.00",
+        "staff": "- Professor LAI Yee King Regine",
+        "quota": "40",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING3201-",
+        "class_nbr": "7552",
+        "course_title": "First Language Acquisition 第一語言獲得",
+        "units": "3.00",
+        "staff": "- Professor YIP Choy Yin Virginia",
+        "quota": "65",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING3401-",
+        "class_nbr": "8558",
+        "course_title": "Linguistics and IT 語言學與資訊科技",
+        "units": "3.00",
+        "staff": "- Professor FENG Gangyi",
+        "quota": "45",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING4000-",
+        "class_nbr": "6174",
+        "course_title": "Research Project II 語言學研究（二）",
+        "units": "6.00",
+        "staff": "- Dr. CHEN Zhuo- Professor LAI Yee King Regine- Professor MOK Pik Ki Peggy",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LING4001-",
+        "class_nbr": "7985",
+        "course_title": "Research Project I 語言學研究（一）",
+        "units": "0.00",
+        "staff": "- Dr. CHEN Zhuo- Dr. LEI Ka Yan Margaret- Professor CAI Zhenguang- Professor CHEUNG Yam Leung- Professor FENG Gangyi- Professor LAI Yee King Regine- Professor MAI Ziyin- Professor MOK Pik Ki Peggy- Professor PAN Haihua",
+        "quota": "40",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "class_code": "GLEF3010-",
+        "class_nbr": "7750",
+        "course_title": "International Monetary Systems 國際貨幣制度",
+        "units": "3.00",
+        "staff": "- Dr. MOK Kai Chung",
+        "quota": "50",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF3030-",
+        "class_nbr": "9422",
+        "course_title": "Global Financial Markets 環球金融市場",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "53",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_UG02"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4020-",
+        "class_nbr": "9877",
+        "course_title": "Banking & Financial Regulation 國際金融與銀行監管",
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "40",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070A",
+        "class_nbr": "10181",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "AP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070B",
+        "class_nbr": "10182",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "BP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070C",
+        "class_nbr": "10183",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "CP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070D",
+        "class_nbr": "10184",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "DP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070E",
+        "class_nbr": "10185",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "EP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070F",
+        "class_nbr": "10186",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "FP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4070G",
+        "class_nbr": "10187",
+        "course_title": "Internship 環球經濟與金融企業工作實習",
+        "units": "3.00",
+        "staff": "- Dr. KOT Hung Wan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "GP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLEF4090-",
+        "class_nbr": "6363",
+        "course_title": "Research Project 環球經濟金融學之研究課題",
+        "units": "3.00",
+        "staff": "- Professor Mark HUP",
+        "quota": "15",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

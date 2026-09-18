@@ -1,0 +1,357 @@
+[
+    {
+        "class_code": "EDUC2140A",
+        "class_nbr": "5116",
+        "course_title": "AI and Data Sci in Education 人工智能與數據科學於教育之應用",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Wun Wa",
+        "quota": "45",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "SB_614"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC2240A",
+        "class_nbr": "7047",
+        "course_title": "Understand'g Sch'n&EDU Poli HK 學校制度與香港教育政策導論",
+        "units": "3.00",
+        "staff": "- Professor KWOK Yan Shing Henry",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3",
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3140-",
+        "class_nbr": "8479",
+        "course_title": "Curric'r Strat Tackl'g Ind Dif 處理個別差異的課程策略",
+        "units": "2.00",
+        "staff": "- Dr. WAN Wai Yan",
+        "quota": "60",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_506",
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3200-",
+        "class_nbr": "8477",
+        "course_title": "Develop'g Intercultural Compet 建立跨文化能力：體驗式學習",
+        "units": "3.00",
+        "staff": "- Ms. TSE Tsz Lui Rosa",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_212",
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3201A",
+        "class_nbr": "4772",
+        "course_title": "Ethics&Prof Stan for Teachers 教師倫理及專業標準",
+        "units": "2.00",
+        "staff": "- Dr. LAU Ngar Sze",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3311A",
+        "class_nbr": "8524",
+        "course_title": "Psy App to Learn'g & Teach'g 心理學的教學應用",
+        "units": "3.00",
+        "staff": "- Dr. LAU Cin Yee Cindy",
+        "quota": "75",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT2",
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3330A",
+        "class_nbr": "5128",
+        "course_title": "Optimize Learn and Dev Ss DN I 優化不同需求學生的學習與發展（一）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Xinjie",
+        "quota": "75",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC3330B",
+        "class_nbr": "5129",
+        "course_title": "Optimize Learn and Dev Ss DN I 優化不同需求學生的學習與發展（一）",
+        "units": "3.00",
+        "staff": "- Professor WANG Li",
+        "quota": "75",
+        "vacancy": "37",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC4040A",
+        "class_nbr": "7201",
+        "course_title": "Teaching Practice II 教學實習(二)",
+        "units": "5.00",
+        "staff": "- Dr. NG Mau Yuen Eric",
+        "quota": "45",
+        "vacancy": "29",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "2/11, 9/11, 16/11, 23/11, 30/11",
+            "3/11, 10/11, 17/11, 24/11, 1/12",
+            "4/11, 11/11, 18/11, 25/11, 2/12",
+            "5/11, 12/11, 19/11, 26/11, 3/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC4040B",
+        "class_nbr": "7202",
+        "course_title": "Teaching Practice II 教學實習(二)",
+        "units": "5.00",
+        "staff": "- Professor Scott Charles AUBREY",
+        "quota": "45",
+        "vacancy": "32",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "2/11, 9/11, 16/11, 23/11, 30/11",
+            "3/11, 10/11, 17/11, 24/11, 1/12",
+            "4/11, 11/11, 18/11, 25/11, 2/12",
+            "5/11, 12/11, 19/11, 26/11, 3/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC4040C",
+        "class_nbr": "7203",
+        "course_title": "Teaching Practice II 教學實習(二)",
+        "units": "5.00",
+        "staff": "- Professor NG Oi Lam",
+        "quota": "45",
+        "vacancy": "33",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 08:30AM - 06:15PM",
+            "Tu 08:30AM - 06:15PM",
+            "We 08:30AM - 06:15PM",
+            "Th 08:30AM - 06:15PM",
+            "Fr 08:30AM - 11:15AM",
+            "Fr 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "2/11, 9/11, 16/11, 23/11, 30/11",
+            "3/11, 10/11, 17/11, 24/11, 1/12",
+            "4/11, 11/11, 18/11, 25/11, 2/12",
+            "5/11, 12/11, 19/11, 26/11, 3/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12",
+            "6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC4330-",
+        "class_nbr": "4775",
+        "course_title": "School Guidance & Counselling 學校輔導",
+        "units": "2.00",
+        "staff": "- Professor LAM Yu Hin",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EDUC4340A",
+        "class_nbr": "8526",
+        "course_title": "Support'g Students with SEN 支援有特殊教育需要的學生",
+        "units": "2.00",
+        "staff": "- Professor SO Wing Chee",
+        "quota": "75",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_LT4",
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

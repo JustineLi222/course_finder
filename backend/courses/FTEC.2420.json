@@ -1,0 +1,619 @@
+[
+    {
+        "class_code": "FTEC3002-",
+        "class_nbr": "5055",
+        "course_title": "Intro to Fin Infrastructures 金融基建概論",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "70",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Tu 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_803",
+            "LHC_G04",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4002-",
+        "class_nbr": "5311",
+        "course_title": "Behavioral Analytics 定量行為分析",
+        "units": "3.00",
+        "staff": "- Professor JIA Yanwei",
+        "quota": "54",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "We 11:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_106",
+            "ERB_602",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4003-",
+        "class_nbr": "8248",
+        "course_title": "Data Mining for FinTech 面向金融科技的數據挖掘",
+        "units": "3.00",
+        "staff": "- Professor WANG Sibo",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 05:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_106",
+            "ERB_803",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998A",
+        "class_nbr": "6087",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHENG Hong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998B",
+        "class_nbr": "6091",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HE Xuedong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998C",
+        "class_nbr": "6092",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor GAO Xuefeng",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998D",
+        "class_nbr": "6093",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HE Xuedong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998E",
+        "class_nbr": "6081",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YANG Chen",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998F",
+        "class_nbr": "6080",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YANG Chen",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998G",
+        "class_nbr": "6088",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LAM Wai",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998H",
+        "class_nbr": "6089",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HE Xuedong",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998I",
+        "class_nbr": "6082",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YANG Chen",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998J",
+        "class_nbr": "6083",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Lingfei",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998K",
+        "class_nbr": "6090",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WAI Hoi To",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998L",
+        "class_nbr": "6094",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WAI Hoi To",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998M",
+        "class_nbr": "6095",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WANG Sibo",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998N",
+        "class_nbr": "6096",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998O",
+        "class_nbr": "6129",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HE Xuedong",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998P",
+        "class_nbr": "6130",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Nan",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998Q",
+        "class_nbr": "6347",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor AHN Dohyun",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998R",
+        "class_nbr": "6057",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WU Xixin",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998S",
+        "class_nbr": "6260",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WANG Sibo",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998T",
+        "class_nbr": "6279",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor XU Huifu",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998U",
+        "class_nbr": "6280",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor XU Huifu",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998V",
+        "class_nbr": "5056",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor JIA Yanwei",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FTEC4998W",
+        "class_nbr": "8104",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIU Xunying",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "WJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

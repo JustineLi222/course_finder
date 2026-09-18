@@ -1,0 +1,281 @@
+[
+    {
+        "class_code": "GLSD1001A",
+        "class_nbr": "5807",
+        "course_title": "Theo. Perspectives on Glob. 全球化的理論視角",
+        "units": "3.00",
+        "staff": "- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor CHEUNG Ho Ming- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD2001-",
+        "class_nbr": "5593",
+        "course_title": "Research Methods for GS 全球研究的研究方法",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie",
+        "quota": "45",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD2101-",
+        "class_nbr": "5686",
+        "course_title": "Global Communication 全球傳播",
+        "units": "3.00",
+        "staff": "- Mr. POON Chi Hang Aries",
+        "quota": "50",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD2501-",
+        "class_nbr": "7125",
+        "course_title": "World Economic Order 世界經濟秩序",
+        "units": "3.00",
+        "staff": "- Dr. Efstratios POURZITAKIS",
+        "quota": "30",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD3404-",
+        "class_nbr": "7485",
+        "course_title": "Japan and Global Pol. Econ. 日本與全球政治經濟",
+        "units": "3.00",
+        "staff": "- Dr. HORIUCHI Toru",
+        "quota": "45",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD3411-",
+        "class_nbr": "8562",
+        "course_title": "Special Topic in Sus & Env 可持續發展和環境專題",
+        "units": "3.00",
+        "staff": "- Dr. Maria Del Mar FRANCESCH HUIDOBRO",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD3511-",
+        "class_nbr": "8468",
+        "course_title": "Special Topic in Global Econ 全球經濟專題",
+        "units": "3.00",
+        "staff": "- Dr. HUNG Wing Lok",
+        "quota": "30",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD3601-",
+        "class_nbr": "7905",
+        "course_title": "Internship 實習",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie",
+        "quota": "30",
+        "vacancy": "9",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD4001-",
+        "class_nbr": "6360",
+        "course_title": "GS Capstone Thesis I 全球研究畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung- Professor WONG Seanon Si Lon",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD4002-",
+        "class_nbr": "6421",
+        "course_title": "GS Capstone Thesis II 全球研究畢業論文（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD4003-",
+        "class_nbr": "6420",
+        "course_title": "GS Capstone Project I 全球研究畢業報告（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GLSD4004-",
+        "class_nbr": "6446",
+        "course_title": "GS Capstone Project II 全球研究畢業報告（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

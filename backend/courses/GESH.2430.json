@@ -1,0 +1,77 @@
+[
+    {
+        "class_code": "GESH1000-",
+        "class_nbr": "6742",
+        "course_title": "College Symposium 書院聚會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "700",
+        "vacancy": "700",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GESH2011-",
+        "class_nbr": "7713",
+        "course_title": "S-L:Bringing Knowledge to Life 服務學習課程—明理致用",
+        "units": "1.00",
+        "staff": "- Dr SHIK Wai Yan Angela",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 05:30PM - 07:15PM"
+        ],
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GESH2012-",
+        "class_nbr": "5929",
+        "course_title": "S-L:Action towards Personhood 服務學習課程—踐行立人",
+        "units": "2.00",
+        "staff": "- Dr SHIK Wai Yan Angela",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

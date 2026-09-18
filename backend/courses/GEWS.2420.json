@@ -1,0 +1,192 @@
+[
+    {
+        "class_code": "GEWS1000-",
+        "class_nbr": "9416",
+        "course_title": "College Assembly/High Table 書院週會／高桌晚宴",
+        "units": "0.00",
+        "staff": "- Professor LIU Yan",
+        "quota": "400",
+        "vacancy": "0",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C#E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS1011-",
+        "class_nbr": "5850",
+        "course_title": "College Induction Course 新生啟導科目",
+        "units": "3.00",
+        "staff": "- Professor LIU Yan",
+        "quota": "350",
+        "vacancy": "97",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT5",
+            "YIA_LT1",
+            "ERB_712",
+            "ERB_804",
+            "LSK_304",
+            "LSK_515",
+            "ERB_703",
+            "LSK_201",
+            "LSK_306",
+            "ERB_706",
+            "ERB_405",
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "11/9",
+            "18/9",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS1012-",
+        "class_nbr": "4999",
+        "course_title": "Exploration of Self, UNIV & HK 發掘自我、大學及當地文化",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Jingying",
+        "quota": "70",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT4",
+            "YIA_LT3",
+            "LHC_101",
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "11/9",
+            "18/9",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS2011-",
+        "class_nbr": "8866",
+        "course_title": "The Art of Leadership 領導藝術",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WS1_LG301"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS2041-",
+        "class_nbr": "8893",
+        "course_title": "Future of Food 糧食的未來",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WS1_205"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS2111-",
+        "class_nbr": "9761",
+        "course_title": "History from Words 從文本看歷史",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEWS2151-",
+        "class_nbr": "9680",
+        "course_title": "Emotional Wellness Promotion 與情緒同行：理論及實踐",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Ying Ying",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "TUT",
+        "section_code": "-T01",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_703"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

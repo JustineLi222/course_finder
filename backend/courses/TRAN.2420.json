@@ -1,0 +1,627 @@
+[
+    {
+        "class_code": "TRAN1000A",
+        "class_nbr": "7191",
+        "course_title": "Lost and Found: Tran 取與捨—翻譯的實踐與創新",
+        "units": "3.00",
+        "staff": "- Mr. LEONG Chon",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_506",
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN1010A",
+        "class_nbr": "7717",
+        "course_title": "Principles of Translation 翻譯概論",
+        "units": "3.00",
+        "staff": "- Dr. LI Jiawei",
+        "quota": "45",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN1010B",
+        "class_nbr": "7720",
+        "course_title": "Principles of Translation 翻譯概論",
+        "units": "3.00",
+        "staff": "- Dr. LI Jiawei",
+        "quota": "45",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN1030A",
+        "class_nbr": "8991",
+        "course_title": "Intro to Interpreting 傳譯入門",
+        "units": "3.00",
+        "staff": "- Dr. LI Li",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN2110-",
+        "class_nbr": "4896",
+        "course_title": "Culture and Translation 文化與翻譯",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Mengyuan",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN2140-",
+        "class_nbr": "8930",
+        "course_title": "Simultaneous Interpreting: P-E 同聲傳譯：普通話－英語",
+        "units": "3.00",
+        "staff": "- Professor WEI Ling Chia",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN2610A",
+        "class_nbr": "8647",
+        "course_title": "Intro to Computer-aided Tran 電腦輔助翻譯導論",
+        "units": "3.00",
+        "staff": "- Dr. WU Yinran",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN2840-",
+        "class_nbr": "7443",
+        "course_title": "Intro to Legal Translation 法律翻譯初階",
+        "units": "3.00",
+        "staff": "- Dr. WANG Yan",
+        "quota": "40",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3080-",
+        "class_nbr": "5209",
+        "course_title": "Research Methods in Trans Stud 譯學研究方法",
+        "units": "3.00",
+        "staff": "- Professor James George ST ANDRE",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3270-",
+        "class_nbr": "7722",
+        "course_title": "Literary Tran Strategies: E-C 文學翻譯策略：英譯中",
+        "units": "3.00",
+        "staff": "- Dr. JI Lingjie",
+        "quota": "40",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3620-",
+        "class_nbr": "4893",
+        "course_title": "Tran Tech in the Age of AI AI 時代的翻譯科技",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Chung",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_129"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3810-",
+        "class_nbr": "7724",
+        "course_title": "Govt & Public Affairs Tran 政府及公共事務翻譯",
+        "units": "3.00",
+        "staff": "- Dr WONG Kim Fan",
+        "quota": "40",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3830-",
+        "class_nbr": "9226",
+        "course_title": "Mass Media Translation 傳播媒介翻譯",
+        "units": "3.00",
+        "staff": "- Dr. LI Li",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_703",
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3850-",
+        "class_nbr": "7726",
+        "course_title": "Science & Technology Tran 科技翻譯",
+        "units": "3.00",
+        "staff": "- Dr. LEE Kwok Kan Gloria",
+        "quota": "45",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_UG02"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN3870-",
+        "class_nbr": "7767",
+        "course_title": "Tran of Texts in Social Sci 社會科學文本的翻譯",
+        "units": "3.00",
+        "staff": "- Dr. LI Li",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4510A",
+        "class_nbr": "8187",
+        "course_title": "Translation Project: Eng-Chi 英漢長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Chung",
+        "quota": "6",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4510B",
+        "class_nbr": "6568",
+        "course_title": "Translation Project: Eng-Chi 英漢長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. LI Li",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4510C",
+        "class_nbr": "6570",
+        "course_title": "Translation Project: Eng-Chi 英漢長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. WU Yinran",
+        "quota": "6",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4510D",
+        "class_nbr": "6588",
+        "course_title": "Translation Project: Eng-Chi 英漢長篇翻譯",
+        "units": "3.00",
+        "staff": "- Mr. LEONG Chon",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4510E",
+        "class_nbr": "6590",
+        "course_title": "Translation Project: Eng-Chi 英漢長篇翻譯",
+        "units": "3.00",
+        "staff": "- Miss CHAU Kam Hung Carrie",
+        "quota": "6",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4520A",
+        "class_nbr": "8188",
+        "course_title": "Translation Project: Chi-Eng 漢英長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. WANG Yan",
+        "quota": "9",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4520B",
+        "class_nbr": "6592",
+        "course_title": "Translation Project: Chi-Eng 漢英長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. LI Jiawei",
+        "quota": "6",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4520C",
+        "class_nbr": "6594",
+        "course_title": "Translation Project: Chi-Eng 漢英長篇翻譯",
+        "units": "3.00",
+        "staff": "- Dr. WU Yinran",
+        "quota": "6",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4520D",
+        "class_nbr": "6596",
+        "course_title": "Translation Project: Chi-Eng 漢英長篇翻譯",
+        "units": "3.00",
+        "staff": "- Ms. JIANG Hong",
+        "quota": "6",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "TRAN4520E",
+        "class_nbr": "10238",
+        "course_title": "Translation Project: Chi-Eng 漢英長篇翻譯",
+        "units": "3.00",
+        "staff": "- Mr. AU Kim Lung",
+        "quota": "5",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

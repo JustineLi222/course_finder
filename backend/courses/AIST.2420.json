@@ -1,0 +1,1155 @@
+[
+    {
+        "class_code": "AIST1000-",
+        "class_nbr": "7644",
+        "course_title": "Introduction to AI & ML 人工智能與機器學習入門",
+        "units": "1.00",
+        "staff": "- Professor XU Qiang",
+        "quota": "65",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST2010-",
+        "class_nbr": "4810",
+        "course_title": "Intro to Computer Music 電腦音樂導論",
+        "units": "3.00",
+        "staff": "- Dr. CHAU Chuck Jee",
+        "quota": "50",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 10:15AM",
+            "Th 12:30PM - 02:15PM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_401",
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST3030-",
+        "class_nbr": "9823",
+        "course_title": "Numerical Optimization 數值優化",
+        "units": "3.00",
+        "staff": "- Professor Farzan FARNIA",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "BMS_LT",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4010-",
+        "class_nbr": "7215",
+        "course_title": "Foundation of Applied DL 應用深度學習基礎",
+        "units": "3.00",
+        "staff": "- Professor LI Yu",
+        "quota": "68",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_L4",
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4040-",
+        "class_nbr": "5095",
+        "course_title": "Math Foundations of DL 深度學習的數學基礎",
+        "units": "3.00",
+        "staff": "- Professor LIU Weiyang",
+        "quota": "60",
+        "vacancy": "38",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_LT1",
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998A",
+        "class_nbr": "8131",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor PAN Jialin",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AA",
+        "class_nbr": "8148",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YOUNG Fung Yu",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AB",
+        "class_nbr": "6603",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YU Bei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ABJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AC",
+        "class_nbr": "6604",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHAU Chuck Jee",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "ACJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AD",
+        "class_nbr": "6218",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEONG Chi Hong",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ADJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AE",
+        "class_nbr": "8152",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHUI Yim Pan",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "AEJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AF",
+        "class_nbr": "8168",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. KAM Ho Chuen",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AFJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AG",
+        "class_nbr": "8169",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. LAM King Tin",
+        "quota": "10",
+        "vacancy": "6",
+        "mode": "PRJ",
+        "section_code": "AGJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AH",
+        "class_nbr": "6324",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. LAW Yat Chiu",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AHJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AI",
+        "class_nbr": "6230",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LU Songtao",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AIJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AJ",
+        "class_nbr": "8149",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. SUM Kwok Wing",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AK",
+        "class_nbr": "6211",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. YU Michael Ruisi",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AKJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AL",
+        "class_nbr": "8150",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. TSANG Siu Chung",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "ALJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AM",
+        "class_nbr": "8170",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor Lauren Marcelyn PICK",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AMJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AN",
+        "class_nbr": "8175",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Hanrui",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ANJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AO",
+        "class_nbr": "8117",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor XU Qiang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AOJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AP",
+        "class_nbr": "8094",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor KING Kuo Chin Irwin",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "APJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998AQ",
+        "class_nbr": "8171",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YUAN Yixuan",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "AQJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998B",
+        "class_nbr": "4812",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998C",
+        "class_nbr": "6219",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHENG James",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998D",
+        "class_nbr": "8134",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor DOU Qi",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998E",
+        "class_nbr": "6209",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor Farzan FARNIA",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998F",
+        "class_nbr": "6425",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor FU Chi Wing",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998G",
+        "class_nbr": "8135",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIANG Zhiding",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998H",
+        "class_nbr": "8136",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HO Tsung Yi",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998I",
+        "class_nbr": "8137",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Shaohua",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998J",
+        "class_nbr": "8139",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIU Shengchao",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998K",
+        "class_nbr": "6322",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998L",
+        "class_nbr": "8140",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LEE Pak Ching",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998M",
+        "class_nbr": "8132",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. JIANG Yuli",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998N",
+        "class_nbr": "8141",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Yu",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998O",
+        "class_nbr": "8138",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LO Chi Lik Eric",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998P",
+        "class_nbr": "6217",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LYU Rung Tsong Michael",
+        "quota": "10",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998Q",
+        "class_nbr": "8145",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor MENG Wei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998R",
+        "class_nbr": "8142",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor SHAO Zili",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998S",
+        "class_nbr": "8146",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor TAO Yufei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998T",
+        "class_nbr": "8133",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIANG Xiao",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998U",
+        "class_nbr": "6323",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WANG Liwei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998V",
+        "class_nbr": "8151",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Yusheng",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998W",
+        "class_nbr": "8143",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIU Weiyang",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "WJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998X",
+        "class_nbr": "6210",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor XU Hong",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998Y",
+        "class_nbr": "8144",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WANG Zhengrong",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "YJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4998Z",
+        "class_nbr": "8147",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YANG Ming Chang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ZJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "AIST4999-",
+        "class_nbr": "6321",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

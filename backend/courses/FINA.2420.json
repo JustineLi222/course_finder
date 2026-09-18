@@ -1,0 +1,1554 @@
+[
+    {
+        "class_code": "FINA2010A",
+        "class_nbr": "7480",
+        "course_title": "Financial Management 財務管理",
+        "units": "3.00",
+        "staff": "- Professor YAO Chen",
+        "quota": "80",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA2010B",
+        "class_nbr": "7293",
+        "course_title": "Financial Management 財務管理",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA2010C",
+        "class_nbr": "9725",
+        "course_title": "Financial Management 財務管理",
+        "units": "3.00",
+        "staff": "- Professor YAO Chen",
+        "quota": "80",
+        "vacancy": "37",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA2220A",
+        "class_nbr": "5541",
+        "course_title": "Quant Methods for Act Ana I 精算分析之基礎計量方法（一）",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "60",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_303",
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA2310A",
+        "class_nbr": "7188",
+        "course_title": "Fundamentals of Business FIN 金融財務基礎",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3010A",
+        "class_nbr": "9758",
+        "course_title": "Financial Markets 金融市場",
+        "units": "3.00",
+        "staff": "- Professor JEUNG Jinoug",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3010B",
+        "class_nbr": "5551",
+        "course_title": "Financial Markets 金融市場",
+        "units": "3.00",
+        "staff": "- Professor JEUNG Jinoug",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3010C",
+        "class_nbr": "5543",
+        "course_title": "Financial Markets 金融市場",
+        "units": "3.00",
+        "staff": "- Professor JEUNG Jinoug",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3020A",
+        "class_nbr": "7169",
+        "course_title": "International Finance 國際金融",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Henry Haorui",
+        "quota": "70",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3020B",
+        "class_nbr": "5542",
+        "course_title": "International Finance 國際金融",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Henry Haorui",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3020C",
+        "class_nbr": "7170",
+        "course_title": "International Finance 國際金融",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Henry Haorui",
+        "quota": "70",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3070A",
+        "class_nbr": "7467",
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Keling",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3070B",
+        "class_nbr": "9595",
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Keling",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3070C",
+        "class_nbr": "9610",
+        "course_title": "Corp Fin:Theory & Practice 公司財務：理論與實務",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Keling",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3080A",
+        "class_nbr": "5544",
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "units": "3.00",
+        "staff": "- Professor YING Chao",
+        "quota": "70",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_408"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3080B",
+        "class_nbr": "5545",
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "units": "3.00",
+        "staff": "- Professor YING Chao",
+        "quota": "70",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3080C",
+        "class_nbr": "7306",
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "units": "3.00",
+        "staff": "- Professor WU Xian",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3080D",
+        "class_nbr": "9310",
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "units": "3.00",
+        "staff": "- Professor WU Xian",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209B"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3080E",
+        "class_nbr": "9311",
+        "course_title": "Investment Ana & Portfolio Mgt 投資分析與組合管理",
+        "units": "3.00",
+        "staff": "- Professor WU Xian",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3210A",
+        "class_nbr": "7307",
+        "course_title": "Risk Management and Insurance 風險管理與保險",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3210B",
+        "class_nbr": "9735",
+        "course_title": "Risk Management and Insurance 風險管理與保險",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Hei Ming",
+        "quota": "70",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3222A",
+        "class_nbr": "8483",
+        "course_title": "Basic Short-term Act Math 基本短期保險數學",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_303",
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3240A",
+        "class_nbr": "9830",
+        "course_title": "Corp Property & Liability Insu 公司財產與責任保險",
+        "units": "3.00",
+        "staff": "- Professor YEH Jia Hsing",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3260A",
+        "class_nbr": "10156",
+        "course_title": "Internship Experience 工作實習",
+        "units": "1.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3290A",
+        "class_nbr": "5799",
+        "course_title": "Linear Models for Actuaries 線性模型在精算學的應用",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "WMY_506",
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3350A",
+        "class_nbr": "8513",
+        "course_title": "Foreign Exchange MKT Practices 外匯市場實務",
+        "units": "1.00",
+        "staff": "- Mr. TSANG Tak Sang",
+        "quota": "60",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "19/9",
+            "3/10, 10/10",
+            "24/10, 31/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3360A",
+        "class_nbr": "8502",
+        "course_title": "Der War Pro & Arb Trad Concept 衍生權證、自營交易及套利策略",
+        "units": "1.00",
+        "staff": "- Mr. LI Siu Pan Vincent",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "15/9, 22/9, 29/9, 6/10, 13/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3370A",
+        "class_nbr": "9016",
+        "course_title": "Intro to Bloomberg & Reuters 彭博及路透終端機應用",
+        "units": "1.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_409"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3370B",
+        "class_nbr": "9017",
+        "course_title": "Intro to Bloomberg & Reuters 彭博及路透終端機應用",
+        "units": "1.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_409"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3399A",
+        "class_nbr": "7620",
+        "course_title": "Current Issues in Finance 當前金融專題",
+        "units": "1.00",
+        "staff": "- Mr. HONG En",
+        "quota": "60",
+        "vacancy": "51",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "17/9, 24/9",
+            "8/10, 15/10",
+            "5/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA3399B",
+        "class_nbr": "8500",
+        "course_title": "Current Issues in Finance 當前金融專題",
+        "units": "1.00",
+        "staff": "- Mr. FOK Ho Wah",
+        "quota": "60",
+        "vacancy": "41",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Fr 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "18/9, 25/9, 2/10, 9/10, 16/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4030A",
+        "class_nbr": "8485",
+        "course_title": "Selected Topics in Finance 金融專題",
+        "units": "3.00",
+        "staff": "- Dr. LAM Full Yet Eric Campbell",
+        "quota": "65",
+        "vacancy": "58",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4050A",
+        "class_nbr": "8457",
+        "course_title": "Mergers & Acquisitions 合併與收購",
+        "units": "3.00",
+        "staff": "- Professor CHEW Seen Meng",
+        "quota": "60",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4110A",
+        "class_nbr": "8480",
+        "course_title": "Options and Futures 期權與期貨",
+        "units": "3.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "65",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4110B",
+        "class_nbr": "8458",
+        "course_title": "Options and Futures 期權與期貨",
+        "units": "3.00",
+        "staff": "- Dr. MOK Ka Ming",
+        "quota": "65",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4150A",
+        "class_nbr": "8672",
+        "course_title": "Quan Methods for Fin'l Deriva 金融衍生工具的數量方法",
+        "units": "3.00",
+        "staff": "- Professor LAW Ka Fai",
+        "quota": "65",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Sa 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "12/9, 19/9",
+            "3/10, 10/10, 17/10, 24/10, 31/10, 7/11, 14/11, 21/11, 28/11, 5/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4215A",
+        "class_nbr": "9002",
+        "course_title": "Intro to Act Com Using Prophet 精算軟件Prophet導論",
+        "units": "1.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_611"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290A",
+        "class_nbr": "10157",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290B",
+        "class_nbr": "10162",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor LIM Hong Beng",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290C",
+        "class_nbr": "10158",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290D",
+        "class_nbr": "10177",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor WANG Zijia",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290E",
+        "class_nbr": "10173",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor YEH Jia Hsing",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290F",
+        "class_nbr": "10169",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor ZHU Xiao Bai",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290G",
+        "class_nbr": "10166",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290H",
+        "class_nbr": "10163",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor LIM Hong Beng",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290I",
+        "class_nbr": "10159",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290J",
+        "class_nbr": "10178",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor WANG Zijia",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290K",
+        "class_nbr": "10174",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor YEH Jia Hsing",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290L",
+        "class_nbr": "10170",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor ZHU Xiao Bai",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290M",
+        "class_nbr": "10167",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290N",
+        "class_nbr": "10164",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor LIM Hong Beng",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290O",
+        "class_nbr": "10160",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290P",
+        "class_nbr": "10179",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor WANG Zijia",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290Q",
+        "class_nbr": "10175",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor YEH Jia Hsing",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290R",
+        "class_nbr": "10171",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor ZHU Xiao Bai",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290S",
+        "class_nbr": "10168",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Dr. LEE Wing Yan",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290T",
+        "class_nbr": "10165",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor LIM Hong Beng",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290U",
+        "class_nbr": "10161",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor NG Cheuk Yin Andrew",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290V",
+        "class_nbr": "10180",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor WANG Zijia",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290W",
+        "class_nbr": "10176",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor YEH Jia Hsing",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "WJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4290X",
+        "class_nbr": "10172",
+        "course_title": "Actuarial Internship 精算實習",
+        "units": "3.00",
+        "staff": "- Professor ZHU Xiao Bai",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4320A",
+        "class_nbr": "8464",
+        "course_title": "China Equity Securities Market 中國權益證券市場",
+        "units": "1.00",
+        "staff": "- Mr. LAUDA Frank Kwanho",
+        "quota": "60",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "14/9, 21/9, 28/9, 5/10, 12/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4340A",
+        "class_nbr": "8460",
+        "course_title": "Structured Product: Fund & Ana 結構性産品：基礎與分析",
+        "units": "1.00",
+        "staff": "- Mr. CHAN Chun Hin",
+        "quota": "60",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "14/10, 21/10, 28/10, 4/11, 11/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4370A",
+        "class_nbr": "9611",
+        "course_title": "Derivatives Trad: Ana & Strate 衍生商品交易：分析與策略",
+        "units": "3.00",
+        "staff": "- Dr. LAM Full Yet Eric Campbell",
+        "quota": "65",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4420A",
+        "class_nbr": "5787",
+        "course_title": "Fin'l Mkts from a Mac Perspect 宏觀角度的金融市場",
+        "units": "3.00",
+        "staff": "- Professor CHEW Seen Meng",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FINA4430A",
+        "class_nbr": "9733",
+        "course_title": "Computerized Trading & Big Dat 計算機化交易和大數據",
+        "units": "3.00",
+        "staff": "- Professor YAO Chen",
+        "quota": "60",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

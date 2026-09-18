@@ -1,0 +1,432 @@
+[
+    {
+        "class_code": "PHAR1000-",
+        "class_nbr": "7314",
+        "course_title": "Introduction to Pharmacy 藥劑學導論",
+        "units": "2.00",
+        "staff": "- Dr. LEE Chui Ping- Dr. TAI Bik Wai- Dr. ZHOU Keary Rui- Ms. NG Yuen Tung- Professor CHEUNG Yin Ting- Professor LAM Tai Ning",
+        "quota": "65",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_306",
+            "MMW_702",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR1423-",
+        "class_nbr": "5819",
+        "course_title": "Biochemistry and Molecular Bio 生物化學及分子生物學",
+        "units": "2.00",
+        "staff": "- Dr. LAU Sin Nga- Dr. YEUNG Hang Mee- Professor FOK Kin Lam Ellis",
+        "quota": "70",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "LPN_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR1433-",
+        "class_nbr": "5818",
+        "course_title": "Anatomy and Physiology I 解剖學及生理學（一）",
+        "units": "2.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel- Dr. Robert George JESKY- Dr. TANG Mei Kuen- Dr. ZHOU Yuhuan",
+        "quota": "70",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "LPN_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2110-",
+        "class_nbr": "7464",
+        "course_title": "Medicinal Chemistry 藥物化學及藥物設計",
+        "units": "3.00",
+        "staff": "- Professor TO Kin Wah",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Th 09:30AM - 10:15AM",
+            "Th 10:30AM - 01:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_707",
+            "BMS_602",
+            "TBA",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2131-",
+        "class_nbr": "5844",
+        "course_title": "Pharmaceutical Analysis 藥物分析",
+        "units": "2.00",
+        "staff": "- Professor KAM Ngar Woon- Professor NG Wai Lung- Professor TO Kin Wah",
+        "quota": "70",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM",
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_702",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2211-",
+        "class_nbr": "7391",
+        "course_title": "Dosage Form Science I 方劑學（一）",
+        "units": "2.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE",
+        "quota": "70",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 02:30PM - 05:15PM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_305",
+            "TBA",
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2213-",
+        "class_nbr": "9047",
+        "course_title": "Pharm Product Dev Mfg 藥物劑型開發及生產",
+        "units": "3.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE- Professor CHENG Heung Kwan- Professor LEUNG Shui Yee",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Th 10:30AM - 01:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_UG04",
+            "MMW_702",
+            "TBA",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2313-",
+        "class_nbr": "5838",
+        "course_title": "Prin of Pharm Disp 配藥原理",
+        "units": "3.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE- Dr. SHI Yufei- Dr. TAI Bik Wai- Dr. ZHOU Keary Rui- Ms. NG Yuen Tung- Professor LAM Tai Ning- Professor LEUNG Shui Yee",
+        "quota": "70",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "Tu 09:30AM - 10:15AM",
+            "Mo 02:30PM - 05:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "MMW_702",
+            "ARC_G01",
+            "TBA",
+            "BMS_601"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR2320-",
+        "class_nbr": "8708",
+        "course_title": "Pharmacy Law 藥事法規",
+        "units": "2.00",
+        "staff": "- Mr. LO Shek Ting Kenneth- Mr. WONG Ngai Keung- Professor LAM Tai Ning",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 06:30PM - 08:15PM",
+            "Sa 02:30PM - 04:15PM",
+            "Sa 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "ELB_307",
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "7/11, 14/11",
+            "28/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR3330-",
+        "class_nbr": "9200",
+        "course_title": "Community Pharmacy Practice 社區藥房執業",
+        "units": "3.00",
+        "staff": "- Dr. SHI Yufei- Dr. TAI Bik Wai- Dr. YUEN Siu Hong Johnny- Ms. NG Yuen Tung",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM",
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_206",
+            "NRR",
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR3413-",
+        "class_nbr": "7340",
+        "course_title": "Pharmacology & Therapeutics II 藥理學及治療學（二）",
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA- Dr. LEE Chui Ping- Dr. SEE Christopher Yew Hong- Dr. SHI Yufei- Dr. TAI Bik Wai- Dr. YUEN Siu Hong Johnny- Dr. ZHOU Keary Rui- Professor YOU Hoi Sze Joyce",
+        "quota": "60",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Tu 11:30AM - 12:15PM",
+            "We 01:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_707",
+            "LHC_G04",
+            "SC_LG23",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR3415-",
+        "class_nbr": "9199",
+        "course_title": "Pharmacology & Therapeutics IV 藥理學及治療學（四）",
+        "units": "3.00",
+        "staff": "- Dr. SHI Yufei- Dr. Shivani Salil SHINDE- Dr. TAI Bik Wai- Dr. YUEN Siu Hong Johnny- Dr. ZHOU Keary Rui- Professor YOU Hoi Sze Joyce",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 04:15PM",
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_404",
+            "ELB_303",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR3510-",
+        "class_nbr": "7315",
+        "course_title": "Complementary & Alt Medicine 替補醫學",
+        "units": "3.00",
+        "staff": "- Ms. NG Yuen Tung- Professor CHEUNG Yin Ting- Professor ZUO Zhong",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_710",
+            "NRR",
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHAR4911-",
+        "class_nbr": "8779",
+        "course_title": "Research Project I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor NG Wai Lung",
+        "quota": "18",
+        "vacancy": "17",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

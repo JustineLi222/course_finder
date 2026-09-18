@@ -1,0 +1,50 @@
+[
+    {
+        "class_code": "ITAL1000A",
+        "class_nbr": "9615",
+        "course_title": "Italian I 意大利語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Beatrice DE MAGISTRIS",
+        "quota": "28",
+        "vacancy": "13",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "I&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ITAL1000B",
+        "class_nbr": "9756",
+        "course_title": "Italian I 意大利語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Beatrice DE MAGISTRIS",
+        "quota": "28",
+        "vacancy": "15",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "I&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "class_code": "GEYS1000-",
+        "class_nbr": "5797",
+        "course_title": "College Assembly/ Forum 書院聚會／書院論壇",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1300",
+        "vacancy": "81",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT5"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS1010-",
+        "class_nbr": "5732",
+        "course_title": "Creative Social Responsibility 創新社會責任及持續發展",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Po Kin- Dr. MUI Wai Ho- Professor LEE Albert- Professor LEE LAI Annisa",
+        "quota": "150",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4010A",
+        "class_nbr": "7790",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "65",
+        "vacancy": "16",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4010B",
+        "class_nbr": "7789",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor FAN Kin Keung",
+        "quota": "65",
+        "vacancy": "21",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4010C",
+        "class_nbr": "5717",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LAM Lai Ling",
+        "quota": "65",
+        "vacancy": "22",
+        "mode": "SEM",
+        "section_code": "CS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4010D",
+        "class_nbr": "5736",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor Hugh Alun Lloyd THOMAS",
+        "quota": "65",
+        "vacancy": "38",
+        "mode": "SEM",
+        "section_code": "DS01",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4010E",
+        "class_nbr": "5594",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Tse Fong Terry",
+        "quota": "65",
+        "vacancy": "55",
+        "mode": "SEM",
+        "section_code": "ES01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4011A",
+        "class_nbr": "10064",
+        "course_title": "Community Engagement 實踐社會責任：服務學習",
+        "units": "3.00",
+        "staff": "- Dr. WONG Wing Yu Esther",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEYS4011B",
+        "class_nbr": "10065",
+        "course_title": "Community Engagement 實踐社會責任：服務學習",
+        "units": "3.00",
+        "staff": "- Dr. LUI Wing Sing",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

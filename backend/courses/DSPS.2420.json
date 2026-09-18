@@ -1,0 +1,267 @@
+[
+    {
+        "class_code": "DSPS1001-",
+        "class_nbr": "5788",
+        "course_title": "Introduction to Policy Science 政策科學入門",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chee Hon",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS1003A",
+        "class_nbr": "8280",
+        "course_title": "Foundation of Data Science 數據科學基礎",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS2202-",
+        "class_nbr": "5750",
+        "course_title": "Database Systems for Dat Sci 數據科學的資料庫系統",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "30",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS2301-",
+        "class_nbr": "5803",
+        "course_title": "Pol Analysis & Design Thinking 政策分析及設計思考",
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Ho",
+        "quota": "32",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS2520-",
+        "class_nbr": "5731",
+        "course_title": "Data Science Proj Management 數據科學項目管理",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "32",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS3202-",
+        "class_nbr": "8281",
+        "course_title": "Machine Learning for PP 公共政策機器學習",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "30",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS3801-",
+        "class_nbr": "6121",
+        "course_title": "Internship 實習",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "30",
+        "vacancy": "11",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS3802-",
+        "class_nbr": "8283",
+        "course_title": "Advanced Data Visualization 進階數據視覺化",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki",
+        "quota": "30",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS3803-",
+        "class_nbr": "6680",
+        "course_title": "AI for Social Good 人工智慧與社會公益",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwong Cheong",
+        "quota": "30",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS4801-",
+        "class_nbr": "6335",
+        "course_title": "Graduation Capstone Project I 畢業總結項目（一）",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki- Dr. WONG Kwong Cheong- Professor CHAN Chee Hon- Professor QIU Lin- Professor WONG Wai Ho",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DSPS4802-",
+        "class_nbr": "6299",
+        "course_title": "Graduation Capstone Project II 畢業總結項目（二）",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Ki- Dr. WONG Kwong Cheong- Professor CHAN Chee Hon- Professor QIU Lin- Professor WONG Wai Ho",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

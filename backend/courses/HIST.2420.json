@@ -1,0 +1,1095 @@
+[
+    {
+        "class_code": "HIST1000A",
+        "class_nbr": "9165",
+        "course_title": "History for Today 通古今之變",
+        "units": "3.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "100",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT7",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST1001A",
+        "class_nbr": "5444",
+        "course_title": "Trad & Transform in Chi Hist 中國歷史之傳統與變革",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Hiu Yu",
+        "quota": "100",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST1001B",
+        "class_nbr": "7488",
+        "course_title": "Trad & Transform in Chi Hist 中國歷史之傳統與變革",
+        "units": "3.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "100",
+        "vacancy": "79",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST1700-",
+        "class_nbr": "4853",
+        "course_title": "Int to Pub His:Theory&Practice 公眾史學導論：理論與實踐",
+        "units": "3.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "100",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_LT6",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2007-",
+        "class_nbr": "4936",
+        "course_title": "Int to World His: Modern Era 現代世界通史",
+        "units": "3.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_402",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2102-",
+        "class_nbr": "9436",
+        "course_title": "Transformat'n in Tang-Song Chi 唐宋之變革",
+        "units": "3.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2110-",
+        "class_nbr": "4856",
+        "course_title": "Walking Chinese History 走過中國歷史的古與今",
+        "units": "3.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_302",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2140-",
+        "class_nbr": "4899",
+        "course_title": "State & Soc in Ancient China 中國古代之國家與社會",
+        "units": "3.00",
+        "staff": "- Professor LAM Weng Cheong",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_301",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2220-",
+        "class_nbr": "5312",
+        "course_title": "Rev & Mod in 20th-Cent China 二十世紀中國之革命與現代化",
+        "units": "3.00",
+        "staff": "- Professor TSUI Kai Hin Brian",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_208",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2320-",
+        "class_nbr": "4938",
+        "course_title": "Hist of the Byzantine Empire Hist of the Byzantine Empire",
+        "units": "3.00",
+        "staff": "- Professor James Deas David Jack MORTON",
+        "quota": "50",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_304",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2500-",
+        "class_nbr": "4911",
+        "course_title": "History of Hong Kong 香港史",
+        "units": "3.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LPN_LT",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST2501GL",
+        "class_nbr": "4909",
+        "course_title": "HK History in the Field 田野中的香港史",
+        "units": "3.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "50",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "GL",
+        "language": "E",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_C2",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3103-",
+        "class_nbr": "4851",
+        "course_title": "Daily Life in Han China 漢代生活史",
+        "units": "3.00",
+        "staff": "- Professor TSE Wai Kit Wicky",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_210",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3327-",
+        "class_nbr": "4902",
+        "course_title": "Europe, WWII & Holocaust 二戰與猶太人大屠殺",
+        "units": "3.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_208",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3375-",
+        "class_nbr": "4904",
+        "course_title": "Philippines & Trans Pacific Philippines & Trans Pacific",
+        "units": "3.00",
+        "staff": "- Professor Ian Brandon MORLEY",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_308",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3376-",
+        "class_nbr": "5074",
+        "course_title": "Modern E-Asian Poli&Cult Hist 近現代東亞政治及文化史",
+        "units": "3.00",
+        "staff": "- Professor TSUI Kai Hin Brian",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_208",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3404-",
+        "class_nbr": "5378",
+        "course_title": "Hist Literature & Documents 史學名著與典籍",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Hiu Yu",
+        "quota": "50",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_210",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST3505-",
+        "class_nbr": "4913",
+        "course_title": "Land Law in N.T. 新界土地法律和習俗",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Sui Wai",
+        "quota": "50",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_G04",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4261-",
+        "class_nbr": "5379",
+        "course_title": "1000 Yrs of Huizhou 800-1800CE 徽州一千年（公元800-1800年）",
+        "units": "3.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "50",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_302",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4392-",
+        "class_nbr": "4934",
+        "course_title": "The Making of the Middle East 中東的歷史進程",
+        "units": "3.00",
+        "staff": "- Professor James Deas David Jack MORTON",
+        "quota": "50",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_304",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4702RS",
+        "class_nbr": "4900",
+        "course_title": "Digital History 數位歷史學",
+        "units": "3.00",
+        "staff": "- Dr. SHIH Yu Cheng",
+        "quota": "50",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "RS",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_210",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4704-",
+        "class_nbr": "4906",
+        "course_title": "Women, Soc & Pol in Mod China 近代中國的女性、政治與社會",
+        "units": "3.00",
+        "staff": "- Dr. WANG Yiqiao",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_302",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811BT",
+        "class_nbr": "8130",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor TSUI Kai Hin Brian",
+        "quota": "8",
+        "vacancy": "3",
+        "mode": "TMC",
+        "section_code": "BTM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811GL",
+        "class_nbr": "6272",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor LUK Chi Hung",
+        "quota": "8",
+        "vacancy": "2",
+        "mode": "TMC",
+        "section_code": "GLM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811HE",
+        "class_nbr": "6274",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor HE Xi",
+        "quota": "8",
+        "vacancy": "3",
+        "mode": "TMC",
+        "section_code": "HEM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811HY",
+        "class_nbr": "6516",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor CHEUNG Hiu Yu",
+        "quota": "8",
+        "vacancy": "5",
+        "mode": "TMC",
+        "section_code": "HYM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811IM",
+        "class_nbr": "6271",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor Ian Brandon MORLEY",
+        "quota": "8",
+        "vacancy": "7",
+        "mode": "TMC",
+        "section_code": "IMM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811JM",
+        "class_nbr": "6515",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor James Deas David Jack MORTON",
+        "quota": "8",
+        "vacancy": "6",
+        "mode": "TMC",
+        "section_code": "JMM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811JW",
+        "class_nbr": "6298",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "8",
+        "vacancy": "5",
+        "mode": "TMC",
+        "section_code": "JWM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811KW",
+        "class_nbr": "6276",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "8",
+        "vacancy": "2",
+        "mode": "TMC",
+        "section_code": "KWM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811NS",
+        "class_nbr": "6518",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "8",
+        "vacancy": "7",
+        "mode": "TMC",
+        "section_code": "NSM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811SM",
+        "class_nbr": "6517",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor Stuart Michael MCMANUS",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "TMC",
+        "section_code": "SMM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811SW",
+        "class_nbr": "6273",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor CHEUNG Sui Wai",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "TMC",
+        "section_code": "SWM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811WC",
+        "class_nbr": "6513",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor LAM Weng Cheong",
+        "quota": "8",
+        "vacancy": "5",
+        "mode": "TMC",
+        "section_code": "WCM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811WK",
+        "class_nbr": "6277",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor PUK Wing Kin",
+        "quota": "8",
+        "vacancy": "1",
+        "mode": "TMC",
+        "section_code": "WKM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811WT",
+        "class_nbr": "6296",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Professor TSE Wai Kit Wicky",
+        "quota": "8",
+        "vacancy": "3",
+        "mode": "TMC",
+        "section_code": "WTM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811WY",
+        "class_nbr": "6297",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Dr. CHEN Wenyan",
+        "quota": "8",
+        "vacancy": "2",
+        "mode": "TMC",
+        "section_code": "WYM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811YQ",
+        "class_nbr": "8064",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Dr. WANG Yiqiao",
+        "quota": "8",
+        "vacancy": "6",
+        "mode": "TMC",
+        "section_code": "YQM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4811YY",
+        "class_nbr": "6514",
+        "course_title": "Graduation Thesis Guidance 畢業論文指導",
+        "units": "1.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "8",
+        "vacancy": "2",
+        "mode": "TMC",
+        "section_code": "YYM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4812IM",
+        "class_nbr": "8066",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "5.00",
+        "staff": "- Professor Ian Brandon MORLEY",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "TMC",
+        "section_code": "IMM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4812JW",
+        "class_nbr": "8068",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "5.00",
+        "staff": "- Dr. WOO Tze Yan Jessie",
+        "quota": "8",
+        "vacancy": "7",
+        "mode": "TMC",
+        "section_code": "JWM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4812NS",
+        "class_nbr": "8067",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "5.00",
+        "staff": "- Professor Noah Charles SHUSTERMAN",
+        "quota": "8",
+        "vacancy": "7",
+        "mode": "TMC",
+        "section_code": "NSM1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4812SW",
+        "class_nbr": "8063",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "5.00",
+        "staff": "- Professor CHEUNG Sui Wai",
+        "quota": "8",
+        "vacancy": "6",
+        "mode": "TMC",
+        "section_code": "SWM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HIST4812WY",
+        "class_nbr": "8065",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "5.00",
+        "staff": "- Dr. CHEN Wenyan",
+        "quota": "8",
+        "vacancy": "8",
+        "mode": "TMC",
+        "section_code": "WYM1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

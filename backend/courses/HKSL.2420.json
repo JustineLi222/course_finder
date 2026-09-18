@@ -1,0 +1,377 @@
+[
+    {
+        "class_code": "HKSL1000A",
+        "class_nbr": "7341",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Miss YU On Lam Anita",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "SL",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000B",
+        "class_nbr": "7409",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. SUNG Leung Sing",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "SL",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000C",
+        "class_nbr": "5706",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Miss YU On Lam Anita",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "CC01",
+        "language": "SL",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000D",
+        "class_nbr": "7229",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. CHU Kwan Ngai Kenny",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "DC01",
+        "language": "SL",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000E",
+        "class_nbr": "5218",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Miss YU Wai Lam Brenda",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "EC01",
+        "language": "SL",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000F",
+        "class_nbr": "7277",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. CHU Kwan Ngai Kenny",
+        "quota": "24",
+        "vacancy": "3",
+        "mode": "CLW",
+        "section_code": "FC01",
+        "language": "SL",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_402"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000G",
+        "class_nbr": "5775",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Miss YU Wai Lam Brenda",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "GC01",
+        "language": "SL",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000H",
+        "class_nbr": "5664",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. SUNG Leung Sing",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "HC01",
+        "language": "SL",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000I",
+        "class_nbr": "5663",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. CHU Kwan Ngai Kenny",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "IC01",
+        "language": "SL",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000J",
+        "class_nbr": "5627",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. SUNG Leung Sing",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "JC01",
+        "language": "SL",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1000K",
+        "class_nbr": "5628",
+        "course_title": "Hong Kong Sign Language I 香港手語（一）",
+        "units": "3.00",
+        "staff": "- Mr. CHU Kwan Ngai Kenny",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "KC01",
+        "language": "SL",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1001-",
+        "class_nbr": "6074",
+        "course_title": "Hong Kong Sign Language Taster 香港手語入門",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "SL",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL1003-",
+        "class_nbr": "4857",
+        "course_title": "HKSL I & II 香港手語（一）及（二）",
+        "units": "6.00",
+        "staff": "- Miss YU On Lam Anita",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "SL",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_UG03",
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL2001-",
+        "class_nbr": "7181",
+        "course_title": "Hong Kong Sign Language III 香港手語（三）",
+        "units": "3.00",
+        "staff": "- Mr. SUNG Leung Sing",
+        "quota": "26",
+        "vacancy": "6",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "SL",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL3001A",
+        "class_nbr": "5597",
+        "course_title": "Hong Kong Sign Language V 香港手語（五）",
+        "units": "3.00",
+        "staff": "- Miss YU Wai Lam Brenda",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "SL",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "HKSL3001B",
+        "class_nbr": "4858",
+        "course_title": "Hong Kong Sign Language V 香港手語（五）",
+        "units": "3.00",
+        "staff": "- Miss YU Wai Lam Brenda",
+        "quota": "26",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "SL",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

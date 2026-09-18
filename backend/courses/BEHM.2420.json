@@ -1,0 +1,71 @@
+[
+    {
+        "class_code": "BEHM4000-",
+        "class_nbr": "6100",
+        "course_title": "Internship 實習",
+        "units": "1.00",
+        "staff": "- Professor WONG Wing Tak Jack",
+        "quota": "30",
+        "vacancy": "15",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BEHM4001-",
+        "class_nbr": "6369",
+        "course_title": "Capstone Project I 總結項目(一)",
+        "units": "3.00",
+        "staff": "- Professor WONG Wing Tak Jack",
+        "quota": "30",
+        "vacancy": "12",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BEHM4002-",
+        "class_nbr": "6101",
+        "course_title": "Capstone Project II 總結項目(二)",
+        "units": "3.00",
+        "staff": "- Professor WONG Wing Tak Jack",
+        "quota": "30",
+        "vacancy": "22",
+        "mode": "TUT",
+        "section_code": "-T01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

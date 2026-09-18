@@ -1,0 +1,27 @@
+[
+    {
+        "class_code": "ARTS1009-",
+        "class_nbr": "5185",
+        "course_title": "AI & Creative Expressions 生成式人工智能與創意表達",
+        "units": "3.00",
+        "staff": "- Professor Collier Desha NOGUES- Professor ZHOU Mengyuan",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

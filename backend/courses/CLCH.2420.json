@@ -1,0 +1,50 @@
+[
+    {
+        "class_code": "CLCH1702A",
+        "class_nbr": "5630",
+        "course_title": "Hokkinese thru Poems & Songs 福建話詩與歌",
+        "units": "2.00",
+        "staff": "- Dr. WONG Ho Put",
+        "quota": "25",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "H&amp;C&amp;P",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_508"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CLCH1702B",
+        "class_nbr": "5858",
+        "course_title": "Hokkinese thru Poems & Songs 福建話詩與歌",
+        "units": "2.00",
+        "staff": "- Miss YANG Ziping",
+        "quota": "25",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "H&amp;C&amp;P",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

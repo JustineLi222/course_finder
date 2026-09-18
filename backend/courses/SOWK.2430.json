@@ -1,0 +1,1041 @@
+[
+    {
+        "class_code": "SOWK1001C",
+        "class_nbr": "8230",
+        "course_title": "Intro to Soc Wk & Soc Wel 社會工作及社會福利導論",
+        "units": "3.00",
+        "staff": "- Dr. Raees Begum BAIG",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1001D",
+        "class_nbr": "5493",
+        "course_title": "Intro to Soc Wk & Soc Wel 社會工作及社會福利導論",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1113C",
+        "class_nbr": "6818",
+        "course_title": "Self-deve. in Changing Society 社會轉變中的自我發展",
+        "units": "3.00",
+        "staff": "- Dr. HO Wai Ming",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1113D",
+        "class_nbr": "6817",
+        "course_title": "Self-deve. in Changing Society 社會轉變中的自我發展",
+        "units": "3.00",
+        "staff": "- Ms. LIN Yuen Ying",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1114-",
+        "class_nbr": "6826",
+        "course_title": "From Und to Emp the Soc Disadv 弱勢社群：從認識到增權",
+        "units": "3.00",
+        "staff": "- Dr. Raees Begum BAIG",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1130-",
+        "class_nbr": "6155",
+        "course_title": "Living with grief 與哀傷共存：認識死亡、垂死與喪",
+        "units": "3.00",
+        "staff": "- Ms. LEE Wang",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1150B",
+        "class_nbr": "5729",
+        "course_title": "Choices in Life:Self Develop’t 生命的選擇：個人成長之旅",
+        "units": "3.00",
+        "staff": "- Dr. CHYU Pui Yung",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1160D",
+        "class_nbr": "6827",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Kar Choi",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1160E",
+        "class_nbr": "6828",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Ms. LIN Yuen Ying",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK1160F",
+        "class_nbr": "7317",
+        "course_title": "Movies, Life and Social Work 電影、人生與社工",
+        "units": "3.00",
+        "staff": "- Ms HUNG Fai",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "C",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2100B",
+        "class_nbr": "9884",
+        "course_title": "Service-learning Online Course 服務學習網上自學科目",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "WBL",
+        "section_code": "BX01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2110-",
+        "class_nbr": "6831",
+        "course_title": "Human Beh & the Soc Environ 人類行為與社會環境",
+        "units": "3.00",
+        "staff": "- Dr. LAW Yee Man",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 02:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SWH_1",
+            "UCC_207",
+            "UCC_104"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1",
+            "25/1",
+            "22/2",
+            "22/3",
+            "19/4",
+            "18/1",
+            "1/2",
+            "15/2",
+            "1/3",
+            "15/3",
+            "12/4",
+            "14/1",
+            "28/1",
+            "25/2",
+            "25/3",
+            "8/4",
+            "22/4",
+            "21/1",
+            "4/2",
+            "18/2",
+            "4/3",
+            "18/3",
+            "1/4",
+            "15/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2140-",
+        "class_nbr": "5880",
+        "course_title": "Mental Disorders 精神失調",
+        "units": "2.00",
+        "staff": "- Mr. DIN Wai Bun",
+        "quota": "68",
+        "vacancy": "68",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2160-",
+        "class_nbr": "6118",
+        "course_title": "Eco Insec & Soc Sec in Gl Con 全球經濟逆境與社會保障",
+        "units": "3.00",
+        "staff": "- Mr TSOI Kcon Wah",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2200B",
+        "class_nbr": "6834",
+        "course_title": "Interpersonal Violence 人際暴力",
+        "units": "3.00",
+        "staff": "- Professor CHEN Mengtong",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2203-",
+        "class_nbr": "5436",
+        "course_title": "Mission-dri. Social Enterprise 由使命推動的社會企業",
+        "units": "3.00",
+        "staff": "- Dr. NG Chui Ha- Dr. WONG Po Ki- Ms. NG Tsui Shan",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2204-",
+        "class_nbr": "7319",
+        "course_title": "Soc Inno & Soc Change for Good 社會創新與社會臻善",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Wing Yee",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2230-",
+        "class_nbr": "5892",
+        "course_title": "Community Work 社區工作",
+        "units": "3.00",
+        "staff": "- Dr. AU YEUNG Kwok Wai Eric",
+        "quota": "64",
+        "vacancy": "64",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Tu 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_11",
+            "UCC_105",
+            "UCC_102",
+            "UCC_206",
+            "UCC_204",
+            "UCC_103"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2430A",
+        "class_nbr": "6191",
+        "course_title": "Social Work Field Laboratory 社會工作實習實驗",
+        "units": "2.00",
+        "staff": "- Mr. WAN Hak Ki",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_109"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2430B",
+        "class_nbr": "6192",
+        "course_title": "Social Work Field Laboratory 社會工作實習實驗",
+        "units": "2.00",
+        "staff": "- Dr. LEUNG Kit Ting",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2430C",
+        "class_nbr": "6193",
+        "course_title": "Social Work Field Laboratory 社會工作實習實驗",
+        "units": "2.00",
+        "staff": "- Dr. CHYU Pui Yung",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2430D",
+        "class_nbr": "6200",
+        "course_title": "Social Work Field Laboratory 社會工作實習實驗",
+        "units": "2.00",
+        "staff": "- Dr. CHIU Renee",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LAB",
+        "section_code": "DL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK2430E",
+        "class_nbr": "9452",
+        "course_title": "Social Work Field Laboratory 社會工作實習實驗",
+        "units": "2.00",
+        "staff": "- Dr. HO Wai Ming",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LAB",
+        "section_code": "EL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCA_105"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK3310-",
+        "class_nbr": "9661",
+        "course_title": "Social Welfare Administration 社會福利行政",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Tse Fong Terry",
+        "quota": "68",
+        "vacancy": "68",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C3",
+            "UCC_205",
+            "UCC_104"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "19/1",
+            "2/2",
+            "23/2",
+            "16/3",
+            "30/3",
+            "13/4",
+            "26/1",
+            "16/2",
+            "2/3",
+            "23/3",
+            "6/4",
+            "20/4",
+            "19/1",
+            "2/2",
+            "23/2",
+            "16/3",
+            "30/3",
+            "13/4",
+            "26/1",
+            "16/2",
+            "2/3",
+            "23/3",
+            "6/4",
+            "20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK3320-",
+        "class_nbr": "9675",
+        "course_title": "Social Work Research 社會工作研究",
+        "units": "3.00",
+        "staff": "- Professor LI Jia",
+        "quota": "72",
+        "vacancy": "72",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "Th 09:30AM - 11:15AM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_C1",
+            "UCC_109",
+            "UCC_108"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK3410-",
+        "class_nbr": "7882",
+        "course_title": "Field Instruction I 實習指導（一）",
+        "units": "4.00",
+        "staff": "- Dr. AU YEUNG Kwok Wai Eric- Mr. DIN Wai Bun",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK3420-",
+        "class_nbr": "7850",
+        "course_title": "Field Instruction II 實習指導（二）",
+        "units": "4.00",
+        "staff": "- Dr. AU YEUNG Kwok Wai Eric- Mr. DIN Wai Bun",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4020A",
+        "class_nbr": "6835",
+        "course_title": "Student Orientated Teaching II 學生為本教學課程（二）",
+        "units": "2.00",
+        "staff": "- Mr. DIN Wai Bun",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_109"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4020B",
+        "class_nbr": "6836",
+        "course_title": "Student Orientated Teaching II 學生為本教學課程（二）",
+        "units": "2.00",
+        "staff": "- Dr. LAW Yee Man",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_108"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4020C",
+        "class_nbr": "6844",
+        "course_title": "Student Orientated Teaching II 學生為本教學課程（二）",
+        "units": "2.00",
+        "staff": "- Dr. SO Yuk Yan",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4020D",
+        "class_nbr": "6845",
+        "course_title": "Student Orientated Teaching II 學生為本教學課程（二）",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4030-",
+        "class_nbr": "6216",
+        "course_title": "Social Work Guided Research 社會工作指導研究",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4410-",
+        "class_nbr": "8073",
+        "course_title": "Field Instruction III 實習指導（三）",
+        "units": "4.00",
+        "staff": "- Dr. AU YEUNG Kwok Wai Eric- Mr. DIN Wai Bun",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4420-",
+        "class_nbr": "7804",
+        "course_title": "Field Instruction IV 實習指導（四）",
+        "units": "4.00",
+        "staff": "- Dr. AU YEUNG Kwok Wai Eric- Mr. DIN Wai Bun",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4530-",
+        "class_nbr": "6846",
+        "course_title": "Sem III Soc Wk with Old People 專題研討（三）：安老服務社會工作",
+        "units": "3.00",
+        "staff": "- Professor WONG Lok Yi",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4550-",
+        "class_nbr": "7174",
+        "course_title": "Sem V: Pov & Soc Exclusion 專題研討（五）：貧窮與社會排斥",
+        "units": "3.00",
+        "staff": "- Professor WONG Hung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4580-",
+        "class_nbr": "6847",
+        "course_title": "Sem VIII: Gen & Sexu in SW Pra 專題研討(八)：社會工作實務的性／別",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Ho",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SOWK4590-",
+        "class_nbr": "9625",
+        "course_title": "Seminar IX: Family Therapy 專題研討（九）：家庭治療",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Kit Ting",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

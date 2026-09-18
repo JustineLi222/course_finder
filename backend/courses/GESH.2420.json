@@ -1,0 +1,209 @@
+[
+    {
+        "class_code": "GESH1000-",
+        "class_nbr": "6188",
+        "course_title": "College Symposium 書院聚會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "700",
+        "vacancy": "194",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010-",
+        "class_nbr": "5009",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "180",
+        "vacancy": "180",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010A",
+        "class_nbr": "7483",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Dr. Lipika Alok CHATTERJEE- Professor WONG Kam Bo",
+        "quota": "40",
+        "vacancy": "8",
+        "mode": "WKS",
+        "section_code": "AW01",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010B",
+        "class_nbr": "7319",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Miss NG Ho In- Professor CHENG Hong- Professor LAU Kit Ling",
+        "quota": "40",
+        "vacancy": "9",
+        "mode": "WKS",
+        "section_code": "BW01",
+        "language": "P",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010C",
+        "class_nbr": "5007",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Dr. YUEN Chi Lok- Miss NGAI Yuet Ling- Mr. WU Tat Cheung Clement",
+        "quota": "40",
+        "vacancy": "13",
+        "mode": "WKS",
+        "section_code": "CW01",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010D",
+        "class_nbr": "5008",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Sin Ting Juanita- Dr. LAM Yiu Man- Professor LUK Sau Ha",
+        "quota": "40",
+        "vacancy": "15",
+        "mode": "WKS",
+        "section_code": "DW01",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH1010E",
+        "class_nbr": "7490",
+        "course_title": "Orientation and Outreach 明新達人－善衡書院啟導課程",
+        "units": "3.00",
+        "staff": "- Miss CHU Fung Ling- Professor LAU Kwok Chi",
+        "quota": "40",
+        "vacancy": "12",
+        "mode": "WKS",
+        "section_code": "EW01",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH2011-",
+        "class_nbr": "7491",
+        "course_title": "S-L:Bringing Knowledge to Life 服務學習課程—明理致用",
+        "units": "1.00",
+        "staff": "- Dr SHIK Wai Yan Angela",
+        "quota": "150",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_LT1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GESH2012-",
+        "class_nbr": "7007",
+        "course_title": "S-L:Action towards Personhood 服務學習課程—踐行立人",
+        "units": "2.00",
+        "staff": "- Dr SHIK Wai Yan Angela",
+        "quota": "50",
+        "vacancy": "22",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

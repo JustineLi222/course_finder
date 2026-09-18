@@ -1,0 +1,124 @@
+[
+    {
+        "class_code": "BMED3011-",
+        "class_nbr": "4776",
+        "course_title": "Maths Curriculum & Teach'g I 數學課程與教學法",
+        "units": "3.00",
+        "staff": "- Dr. CHIA Hui Min",
+        "quota": "24",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMED3021-",
+        "class_nbr": "4777",
+        "course_title": "Math Curri and Teach'n II STEM 數學課程與教學法II",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Allen Yuk Lun- Professor NG Oi Lam",
+        "quota": "24",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMED3031-",
+        "class_nbr": "4778",
+        "course_title": "Math Literacy &Problem Solving 數學素養與解難",
+        "units": "3.00",
+        "staff": "- Dr. CHAN To- Professor NG Oi Lam",
+        "quota": "24",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMED3051-",
+        "class_nbr": "4795",
+        "course_title": "The Teach'g of Number &Algebra 數與代數的教學",
+        "units": "3.00",
+        "staff": "- Dr. CHIA Hui Min",
+        "quota": "24",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMED3091-",
+        "class_nbr": "4796",
+        "course_title": "Contemporary Issues in Math Ed 數學教育專題",
+        "units": "3.00",
+        "staff": "- Professor NG Oi Lam",
+        "quota": "24",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 11:30AM - 02:15PM",
+            "We 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

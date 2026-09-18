@@ -1,0 +1,52 @@
+[
+    {
+        "class_code": "THAI1000-",
+        "class_nbr": "5990",
+        "course_title": "Thai I 泰語（一）",
+        "units": "3.00",
+        "staff": "- Ms. Titima RUNGUPHAN",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "T&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "THAI2000-",
+        "class_nbr": "7460",
+        "course_title": "Thai II 泰語（二）",
+        "units": "3.00",
+        "staff": "- Ms. Titima RUNGUPHAN",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "T&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

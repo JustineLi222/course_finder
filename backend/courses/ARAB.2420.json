@@ -1,0 +1,48 @@
+[
+    {
+        "class_code": "ARAB1000A",
+        "class_nbr": "9459",
+        "course_title": "Arabic I 阿拉伯語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Ammar SALEH",
+        "quota": "28",
+        "vacancy": "20",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "A&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARAB1000B",
+        "class_nbr": "5638",
+        "course_title": "Arabic I 阿拉伯語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Ammar SALEH",
+        "quota": "28",
+        "vacancy": "26",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "A&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

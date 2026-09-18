@@ -1,0 +1,1942 @@
+[
+    {
+        "class_code": "ENGG1003AA",
+        "class_nbr": "9120",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. YU Michael Ruisi",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AA",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AB",
+        "class_nbr": "9235",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHAU Chuck Jee",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AB",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AC",
+        "class_nbr": "9238",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. MAK Wai Ho Wallace",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AC",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AD",
+        "class_nbr": "9553",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. SUM Kwok Wing",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AD",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AE",
+        "class_nbr": "9262",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. SUM Kwok Wing",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AE",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AF",
+        "class_nbr": "9244",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. LEE Ka Kit",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AF",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AG",
+        "class_nbr": "9263",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. KEUNG Wai Yiu",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AG",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003AH",
+        "class_nbr": "9243",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. MAK Wai Ho Wallace",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "AH",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BA",
+        "class_nbr": "9268",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. YU Michael Ruisi",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BA",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BB",
+        "class_nbr": "9279",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Yusheng",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BB",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BC",
+        "class_nbr": "9271",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. TSANG Siu Chung",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BC",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BD",
+        "class_nbr": "8384",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. SUM Kwok Wing",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BD",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BE",
+        "class_nbr": "8386",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. KEUNG Wai Yiu",
+        "quota": "60",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "BE",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BF",
+        "class_nbr": "9551",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. LAI Chi Wai",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BF",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BG",
+        "class_nbr": "9270",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. LAM Tak Kei",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "BG",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BH",
+        "class_nbr": "9269",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHEONG Chi Hong",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "BH",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BI",
+        "class_nbr": "6972",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHUI Yim Pan",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "BI",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BJ",
+        "class_nbr": "8388",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. JIANG Yuli",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "BJ",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BK",
+        "class_nbr": "9280",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. SZETO Wai Man",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BK",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BL",
+        "class_nbr": "9278",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHUI Yim Pan",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BL",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BM",
+        "class_nbr": "9277",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. JIANG Yuli",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BM",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BN",
+        "class_nbr": "8390",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. LO Chun Yeung",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BN",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003BO",
+        "class_nbr": "7103",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. CHEUNG Yuk Kin",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "BO",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EA",
+        "class_nbr": "9241",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. KAM Ho Chuen",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "EA",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EB",
+        "class_nbr": "8403",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHEONG Chi Hong",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "EB",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EC",
+        "class_nbr": "6969",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. TSANG Siu Chung",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "EC",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003ED",
+        "class_nbr": "7100",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. CHAU Chuck Jee",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "ED",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EE",
+        "class_nbr": "9273",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kin Hong",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "EE",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EF",
+        "class_nbr": "9554",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. CHEUNG Yuk Kin",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "EF",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1003EG",
+        "class_nbr": "6788",
+        "course_title": "Digit. Lit. & Comp. Thinking—P 數碼素養及計算思維—P",
+        "units": "3.00",
+        "staff": "- Mr. FUNG Ping Fu",
+        "quota": "60",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "EG",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1004A",
+        "class_nbr": "8406",
+        "course_title": "Digit. Lit. & Comp. Thinking—R 數碼素養及計算思維—R",
+        "units": "3.00",
+        "staff": "- Mr. LEE Ka Kit",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1004B",
+        "class_nbr": "9111",
+        "course_title": "Digit. Lit. & Comp. Thinking—R 數碼素養及計算思維—R",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Yusheng",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSB_C4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1004C",
+        "class_nbr": "6790",
+        "course_title": "Digit. Lit. & Comp. Thinking—R 數碼素養及計算思維—R",
+        "units": "3.00",
+        "staff": "- Mr. LEE Ka Kit",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1004D",
+        "class_nbr": "8408",
+        "course_title": "Digit. Lit. & Comp. Thinking—R 數碼素養及計算思維—R",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Yusheng",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1004E",
+        "class_nbr": "8410",
+        "course_title": "Digit. Lit. & Comp. Thinking—R 數碼素養及計算思維—R",
+        "units": "3.00",
+        "staff": "- Mr. KEUNG Wai Yiu",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1040A",
+        "class_nbr": "5317",
+        "course_title": "Foundations in Engine Math 工程數學基礎",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Man Chuen",
+        "quota": "80",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_11",
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1040B",
+        "class_nbr": "9474",
+        "course_title": "Foundations in Engine Math 工程數學基礎",
+        "units": "3.00",
+        "staff": "- Dr. LI Chun Che",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT1",
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1040C",
+        "class_nbr": "7049",
+        "course_title": "Foundations in Engine Math 工程數學基礎",
+        "units": "3.00",
+        "staff": "- Dr. XIAO Jingjing",
+        "quota": "80",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_803",
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1040D",
+        "class_nbr": "5017",
+        "course_title": "Foundations in Engine Math 工程數學基礎",
+        "units": "3.00",
+        "staff": "- Dr. LIU Chun Lung",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT3",
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1040E",
+        "class_nbr": "9475",
+        "course_title": "Foundations in Engine Math 工程數學基礎",
+        "units": "3.00",
+        "staff": "- Professor WAN Yau Heng Tom",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_LT2",
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110A",
+        "class_nbr": "9700",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Mr. FUNG Ping Fu",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT6",
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110B",
+        "class_nbr": "9701",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Dr. JIANG Yuli",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SB_LT2",
+            "YIA_LT6"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110C",
+        "class_nbr": "9702",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Dr. KAM Ho Chuen",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110D",
+        "class_nbr": "9577",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Dr. MA Pui Kit",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT7",
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110E",
+        "class_nbr": "9502",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Dr. YIP Kit Sang Danny",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT3",
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1110F",
+        "class_nbr": "5308",
+        "course_title": "Problem Solving By Programming 程式設計與解難",
+        "units": "3.00",
+        "staff": "- Dr. YIN Ho Fai Hoover",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT4",
+            "SC_L1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1111A",
+        "class_nbr": "6478",
+        "course_title": "AI Literacy Workshop 人工智能素養工作坊",
+        "units": "0.00",
+        "staff": "- Dr. HAN Dongkun- Professor LEE Pak Ching",
+        "quota": "500",
+        "vacancy": "0",
+        "mode": "IND",
+        "section_code": "AI01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125A",
+        "class_nbr": "9476",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Professor QIU Shi",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "HTB_B6",
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125B",
+        "class_nbr": "9488",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Professor GAO Huxin",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LKC_LT1",
+            "LSB_LT5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125C",
+        "class_nbr": "9477",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Dr. MA Pui Kit",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_C1",
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125D",
+        "class_nbr": "5018",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Dr. PAN Zini",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_C4",
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125E",
+        "class_nbr": "9489",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Dr. LAU Alex Siu Hong",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "MMW_703",
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1125F",
+        "class_nbr": "8656",
+        "course_title": "Single Variable Calculus 單元微積分及其工程應用",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "300",
+        "vacancy": "300",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 09:30AM - 10:15AM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820A",
+        "class_nbr": "6497",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Professor YU Bei",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "OTH",
+        "section_code": "AO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820B",
+        "class_nbr": "6387",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Ms. NGAN Lai Yin",
+        "quota": "30",
+        "vacancy": "28",
+        "mode": "OTH",
+        "section_code": "BO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820C",
+        "class_nbr": "6358",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Professor CHOW Sze Ming",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "OTH",
+        "section_code": "CO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820D",
+        "class_nbr": "8002",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Dr. LI Yiyang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "OTH",
+        "section_code": "DO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820E",
+        "class_nbr": "8038",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Professor LAM Wai",
+        "quota": "30",
+        "vacancy": "26",
+        "mode": "OTH",
+        "section_code": "EO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1820F",
+        "class_nbr": "6498",
+        "course_title": "Engineering Internship 工程實習",
+        "units": "1.00",
+        "staff": "- Professor CHANG Hing Chiu- Professor HO Ho Pui",
+        "quota": "30",
+        "vacancy": "28",
+        "mode": "OTH",
+        "section_code": "FO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1910-",
+        "class_nbr": "5875",
+        "course_title": "Demystifying AI 人工智能揭秘",
+        "units": "3.00",
+        "staff": "- Dr. HAN Dongkun",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_401",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG1920A",
+        "class_nbr": "8424",
+        "course_title": "AI in Action 實用人工智能",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "25",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2030-",
+        "class_nbr": "5281",
+        "course_title": "Signals and Systems 信號與系統",
+        "units": "3.00",
+        "staff": "- Professor LI Jizhou",
+        "quota": "70",
+        "vacancy": "48",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Th 02:30PM - 03:15PM",
+            "TBA",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_104",
+            "SC_L4",
+            "NRR",
+            "MMW_705",
+            "ERB_401",
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2440A",
+        "class_nbr": "8414",
+        "course_title": "Discrete Math for Engineers 離散數學的工程應用",
+        "units": "3.00",
+        "staff": "- Professor HO Tsung Yi",
+        "quota": "200",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 10:30AM - 11:15AM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2440B",
+        "class_nbr": "8189",
+        "course_title": "Discrete Math for Engineers 離散數學的工程應用",
+        "units": "3.00",
+        "staff": "- Professor LI Cheuk Ting",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 10:30AM - 11:15AM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "SC_L4",
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2440C",
+        "class_nbr": "5947",
+        "course_title": "Discrete Math for Engineers 離散數學的工程應用",
+        "units": "3.00",
+        "staff": "- Professor WAI Hoi To",
+        "quota": "160",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 10:30AM - 11:15AM",
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2720A",
+        "class_nbr": "5682",
+        "course_title": "Complex Variables for Engineer 複變量及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor SUN Xiankai",
+        "quota": "120",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "MMW_LT1",
+            "LSK_LT5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2720B",
+        "class_nbr": "5749",
+        "course_title": "Complex Variables for Engineer 複變量及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor Amin AMINZADEH GOHARI",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "SC_L1",
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2720C",
+        "class_nbr": "5925",
+        "course_title": "Complex Variables for Engineer 複變量及其工程應用",
+        "units": "2.00",
+        "staff": "- Dr. LAU Alex Siu Hong",
+        "quota": "120",
+        "vacancy": "47",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "MMW_LT2",
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2760A",
+        "class_nbr": "5683",
+        "course_title": "Probability for Engineers 概率及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor Farzan FARNIA",
+        "quota": "120",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_LT1",
+            "ERB_804",
+            "ERB_401",
+            "MMW_705",
+            "ERB_712"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2760B",
+        "class_nbr": "5592",
+        "course_title": "Probability for Engineers 概率及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor LONG Yi",
+        "quota": "120",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "BMS_G18",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2760C",
+        "class_nbr": "5684",
+        "course_title": "Probability for Engineers 概率及其工程應用",
+        "units": "2.00",
+        "staff": "- Dr. NG Chi Kong",
+        "quota": "70",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_304",
+            "LHC_103"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ENGG2760D",
+        "class_nbr": "5759",
+        "course_title": "Probability for Engineers 概率及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor XU Huifu",
+        "quota": "100",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_L2",
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

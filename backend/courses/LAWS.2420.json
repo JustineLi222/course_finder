@@ -1,0 +1,657 @@
+[
+    {
+        "class_code": "LAWS1010-",
+        "class_nbr": "4972",
+        "course_title": "Legal Analysis and Argumentati Legal Analysis and Argumentati",
+        "units": "3.00",
+        "staff": "- Mr. Michael SCHREIBER- Ms. LAM Shuk Fong",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM",
+            "Tu 09:30AM - 10:15AM",
+            "Tu 10:30AM - 11:15AM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ICS_L1",
+            "ERB_402",
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS1020-",
+        "class_nbr": "4973",
+        "course_title": "Hong Kong Legal System 香港司法制度",
+        "units": "3.00",
+        "staff": "- Professor CHENG Kevin Kwok Yin",
+        "quota": "125",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM",
+            "Mo 01:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Tu 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "LSK_LT1",
+            "UCA_105",
+            "UCC_108",
+            "LSK_202"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS1041-",
+        "class_nbr": "4755",
+        "course_title": "Contract I 合同法（一）",
+        "units": "3.00",
+        "staff": "- Professor Stephen John HALL",
+        "quota": "125",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM",
+            "Tu 09:30AM - 10:15AM",
+            "Tu 11:30AM - 12:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Tu 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT3",
+            "UCC_207",
+            "ERB_402",
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS2101-",
+        "class_nbr": "9603",
+        "course_title": "Companies and the Law I 公司與法律（一）",
+        "units": "3.00",
+        "staff": "- Mr. Mark Norman WELLARD",
+        "quota": "88",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Tu 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SC_L2",
+            "SC_139",
+            "UCA_111",
+            "UCC_108"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS2110-",
+        "class_nbr": "5481",
+        "course_title": "Administrative Law Administrative Law",
+        "units": "3.00",
+        "staff": "- Mr. Michael SCHREIBER",
+        "quota": "80",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "SWH_1",
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS2121-",
+        "class_nbr": "6892",
+        "course_title": "Criminal Law I Criminal Law I",
+        "units": "3.00",
+        "staff": "- Mr. Jeffrey Paul HILL- Professor Jeremy Sydney DEIN",
+        "quota": "80",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WLS_LG204",
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS2131-",
+        "class_nbr": "6913",
+        "course_title": "Tort I Tort I",
+        "units": "3.00",
+        "staff": "- Dr. Geoffrey Carl UPTON- Professor Alexander Giles GREEN",
+        "quota": "100",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM",
+            "Th 12:30PM - 01:15PM",
+            "Th 01:30PM - 02:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "LSK_LT2",
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS3100-",
+        "class_nbr": "8552",
+        "course_title": "Civil Procedure Civil Procedure",
+        "units": "3.00",
+        "staff": "- Mr. CHEUNG Matthew Paul",
+        "quota": "35",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS3110-",
+        "class_nbr": "8539",
+        "course_title": "Criminal Procedure Criminal Procedure",
+        "units": "3.00",
+        "staff": "- Miss WONG Hoi Yung",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS3151-",
+        "class_nbr": "7363",
+        "course_title": "Land Law I Land Law I",
+        "units": "3.00",
+        "staff": "- Professor Michael Lewis Paul LOWER",
+        "quota": "88",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "Tu 10:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "UCC_C1",
+            "UCC_206",
+            "UCA_102",
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS3290-",
+        "class_nbr": "6933",
+        "course_title": "Chinese Civil Law Chinese Civil Law",
+        "units": "3.00",
+        "staff": "- Dr. XU Lu",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS3440-",
+        "class_nbr": "8553",
+        "course_title": "Contract Law of the PRC",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Hao",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4010-",
+        "class_nbr": "8019",
+        "course_title": "Independent Research Paper Independent Research Paper",
+        "units": "3.00",
+        "staff": "- Professor Evan Corby GIBSON",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4012-",
+        "class_nbr": "5078",
+        "course_title": "Global Issues in Law",
+        "units": "3.00",
+        "staff": "- Professor Alexander Giles GREEN",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM",
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "UCC_C3",
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4120-",
+        "class_nbr": "7364",
+        "course_title": "Commercial Law Commercial Law",
+        "units": "3.00",
+        "staff": "- Mr. Mark Norman WELLARD",
+        "quota": "88",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM",
+            "Th 10:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT5",
+            "UCC_111",
+            "UCC_108",
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4151-",
+        "class_nbr": "6936",
+        "course_title": "Equity and Trusts I Equity and Trusts I",
+        "units": "3.00",
+        "staff": "- Professor Martin Andrew JARRETT- Professor Noam NOKED",
+        "quota": "80",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Mo 02:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C1",
+            "UCC_108",
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4260-",
+        "class_nbr": "6955",
+        "course_title": "Public International Law Public International Law",
+        "units": "3.00",
+        "staff": "- Professor Aaro Samuli SEPPAENEN",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4300-",
+        "class_nbr": "8541",
+        "course_title": "Shipping and the Law 航運與法律",
+        "units": "3.00",
+        "staff": "- Mr. Paul Joel SCHMIDT",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4360-",
+        "class_nbr": "8540",
+        "course_title": "Insurance and the Law Insurance and the Law",
+        "units": "3.00",
+        "staff": "- Mr. Jonathan Robert GLUSMAN",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4430-",
+        "class_nbr": "6641",
+        "course_title": "Competition Law",
+        "units": "3.00",
+        "staff": "- Professor Sandra MARCO COLINO",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4491-",
+        "class_nbr": "8542",
+        "course_title": "Compliance from a Legal Perspe",
+        "units": "3.00",
+        "staff": "- Mr. Hans-gunther HERRMANN",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "LAWS4494-",
+        "class_nbr": "6934",
+        "course_title": "Digital Technology and Law",
+        "units": "3.00",
+        "staff": "- Professor LIN Yuping",
+        "quota": "35",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

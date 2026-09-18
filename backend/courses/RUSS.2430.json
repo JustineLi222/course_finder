@@ -1,0 +1,53 @@
+[
+    {
+        "class_code": "RUSS1000B",
+        "class_nbr": "6179",
+        "course_title": "Russian I 俄語（一）",
+        "units": "3.00",
+        "staff": "- Ms. Irina USTYUGOVA",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "R&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_508"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "RUSS2000B",
+        "class_nbr": "5381",
+        "course_title": "Russian II 俄語（二）",
+        "units": "3.00",
+        "staff": "- Ms. Irina USTYUGOVA",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "R&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_G03"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

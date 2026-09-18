@@ -1,0 +1,469 @@
+[
+    {
+        "class_code": "ARCH2111A",
+        "class_nbr": "8750",
+        "course_title": "Intro to Arch Design I 建築設計導論（一）",
+        "units": "5.00",
+        "staff": "- Dr. Pedram GHELICHI",
+        "quota": "21",
+        "vacancy": "7",
+        "mode": "STD",
+        "section_code": "AU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH2111B",
+        "class_nbr": "8760",
+        "course_title": "Intro to Arch Design I 建築設計導論（一）",
+        "units": "5.00",
+        "staff": "- Dr. XU Liang",
+        "quota": "21",
+        "vacancy": "7",
+        "mode": "STD",
+        "section_code": "BU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH2111C",
+        "class_nbr": "8764",
+        "course_title": "Intro to Arch Design I 建築設計導論（一）",
+        "units": "5.00",
+        "staff": "- Miss Caroline Barbara WUETHRICH",
+        "quota": "21",
+        "vacancy": "8",
+        "mode": "STD",
+        "section_code": "CU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH2111D",
+        "class_nbr": "8751",
+        "course_title": "Intro to Arch Design I 建築設計導論（一）",
+        "units": "5.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "STD",
+        "section_code": "DU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH2222-",
+        "class_nbr": "6965",
+        "course_title": "Digital Media 數碼媒體",
+        "units": "3.00",
+        "staff": "- Mr. FINGRUT Adam",
+        "quota": "70",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH2322-",
+        "class_nbr": "9202",
+        "course_title": "Cultural Contexts I 文化脈絡（一）",
+        "units": "3.00",
+        "staff": "- Professor Adam Jasper SMITH",
+        "quota": "70",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH3113A",
+        "class_nbr": "8762",
+        "course_title": "Architectural Design Studio I 建築設計工作室（一）",
+        "units": "5.00",
+        "staff": "- Professor SHINOHARA Hiroyuki",
+        "quota": "20",
+        "vacancy": "7",
+        "mode": "STD",
+        "section_code": "AU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH3113B",
+        "class_nbr": "8768",
+        "course_title": "Architectural Design Studio I 建築設計工作室（一）",
+        "units": "5.00",
+        "staff": "- Miss KO Kar Yeung Rina",
+        "quota": "20",
+        "vacancy": "7",
+        "mode": "STD",
+        "section_code": "BU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH3113C",
+        "class_nbr": "8771",
+        "course_title": "Architectural Design Studio I 建築設計工作室（一）",
+        "units": "5.00",
+        "staff": "- Mr. FINGRUT Adam",
+        "quota": "20",
+        "vacancy": "7",
+        "mode": "STD",
+        "section_code": "CU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH3321-",
+        "class_nbr": "8256",
+        "course_title": "Arch and Global Culture 建築學與全球文化",
+        "units": "3.00",
+        "staff": "- Professor Adam Jasper SMITH",
+        "quota": "73",
+        "vacancy": "31",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "YIA_505",
+            "ARC_211",
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4115A",
+        "class_nbr": "8769",
+        "course_title": "Arch Design Studio III 建築設計工作室（三）",
+        "units": "5.00",
+        "staff": "- Professor MA Kit Yi",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "STD",
+        "section_code": "AU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4115B",
+        "class_nbr": "8778",
+        "course_title": "Arch Design Studio III 建築設計工作室（三）",
+        "units": "5.00",
+        "staff": "- Dr. HAN Man",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "STD",
+        "section_code": "BU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4115C",
+        "class_nbr": "5135",
+        "course_title": "Arch Design Studio III 建築設計工作室（三）",
+        "units": "5.00",
+        "staff": "- Professor WANG Zhenfei",
+        "quota": "20",
+        "vacancy": "11",
+        "mode": "STD",
+        "section_code": "CU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4115D",
+        "class_nbr": "8770",
+        "course_title": "Arch Design Studio III 建築設計工作室（三）",
+        "units": "5.00",
+        "staff": "- Mr. SHINJI Wataru",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "STD",
+        "section_code": "DU01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 06:15PM",
+            "Th 01:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4131A",
+        "class_nbr": "5093",
+        "course_title": "Topical Stud in Design Theory 設計理論專題研究",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Lily Jing",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4331A",
+        "class_nbr": "5092",
+        "course_title": "Topical Std in History Theory 歷史理論及批評專題研究",
+        "units": "3.00",
+        "staff": "- Professor YIU Hoi Lam Melody",
+        "quota": "16",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4425-",
+        "class_nbr": "5424",
+        "course_title": "Building Systems Integration 建築技術綜合設計",
+        "units": "3.00",
+        "staff": "- Mr. CHOW Kelly Chi Wai",
+        "quota": "70",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ARCH4431A",
+        "class_nbr": "5134",
+        "course_title": "Top Studies in Bldg Technology 建築技術專題研究",
+        "units": "3.00",
+        "staff": "- Professor WANG Shuaizhong",
+        "quota": "37",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

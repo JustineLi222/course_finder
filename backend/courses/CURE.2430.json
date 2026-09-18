@@ -1,0 +1,889 @@
+[
+    {
+        "class_code": "CURE1000-",
+        "class_nbr": "8140",
+        "course_title": "Why Culture Matters 文化何以重要",
+        "units": "3.00",
+        "staff": "- Professor CHUNG Pei Chi",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_506",
+            "YIA_407",
+            "YIA_401"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE1009-",
+        "class_nbr": "7454",
+        "course_title": "Research Mtd in Public Humanit 公共人文學研究方法",
+        "units": "3.00",
+        "staff": "- Dr. PANG Ka Wei",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_304",
+            "LSK_202",
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE1110-",
+        "class_nbr": "8142",
+        "course_title": "Religion and Contemporary Life 宗教與當代生活",
+        "units": "3.00",
+        "staff": "- Dr. HU Jiechen",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_508",
+            "WMY_503",
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE1111-",
+        "class_nbr": "7403",
+        "course_title": "The Study of Religion 宗教研究",
+        "units": "3.00",
+        "staff": "- Dr. CHOW Wai Yin",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_306",
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE1122-",
+        "class_nbr": "8144",
+        "course_title": "Chi Culture & Its Religion 中國文化及其宗教",
+        "units": "3.00",
+        "staff": "- Dr TONG Sau Lin",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_514",
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2001-",
+        "class_nbr": "8159",
+        "course_title": "Intro to Cultural Studies 文化研究概論",
+        "units": "3.00",
+        "staff": "- Dr. TANG Sum Sheung Samson",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_210",
+            "LSK_208",
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2008-",
+        "class_nbr": "5294",
+        "course_title": "Being Human in the Age of AI AI時代的人文思辨：數位倫理學",
+        "units": "3.00",
+        "staff": "- Professor HUANG Ta-lun",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT4",
+            "LSK_301"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2011-",
+        "class_nbr": "5079",
+        "course_title": "Disability Studies in PH 公共人文學裡的身心障礙",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_210",
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2042-",
+        "class_nbr": "8161",
+        "course_title": "Xiqu and Culture 戲曲與文化",
+        "units": "3.00",
+        "staff": "- Dr. LI Mei Ting",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT2",
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2051-",
+        "class_nbr": "6856",
+        "course_title": "Understanding Comic Arts 理解漫畫藝術",
+        "units": "3.00",
+        "staff": "- Dr. CHIENG Wei Shieng",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_306",
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2125-",
+        "class_nbr": "6860",
+        "course_title": "Hong Kong Taoism 香港道教",
+        "units": "3.00",
+        "staff": "- Dr. HU Jiechen",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LDS_214",
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2142-",
+        "class_nbr": "6872",
+        "course_title": "Religion and Ethics 宗教與倫理",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LDS_214",
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2160-",
+        "class_nbr": "6894",
+        "course_title": "Sp Topics in Religion & Cul 專題研究——宗教與文化",
+        "units": "3.00",
+        "staff": "- Professor WU Jiang",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LDS_214",
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2226-",
+        "class_nbr": "6839",
+        "course_title": "Introduction to Islam 伊斯蘭教導論",
+        "units": "3.00",
+        "staff": "- Professor James D FRANKEL",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_206",
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2408-",
+        "class_nbr": "5241",
+        "course_title": "AI in Creative Industries 人工智能與創意產業",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Ka Ming",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_310"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE2411-",
+        "class_nbr": "6884",
+        "course_title": "Visual Arts Management 視覺藝術管理",
+        "units": "3.00",
+        "staff": "- Mr LEUNG Chin Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_206"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3007-",
+        "class_nbr": "6850",
+        "course_title": "Gender & Sexuality in Cul Std 文化研究與性別",
+        "units": "3.00",
+        "staff": "- Professor TAN Jia",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_206",
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3013-",
+        "class_nbr": "6885",
+        "course_title": "Sp Topics in Cul Std III 文化研究專題（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_713",
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3036-",
+        "class_nbr": "6905",
+        "course_title": "Contemp. Art and Rep. 當代藝術與再現",
+        "units": "3.00",
+        "staff": "- Professor LEE Yongwoo",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_304",
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3066-",
+        "class_nbr": "8899",
+        "course_title": "Video Production 影像製作",
+        "units": "3.00",
+        "staff": "- Dr. LI Tiecheng",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "KKB_310"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3134-",
+        "class_nbr": "6904",
+        "course_title": "Chinese Literature & the Bible 中國文學與《聖經》",
+        "units": "3.00",
+        "staff": "- Professor LAI Tsz Pang",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3409-",
+        "class_nbr": "6871",
+        "course_title": "Interpretation of Heritage 中國古物詮釋",
+        "units": "3.00",
+        "staff": "- Professor HO Tsz Wai",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_706"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE3411-",
+        "class_nbr": "9708",
+        "course_title": "Incl Th & dev of sust in art 包容性劇場與可持續性藝術發展",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Wai Ki",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE4014-",
+        "class_nbr": "6680",
+        "course_title": "Graduation Thesis 畢業論文",
+        "units": "3.00",
+        "staff": "- Dr. PANG Ka Wei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE4153-",
+        "class_nbr": "8181",
+        "course_title": "Senior Seminar 高級專題研究",
+        "units": "3.00",
+        "staff": "- Professor LAI Pan Chiu",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ERB_405",
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE4158-",
+        "class_nbr": "8522",
+        "course_title": "Sp Topic in Rel, Soc & Contemp 專題研究——宗教、社會與當代議題",
+        "units": "3.00",
+        "staff": "- Professor WANG Xingyi",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE4401-",
+        "class_nbr": "6907",
+        "course_title": "Integrated Studies in CUMT 文化管理綜合研習",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Tun Lim",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CURE4403-",
+        "class_nbr": "9706",
+        "course_title": "Culture-led City Development 文化導向的城市發展",
+        "units": "3.00",
+        "staff": "- Professor HO Tsz Wai",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

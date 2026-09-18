@@ -1,0 +1,71 @@
+[
+    {
+        "class_code": "COOP3001A",
+        "class_nbr": "8351",
+        "course_title": "Unlocking Potential & Branding 提升潛能及個人品牌",
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "200",
+        "vacancy": "200",
+        "mode": "WKS",
+        "section_code": "AW01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "COOP3001B",
+        "class_nbr": "8352",
+        "course_title": "Unlocking Potential & Branding 提升潛能及個人品牌",
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "200",
+        "vacancy": "200",
+        "mode": "WKS",
+        "section_code": "BW01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "COOP4001-",
+        "class_nbr": "6430",
+        "course_title": "Placement and Assessment 工作體驗及持續評估",
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "200",
+        "vacancy": "33",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "class_code": "GECC1000-",
+        "class_nbr": "8892",
+        "course_title": "College Assembly 書院週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "vacancy": "4000",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC1000A",
+        "class_nbr": "8783",
+        "course_title": "College Assembly 書院週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "4000",
+        "vacancy": "4000",
+        "mode": "ASB",
+        "section_code": "AA01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "CCCC"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3130A",
+        "class_nbr": "7843",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3130AA",
+        "class_nbr": "6641",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "AAF1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3130B",
+        "class_nbr": "7895",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3130C",
+        "class_nbr": "6532",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3130D",
+        "class_nbr": "6504",
+        "course_title": "Exploration and Discovery 學問與遊歷",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "FLD",
+        "section_code": "DF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3230A",
+        "class_nbr": "6414",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "16",
+        "vacancy": "16",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3230AA",
+        "class_nbr": "8094",
+        "course_title": "Service-Learning Programme 服務學習計劃",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "AAF1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC3430-",
+        "class_nbr": "6638",
+        "course_title": "Servant Leadership 僕人領袖",
+        "units": "3.00",
+        "staff": "- Dr. AHMAT Ricky- Professor NG Shek Nam- Professor WONG Pak Ho",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GECC4130AA",
+        "class_nbr": "6644",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YAM Cheuk Sing",
+        "quota": "3",
+        "vacancy": "3",
+        "mode": "SEM",
+        "section_code": "AAS1",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

@@ -1,0 +1,835 @@
+[
+    {
+        "class_code": "SEEM2440-",
+        "class_nbr": "7150",
+        "course_title": "Engineering Economics 工程經濟學",
+        "units": "3.00",
+        "staff": "- Professor AHN Dohyun",
+        "quota": "90",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Fr 10:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_703",
+            "LSB_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM2520-",
+        "class_nbr": "7151",
+        "course_title": "Fundamentals in Financial Tech 金融工程和金融科技基礎",
+        "units": "3.00",
+        "staff": "- Professor CHEN Nan",
+        "quota": "100",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 11:15AM",
+            "Fr 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "LSB_LT5",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3410-",
+        "class_nbr": "5249",
+        "course_title": "System Modeling and Simulation 系統建模與模擬",
+        "units": "3.00",
+        "staff": "- Professor LIU Weiliang",
+        "quota": "91",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 10:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "CKB_LT3",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3430-",
+        "class_nbr": "7158",
+        "course_title": "Info Syst Analysis & Design 資訊系統分析及設計",
+        "units": "3.00",
+        "staff": "- Dr. WAN Sai Chuen",
+        "quota": "41",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_707",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3440-",
+        "class_nbr": "5331",
+        "course_title": "Operations Research II 運籌學（二）",
+        "units": "3.00",
+        "staff": "- Dr. NG Chi Kong",
+        "quota": "71",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "Th 12:30PM - 02:15PM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "SC_L5",
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3590-",
+        "class_nbr": "7156",
+        "course_title": "Investment Science 投資科學",
+        "units": "3.00",
+        "staff": "- Professor YANG Chen",
+        "quota": "102",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "Th 11:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_LT3",
+            "TYW_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3630-",
+        "class_nbr": "7157",
+        "course_title": "Service Management 服務營運的管理",
+        "units": "3.00",
+        "staff": "- Dr. HO Sin Cheung",
+        "quota": "47",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_401",
+            "WMY_306",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM3680-",
+        "class_nbr": "8777",
+        "course_title": "Techno Consulting in Practice 實用科技諮詢及分析",
+        "units": "3.00",
+        "staff": "- Professor MENG Mei Ling Helen",
+        "quota": "54",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "Th 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_804",
+            "ERB_602",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4630-",
+        "class_nbr": "7001",
+        "course_title": "E-Commerce Data Mining 電子商務數據採集和分析",
+        "units": "3.00",
+        "staff": "- Professor LAM Wai",
+        "quota": "55",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "We 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "BMS_LT",
+            "ERB_804",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4750-",
+        "class_nbr": "7159",
+        "course_title": "Advances in LSCM 高級物流與供應鏈管理",
+        "units": "3.00",
+        "staff": "- Dr. HO Sin Cheung",
+        "quota": "43",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 04:15PM",
+            "Th 03:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_804",
+            "ERB_703",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4760-",
+        "class_nbr": "5184",
+        "course_title": "Stoc Models for Decision Anal 決策分析中的隨機模型",
+        "units": "3.00",
+        "staff": "- Professor HE Xuedong",
+        "quota": "40",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 10:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_712",
+            "WMY_405",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998A",
+        "class_nbr": "6561",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998B",
+        "class_nbr": "6577",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998C",
+        "class_nbr": "6578",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor SO Man Cho",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998D",
+        "class_nbr": "6579",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIU Weiliang",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998E",
+        "class_nbr": "6234",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor JIA Yanwei",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998F",
+        "class_nbr": "8112",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WU Xixin",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998G",
+        "class_nbr": "6581",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor JIA Yanwei",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998H",
+        "class_nbr": "6582",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WU Xixin",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998I",
+        "class_nbr": "6583",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998J",
+        "class_nbr": "6584",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LAM Wai",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998K",
+        "class_nbr": "6585",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998L",
+        "class_nbr": "6314",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor SO Man Cho",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998M",
+        "class_nbr": "8017",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998N",
+        "class_nbr": "6315",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Kwong",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998O",
+        "class_nbr": "8113",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor NGUYEN Viet Anh",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998P",
+        "class_nbr": "8114",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LIANG Bin",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998Q",
+        "class_nbr": "8115",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. NG Chi Kong",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998R",
+        "class_nbr": "8116",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor MENG Mei Ling Helen",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998S",
+        "class_nbr": "8178",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Nan",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998T",
+        "class_nbr": "8179",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor MENG Mei Ling Helen",
+        "quota": "3",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4998U",
+        "class_nbr": "5057",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Lingfei",
+        "quota": "3",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SEEM4999BA",
+        "class_nbr": "5060",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. HO Sin Cheung",
+        "quota": "3",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "BAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "class_code": "BMED3071-",
+        "class_nbr": "4853",
+        "course_title": "The Teach'g of Probab. & Stat. 概率與統計的教學",
+        "units": "3.00",
+        "staff": "- Mr. LEE Kin Sum",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "BMED3081-",
+        "class_nbr": "4854",
+        "course_title": "The Teach'g of Sp Sense & Geo 幾何與空間感的教學",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Allen Yuk Lun",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_G2"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "BMED4510-",
+        "class_nbr": "4855",
+        "course_title": "ActionResearch in Maths Classr 數學教學行動研究",
+        "units": "3.00",
+        "staff": "- Dr. CHIA Hui Min",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 02:15PM",
+            "We 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "HTB_107"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "BMED4520-",
+        "class_nbr": "6781",
+        "course_title": "Mathematics Teachg Project Rep 數學教學研究報告",
+        "units": "3.00",
+        "staff": "- Professor NG Oi Lam",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

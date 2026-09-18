@@ -1,0 +1,469 @@
+[
+    {
+        "class_code": "SPAN1000A",
+        "class_nbr": "4923",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "S&amp;E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000C",
+        "class_nbr": "7431",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "CC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000D",
+        "class_nbr": "5287",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Miss Maria Del Carmen JORDAN FERNANDEZ",
+        "quota": "28",
+        "vacancy": "2",
+        "mode": "CLW",
+        "section_code": "DC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000E",
+        "class_nbr": "7434",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "EC01",
+        "language": "S&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000F",
+        "class_nbr": "4916",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Ms. Angela NIETO JIMENEZ",
+        "quota": "28",
+        "vacancy": "7",
+        "mode": "CLW",
+        "section_code": "FC01",
+        "language": "S&amp;E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000G",
+        "class_nbr": "7432",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "GC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_304"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000H",
+        "class_nbr": "7433",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "28",
+        "vacancy": "2",
+        "mode": "CLW",
+        "section_code": "HC01",
+        "language": "S&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000I",
+        "class_nbr": "5549",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "IC01",
+        "language": "S&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000J",
+        "class_nbr": "4918",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Miss Maria Del Carmen JORDAN FERNANDEZ",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "JC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000K",
+        "class_nbr": "5863",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "28",
+        "vacancy": "6",
+        "mode": "CLW",
+        "section_code": "KC01",
+        "language": "S&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_405"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000L",
+        "class_nbr": "9708",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "LC01",
+        "language": "S&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1000M",
+        "class_nbr": "5006",
+        "course_title": "Spanish I 西班牙語（一）",
+        "units": "3.00",
+        "staff": "- Ms. Angela NIETO JIMENEZ",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "MC01",
+        "language": "S&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1001-",
+        "class_nbr": "6075",
+        "course_title": "First Step in Spanish 西班牙語入門",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "S&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN1101-",
+        "class_nbr": "9223",
+        "course_title": "Spa Civilization & Its Lang I 西班牙文明及其語言（一）",
+        "units": "3.00",
+        "staff": "- Dr. Leticia VICENTE RASOAMALALA",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "S&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN2000A",
+        "class_nbr": "4931",
+        "course_title": "Spanish II 西班牙語（二）",
+        "units": "3.00",
+        "staff": "- Miss Veronica J. CONSTANTINO CASTILLO",
+        "quota": "28",
+        "vacancy": "15",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "S&amp;E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN2000B",
+        "class_nbr": "4943",
+        "course_title": "Spanish II 西班牙語（二）",
+        "units": "3.00",
+        "staff": "- Miss Veronica J. CONSTANTINO CASTILLO",
+        "quota": "28",
+        "vacancy": "11",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "S&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN2001A",
+        "class_nbr": "4927",
+        "course_title": "Spanish III 西班牙語（三）",
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "28",
+        "vacancy": "10",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_210"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN2001B",
+        "class_nbr": "4929",
+        "course_title": "Spanish III 西班牙語（三）",
+        "units": "3.00",
+        "staff": "- Dr. Antonio Ramon GARCIA SUSPERREGUI",
+        "quota": "28",
+        "vacancy": "5",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "S&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN3001A",
+        "class_nbr": "4945",
+        "course_title": "Spanish V 西班牙語（五）",
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "28",
+        "vacancy": "14",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "S&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_305"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SPAN3001B",
+        "class_nbr": "4925",
+        "course_title": "Spanish V 西班牙語（五）",
+        "units": "3.00",
+        "staff": "- Mr. Mario MONTERRUBIO GANAN",
+        "quota": "28",
+        "vacancy": "17",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "S&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_201"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

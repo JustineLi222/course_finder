@@ -1,0 +1,146 @@
+[
+    {
+        "class_code": "EPIN1010-",
+        "class_nbr": "6563",
+        "course_title": "Anatomy of an Entrepreneur 創業家解構",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chi Bong Dominic",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EPIN1020-",
+        "class_nbr": "4746",
+        "course_title": "Design Thinking and Practice 設計思考與實踐",
+        "units": "3.00",
+        "staff": "- Mr. TAM Siu Loonge Henry",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EPIN2010-",
+        "class_nbr": "7785",
+        "course_title": "Toolkit for Entrepreneurs 創業者工具箱",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chi Bong Dominic",
+        "quota": "30",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EPIN2900-",
+        "class_nbr": "6288",
+        "course_title": "Internship in EPIN I 創業與創新實習（一）",
+        "units": "1.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EPIN3900-",
+        "class_nbr": "6290",
+        "course_title": "Internship in EPIN II 創業與創新實習（二）",
+        "units": "2.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EPIN4900-",
+        "class_nbr": "6605",
+        "course_title": "Internship in EPIN III 創業與創新實習（三）",
+        "units": "3.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

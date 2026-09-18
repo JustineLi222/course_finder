@@ -1,0 +1,25 @@
+[
+    {
+        "class_code": "DIPL1001-",
+        "class_nbr": "5079",
+        "course_title": "Introduction to IR and DIPL 國際關係與外交導論",
+        "units": "3.00",
+        "staff": "- Dr. HUNG Wing Lok",
+        "quota": "30",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

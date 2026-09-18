@@ -1,0 +1,586 @@
+[
+    {
+        "class_code": "STAT1011A",
+        "class_nbr": "9714",
+        "course_title": "Introduction to Statistics 統計導論",
+        "units": "3.00",
+        "staff": "- Dr. HO Kwok Wah",
+        "quota": "153",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT7",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT1011B",
+        "class_nbr": "9334",
+        "course_title": "Introduction to Statistics 統計導論",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Sze Him Isaac",
+        "quota": "160",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT1011C",
+        "class_nbr": "9415",
+        "course_title": "Introduction to Statistics 統計導論",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Chun Man",
+        "quota": "160",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT5",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT1012A",
+        "class_nbr": "5289",
+        "course_title": "Statistics for Life Sciences 生命科學統計",
+        "units": "3.00",
+        "staff": "- Dr. OUYANG Ming",
+        "quota": "100",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 11:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT6",
+            "YIA_LT7",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT2001A",
+        "class_nbr": "5288",
+        "course_title": "Basic Con in Stat & Prob I 統計及概率基本概念（一）",
+        "units": "3.00",
+        "staff": "- Professor LIN Yingxin",
+        "quota": "160",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SC_L1",
+            "BMS_G18",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT2001B",
+        "class_nbr": "5310",
+        "course_title": "Basic Con in Stat & Prob I 統計及概率基本概念（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Jiacheng",
+        "quota": "160",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "We 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "BMS_G18",
+            "HTB_B6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT2005A",
+        "class_nbr": "7437",
+        "course_title": "Programming Lang for Stat 統計電腦語言",
+        "units": "3.00",
+        "staff": "- Dr. WONG Tat Wing",
+        "quota": "150",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT2006A",
+        "class_nbr": "9329",
+        "course_title": "Basic Con in Stat & Prob II 統計及概率基本概念（二）",
+        "units": "3.00",
+        "staff": "- Dr. LIU Kin Yat",
+        "quota": "150",
+        "vacancy": "49",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 12:30PM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "BMS_G18",
+            "LSK_LT3",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3003-",
+        "class_nbr": "8453",
+        "course_title": "Survey Methods 調查方法",
+        "units": "3.00",
+        "staff": "- Professor FAN Xiaodan",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_LT3",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3005-",
+        "class_nbr": "7440",
+        "course_title": "Nonparametric statistics 非參數統計",
+        "units": "3.00",
+        "staff": "- Professor CHAN Kin Wai",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_104",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3007A",
+        "class_nbr": "5823",
+        "course_title": "Intro to Stochastic Processes 隨機過程入門",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG King Chau",
+        "quota": "150",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3008A",
+        "class_nbr": "5196",
+        "course_title": "Applied Regression Analysis 應用迴歸分析",
+        "units": "3.00",
+        "staff": "- Professor XIA Dong",
+        "quota": "120",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 01:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3008B",
+        "class_nbr": "5217",
+        "course_title": "Applied Regression Analysis 應用迴歸分析",
+        "units": "3.00",
+        "staff": "- Professor WANG Junhui",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3009-",
+        "class_nbr": "9532",
+        "course_title": "Recommender Systems 推薦系統",
+        "units": "3.00",
+        "staff": "- Professor DAI Ben",
+        "quota": "60",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 12:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_710",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT3210A",
+        "class_nbr": "5197",
+        "course_title": "Stat Tech in Life Sciences 生命科學之統計方法",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Sze Him Isaac",
+        "quota": "110",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SC_L4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4001-",
+        "class_nbr": "9088",
+        "course_title": "Data Mining & Stat Learning 數據挖掘及統計學習",
+        "units": "3.00",
+        "staff": "- Professor LIN Zhixiang",
+        "quota": "110",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4003-",
+        "class_nbr": "9355",
+        "course_title": "Statistical Inference 統計推論",
+        "units": "3.00",
+        "staff": "- Professor LIN Yuanyuan",
+        "quota": "110",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4005A",
+        "class_nbr": "7441",
+        "course_title": "Time Series 時間序列",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Sze Him Isaac",
+        "quota": "130",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "Tu 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_LT3",
+            "MMW_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4006-",
+        "class_nbr": "6019",
+        "course_title": "Categorical Data Analysis 範疇性數據分析",
+        "units": "3.00",
+        "staff": "- Dr. John Alexander WRIGHT",
+        "quota": "110",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SC_L4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4011-",
+        "class_nbr": "8571",
+        "course_title": "Statistics Projects 統計習作",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG King Chau- Dr. HO Kwok Wah",
+        "quota": "130",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Mo 05:30PM - 06:15PM",
+            "We 05:30PM - 06:15PM",
+            "We 03:30PM - 04:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "MMW_LT2",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "STAT4013-",
+        "class_nbr": "6372",
+        "course_title": "Practicum 行業實習",
+        "units": "3.00",
+        "staff": "- Professor WANG Junhui",
+        "quota": "20",
+        "vacancy": "11",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

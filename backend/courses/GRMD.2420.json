@@ -1,0 +1,642 @@
+[
+    {
+        "class_code": "GRMD1003-",
+        "class_nbr": "9729",
+        "course_title": "Understand China thr Cul Land 文化景觀 探識中國",
+        "units": "2.00",
+        "staff": "- Professor XU Jiang",
+        "quota": "80",
+        "vacancy": "72",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD1301-",
+        "class_nbr": "9048",
+        "course_title": "Greater Bay Area 透視粵港澳大灣區",
+        "units": "3.00",
+        "staff": "- Professor LEE Wai Ying Joanna- Professor YEUNG Wai Chung Henry",
+        "quota": "70",
+        "vacancy": "52",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD1302-",
+        "class_nbr": "7362",
+        "course_title": "People, Space and Place 人‧空間‧地方",
+        "units": "3.00",
+        "staff": "- Professor LEE Fung",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT8",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD1403-",
+        "class_nbr": "9661",
+        "course_title": "Resources, Society and Environ 資源、社會與環境",
+        "units": "3.00",
+        "staff": "- Dr. WONG Kwan Kit- Professor CHAN Chung Shing- Professor LEE Fung",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ARC_G03",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2001-",
+        "class_nbr": "7955",
+        "course_title": "Non-local Field Studies I 境外考察（一）",
+        "units": "1.00",
+        "staff": "- Professor JIN Ting- Professor LU Xingcheng- Professor MA Peifeng- Professor ZHENG Qiming",
+        "quota": "80",
+        "vacancy": "79",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2102-",
+        "class_nbr": "7479",
+        "course_title": "Fundamental Stat for Geog 地理學統計初階",
+        "units": "3.00",
+        "staff": "- Professor KAN Zihan",
+        "quota": "100",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CK_TSE",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2105-",
+        "class_nbr": "7310",
+        "course_title": "Introduction to GIS 地理信息系統導論",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Qiming",
+        "quota": "120",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_LT3",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2106-",
+        "class_nbr": "5211",
+        "course_title": "Introduction to Satellite Desi 衛星設計與應用導論",
+        "units": "3.00",
+        "staff": "- Professor MA Peifeng",
+        "quota": "83",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_LT4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2209-",
+        "class_nbr": "8545",
+        "course_title": "Physical Geology 自然地質學",
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_306",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2221-",
+        "class_nbr": "8215",
+        "course_title": "Weather and Climate 天氣與氣候",
+        "units": "3.00",
+        "staff": "- Professor Muhammad SAJJAD",
+        "quota": "80",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_LT4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2292-",
+        "class_nbr": "9795",
+        "course_title": "Understanding Ecotourism 生態旅遊探索",
+        "units": "2.00",
+        "staff": "- Professor CHAN Chung Shing",
+        "quota": "32",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2303-",
+        "class_nbr": "9089",
+        "course_title": "Urban Geography 城市地理學",
+        "units": "3.00",
+        "staff": "- Professor Jack Laurie HARRIS",
+        "quota": "55",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_403",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD2401-",
+        "class_nbr": "5484",
+        "course_title": "Sustainable Development 可持續發展",
+        "units": "3.00",
+        "staff": "- Professor Jack Laurie HARRIS- Professor LU Xingcheng",
+        "quota": "40",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_UG04",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3001-",
+        "class_nbr": "8037",
+        "course_title": "Non-local Studies II 境外考察（二）",
+        "units": "1.00",
+        "staff": "- Professor JIN Ting- Professor LU Xingcheng- Professor MA Peifeng- Professor ZHENG Qiming",
+        "quota": "80",
+        "vacancy": "79",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3203-",
+        "class_nbr": "9118",
+        "course_title": "Urban Environmental Problems 城市環境問題",
+        "units": "3.00",
+        "staff": "- Professor LU Xingcheng",
+        "quota": "46",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_UG03",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3209-",
+        "class_nbr": "5382",
+        "course_title": "Soil Science 土壤學",
+        "units": "3.00",
+        "staff": "- Professor LAI Yuk Fo",
+        "quota": "32",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_108",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3231-",
+        "class_nbr": "5098",
+        "course_title": "Best EIA Practices in the Digi 數字時代的最佳環境影響評估作業實踐",
+        "units": "3.00",
+        "staff": "- Mr. TSANG Sai Wing Terence- Professor LAM Kin Che",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_303",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3302-",
+        "class_nbr": "8247",
+        "course_title": "Population and Migration 人口與遷移",
+        "units": "3.00",
+        "staff": "- Professor SHEN Jianfa",
+        "quota": "70",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3323-",
+        "class_nbr": "7311",
+        "course_title": "Urban and Regional Planning 城市與區域規劃",
+        "units": "3.00",
+        "staff": "- Professor LEE Wai Ying Joanna",
+        "quota": "58",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_206",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD3401-",
+        "class_nbr": "8261",
+        "course_title": "Energy Resources for Carbon Ne 碳中和時代的能源資源",
+        "units": "3.00",
+        "staff": "- Professor XU Yuan",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD4001-",
+        "class_nbr": "4979",
+        "course_title": "Final Year Thesis I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying- Dr. WONG Kwan Kit- Professor Benjamin Samuel THOMPSON- Professor CHAN Chung Shing- Professor JIN Ting- Professor Jack Laurie HARRIS- Professor KWAN Mei Po- Professor LAI Yuk Fo- Professor LAM Siu Ngan",
+        "quota": "80",
+        "vacancy": "35",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD4002-",
+        "class_nbr": "4981",
+        "course_title": "Final Year Thesis II 畢業論文（二）",
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying- Dr. WONG Kwan Kit- Professor Benjamin Samuel THOMPSON- Professor CHAN Chung Shing- Professor JIN Ting- Professor Jack Laurie HARRIS- Professor KWAN Mei Po- Professor LAI Yuk Fo- Professor LAM Siu Ngan",
+        "quota": "80",
+        "vacancy": "77",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD4003-",
+        "class_nbr": "4990",
+        "course_title": "Special Topics in GRM I 地理與資源管理專題研習（一）",
+        "units": "3.00",
+        "staff": "- Dr. Elnaz SARKHEYLI",
+        "quota": "30",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_222",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD4202-",
+        "class_nbr": "8611",
+        "course_title": "Hydrology and Water Resources 水文與水資源",
+        "units": "3.00",
+        "staff": "- Professor LI Jianfeng",
+        "quota": "65",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_203",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRMD4503-",
+        "class_nbr": "8546",
+        "course_title": "Smart City Policies & Gov 智慧城市政策與治理",
+        "units": "3.00",
+        "staff": "- Professor CHUNG King Lam Calvin- Professor LU Xingcheng- Professor ZHENG Qiming",
+        "quota": "60",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SB_UG06",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

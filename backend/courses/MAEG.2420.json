@@ -1,0 +1,400 @@
+[
+    {
+        "class_code": "MAEG1020-",
+        "class_nbr": "8285",
+        "course_title": "Comput’nal Design & Fabric’n 計算設計與製造",
+        "units": "3.00",
+        "staff": "- Professor CHENG Shing Shin",
+        "quota": "70",
+        "vacancy": "49",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 10:15AM",
+            "Mo 09:30AM - 12:15PM",
+            "We 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_803",
+            "ERB_218"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG2020-",
+        "class_nbr": "5655",
+        "course_title": "Engineering Mechanics 工程力學",
+        "units": "3.00",
+        "staff": "- Dr. LI Yiyang",
+        "quota": "125",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "LSB_LT6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG2030-",
+        "class_nbr": "5330",
+        "course_title": "Thermodynamics 熱力學",
+        "units": "3.00",
+        "staff": "- Professor XU Dongyan",
+        "quota": "200",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "We 01:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SWC_LT",
+            "SC_L1",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG2050-",
+        "class_nbr": "9158",
+        "course_title": "Robot Development in Practice 機器人開發實踐：從設計到原型製作",
+        "units": "3.00",
+        "staff": "- Professor KWOK Ka Wai",
+        "quota": "40",
+        "vacancy": "15",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_705",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG3010-",
+        "class_nbr": "5656",
+        "course_title": "Mechanics of Materials 材料力學",
+        "units": "3.00",
+        "staff": "- Professor LIU Xiaohua",
+        "quota": "75",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Th 09:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_803",
+            "MMW_703",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG3050-",
+        "class_nbr": "5657",
+        "course_title": "Introduction to Control Sys 控制系統導論",
+        "units": "3.00",
+        "staff": "- Dr. PAN Zini",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 10:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT2",
+            "SB_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG3070-",
+        "class_nbr": "9054",
+        "course_title": "Fundamentals of CAD 計算機輔助設計基礎",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Huan",
+        "quota": "37",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 11:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_401",
+            "MMW_715",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG3920-",
+        "class_nbr": "9348",
+        "course_title": "ENGG Design & Applications 工程設計及應用",
+        "units": "3.00",
+        "staff": "- Professor LIAO Shuheng",
+        "quota": "55",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_404",
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4020-",
+        "class_nbr": "5694",
+        "course_title": "Finite Elem't Modelling & Anal 有限元建模與分析",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "50",
+        "vacancy": "37",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 10:15AM",
+            "Th 11:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_101",
+            "LSB_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4030-",
+        "class_nbr": "5707",
+        "course_title": "Heat Transfer 熱傳學",
+        "units": "3.00",
+        "staff": "- Professor XU Dongyan",
+        "quota": "135",
+        "vacancy": "34",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "We 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "TYW_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4040-",
+        "class_nbr": "9055",
+        "course_title": "Mechatronic Systems 機電系統",
+        "units": "3.00",
+        "staff": "- Dr. LI Yiyang",
+        "quota": "60",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "We 01:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_404",
+            "SC_L3",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4070-",
+        "class_nbr": "9681",
+        "course_title": "Engineering Optimization 工程優化",
+        "units": "3.00",
+        "staff": "- Professor YUAN Haidong",
+        "quota": "50",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_101",
+            "LHC_106",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4998-",
+        "class_nbr": "6328",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "90",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MAEG4999-",
+        "class_nbr": "6587",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

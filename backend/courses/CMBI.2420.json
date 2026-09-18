@@ -1,0 +1,262 @@
+[
+    {
+        "class_code": "CMBI2500-",
+        "class_nbr": "8084",
+        "course_title": "Research Internship 研究實習",
+        "units": "2.00",
+        "staff": "- Dr. KOON Chun Alex",
+        "quota": "5",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI3010-",
+        "class_nbr": "8856",
+        "course_title": "CMB Lab I 細胞及分子生物學實驗（一）",
+        "units": "3.00",
+        "staff": "- Dr. KOON Chun Alex",
+        "quota": "40",
+        "vacancy": "17",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 06:15PM",
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_127"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI3030-",
+        "class_nbr": "8802",
+        "course_title": "CMB Laboratory III 細胞及分子生物學實驗（三）",
+        "units": "1.00",
+        "staff": "- Dr. KOON Chun Alex",
+        "quota": "40",
+        "vacancy": "17",
+        "mode": "LAB",
+        "section_code": "-L01",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "SC_127"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI3100-",
+        "class_nbr": "7821",
+        "course_title": "Method of Critical Thinking 細胞及分子生物學科學思維方法",
+        "units": "2.00",
+        "staff": "- Dr. KOON Chun Alex- Professor AU Wing Ngor Shannon- Professor CHAN Ho Yin Edwin- Professor CHAN Ting Fung Philos- Professor CHEN Sijie- Professor CHEN Zhefan- Professor CHOW Hei Man- Professor GUO Dianjing- Professor HUI",
+        "quota": "40",
+        "vacancy": "16",
+        "mode": "DIS",
+        "section_code": "-D01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4001-",
+        "class_nbr": "9147",
+        "course_title": "Protein Trafficking 蛋白運輸",
+        "units": "1.00",
+        "staff": "- Professor ZHUANG Xiaohong",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4002-",
+        "class_nbr": "9148",
+        "course_title": "Protein Folding 蛋白折疊",
+        "units": "1.00",
+        "staff": "- Professor WONG Kam Bo",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "6/10, 13/10, 20/10, 27/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4003-",
+        "class_nbr": "9149",
+        "course_title": "Signal Transduction 信號傳導",
+        "units": "1.00",
+        "staff": "- Professor ZHANG Congyan",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LHC_101"
+        ],
+        "meeting_date": [
+            "3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4201-",
+        "class_nbr": "9150",
+        "course_title": "Genomics and Transcriptomics 基因組學及轉錄組學",
+        "units": "1.00",
+        "staff": "- Professor CHAN Ting Fung Philos",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4202-",
+        "class_nbr": "9151",
+        "course_title": "Proteomics 蛋白質組學",
+        "units": "1.00",
+        "staff": "- Professor ZHONG Silin",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "15/10, 22/10, 29/10, 5/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4203-",
+        "class_nbr": "9152",
+        "course_title": "Metabolomics 代謝組學",
+        "units": "1.00",
+        "staff": "- Professor GUO Dianjing",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_715"
+        ],
+        "meeting_date": [
+            "12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CMBI4902-",
+        "class_nbr": "6052",
+        "course_title": "Senior Experimental Proj II 實驗專題討論 (二)",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ting Fung Philos- Professor ZHUANG Xiaohong",
+        "quota": "30",
+        "vacancy": "25",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

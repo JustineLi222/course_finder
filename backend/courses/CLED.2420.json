@@ -1,0 +1,126 @@
+[
+    {
+        "class_code": "CLED1030A",
+        "class_nbr": "8180",
+        "course_title": "Immersion Experience Putonghua 港外沉浸學習﹝普通話﹞",
+        "units": "2.00",
+        "staff": "- Dr. KOU Zhihui",
+        "quota": "40",
+        "vacancy": "30",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CLED2530-",
+        "class_nbr": "8437",
+        "course_title": "Elementary Putonghua 基礎普通話",
+        "units": "2.00",
+        "staff": "- Dr. KOU Zhihui",
+        "quota": "40",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CLED3510-",
+        "class_nbr": "8435",
+        "course_title": "Methods of Chi Lang Teaching I 中文教學法（一）",
+        "units": "3.00",
+        "staff": "- Dr. NG Mau Yuen Eric",
+        "quota": "40",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CLED4630-",
+        "class_nbr": "8436",
+        "course_title": "Curr and Instruct Design Pamoi 以普通話教中文的課程與教學設計",
+        "units": "3.00",
+        "staff": "- Dr. KOU Zhihui",
+        "quota": "40",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 03:30PM - 06:15PM",
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_501",
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CLED4750-",
+        "class_nbr": "8438",
+        "course_title": "Current Issues in Chi Lang Edu 中國語文教育當前議題",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yin Chu",
+        "quota": "40",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_405",
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

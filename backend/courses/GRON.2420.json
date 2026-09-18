@@ -1,0 +1,101 @@
+[
+    {
+        "class_code": "GRON3112-",
+        "class_nbr": "5659",
+        "course_title": "Basic Care in Gerontology 老年學的基礎照顧",
+        "units": "3.00",
+        "staff": "- Mr. CHIU Cheuk Pong",
+        "quota": "33",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRON3114-",
+        "class_nbr": "5811",
+        "course_title": "Psychology in Ageing 老齡心理學︰理論與應用",
+        "units": "3.00",
+        "staff": "- Miss LAI Hoi Ki",
+        "quota": "33",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRON3211-",
+        "class_nbr": "5660",
+        "course_title": "Chronic Disease Mgmt 慢性疾病管理",
+        "units": "3.00",
+        "staff": "- Mr. CHIU Cheuk Pong",
+        "quota": "66",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GRON4312-",
+        "class_nbr": "6457",
+        "course_title": "Gerontological Practicum 老年學實習",
+        "units": "8.00",
+        "staff": "- Miss LAI Hoi Ki",
+        "quota": "33",
+        "vacancy": "5",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

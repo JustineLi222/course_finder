@@ -1,0 +1,1061 @@
+[
+    {
+        "class_code": "ECON1010A",
+        "class_nbr": "5872",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "40",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1010B",
+        "class_nbr": "5873",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "40",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1101A",
+        "class_nbr": "5526",
+        "course_title": "Mathematical Methods in Eco I 經濟數學方法（一）",
+        "units": "2.00",
+        "staff": "- Dr. CHOW Yan Chi Vinci",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1101B",
+        "class_nbr": "5527",
+        "course_title": "Mathematical Methods in Eco I 經濟數學方法（一）",
+        "units": "2.00",
+        "staff": "- Dr. CHOW Yan Chi Vinci",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1210-",
+        "class_nbr": "9695",
+        "course_title": "Economics and Society 經濟學與社會",
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "140",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1220A",
+        "class_nbr": "7484",
+        "course_title": "Contemporary Economic Thinking 當代經濟思想",
+        "units": "3.00",
+        "staff": "- Professor KWONG Kai Sun Sunny",
+        "quota": "140",
+        "vacancy": "68",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1420A",
+        "class_nbr": "4965",
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "10",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON1902-",
+        "class_nbr": "9809",
+        "course_title": "A Guide to Learning Economics 經濟學入門",
+        "units": "2.00",
+        "staff": "- Dr. TAM Yin Chi",
+        "quota": "130",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2011A",
+        "class_nbr": "5301",
+        "course_title": "Basic Microeconomics 基本微觀經濟學",
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "85",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "CK_TSE",
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2011B",
+        "class_nbr": "5528",
+        "course_title": "Basic Microeconomics 基本微觀經濟學",
+        "units": "3.00",
+        "staff": "- Dr. HO Cheuk Yin",
+        "quota": "110",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT7",
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2011C",
+        "class_nbr": "5315",
+        "course_title": "Basic Microeconomics 基本微觀經濟學",
+        "units": "3.00",
+        "staff": "- Dr. TAM Yin Chi",
+        "quota": "90",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "WMY_505",
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2021A",
+        "class_nbr": "5529",
+        "course_title": "Basic Macroeconomics 基本宏觀經濟學",
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "90",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2021B",
+        "class_nbr": "5324",
+        "course_title": "Basic Macroeconomics 基本宏觀經濟學",
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "90",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON2121A",
+        "class_nbr": "9820",
+        "course_title": "Methods of Economic Statistics 經濟統計方法",
+        "units": "3.00",
+        "staff": "- Dr. James Philip MARTIN",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3011A",
+        "class_nbr": "5530",
+        "course_title": "Intermed Microeconomic Theory 中級微觀經濟理論",
+        "units": "3.00",
+        "staff": "- Dr. MOK Kai Chung- Dr. YUNG Chor Wing Linda",
+        "quota": "122",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3021A",
+        "class_nbr": "5531",
+        "course_title": "Intermed Macroeconomic Theory 中級宏觀經濟理論",
+        "units": "3.00",
+        "staff": "- Dr. MOK Kai Chung",
+        "quota": "110",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3121A",
+        "class_nbr": "9258",
+        "course_title": "Introductory Econometrics 計量經濟學導論",
+        "units": "3.00",
+        "staff": "- Dr. James Philip MARTIN",
+        "quota": "90",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3121B",
+        "class_nbr": "9256",
+        "course_title": "Introductory Econometrics 計量經濟學導論",
+        "units": "3.00",
+        "staff": "- Dr. James Philip MARTIN",
+        "quota": "87",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3140A",
+        "class_nbr": "9259",
+        "course_title": "Financial Data Analysis 財務數據分析",
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "110",
+        "vacancy": "41",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3260-",
+        "class_nbr": "9559",
+        "course_title": "History of Economic Thought 經濟思想史",
+        "units": "3.00",
+        "staff": "- Professor KWONG Kai Sun Sunny",
+        "quota": "65",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3370-",
+        "class_nbr": "9529",
+        "course_title": "Business Environment of China 中國營商環境",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Yifan",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3380-",
+        "class_nbr": "4969",
+        "course_title": "Economy of Hong Kong 香港經濟",
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "65",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3410A",
+        "class_nbr": "5532",
+        "course_title": "Money and Banking 貨幣與銀行學",
+        "units": "3.00",
+        "staff": "- Dr. ZHOU Weidi",
+        "quota": "80",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3420A",
+        "class_nbr": "5915",
+        "course_title": "Financial Economics 金融經濟學",
+        "units": "3.00",
+        "staff": "- Professor LI Zhen",
+        "quota": "75",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 12:15PM",
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_LT2",
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3430A",
+        "class_nbr": "5533",
+        "course_title": "Public Finance 財政學",
+        "units": "3.00",
+        "staff": "- Dr. WOO Wai Chiu",
+        "quota": "90",
+        "vacancy": "44",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3460-",
+        "class_nbr": "5534",
+        "course_title": "Development Economics 發展經濟學",
+        "units": "3.00",
+        "staff": "- Dr. ZHOU Weidi",
+        "quota": "70",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3470-",
+        "class_nbr": "9306",
+        "course_title": "Labour Economics 勞動經濟學",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "60",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G03",
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3480-",
+        "class_nbr": "5535",
+        "course_title": "Industrial Organization 工業組織",
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3540-",
+        "class_nbr": "9818",
+        "course_title": "Foundations of Corp Finance 基礎企業財務",
+        "units": "3.00",
+        "staff": "- Professor DU Julan",
+        "quota": "110",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON3590A",
+        "class_nbr": "5577",
+        "course_title": "Business Economics 商業經濟學",
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "110",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Th 08:30AM - 10:15AM"
+        ],
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4010-",
+        "class_nbr": "8554",
+        "course_title": "Adv Topics in Microeconomics 高級微觀經濟學專題",
+        "units": "3.00",
+        "staff": "- Professor LI Duozhe",
+        "quota": "30",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4120-",
+        "class_nbr": "8596",
+        "course_title": "Applied Forecasting Methods 應用預測方法",
+        "units": "3.00",
+        "staff": "- Professor LI Zhen",
+        "quota": "90",
+        "vacancy": "53",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4130-",
+        "class_nbr": "9566",
+        "course_title": "Machine Learning Method in Eco 機械學習在經濟學的應用",
+        "units": "3.00",
+        "staff": "- Dr. CHOW Yan Chi Vinci",
+        "quota": "40",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_302",
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4470-",
+        "class_nbr": "5182",
+        "course_title": "Economics of Behavioural Finan 行為金融學的經濟分析",
+        "units": "3.00",
+        "staff": "- Dr. TAM Yin Chi",
+        "quota": "40",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901A",
+        "class_nbr": "9435",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Professor CAO Siying",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "FYB_105"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901B",
+        "class_nbr": "5537",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Professor Julius ILCIUKAS",
+        "quota": "15",
+        "vacancy": "8",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901C",
+        "class_nbr": "9703",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "15",
+        "vacancy": "2",
+        "mode": "SEM",
+        "section_code": "CS01",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "FYB_105"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901D",
+        "class_nbr": "5536",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "15",
+        "vacancy": "4",
+        "mode": "SEM",
+        "section_code": "DS01",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_402"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901E",
+        "class_nbr": "5538",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Professor DU Julan",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "ES01",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "FYB_107B"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901F",
+        "class_nbr": "4970",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Professor NG Ka Ho",
+        "quota": "15",
+        "vacancy": "1",
+        "mode": "SEM",
+        "section_code": "FS01",
+        "language": "E",
+        "period": [
+            "We 05:30PM - 07:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901G",
+        "class_nbr": "4971",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Professor NG Ka Ho",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "GS01",
+        "language": "E",
+        "period": [
+            "We 07:30PM - 09:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901H",
+        "class_nbr": "5578",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Dr. YUNG Chor Wing Linda",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "HS01",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_304"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4901I",
+        "class_nbr": "5183",
+        "course_title": "Guided Stud Curr Eco Prob II 現代經濟問題導修（二）",
+        "units": "2.00",
+        "staff": "- Dr. ZHOU Weidi",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "SEM",
+        "section_code": "IS01",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_204"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ECON4910-",
+        "class_nbr": "6199",
+        "course_title": "Senior Thesis Research I 論文研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. MOK Kai Chung",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

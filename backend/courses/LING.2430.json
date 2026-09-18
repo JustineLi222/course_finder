@@ -1,0 +1,359 @@
+[
+    {
+        "class_code": "LING1000-",
+        "class_nbr": "7547",
+        "course_title": "Invitation to Linguistics 語言學概論",
+        "units": "3.00",
+        "staff": "- Dr. LEI Ka Yan Margaret",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "KKB_101",
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING1003-",
+        "class_nbr": "4983",
+        "course_title": "Exploring Grammar: English 語法探索：英語",
+        "units": "3.00",
+        "staff": "- Dr. Jonathan James WEBSTER",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING2004-",
+        "class_nbr": "7570",
+        "course_title": "Phonology I 音系學（一）",
+        "units": "3.00",
+        "staff": "- Professor LAI Yee King Regine",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_104",
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING2005-",
+        "class_nbr": "7572",
+        "course_title": "Syntax I 句法學（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Zhuo",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT2",
+            "ERB_402",
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING2007A",
+        "class_nbr": "7574",
+        "course_title": "Linguistic Argumentation I 語言學論證（一）",
+        "units": "3.00",
+        "staff": "- Dr. LEI Ka Yan Margaret",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING2007B",
+        "class_nbr": "7590",
+        "course_title": "Linguistic Argumentation I 語言學論證（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Zhuo",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING2301-",
+        "class_nbr": "7592",
+        "course_title": "Language and Society 語言與社會",
+        "units": "3.00",
+        "staff": "- Dr. Jonathan James WEBSTER",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING3107-",
+        "class_nbr": "7596",
+        "course_title": "Comparative Grammar 比較語法",
+        "units": "3.00",
+        "staff": "- Dr. CHEN Zhuo",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING3202-",
+        "class_nbr": "7616",
+        "course_title": "Psycholinguistics 心理語言學",
+        "units": "3.00",
+        "staff": "- Professor CAI Zhenguang",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING4000-",
+        "class_nbr": "7941",
+        "course_title": "Research Project II 語言學研究（二）",
+        "units": "6.00",
+        "staff": "- Dr. CHEN Zhuo- Dr. LEI Ka Yan Margaret- Professor CAI Zhenguang- Professor CHEUNG Yam Leung- Professor FENG Gangyi- Professor LAI Yee King Regine- Professor MAI Ziyin- Professor MOK Pik Ki Peggy- Professor PAN Haihua",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING4001-",
+        "class_nbr": "6592",
+        "course_title": "Research Project I 語言學研究（一）",
+        "units": "0.00",
+        "staff": "- Professor LAI Yee King Regine",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "LING4202-",
+        "class_nbr": "7618",
+        "course_title": "Special Topics in Lang & Mind 語言與心智專題",
+        "units": "3.00",
+        "staff": "- Professor FENG Gangyi",
+        "quota": "30",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

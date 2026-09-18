@@ -1,0 +1,1096 @@
+[
+    {
+        "class_code": "UGEC1120-",
+        "class_nbr": "8237",
+        "course_title": "Greater Bay Area 透視粵港澳大灣區",
+        "units": "3.00",
+        "staff": "- Professor LEE Wai Ying Joanna- Professor YEUNG Wai Chung Henry",
+        "quota": "30",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1209-",
+        "class_nbr": "8331",
+        "course_title": "Intro to Gender Studies 思考性別：性別研究導論",
+        "units": "3.00",
+        "staff": "- Professor SUEN Yiu Tung",
+        "quota": "10",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1232A",
+        "class_nbr": "5996",
+        "course_title": "Jap Culture & Society 日本文化與社會",
+        "units": "3.00",
+        "staff": "- Mr IP Kin Ho",
+        "quota": "35",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1271A",
+        "class_nbr": "5997",
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "units": "3.00",
+        "staff": "- Mr. LAU Ching",
+        "quota": "100",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1271B",
+        "class_nbr": "5998",
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "units": "3.00",
+        "staff": "- Professor NG Wai Ming",
+        "quota": "100",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1271C",
+        "class_nbr": "9119",
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "units": "3.00",
+        "staff": "- Professor NG Wai Ming",
+        "quota": "100",
+        "vacancy": "31",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1281A",
+        "class_nbr": "5999",
+        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
+        "units": "3.00",
+        "staff": "- Professor HO Chi Ming",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1302A",
+        "class_nbr": "9657",
+        "course_title": "Japanese Cinema 日本電影",
+        "units": "3.00",
+        "staff": "- Professor Matthew Stanhope MEWHINNEY",
+        "quota": "40",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1511A",
+        "class_nbr": "7459",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "80",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1511B",
+        "class_nbr": "7460",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "80",
+        "vacancy": "33",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1512B",
+        "class_nbr": "6685",
+        "course_title": "Fundamentals of Government 政治學初基",
+        "units": "3.00",
+        "staff": "- Dr. LI Ho Fai",
+        "quota": "10",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1560A",
+        "class_nbr": "4968",
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "150",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1681-",
+        "class_nbr": "5871",
+        "course_title": "Humans and Culture 人類與文化",
+        "units": "3.00",
+        "staff": "- Professor Adam Daniel LIEBMAN",
+        "quota": "36",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAH_213",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1835-",
+        "class_nbr": "5880",
+        "course_title": "Culture of Hong Kong 香港的文化",
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "60",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_115",
+            "UCC_110",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1885B",
+        "class_nbr": "8219",
+        "course_title": "Government of Hong Kong 香港政府",
+        "units": "3.00",
+        "staff": "- Dr. LI Ho Fai",
+        "quota": "30",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC1920-",
+        "class_nbr": "6987",
+        "course_title": "Foundations in Public Health 公共衞生學基礎",
+        "units": "2.00",
+        "staff": "- Professor CHUNG Roger Yat Nork",
+        "quota": "30",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2020-",
+        "class_nbr": "9789",
+        "course_title": "History of Macau: E&W Cultures 澳門史：東西文化的匯聚",
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Ching Man",
+        "quota": "100",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2022-",
+        "class_nbr": "6706",
+        "course_title": "Law & Heritage in Hong Kong 香港的法律與文化遺產",
+        "units": "3.00",
+        "staff": "- Professor Steven Brian GALLAGHER",
+        "quota": "35",
+        "vacancy": "34",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2041-",
+        "class_nbr": "4940",
+        "course_title": "Hist of Women in Modern China 近代中國婦女史",
+        "units": "2.00",
+        "staff": "- Dr. WANG Yiqiao",
+        "quota": "100",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2117-",
+        "class_nbr": "8434",
+        "course_title": "Cities of the World 全球城市：城市發展的文化與歷史",
+        "units": "2.00",
+        "staff": "- Professor JIN Ting",
+        "quota": "50",
+        "vacancy": "33",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2135-",
+        "class_nbr": "5245",
+        "course_title": "Decolonizing Classical Music 古典音樂的去殖民化",
+        "units": "2.00",
+        "staff": "- Professor LIAO Yvonne",
+        "quota": "80",
+        "vacancy": "71",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSB_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2171-",
+        "class_nbr": "8239",
+        "course_title": "Sustainable Development 可持續發展",
+        "units": "3.00",
+        "staff": "- Professor Jack Laurie HARRIS- Professor LU Xingcheng",
+        "quota": "15",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_UG04",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2188-",
+        "class_nbr": "7695",
+        "course_title": "Hong Kong English 香港英語及其文化",
+        "units": "3.00",
+        "staff": "- Professor PUN Kwok Hung",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 01:30PM - 02:15PM",
+            "Mo 04:30PM - 05:15PM",
+            "Mo 05:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C2",
+            "UCC_205",
+            "UCC_105",
+            "UCC_109",
+            "UCC_102",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2189-",
+        "class_nbr": "7732",
+        "course_title": "World Englishes&Their Cultures 世界英語及其文化",
+        "units": "3.00",
+        "staff": "- Professor Wilkinson Daniel Ong WONG GONZALES",
+        "quota": "20",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_LT3",
+            "UCC_105",
+            "UCC_204",
+            "UCC_104",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2192-",
+        "class_nbr": "8238",
+        "course_title": "Understanding Ecotourism 生態旅遊探索",
+        "units": "2.00",
+        "staff": "- Professor CHAN Chung Shing",
+        "quota": "30",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2201-",
+        "class_nbr": "8249",
+        "course_title": "Pursuit of Ideal Living Enviro 理想人居環境的追尋",
+        "units": "2.00",
+        "staff": "- Dr. NG Kit Ying",
+        "quota": "60",
+        "vacancy": "48",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2241-",
+        "class_nbr": "6959",
+        "course_title": "Hong Kong Cinema 香港電影",
+        "units": "3.00",
+        "staff": "- Dr. LI Mei Ting",
+        "quota": "10",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2273-",
+        "class_nbr": "8396",
+        "course_title": "Feminisms: Thoughts & Movement 女權主義：思想與運動",
+        "units": "3.00",
+        "staff": "- Dr. PANG Ka Wei",
+        "quota": "20",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2353-",
+        "class_nbr": "8371",
+        "course_title": "World Economic Order 世界經濟秩序",
+        "units": "3.00",
+        "staff": "- Dr. Efstratios POURZITAKIS",
+        "quota": "10",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2436-",
+        "class_nbr": "6988",
+        "course_title": "Emotional Landscapes in China 當代中國社會的情感經驗",
+        "units": "3.00",
+        "staff": "- Dr. SUN Lin",
+        "quota": "30",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2610-",
+        "class_nbr": "8220",
+        "course_title": "International Politics 國際政治",
+        "units": "3.00",
+        "staff": "- Professor WONG Seanon Si Lon",
+        "quota": "15",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2656-",
+        "class_nbr": "7574",
+        "course_title": "Working Cultures 工作文化 - 認識廿十一世紀的",
+        "units": "3.00",
+        "staff": "- Dr. Tim ROSENKRANZ",
+        "quota": "15",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11",
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2821-",
+        "class_nbr": "7318",
+        "course_title": "Cultural Per of Chi Med 中醫藥之文化內涵",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Sze Nga- Dr. LIN Wai Ling- Dr. LIONG Ching- Dr. MOK Tik Lun- Dr. TSOI Yan Wang",
+        "quota": "50",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2853-",
+        "class_nbr": "8613",
+        "course_title": "Sexuality and Culture 性與文化",
+        "units": "3.00",
+        "staff": "- Professor YEUNG Tak Lap",
+        "quota": "60",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2858-",
+        "class_nbr": "7615",
+        "course_title": "Animals & Soc: A PHI Approach 動物與社會：哲學研究",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "60",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2883-",
+        "class_nbr": "8222",
+        "course_title": "Eco Ref'm & Soc Impacts in Chi 中國的經濟改革與社會影響",
+        "units": "3.00",
+        "staff": "- Professor ZHU Ling",
+        "quota": "20",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_LT3",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2910-",
+        "class_nbr": "9675",
+        "course_title": "Money, Land and Housing 金錢、土地與房屋",
+        "units": "2.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "45",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2941-",
+        "class_nbr": "4941",
+        "course_title": "Islam in HK 伊斯蘭在香港",
+        "units": "2.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "100",
+        "vacancy": "76",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC2945-",
+        "class_nbr": "5455",
+        "course_title": "History of Hong Kong 香港史",
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Ching Man",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC3215-",
+        "class_nbr": "8333",
+        "course_title": "Media Representations 少數族群在香港的媒體呈現",
+        "units": "3.00",
+        "staff": "- Dr. LEE Chi Shing",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC3224-",
+        "class_nbr": "8336",
+        "course_title": "Family and Society 家庭與社會",
+        "units": "3.00",
+        "staff": "- Professor TAM Siu Mi Maria",
+        "quota": "15",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC3483-",
+        "class_nbr": "8212",
+        "course_title": "Korean Media & Popular Culture 韓國媒體與大眾文化",
+        "units": "3.00",
+        "staff": "- Professor LEE Yongwoo",
+        "quota": "20",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_515"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEC3893-",
+        "class_nbr": "5934",
+        "course_title": "Intro. to Global Sociology 全球社會學導論",
+        "units": "3.00",
+        "staff": "- Professor SUN Jin",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

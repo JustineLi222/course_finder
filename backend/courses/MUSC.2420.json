@@ -1,0 +1,1567 @@
+[
+    {
+        "class_code": "MUSC1000-",
+        "class_nbr": "5479",
+        "course_title": "The Study of Music 音樂研究",
+        "units": "3.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "72",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1001-",
+        "class_nbr": "8863",
+        "course_title": "Choral Singing I 合唱訓練一",
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Yan Dominic",
+        "quota": "40",
+        "vacancy": "8",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1011-",
+        "class_nbr": "6336",
+        "course_title": "Applied Music (Minor I) 音樂術科(副修一)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1012-",
+        "class_nbr": "6450",
+        "course_title": "Applied Music (Major IX) 音樂術科(主修九)",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1013-",
+        "class_nbr": "7886",
+        "course_title": "African Drumming I 非洲擊鼓樂實習一",
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1014-",
+        "class_nbr": "9868",
+        "course_title": "Chamber Music Ensemble I 室內樂一",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "34",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1017-",
+        "class_nbr": "8298",
+        "course_title": "Javanese Gamelan Ensemble I 印尼爪哇甘美朗理論與實技一",
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG02"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1018-",
+        "class_nbr": "10248",
+        "course_title": "Jazz Ensemble I 爵士樂合奏一",
+        "units": "1.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1031-",
+        "class_nbr": "9077",
+        "course_title": "Orchestral Training I 管弦樂合奏一",
+        "units": "1.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1041-",
+        "class_nbr": "9070",
+        "course_title": "Wind Orchestra I 管樂團一",
+        "units": "1.00",
+        "staff": "- Mr. LEUNG Chun Yin Marco",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1051-",
+        "class_nbr": "6447",
+        "course_title": "Applied Music (Major I) 音樂術科（主修一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "33",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC1212-",
+        "class_nbr": "8695",
+        "course_title": "Fundamentals of Tonal Music I 基本調性音樂一",
+        "units": "2.00",
+        "staff": "- Dr. POON Kiu Tung",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2001-",
+        "class_nbr": "9078",
+        "course_title": "Choral Singing III 合唱訓練三",
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Yan Dominic",
+        "quota": "40",
+        "vacancy": "12",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2011-",
+        "class_nbr": "7848",
+        "course_title": "Applied Music (Minor III) 音樂術科(副修三)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2012-",
+        "class_nbr": "6469",
+        "course_title": "Applied Music (Major XI) 音樂術科(主修十一)",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2013-",
+        "class_nbr": "6448",
+        "course_title": "African Drumming III 非洲擊鼓樂實習三",
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2014-",
+        "class_nbr": "9869",
+        "course_title": "Chamber Music Ensemble III 室內樂三",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "29",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2017-",
+        "class_nbr": "8299",
+        "course_title": "Javanese Gamelan Ensemble III 印尼爪哇甘美朗理論與實技三",
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "15",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG02"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2018-",
+        "class_nbr": "10249",
+        "course_title": "Jazz Ensemble III 爵士樂合奏三",
+        "units": "1.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2031-",
+        "class_nbr": "9079",
+        "course_title": "Orchestral Training III 管弦樂合奏三",
+        "units": "1.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "30",
+        "vacancy": "28",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2041-",
+        "class_nbr": "8652",
+        "course_title": "Wind Orchestra III 管樂團三",
+        "units": "1.00",
+        "staff": "- Mr. LEUNG Chun Yin Marco",
+        "quota": "30",
+        "vacancy": "23",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2051-",
+        "class_nbr": "8044",
+        "course_title": "Applied Music (Major III) 音樂術科（主修三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "37",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2252-",
+        "class_nbr": "8924",
+        "course_title": "Materials&Structures of Music 音樂素材與結構",
+        "units": "2.00",
+        "staff": "- Dr. WONG Chun Wai",
+        "quota": "40",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2562-",
+        "class_nbr": "8894",
+        "course_title": "Foundations of Chinese Music 中國音樂基礎",
+        "units": "2.00",
+        "staff": "- Professor CHIU Wai Yee Lulu",
+        "quota": "40",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2872-",
+        "class_nbr": "8925",
+        "course_title": "History of Western Music I 西洋音樂史一",
+        "units": "2.00",
+        "staff": "- Professor WONG Hei Yin",
+        "quota": "40",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC2913-",
+        "class_nbr": "8073",
+        "course_title": "Selected Study I 專題研讀一",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3001-",
+        "class_nbr": "9080",
+        "course_title": "Choral Singing V 合唱訓練五",
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Yan Dominic",
+        "quota": "30",
+        "vacancy": "25",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3011-",
+        "class_nbr": "7846",
+        "course_title": "Applied Music (Minor V) 音樂術科(副修五)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3012-",
+        "class_nbr": "7847",
+        "course_title": "Applied Music (Major XIII) 音樂術科(主修十三)",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3013-",
+        "class_nbr": "6118",
+        "course_title": "African Drumming V 非洲擊鼓樂實習五",
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3014-",
+        "class_nbr": "9870",
+        "course_title": "Chamber Music Ensemble V 室內樂五",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3017-",
+        "class_nbr": "8300",
+        "course_title": "Javanese Gamelan Ensemble V 印尼爪哇甘美朗理論與實技五",
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "15",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG02"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3018-",
+        "class_nbr": "10250",
+        "course_title": "Jazz Ensemble V 爵士樂合奏五",
+        "units": "1.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "30",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3031-",
+        "class_nbr": "8860",
+        "course_title": "Orchestral Training V 管弦樂合奏五",
+        "units": "1.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3041-",
+        "class_nbr": "9081",
+        "course_title": "Wind Orchestra V 管樂團五",
+        "units": "1.00",
+        "staff": "- Mr. LEUNG Chun Yin Marco",
+        "quota": "30",
+        "vacancy": "24",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3051-",
+        "class_nbr": "6168",
+        "course_title": "Applied Music (Major V) 音樂術科(主修五)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3213-",
+        "class_nbr": "8712",
+        "course_title": "His of Western Music:Sp Top I 西洋音樂史專題一",
+        "units": "2.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3223-",
+        "class_nbr": "8976",
+        "course_title": "His of Western Music:Sp Top II 西洋音樂史專題二",
+        "units": "2.00",
+        "staff": "- Professor LIAO Yvonne",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "HYS_304"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3323-",
+        "class_nbr": "7267",
+        "course_title": "Counterpoint (Tonal & Modern) 對位法（調性及現代）",
+        "units": "2.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "15",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3343-",
+        "class_nbr": "6545",
+        "course_title": "Composition I 作曲一",
+        "units": "3.00",
+        "staff": "- Dr. WONG Chun Wai",
+        "quota": "10",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "HYS_101",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3363-",
+        "class_nbr": "6236",
+        "course_title": "Composition III 作曲三",
+        "units": "3.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "10",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "HYS_304",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3530-",
+        "class_nbr": "8858",
+        "course_title": "Music Performer’s Issues 演奏者面對的問題",
+        "units": "2.00",
+        "staff": "- Dr. POON Kiu Tung",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "HYS_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3923A",
+        "class_nbr": "10109",
+        "course_title": "Selected Study II 專題研讀二",
+        "units": "3.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3923B",
+        "class_nbr": "10110",
+        "course_title": "Selected Study II 專題研讀二",
+        "units": "3.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC3933-",
+        "class_nbr": "8074",
+        "course_title": "Selected Study III 專題研讀三",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4000-",
+        "class_nbr": "6177",
+        "course_title": "Senior Recital Preparation 畢業音樂會預備",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4001-",
+        "class_nbr": "9082",
+        "course_title": "Choral Singing VII 合唱訓練七",
+        "units": "1.00",
+        "staff": "- Mr. LAM Ho Yan Dominic",
+        "quota": "30",
+        "vacancy": "25",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4011-",
+        "class_nbr": "6163",
+        "course_title": "Applied Music (Minor VII) 音樂術科(副修七)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4013-",
+        "class_nbr": "6376",
+        "course_title": "African Drumming VII 非洲擊鼓樂實習七",
+        "units": "1.00",
+        "staff": "- Mr LEUNG Wai Wa Raymond",
+        "quota": "15",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "HYS_LG01"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4014-",
+        "class_nbr": "9871",
+        "course_title": "Chamber Music Ensemble VII 室內樂七",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "24",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4017-",
+        "class_nbr": "8301",
+        "course_title": "Javanese Gamelan Ensemble VII 印尼爪哇甘美朗理論與實技七",
+        "units": "1.00",
+        "staff": "- Professor Deborah Jane WAUGH",
+        "quota": "15",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG02"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4018-",
+        "class_nbr": "10251",
+        "course_title": "Jazz Ensemble VII 爵士樂合奏七",
+        "units": "1.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4031-",
+        "class_nbr": "9083",
+        "course_title": "Orchestral Training VII 管弦樂合奏七",
+        "units": "1.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "Mo 07:30PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4041-",
+        "class_nbr": "9084",
+        "course_title": "Wind Orchestra VII 管樂團七",
+        "units": "1.00",
+        "staff": "- Mr. LEUNG Chun Yin Marco",
+        "quota": "30",
+        "vacancy": "22",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "We 07:00PM - 09:30PM"
+        ],
+        "room": [
+            "LHCH"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4051-",
+        "class_nbr": "6169",
+        "course_title": "Applied Music (Major VII) 音樂術科(主修七)",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513A",
+        "class_nbr": "6178",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Miss IP Wing Wun",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513B",
+        "class_nbr": "6337",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513C",
+        "class_nbr": "6338",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Dr. POON Kiu Tung",
+        "quota": "2",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513D",
+        "class_nbr": "6339",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Professor LI Ka Chi",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513E",
+        "class_nbr": "6340",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Professor LEE Wan Ki Wendy",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4513F",
+        "class_nbr": "8077",
+        "course_title": "Senior Pedagogy Project I 畢業教學專題研究一",
+        "units": "3.00",
+        "staff": "- Professor LIAO Yvonne",
+        "quota": "2",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4523-",
+        "class_nbr": "8608",
+        "course_title": "Senior Pedagogy Project II 畢業教學專題研究二",
+        "units": "3.00",
+        "staff": "- Professor LI Ka Chi",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4813A",
+        "class_nbr": "8045",
+        "course_title": "Senior Thesis I 畢業論文一",
+        "units": "3.00",
+        "staff": "- Professor LIAO Yvonne",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4813B",
+        "class_nbr": "8024",
+        "course_title": "Senior Thesis I 畢業論文一",
+        "units": "3.00",
+        "staff": "- Professor WONG Hei Yin",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4813C",
+        "class_nbr": "10111",
+        "course_title": "Senior Thesis I 畢業論文一",
+        "units": "3.00",
+        "staff": "- Professor Adam Joseph KIELMAN",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4813D",
+        "class_nbr": "10112",
+        "course_title": "Senior Thesis I 畢業論文一",
+        "units": "3.00",
+        "staff": "- Dr. WONG Chun Wai",
+        "quota": "1",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MUSC4943-",
+        "class_nbr": "6049",
+        "course_title": "Selected Study IV 專題研讀四",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

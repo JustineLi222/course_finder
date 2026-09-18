@@ -1,0 +1,183 @@
+[
+    {
+        "class_code": "RMSC1101-",
+        "class_nbr": "9727",
+        "course_title": "Ele Concepts in Risk Mgt 風險管理基礎概念",
+        "units": "1.00",
+        "staff": "- Dr. John Alexander WRIGHT",
+        "quota": "50",
+        "vacancy": "15",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC2001A",
+        "class_nbr": "5822",
+        "course_title": "Intro to Risk Management 風險管理導論",
+        "units": "3.00",
+        "staff": "- Professor SIT Tony",
+        "quota": "100",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 04:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT6",
+            "LHC_103",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC4001A",
+        "class_nbr": "5386",
+        "course_title": "Simulation Methods: Rms & Fin 財務與風險管理之模擬方法",
+        "units": "3.00",
+        "staff": "- Professor WONG Hoi Ying",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "BMS_LT",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC4002-",
+        "class_nbr": "7426",
+        "course_title": "FDA with ML 財務數據分析暨機械學習的應用",
+        "units": "3.00",
+        "staff": "- Professor YAM Sheung Chi Phillip",
+        "quota": "50",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 12:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_401",
+            "TBA"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC4003-",
+        "class_nbr": "7427",
+        "course_title": "Sta Modelling in Fin Markets 金融巿場的統計建模",
+        "units": "3.00",
+        "staff": "- Professor YAU Chun Yip",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC4202-",
+        "class_nbr": "6520",
+        "course_title": "Practicum 行業實習",
+        "units": "3.00",
+        "staff": "- Professor WONG Hoi Ying",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "RMSC4212-",
+        "class_nbr": "6384",
+        "course_title": "Practicum in Risk Analytics 風險分析行業實習",
+        "units": "3.00",
+        "staff": "- Professor WONG Hoi Ying",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

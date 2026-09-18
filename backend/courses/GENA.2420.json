@@ -1,0 +1,525 @@
+[
+    {
+        "class_code": "GENA1000-",
+        "class_nbr": "8862",
+        "course_title": "College Biweekly Assembly 書院雙週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "1438",
+        "vacancy": "0",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "RRS"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1000A",
+        "class_nbr": "8984",
+        "course_title": "College Biweekly Assembly 書院雙週會",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "2000",
+        "vacancy": "944",
+        "mode": "ASB",
+        "section_code": "AA01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "RRS"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1112-",
+        "class_nbr": "8883",
+        "course_title": "Aspects of General Education 通識教育導論",
+        "units": "1.00",
+        "staff": "- Professor TSE Wai Kit Wicky",
+        "quota": "1100",
+        "vacancy": "128",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "RRS"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1114B",
+        "class_nbr": "8606",
+        "course_title": "Service Learning - Chinese Cul 服務學習: 中國文化在社區的傳",
+        "units": "3.00",
+        "staff": "- Mr. WAN Tsz Ki",
+        "quota": "35",
+        "vacancy": "2",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA",
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1115A",
+        "class_nbr": "6047",
+        "course_title": "Service Learning – Make a Diff 服務學習: 改變社區由我做起",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA",
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1115B",
+        "class_nbr": "6048",
+        "course_title": "Service Learning – Make a Diff 服務學習: 改變社區由我做起",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "E",
+        "period": [
+            "TBA",
+            "Sa 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA",
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "12/9, 19/9",
+            "3/10, 10/10, 17/10, 24/10, 31/10, 7/11, 14/11, 21/11, 28/11, 5/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1115C",
+        "class_nbr": "8031",
+        "course_title": "Service Learning – Make a Diff 服務學習: 改變社區由我做起",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "E",
+        "period": [
+            "TBA",
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA",
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1116A",
+        "class_nbr": "6270",
+        "course_title": "Service Learning – Creating a 服務學習：多元共融，齊創新天",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1116B",
+        "class_nbr": "6300",
+        "course_title": "Service Learning – Creating a 服務學習：多元共融，齊創新天",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "E",
+        "period": [
+            "TBA",
+            "Th 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "TBA",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1116C",
+        "class_nbr": "6368",
+        "course_title": "Service Learning – Creating a 服務學習：多元共融，齊創新天",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "1",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA",
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1116H",
+        "class_nbr": "6046",
+        "course_title": "Service Learning – Creating a 服務學習：多元共融，齊創新天",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "HF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA",
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA1116Q",
+        "class_nbr": "8417",
+        "course_title": "Service Learning – Creating a 服務學習：多元共融，齊創新天",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "3",
+        "mode": "FLD",
+        "section_code": "QF01",
+        "language": "C",
+        "period": [
+            "TBA",
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "TBA",
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2112-",
+        "class_nbr": "7028",
+        "course_title": "Characteristics of W Culture 西方文化的特質",
+        "units": "2.00",
+        "staff": "- Professor CHEUNG Hok Ming Frederick",
+        "quota": "45",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2122-",
+        "class_nbr": "7029",
+        "course_title": "Issues in American Culture&His 美國文化與歷史",
+        "units": "2.00",
+        "staff": "- Miss Arantxa Alexandra GALVAN- Mr. Marco Gabriell MUNOZ",
+        "quota": "38",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2142A",
+        "class_nbr": "5005",
+        "course_title": "Appreciation of Literature 文學欣賞",
+        "units": "2.00",
+        "staff": "- Dr. CHING Chung Shan",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2212-",
+        "class_nbr": "7712",
+        "course_title": "Debates in Human Values 辯析人類價值觀",
+        "units": "2.00",
+        "staff": "- Professor Manynooch FAMING",
+        "quota": "45",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2232A",
+        "class_nbr": "8253",
+        "course_title": "Founders' Ideals and NA Spirit 新亞精神與新亞先賢的文化教育理",
+        "units": "2.00",
+        "staff": "- Mr. CHAN Pak Ka",
+        "quota": "50",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2262-",
+        "class_nbr": "9414",
+        "course_title": "Appreciation of Chinese Art 中國藝術欣賞",
+        "units": "2.00",
+        "staff": "- Professor PENG Peng",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2322-",
+        "class_nbr": "5453",
+        "course_title": "General History of China 中國通史",
+        "units": "2.00",
+        "staff": "- Dr. LUI Wing Sing",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_LT1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2342-",
+        "class_nbr": "9144",
+        "course_title": "Appreciation of Music Cultures 中西音樂文化欣賞",
+        "units": "2.00",
+        "staff": "- Professor CHIU Wai Yee Lulu",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GENA2362-",
+        "class_nbr": "5866",
+        "course_title": "Intangible Heritage in HK 香港的非物質文化遺產",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "25",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C3",
+            "UCC_110",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

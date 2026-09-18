@@ -1,0 +1,48 @@
+[
+    {
+        "class_code": "UGCP1001-",
+        "class_nbr": "6555",
+        "course_title": "Understanding China 認識中國",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "2500",
+        "vacancy": "0",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGCP1002-",
+        "class_nbr": "6486",
+        "course_title": "HK-Wider Constitutional Order 國家憲制秩序與香港",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "2500",
+        "vacancy": "0",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

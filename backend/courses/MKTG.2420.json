@@ -1,0 +1,423 @@
+[
+    {
+        "class_code": "MKTG2010A",
+        "class_nbr": "5552",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Miss WONG Wan Sze",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010B",
+        "class_nbr": "7419",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Miss LIN Ching Man Rosanna June",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010C",
+        "class_nbr": "9627",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Hang Yee",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "CYT_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010D",
+        "class_nbr": "5553",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Mr. LUK Ka Chick Edwin",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010E",
+        "class_nbr": "5501",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Professor LIU Zikun",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_114"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010F",
+        "class_nbr": "7349",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Professor LIU Zikun",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG2010G",
+        "class_nbr": "9307",
+        "course_title": "Marketing Management 市場管理",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Hang Yee",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3010A",
+        "class_nbr": "4791",
+        "course_title": "Marketing Research 市場研究",
+        "units": "3.00",
+        "staff": "- Dr. YANG Hongyan",
+        "quota": "55",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3010B",
+        "class_nbr": "9825",
+        "course_title": "Marketing Research 市場研究",
+        "units": "3.00",
+        "staff": "- Dr. YANG Hongyan",
+        "quota": "55",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3020A",
+        "class_nbr": "9696",
+        "course_title": "Consumer Behaviour 消費者行為",
+        "units": "3.00",
+        "staff": "- Professor YEUNG Wing Man",
+        "quota": "55",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3020B",
+        "class_nbr": "7420",
+        "course_title": "Consumer Behaviour 消費者行為",
+        "units": "3.00",
+        "staff": "- Professor YEUNG Wing Man",
+        "quota": "55",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3030B",
+        "class_nbr": "9808",
+        "course_title": "Integrated Mkt Communication 整合營銷傳播",
+        "units": "3.00",
+        "staff": "- Mr. LUK Ka Chick Edwin",
+        "quota": "60",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG3060-",
+        "class_nbr": "9433",
+        "course_title": "Big Data Strategy in Marketing 營銷大數據策略",
+        "units": "3.00",
+        "staff": "- Professor LIAO Chenxi",
+        "quota": "55",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG4040A",
+        "class_nbr": "7481",
+        "course_title": "Strategic Marketing 策略市場學",
+        "units": "3.00",
+        "staff": "- Professor SHEN Hao",
+        "quota": "55",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG4070A",
+        "class_nbr": "7482",
+        "course_title": "Marketing in China 中國市場營銷",
+        "units": "3.00",
+        "staff": "- Dr. POON Kwok Ho",
+        "quota": "55",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG4080A",
+        "class_nbr": "4892",
+        "course_title": "Digital Marketing 數碼營銷",
+        "units": "3.00",
+        "staff": "- Dr. CISTERNAS VERA Francisco Orlando",
+        "quota": "53",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG4110-",
+        "class_nbr": "4792",
+        "course_title": "Strategic Brand Management 策略品牌管理",
+        "units": "3.00",
+        "staff": "- Ms. CHING Pui Hang",
+        "quota": "55",
+        "vacancy": "28",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MKTG4150-",
+        "class_nbr": "4793",
+        "course_title": "New Product Management 新產品管理",
+        "units": "3.00",
+        "staff": "- Mr. LUK Ka Chick Edwin",
+        "quota": "55",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_302"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

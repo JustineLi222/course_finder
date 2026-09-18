@@ -1,0 +1,887 @@
+[
+    {
+        "class_code": "UGEA1065-",
+        "class_nbr": "5101",
+        "course_title": "Kunqu and Chinese Culture 崑曲與中國戲曲文化",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Chun Miu",
+        "quota": "50",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;C",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1212-",
+        "class_nbr": "8236",
+        "course_title": "Understand China thr Cul Land 文化景觀 探識中國",
+        "units": "2.00",
+        "staff": "- Professor XU Jiang",
+        "quota": "90",
+        "vacancy": "67",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1333-",
+        "class_nbr": "7398",
+        "course_title": "Multiculturalism and China 多元文化與中國",
+        "units": "2.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "90",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1555A",
+        "class_nbr": "5120",
+        "course_title": "Understanding Modern China 認識現代中國",
+        "units": "3.00",
+        "staff": "- Dr. CHOI Sze Hang",
+        "quota": "40",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1555B",
+        "class_nbr": "5123",
+        "course_title": "Understanding Modern China 認識現代中國",
+        "units": "3.00",
+        "staff": "- Dr. SONG Ruifeng",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1555C",
+        "class_nbr": "5124",
+        "course_title": "Understanding Modern China 認識現代中國",
+        "units": "3.00",
+        "staff": "- Dr. HUANG Yu",
+        "quota": "40",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "CKB_109"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA1555D",
+        "class_nbr": "5126",
+        "course_title": "Understanding Modern China 認識現代中國",
+        "units": "3.00",
+        "staff": "- Dr. LAM Wing Yan Adrienne",
+        "quota": "40",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100A",
+        "class_nbr": "7445",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr WANG Xiaohong",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100B",
+        "class_nbr": "7446",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100C",
+        "class_nbr": "4964",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. LAM Hong Ki",
+        "quota": "80",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100D",
+        "class_nbr": "7447",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "80",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100E",
+        "class_nbr": "7448",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. HON Hiu Wah",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "C",
+        "period": [
+            "Mo 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100F",
+        "class_nbr": "7449",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Leong",
+        "quota": "80",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100G",
+        "class_nbr": "4966",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. WONG Chung Kit",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "C",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_LT6"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100H",
+        "class_nbr": "9095",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. HON Hiu Wah",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "C",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100I",
+        "class_nbr": "7768",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_103"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2100J",
+        "class_nbr": "9458",
+        "course_title": "Outline of Chinese Culture 中國文化要義",
+        "units": "2.00",
+        "staff": "- Dr. LO Kit Hung",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "J",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2110A",
+        "class_nbr": "4967",
+        "course_title": "An Intro to Chinese Culture 中國文化導論",
+        "units": "3.00",
+        "staff": "- Dr. WONG Chung Kit",
+        "quota": "80",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSB_LT3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2110B",
+        "class_nbr": "9527",
+        "course_title": "An Intro to Chinese Culture 中國文化導論",
+        "units": "3.00",
+        "staff": "- Dr. LAU Po Hei",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2140-",
+        "class_nbr": "9130",
+        "course_title": "Chi Culture & Modernization 中國文化與現代化",
+        "units": "2.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "80",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2145-",
+        "class_nbr": "5328",
+        "course_title": "Chinese Music and Culture 中國音樂與文化",
+        "units": "2.00",
+        "staff": "- Professor CHOW Man Ying",
+        "quota": "80",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2150A",
+        "class_nbr": "7457",
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "units": "2.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "80",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2150B",
+        "class_nbr": "9842",
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "units": "2.00",
+        "staff": "- Dr. CHIU King Pong",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2150C",
+        "class_nbr": "7359",
+        "course_title": "Chi Culture & Its Philosophies 中國文化及其哲學",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Leong",
+        "quota": "80",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2160A",
+        "class_nbr": "5449",
+        "course_title": "Mainstream Chinese Phi Thought 中國哲學主流思想",
+        "units": "3.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "60",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2160B",
+        "class_nbr": "5680",
+        "course_title": "Mainstream Chinese Phi Thought 中國哲學主流思想",
+        "units": "3.00",
+        "staff": "- Dr WANG Xiaohong",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2163-",
+        "class_nbr": "9674",
+        "course_title": "Debates on Chi Trad Thoughts 百家爭鳴：中國傳統思想大辯論",
+        "units": "2.00",
+        "staff": "- Dr. HON Hiu Wah",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2190A",
+        "class_nbr": "8597",
+        "course_title": "Chinese Society 中國社會",
+        "units": "3.00",
+        "staff": "- Dr. HO Ching Wai",
+        "quota": "120",
+        "vacancy": "95",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2190B",
+        "class_nbr": "5156",
+        "course_title": "Chinese Society 中國社會",
+        "units": "3.00",
+        "staff": "- Professor SUN Jin",
+        "quota": "120",
+        "vacancy": "106",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2230C",
+        "class_nbr": "9380",
+        "course_title": "Intro to Transform in Chi Hist 中國歷史變革概論",
+        "units": "2.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "100",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2234-",
+        "class_nbr": "9473",
+        "course_title": "Imperial and Religious Power 皇權與神權：中國社會與文化的變",
+        "units": "2.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "100",
+        "vacancy": "49",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2236-",
+        "class_nbr": "4908",
+        "course_title": "Intro to Classical Hist Books 歷史經典導讀",
+        "units": "2.00",
+        "staff": "- Dr. SIU Kam Wah",
+        "quota": "100",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Fr 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2290A",
+        "class_nbr": "5472",
+        "course_title": "Chinese Culture and Literature 中國文化與文學",
+        "units": "2.00",
+        "staff": "- Mr CHOR Koon Fai",
+        "quota": "50",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2332-",
+        "class_nbr": "7562",
+        "course_title": "Culture and Modernity in China 中國的文化及現代性",
+        "units": "3.00",
+        "staff": "- Dr. QI Miaomiao",
+        "quota": "20",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2334A",
+        "class_nbr": "7565",
+        "course_title": "China Today 今日中國",
+        "units": "3.00",
+        "staff": "- Professor HO Hang Kei",
+        "quota": "50",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 04:15PM",
+            "Fr 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2334B",
+        "class_nbr": "7567",
+        "course_title": "China Today 今日中國",
+        "units": "3.00",
+        "staff": "- Professor SUN Rui",
+        "quota": "50",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "ICS_L1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "UGEA2433-",
+        "class_nbr": "7667",
+        "course_title": "Science & Technology in China 中國科技發展導論",
+        "units": "3.00",
+        "staff": "- Dr. William Joseph MORIARTY",
+        "quota": "30",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

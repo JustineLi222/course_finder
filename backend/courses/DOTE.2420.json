@@ -1,0 +1,1072 @@
+[
+    {
+        "class_code": "DOTE1030A",
+        "class_nbr": "8537",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor NIU Mingzi",
+        "quota": "51",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_213"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030B",
+        "class_nbr": "8525",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor ONISHI Ken Theo",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030C",
+        "class_nbr": "7291",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor ONISHI Ken Theo",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030D",
+        "class_nbr": "7783",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030E",
+        "class_nbr": "5751",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030F",
+        "class_nbr": "7292",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030G",
+        "class_nbr": "5752",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030H",
+        "class_nbr": "5753",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030I",
+        "class_nbr": "7124",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030J",
+        "class_nbr": "7275",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor NIU Mingzi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "J",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030K",
+        "class_nbr": "7051",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "K",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_LT"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030L",
+        "class_nbr": "5754",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "L",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030M",
+        "class_nbr": "7052",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. HA Lin Tat",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "M",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030N",
+        "class_nbr": "5701",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Professor NIU Mingzi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "N",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_LT5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1030O",
+        "class_nbr": "5800",
+        "course_title": "Eco for Business Studies I 企業經濟學（一）",
+        "units": "3.00",
+        "staff": "- Dr. KU Kei Tat",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "O",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1031A",
+        "class_nbr": "5721",
+        "course_title": "Basic Econ for the H&T Ind 酒店及旅遊業經濟學",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "vacancy": "33",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE1031B",
+        "class_nbr": "5723",
+        "course_title": "Basic Econ for the H&T Ind 酒店及旅遊業經濟學",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Justin Hilyin",
+        "quota": "70",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT3"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011A",
+        "class_nbr": "5760",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor ZHANG Linqi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "CYT_209A",
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011B",
+        "class_nbr": "5761",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_505",
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011C",
+        "class_nbr": "4794",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor XUE Wendao",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT8",
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011D",
+        "class_nbr": "4816",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor LIN Yunduan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_LT3",
+            "CYT_LT1A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011E",
+        "class_nbr": "5762",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "CYT_209A",
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011F",
+        "class_nbr": "5708",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor XUE Wendao",
+        "quota": "70",
+        "vacancy": "34",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "ELB_LT4",
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011G",
+        "class_nbr": "5763",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Dr. TSANG Ka Wai",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LKC_LT1",
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011H",
+        "class_nbr": "5764",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor LIN Yunduan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_507",
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011I",
+        "class_nbr": "5709",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Dr. LI Dan",
+        "quota": "70",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_LT4",
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2011J",
+        "class_nbr": "5802",
+        "course_title": "Sta Ana for Bus Decisions 企業決策之統計分析",
+        "units": "4.00",
+        "staff": "- Professor ZHANG Linqi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "J",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_LT2",
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2030A",
+        "class_nbr": "5665",
+        "course_title": "Operations Management 營運管理",
+        "units": "3.00",
+        "staff": "- Professor HAN Jiangze",
+        "quota": "70",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2030B",
+        "class_nbr": "5666",
+        "course_title": "Operations Management 營運管理",
+        "units": "3.00",
+        "staff": "- Professor HAN Jiangze",
+        "quota": "70",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2030C",
+        "class_nbr": "5610",
+        "course_title": "Operations Management 營運管理",
+        "units": "3.00",
+        "staff": "- Professor CHEN Hongfan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2030D",
+        "class_nbr": "7092",
+        "course_title": "Operations Management 營運管理",
+        "units": "3.00",
+        "staff": "- Professor HAN Jiangze",
+        "quota": "70",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2040A",
+        "class_nbr": "7036",
+        "course_title": "Business Analytics 商務分析",
+        "units": "3.00",
+        "staff": "- Professor ZHU Kaijie",
+        "quota": "70",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_LT1B"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2051A",
+        "class_nbr": "5604",
+        "course_title": "Business Information Systems 商業資訊系統",
+        "units": "3.00",
+        "staff": "- Professor LEE Myunghwan",
+        "quota": "70",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2051B",
+        "class_nbr": "5605",
+        "course_title": "Business Information Systems 商業資訊系統",
+        "units": "3.00",
+        "staff": "- Professor LEE Myunghwan",
+        "quota": "70",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2051C",
+        "class_nbr": "5602",
+        "course_title": "Business Information Systems 商業資訊系統",
+        "units": "3.00",
+        "staff": "- Professor LEE Myunghwan",
+        "quota": "70",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2051D",
+        "class_nbr": "7297",
+        "course_title": "Business Information Systems 商業資訊系統",
+        "units": "3.00",
+        "staff": "- Professor LI Tianyi",
+        "quota": "70",
+        "vacancy": "34",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE2051E",
+        "class_nbr": "5924",
+        "course_title": "Business Information Systems 商業資訊系統",
+        "units": "3.00",
+        "staff": "- Professor LI Tianyi",
+        "quota": "70",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE3080-",
+        "class_nbr": "5595",
+        "course_title": "Macroeconomics for Managers 宏觀經濟與管理",
+        "units": "3.00",
+        "staff": "- Dr. FU Rao",
+        "quota": "55",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE3090-",
+        "class_nbr": "8501",
+        "course_title": "Game Theory for Bus Strategy 商業策略博奕論",
+        "units": "3.00",
+        "staff": "- Professor KO Chiu Yu",
+        "quota": "55",
+        "vacancy": "38",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE4020A",
+        "class_nbr": "8310",
+        "course_title": "Decision Modeling & Analytics 決策建模和分析",
+        "units": "3.00",
+        "staff": "- Professor GAO Xiangyu",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_305"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE4070A",
+        "class_nbr": "5912",
+        "course_title": "Data Mgt & Big Data Analytics 數據管理及大數據分析",
+        "units": "3.00",
+        "staff": "- Professor QIN Yu",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE4110A",
+        "class_nbr": "5662",
+        "course_title": "Economic Analytics 經濟分析",
+        "units": "3.00",
+        "staff": "- Dr. YUEN Chi Lok",
+        "quota": "55",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE4260-",
+        "class_nbr": "7751",
+        "course_title": "Business Process Analytics 企業流程分析",
+        "units": "3.00",
+        "staff": "- Professor ZHU Kaijie",
+        "quota": "55",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "DOTE4280-",
+        "class_nbr": "7040",
+        "course_title": "Network and Security 網絡與網絡安全",
+        "units": "3.00",
+        "staff": "- Professor LI Tianyi",
+        "quota": "55",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

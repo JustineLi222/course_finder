@@ -1,0 +1,561 @@
+[
+    {
+        "class_code": "ANTH1010-",
+        "class_nbr": "9353",
+        "course_title": "Humans and Culture 人類與文化",
+        "units": "3.00",
+        "staff": "- Professor Adam Daniel LIEBMAN",
+        "quota": "44",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "NAH_213",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH1020-",
+        "class_nbr": "7536",
+        "course_title": "Anth: The Study of Global Huma 人類學：環球人類研究",
+        "units": "3.00",
+        "staff": "- Professor CHENG Sea Ling",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Tu 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH1100-",
+        "class_nbr": "9345",
+        "course_title": "Understanding Anthropology 認識人類學",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH1410-",
+        "class_nbr": "9086",
+        "course_title": "Culture of Hong Kong 香港的文化",
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "60",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Mo 01:30PM - 02:15PM",
+            "Mo 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_115",
+            "UCC_110",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2110-",
+        "class_nbr": "7538",
+        "course_title": "History of Anth Theory 人類學理論歷史",
+        "units": "3.00",
+        "staff": "- Dr. Tim ROSENKRANZ",
+        "quota": "60",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C3",
+            "UCA_104",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2350-",
+        "class_nbr": "9513",
+        "course_title": "Meanings of Life 生活的意義",
+        "units": "3.00",
+        "staff": "- Professor Gordon Clark MATHEWS",
+        "quota": "84",
+        "vacancy": "38",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM",
+            "Th 03:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_115",
+            "UCC_114",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2360-",
+        "class_nbr": "7161",
+        "course_title": "Ethics and Experience 倫理與人類體驗",
+        "units": "3.00",
+        "staff": "- Professor KUAN Teresa",
+        "quota": "29",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C2",
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2370-",
+        "class_nbr": "9504",
+        "course_title": "Intangible Heritage in HK 香港的非物質文化遺產",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "25",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C3",
+            "UCC_110",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2403-",
+        "class_nbr": "5215",
+        "course_title": "Topics in Ethnography III 民族誌專題（三）",
+        "units": "3.00",
+        "staff": "- Professor Aaron Jeffrey HAMES",
+        "quota": "20",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2420-",
+        "class_nbr": "7540",
+        "course_title": "Culture and Modernity in China 中國的文化及現代性",
+        "units": "3.00",
+        "staff": "- Dr. QI Miaomiao",
+        "quota": "32",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2550-",
+        "class_nbr": "5142",
+        "course_title": "Working Cultures 工作文化 - 認識廿十一世紀的",
+        "units": "3.00",
+        "staff": "- Dr. Tim ROSENKRANZ",
+        "quota": "15",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11",
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2710-",
+        "class_nbr": "9704",
+        "course_title": "Archaeology of China 中國考古學",
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Yee",
+        "quota": "30",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH2720-",
+        "class_nbr": "5139",
+        "course_title": "Archaeology of Hong Kong 香港考古學",
+        "units": "3.00",
+        "staff": "- Professor WONG Wai Yee",
+        "quota": "30",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_114",
+            "UCC_206",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH3321-",
+        "class_nbr": "5286",
+        "course_title": "Topics in Anthropology I 人類學專題（一）",
+        "units": "3.00",
+        "staff": "- Professor TAM Man Kei",
+        "quota": "20",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_302",
+            "ELB_306"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH3323A",
+        "class_nbr": "4736",
+        "course_title": "Topics in Anthropology III 人類學專題（三）",
+        "units": "3.00",
+        "staff": "- Professor Francesco VECCHIO",
+        "quota": "25",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH3323B",
+        "class_nbr": "4734",
+        "course_title": "Topics in Anthropology III 人類學專題（三）",
+        "units": "3.00",
+        "staff": "- Professor LAM Weng Cheong",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_401"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH3350-",
+        "class_nbr": "8445",
+        "course_title": "Food and Culture 飲食與文化",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "25",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "UCA_104",
+            "UCA_102"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH4300-",
+        "class_nbr": "6523",
+        "course_title": "Field Project I 人類學田野研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "50",
+        "vacancy": "31",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH4301-",
+        "class_nbr": "6524",
+        "course_title": "Field Project II 人類學田野研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "30",
+        "vacancy": "28",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "ANTH4321-",
+        "class_nbr": "5040",
+        "course_title": "Topics in Anthropology 人類學專題",
+        "units": "3.00",
+        "staff": "- Professor TAM Man Kei",
+        "quota": "30",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_401"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

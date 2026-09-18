@@ -1,0 +1,198 @@
+[
+    {
+        "class_code": "BMBL1001-",
+        "class_nbr": "7760",
+        "course_title": "Intro to Sign Lang and Bimodal 手語與雙渠道雙語概論",
+        "units": "3.00",
+        "staff": "- Professor TANG Wai Lan Gladys",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_508"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL2001-",
+        "class_nbr": "7762",
+        "course_title": "Sign Linguistics I: Phonetics 手語語言學（一）：語音學與音系學",
+        "units": "3.00",
+        "staff": "- Professor David Philip THIERFELDER",
+        "quota": "50",
+        "vacancy": "17",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL2003-",
+        "class_nbr": "7772",
+        "course_title": "Sign Linguistics III: Syntax, 手語語言學（三）：句法學、語義學與語用學",
+        "units": "3.00",
+        "staff": "- Dr. LI Jieqiong",
+        "quota": "50",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL2004-",
+        "class_nbr": "7774",
+        "course_title": "Language Acquisition of Deaf C 聾童語言獲得",
+        "units": "3.00",
+        "staff": "- Dr. LI Jieqiong",
+        "quota": "50",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL3002-",
+        "class_nbr": "7776",
+        "course_title": "Intro to SL Interpreting 手語傳譯概論",
+        "units": "3.00",
+        "staff": "- Miss FUNG Hiu Man Cat",
+        "quota": "50",
+        "vacancy": "31",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL4101-",
+        "class_nbr": "6026",
+        "course_title": "Research Project I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Dr. LI Jieqiong- Dr. ZHAO Wenjing- Professor David Philip THIERFELDER- Professor TANG Wai Lan Gladys",
+        "quota": "20",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL4102-",
+        "class_nbr": "9899",
+        "course_title": "Research Project II 專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor TANG Wai Lan Gladys",
+        "quota": "2",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMBL4201-",
+        "class_nbr": "6045",
+        "course_title": "Service Learning I 服務研習（一）",
+        "units": "0.00",
+        "staff": "- Professor YIU Kun Man",
+        "quota": "20",
+        "vacancy": "14",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

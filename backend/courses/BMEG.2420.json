@@ -1,0 +1,977 @@
+[
+    {
+        "class_code": "BMEG2001-",
+        "class_nbr": "7167",
+        "course_title": "Intro Biomedical Engineering 生物醫學工程導論",
+        "units": "1.00",
+        "staff": "- Professor CHAN Pui Barbara- Professor CHANG Hing Chiu- Professor CHOI Chung Hang Jonathan- Professor DUAN Liting- Professor GAO Zhaoli- Professor HO Ho Pui- Professor LI Zhong- Professor MAK Wing Cheung- Professor MAO Ch",
+        "quota": "108",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG2210-",
+        "class_nbr": "5014",
+        "course_title": "Orthop Biomech & Muscle Inj 骨科生物力學和肌肉骨骼損傷",
+        "units": "3.00",
+        "staff": "- Dr. LOU Wutao- Professor CHENG Guangyao",
+        "quota": "81",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 11:15AM",
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "SC_L5",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG2410-",
+        "class_nbr": "7171",
+        "course_title": "Com Analys & Diff Equa 複分析與微分方程式的應用",
+        "units": "3.00",
+        "staff": "- Professor YUAN Wu",
+        "quota": "82",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "Th 09:30AM - 11:15AM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_104",
+            "SC_L2",
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3103-",
+        "class_nbr": "8679",
+        "course_title": "Big Data in HealthCare 醫療大數據分析",
+        "units": "3.00",
+        "staff": "- Professor CHANG Hing Chiu",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_1122"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3105-",
+        "class_nbr": "7174",
+        "course_title": "Data Ana for Personalized Geno 精準醫療和個人化基因組學之數據分析",
+        "units": "3.00",
+        "staff": "- Professor LI Yu",
+        "quota": "71",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "Fr 09:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SC_L4",
+            "MMW_703"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3111-",
+        "class_nbr": "7176",
+        "course_title": "Med Instrumentation & Design 醫學儀器和設計",
+        "units": "2.00",
+        "staff": "- Professor GAO Zhaoli- Professor TONG Kai Yu",
+        "quota": "76",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "TBA",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "SC_L5",
+            "NRR",
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3140-",
+        "class_nbr": "7177",
+        "course_title": "Molecular & Cellular Engg Lab 分子和細胞工程實驗",
+        "units": "3.00",
+        "staff": "- Professor CHOI Chung Hang Jonathan- Professor DUAN Liting",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ELB_304",
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3320-",
+        "class_nbr": "7179",
+        "course_title": "Biomedical Imaging 生物醫學影像",
+        "units": "3.00",
+        "staff": "- Dr. LOU Wutao- Professor Thierry Albert Jean Louis BLU",
+        "quota": "77",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "Th 09:30AM - 10:15AM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SC_L5",
+            "YIA_LT8",
+            "YIA_501",
+            "YIA_401",
+            "YIA_403"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3330-",
+        "class_nbr": "7180",
+        "course_title": "Neuroengineering 神經工程學",
+        "units": "3.00",
+        "staff": "- Dr. LOU Wutao- Professor DUAN Liting- Professor TONG Kai Yu",
+        "quota": "76",
+        "vacancy": "49",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 11:30AM - 12:15PM",
+            "Th 11:30AM - 01:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "SC_L5",
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3430-",
+        "class_nbr": "7184",
+        "course_title": "Biomaterials and Tissue Engg 生物材料與組織工程學",
+        "units": "3.00",
+        "staff": "- Professor LI Zhong- Professor MAK Wing Cheung",
+        "quota": "76",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Th 01:30PM - 02:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_L5",
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG3910-",
+        "class_nbr": "8042",
+        "course_title": "Undergrad Research in BME 生物醫學工程本科研究",
+        "units": "3.00",
+        "staff": "- Professor LI Zhong",
+        "quota": "5",
+        "vacancy": "4",
+        "mode": "TUT",
+        "section_code": "-T01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4220-",
+        "class_nbr": "7185",
+        "course_title": "Wearable Biomed Dev & Personal 可穿戴生物醫學設備和個人化醫療",
+        "units": "3.00",
+        "staff": "- Professor MAK Wing Cheung",
+        "quota": "70",
+        "vacancy": "41",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 01:30PM - 02:15PM",
+            "Th 02:30PM - 04:15PM",
+            "TBA",
+            "We 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "LSB_LT2",
+            "SC_L3",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998A",
+        "class_nbr": "5033",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor POON Ngar Yun Ellen",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998AA",
+        "class_nbr": "6539",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Zhong",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "AAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998AB",
+        "class_nbr": "6538",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor MAO Chuanbin",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "ABJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998AC",
+        "class_nbr": "6541",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LAU Tat Ming",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "PRJ",
+        "section_code": "ACJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998AD",
+        "class_nbr": "6542",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor HO Ho Pui",
+        "quota": "10",
+        "vacancy": "7",
+        "mode": "PRJ",
+        "section_code": "ADJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998B",
+        "class_nbr": "6063",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor Anna Maria BLOCKI",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998C",
+        "class_nbr": "6380",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Zheng",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998D",
+        "class_nbr": "6064",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Li",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998E",
+        "class_nbr": "4992",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor REN Hongliang",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998F",
+        "class_nbr": "6065",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor LI Yu",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998G",
+        "class_nbr": "6066",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. LOU Wutao",
+        "quota": "10",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998H",
+        "class_nbr": "6102",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHOI Chung Hang Jonathan",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998I",
+        "class_nbr": "6103",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Pui Barbara",
+        "quota": "10",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998L",
+        "class_nbr": "4993",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor SHAO Baihao",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998M",
+        "class_nbr": "6390",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor YUAN Wu",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998N",
+        "class_nbr": "6391",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor GAO Zhaoli",
+        "quota": "10",
+        "vacancy": "6",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998Q",
+        "class_nbr": "6379",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor XUE Yang",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998R",
+        "class_nbr": "7914",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHANG Hing Chiu",
+        "quota": "12",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998S",
+        "class_nbr": "7915",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Ning",
+        "quota": "12",
+        "vacancy": "11",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998T",
+        "class_nbr": "7916",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor TONG Kai Yu",
+        "quota": "12",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998V",
+        "class_nbr": "7917",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Renjie",
+        "quota": "12",
+        "vacancy": "11",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998X",
+        "class_nbr": "7918",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Kai Fung",
+        "quota": "12",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998Y",
+        "class_nbr": "7919",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor MAK Wing Cheung",
+        "quota": "12",
+        "vacancy": "11",
+        "mode": "PRJ",
+        "section_code": "YJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4998Z",
+        "class_nbr": "6490",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor TUAN Rocky Sung Chi",
+        "quota": "5",
+        "vacancy": "3",
+        "mode": "PRJ",
+        "section_code": "ZJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4999A",
+        "class_nbr": "5000",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Kai Fung",
+        "quota": "10",
+        "vacancy": "9",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4999B",
+        "class_nbr": "5001",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Zheng",
+        "quota": "12",
+        "vacancy": "11",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "BMEG4999D",
+        "class_nbr": "5002",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WAN Chao",
+        "quota": "12",
+        "vacancy": "11",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

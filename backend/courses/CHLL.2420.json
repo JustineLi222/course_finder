@@ -1,0 +1,1029 @@
+[
+    {
+        "class_code": "CHLL1110A",
+        "class_nbr": "5010",
+        "course_title": "Intro to Chinese Linguistics 中國語言學概論",
+        "units": "3.00",
+        "staff": "- Professor TANG Sze Wing",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL1110B",
+        "class_nbr": "8266",
+        "course_title": "Intro to Chinese Linguistics 中國語言學概論",
+        "units": "3.00",
+        "staff": "- Professor SUN Yenan",
+        "quota": "70",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL1401A",
+        "class_nbr": "5589",
+        "course_title": "Introduction to Literature 文學概論",
+        "units": "3.00",
+        "staff": "- Professor HOYAN Hang Fung Carole",
+        "quota": "80",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_LT2",
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL1401B",
+        "class_nbr": "5590",
+        "course_title": "Introduction to Literature 文學概論",
+        "units": "3.00",
+        "staff": "- Professor WONG Nim Yan",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_LT5",
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL1902-",
+        "class_nbr": "5371",
+        "course_title": "Class of Chi Hum:Guided Read’g 中國人文經典導讀",
+        "units": "3.00",
+        "staff": "- Professor TSUI Wai",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_LT4"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2121A",
+        "class_nbr": "8271",
+        "course_title": "Intro to Chinese Philology 文字學導論",
+        "units": "3.00",
+        "staff": "- Professor SHEN Pei",
+        "quota": "80",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2121B",
+        "class_nbr": "5160",
+        "course_title": "Intro to Chinese Philology 文字學導論",
+        "units": "3.00",
+        "staff": "- Dr. HUNG Yeuk Chun",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2131A",
+        "class_nbr": "7109",
+        "course_title": "Intro to Chinese Phonology 音韻學導論",
+        "units": "3.00",
+        "staff": "- Professor KWOK Bit Chee",
+        "quota": "70",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 12:30PM - 01:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "YIA_LT8",
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2131B",
+        "class_nbr": "7305",
+        "course_title": "Intro to Chinese Phonology 音韻學導論",
+        "units": "3.00",
+        "staff": "- Professor DENG Dun",
+        "quota": "70",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2212A",
+        "class_nbr": "5903",
+        "course_title": "Intro to Class Chi Texts Study 古文獻學概論",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Tak Wah",
+        "quota": "75",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL2212B",
+        "class_nbr": "5012",
+        "course_title": "Intro to Class Chi Texts Study 古文獻學概論",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Lai Kuen",
+        "quota": "75",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;C",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL3142-",
+        "class_nbr": "8276",
+        "course_title": "Comparative Grammar in C & E 漢英比較語法",
+        "units": "3.00",
+        "staff": "- Professor SUN Yenan",
+        "quota": "68",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "WLS_LG204"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL3314-",
+        "class_nbr": "7045",
+        "course_title": "Major Author(s) (Ci Poetry) 專家詞",
+        "units": "3.00",
+        "staff": "- Professor SIU Chun Ho",
+        "quota": "55",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LKC_LT1",
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL3321-",
+        "class_nbr": "8289",
+        "course_title": "Classical Chi Fiction (S S) 古典短篇小說",
+        "units": "3.00",
+        "staff": "- Professor ZHOU Jianyu",
+        "quota": "68",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_406"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL3406-",
+        "class_nbr": "5372",
+        "course_title": "Modern Chi Fiction(Novella&SS) 現代小說（中、短篇）",
+        "units": "3.00",
+        "staff": "- Professor CUI Wendong",
+        "quota": "68",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LHC_104",
+            "LSB_LT4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001A",
+        "class_nbr": "5165",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor SUN Yenan",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_203"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001B",
+        "class_nbr": "5166",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor KWOK Bit Chee",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_305"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001C",
+        "class_nbr": "8910",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor DENG Dun",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_526"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001D",
+        "class_nbr": "7196",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor TANG Sze Wing",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_109"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001E",
+        "class_nbr": "8911",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor HO Che Wah",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "C",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "KHB_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001F",
+        "class_nbr": "5164",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor CHEUNG Kam Siu",
+        "quota": "5",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_107A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001G",
+        "class_nbr": "8914",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor LING Chao",
+        "quota": "6",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_506"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001H",
+        "class_nbr": "8912",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor TSUI Wai",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_518"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001J",
+        "class_nbr": "5370",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor CHAN Nicholas Louis",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_102"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001K",
+        "class_nbr": "8915",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor SIU Chun Ho",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_532"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001L",
+        "class_nbr": "8902",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor YIM Chi Hung",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_519"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001M",
+        "class_nbr": "8916",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor HOYAN Hang Fung Carole",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_509"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001N",
+        "class_nbr": "8293",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor TENG Shao Hung",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_303"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001P",
+        "class_nbr": "8923",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor WONG Nim Yan",
+        "quota": "6",
+        "vacancy": "1",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_534"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001Q",
+        "class_nbr": "8913",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Dr. YIP Ka Wing",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_G15"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001R",
+        "class_nbr": "8909",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Professor KWONG Ho Yee Connie",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "KHB_513"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001S",
+        "class_nbr": "8292",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Dr. YAU Ting Kit Kevin",
+        "quota": "6",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_105"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001X",
+        "class_nbr": "5227",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "6",
+        "vacancy": "6",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "P&amp;C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_103"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4001Y",
+        "class_nbr": "5228",
+        "course_title": "Independent Research I 專題研究（一）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "6",
+        "vacancy": "6",
+        "mode": "PRJ",
+        "section_code": "YJ01",
+        "language": "P&amp;C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_205"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4224-",
+        "class_nbr": "8295",
+        "course_title": "Zuo Zhuan 左傳",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Kam Siu",
+        "quota": "68",
+        "vacancy": "36",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSB_LT5"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4242-",
+        "class_nbr": "5377",
+        "course_title": "Zhuang Zi 莊子",
+        "units": "3.00",
+        "staff": "- Professor HO Che Wah",
+        "quota": "68",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSB_LT5",
+            "KKB_101"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4314-",
+        "class_nbr": "8316",
+        "course_title": "Prose of Liu Zongyuan 柳宗元文",
+        "units": "3.00",
+        "staff": "- Dr. CHING Chung Shan",
+        "quota": "68",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4340-",
+        "class_nbr": "8318",
+        "course_title": "Literature of Jian'an Period 建安文學",
+        "units": "3.00",
+        "staff": "- Professor LING Chao",
+        "quota": "65",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4401-",
+        "class_nbr": "7080",
+        "course_title": "Literature and Art 文學與藝術",
+        "units": "3.00",
+        "staff": "- Professor KWONG Ho Yee Connie",
+        "quota": "68",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 12:30PM - 01:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_114",
+            "WMY_408"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4407-",
+        "class_nbr": "8322",
+        "course_title": "Sel Top in Modern Chi Lit I 現代文學專題（一）",
+        "units": "3.00",
+        "staff": "- Dr. YAU Ting Kit Kevin",
+        "quota": "55",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHLL4411-",
+        "class_nbr": "8443",
+        "course_title": "Lu Xun 魯迅研究",
+        "units": "3.00",
+        "staff": "- Professor CUI Wendong",
+        "quota": "55",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSB_LT5",
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

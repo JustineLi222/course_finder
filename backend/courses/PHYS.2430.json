@@ -1,0 +1,2390 @@
+[
+    {
+        "class_code": "PHYS1001-",
+        "class_nbr": "9402",
+        "course_title": "Essential Physics 基礎物理",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Hok Chuen",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "ICS_L1",
+            "SC_L4"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1004E",
+        "class_nbr": "6117",
+        "course_title": "Explore PHY World with STEM 從 STEM 角度探索物理世界",
+        "units": "3.00",
+        "staff": "- Dr. TONG Shiu Sing Dominic",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1110G",
+        "class_nbr": "9676",
+        "course_title": "Engineering Phy: Mech & Thermo 工程物理：力學及熱力學",
+        "units": "3.00",
+        "staff": "- Professor WANG Qisi",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_L4",
+            "SWH_2",
+            "ERB_712",
+            "LHC_104",
+            "SC_LG23",
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1111B",
+        "class_nbr": "9666",
+        "course_title": "Intro to Mech, Fluids & Waves 力學、流體與波動導論（大學物理一）",
+        "units": "3.00",
+        "staff": "- Professor LAN Tian",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 11:30AM - 01:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_LT1",
+            "MMW_LT1",
+            "YIA_201",
+            "YIA_410",
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1122-",
+        "class_nbr": "7708",
+        "course_title": "University Physics II 大學物理（二）",
+        "units": "3.00",
+        "staff": "- Dr. YIP Long Sang Kenny",
+        "quota": "125",
+        "vacancy": "125",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 10:15AM",
+            "Mo 06:30PM - 07:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT2",
+            "LSK_LT4",
+            "MMW_706",
+            "LHC_G06",
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1712A",
+        "class_nbr": "8726",
+        "course_title": "Physics Laboratory I 物理實驗（一）",
+        "units": "1.00",
+        "staff": "- Dr. CHENG Hok Chuen- Dr. LAI Yu Hang",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_213"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1712B",
+        "class_nbr": "8727",
+        "course_title": "Physics Laboratory I 物理實驗（一）",
+        "units": "1.00",
+        "staff": "- Dr. CHENG Hok Chuen- Dr. LAI Yu Hang",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_213"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS1712C",
+        "class_nbr": "8728",
+        "course_title": "Physics Laboratory I 物理實驗（一）",
+        "units": "1.00",
+        "staff": "- Dr. CHENG Hok Chuen- Dr. LAI Yu Hang",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_213"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2401-",
+        "class_nbr": "8627",
+        "course_title": "Intro to Astronomy & Astrophys 天文及天體物理導論",
+        "units": "3.00",
+        "staff": "- Professor CHEN Yuguang",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 05:30PM - 07:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_703",
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2520A",
+        "class_nbr": "5985",
+        "course_title": "Student Centred Learning II 學生為本學習（二）",
+        "units": "1.00",
+        "staff": "- Dr. LEUNG Po Kin",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "DIS",
+        "section_code": "AD01",
+        "language": "E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2520B",
+        "class_nbr": "9268",
+        "course_title": "Student Centred Learning II 學生為本學習（二）",
+        "units": "1.00",
+        "staff": "- Professor HUI Pak Ming",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "DIS",
+        "section_code": "BD01",
+        "language": "E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2520C",
+        "class_nbr": "9269",
+        "course_title": "Student Centred Learning II 學生為本學習（二）",
+        "units": "1.00",
+        "staff": "- Professor ZHU Junyi",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "DIS",
+        "section_code": "CD01",
+        "language": "E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "BMS_2"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2520D",
+        "class_nbr": "6202",
+        "course_title": "Student Centred Learning II 學生為本學習（二）",
+        "units": "1.00",
+        "staff": "- Professor WANG Yi",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "DIS",
+        "section_code": "DD01",
+        "language": "E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_406"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2520E",
+        "class_nbr": "9270",
+        "course_title": "Student Centred Learning II 學生為本學習（二）",
+        "units": "1.00",
+        "staff": "- Professor ZHANG Hengkai",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "DIS",
+        "section_code": "ED01",
+        "language": "E",
+        "period": [
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2722A",
+        "class_nbr": "8826",
+        "course_title": "Physics Laboratory III 物理實驗（三）",
+        "units": "1.00",
+        "staff": "- Dr. DUNG On Yu- Professor XU Lei",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_112"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2722B",
+        "class_nbr": "8846",
+        "course_title": "Physics Laboratory III 物理實驗（三）",
+        "units": "1.00",
+        "staff": "- Dr. DUNG On Yu- Professor XU Lei",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "BL01",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_112"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS2722C",
+        "class_nbr": "8847",
+        "course_title": "Physics Laboratory III 物理實驗（三）",
+        "units": "1.00",
+        "staff": "- Dr. DUNG On Yu- Professor XU Lei",
+        "quota": "24",
+        "vacancy": "24",
+        "mode": "LAB",
+        "section_code": "CL01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SC_112"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3011-",
+        "class_nbr": "5881",
+        "course_title": "Classical Mechanics I 經典力學（一）",
+        "units": "3.00",
+        "staff": "- Dr. LAI Yu Hang",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Th 09:30AM - 10:15AM",
+            "Mo 06:30PM - 07:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 06:30PM - 07:15PM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSB_LT5",
+            "SC_L1",
+            "MMW_704",
+            "LHC_106",
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3022-",
+        "class_nbr": "9413",
+        "course_title": "Applied Quantum Mechanics 應用量子力學",
+        "units": "3.00",
+        "staff": "- Professor HUI Pak Ming",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Tu 06:30PM - 07:15PM",
+            "We 11:30AM - 12:15PM",
+            "We 06:30PM - 07:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_LT1",
+            "LSB_LT6",
+            "LSK_208",
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3023-",
+        "class_nbr": "9401",
+        "course_title": "Intro to Quantum Info Physics 量子信息物理學導論",
+        "units": "3.00",
+        "staff": "- Professor LI Yufan",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "We 11:30AM - 12:15PM",
+            "Th 11:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "MMW_705",
+            "WMY_304",
+            "BMS_2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3031-",
+        "class_nbr": "5033",
+        "course_title": "Thermodynamics and Stat Phy 熱力學與統計物理學",
+        "units": "3.00",
+        "staff": "- Professor GOH Swee Kuan",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 11:30AM - 01:15PM",
+            "Th 12:30PM - 01:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 06:30PM - 07:15PM",
+            "Fr 10:30AM - 11:15AM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LHC_103",
+            "LHC_104",
+            "LHC_G06",
+            "ERB_404",
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3051-",
+        "class_nbr": "5989",
+        "course_title": "Methods in Theoretical Phy I 理論物理的分析方法（一）",
+        "units": "3.00",
+        "staff": "- Professor CHING Shuk Chi Emily",
+        "quota": "75",
+        "vacancy": "75",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "We 09:30AM - 10:15AM",
+            "We 05:30PM - 06:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Fr 09:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SC_L4",
+            "LHC_G01",
+            "LHC_G06",
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3061-",
+        "class_nbr": "8952",
+        "course_title": "Phys Sim with AI Tools 人工智能輔助的物理模擬",
+        "units": "3.00",
+        "staff": "- Professor YAN Yangqian",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 01:30PM - 04:15PM",
+            "Mo 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_712",
+            "SC_326"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3410-",
+        "class_nbr": "8757",
+        "course_title": "Practical Electronics 實用電子學",
+        "units": "3.00",
+        "staff": "- Professor WANG Dajun",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 03:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 06:30PM - 07:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "SC_115"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3610A",
+        "class_nbr": "6345",
+        "course_title": "Short Project II 專題研習 (二)",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3610B",
+        "class_nbr": "6568",
+        "course_title": "Short Project II 專題研習 (二)",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3630-",
+        "class_nbr": "8072",
+        "course_title": "Other Phys Learning Exp I 其他物理學習體驗（一）",
+        "units": "1.00",
+        "staff": "- Dr. CHENG Hok Chuen- Dr. LEUNG Po Kin- Dr. YIP Long Sang Kenny- Professor CHU Ming Chung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3710-",
+        "class_nbr": "6428",
+        "course_title": "Short Experimental Project I 專題實驗（一）",
+        "units": "1.00",
+        "staff": "- Professor GOH Swee Kuan- Professor WANG Dajun- Professor WU Yilin- Professor XU Lei",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS3810A",
+        "class_nbr": "7961",
+        "course_title": "Short Theoretical Project I 理論專題（一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4011-",
+        "class_nbr": "9533",
+        "course_title": "Classical Mechanics II 經典力學（二）",
+        "units": "3.00",
+        "staff": "- Professor CHING Shuk Chi Emily",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 09:30AM - 10:15AM",
+            "Mo 06:30PM - 07:15PM",
+            "Th 11:30AM - 12:15PM",
+            "Th 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_804",
+            "ERB_401",
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4021-",
+        "class_nbr": "9029",
+        "course_title": "Quantum Mechanics II 量子力學（二）",
+        "units": "3.00",
+        "staff": "- Professor CHU Ming Chung",
+        "quota": "40",
+        "vacancy": "39",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 05:15PM",
+            "We 02:30PM - 03:15PM",
+            "Mo 05:30PM - 06:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "ERB_703",
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4420-",
+        "class_nbr": "8581",
+        "course_title": "Physics in Meteorology 氣象學中的物理",
+        "units": "3.00",
+        "staff": "- Mr WONG Wai Kin- Professor LI Ping Wah",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 06:30PM - 09:15PM",
+            "Mo 06:30PM - 07:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "SC_L3",
+            "ERB_402",
+            "LSK_212"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4460-",
+        "class_nbr": "7368",
+        "course_title": "Relativity 相對論",
+        "units": "3.00",
+        "staff": "- Dr. LIN Lap Ming",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Th 02:30PM - 03:15PM",
+            "Th 09:30AM - 10:15AM",
+            "Th 06:30PM - 07:15PM",
+            "Th 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_707",
+            "ERB_407",
+            "SC_LG23",
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4470-",
+        "class_nbr": "5595",
+        "course_title": "Nuclear and Particle Physics 核物理與粒子物理",
+        "units": "3.00",
+        "staff": "- Professor Luis Roberto FLORES CASTILLO",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "We 04:30PM - 05:15PM",
+            "Tu 06:30PM - 07:15PM",
+            "We 12:30PM - 01:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_712",
+            "ERB_703",
+            "LHC_G01",
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4610A",
+        "class_nbr": "6217",
+        "course_title": "Senior Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4610B",
+        "class_nbr": "6569",
+        "course_title": "Senior Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4610C",
+        "class_nbr": "8068",
+        "course_title": "Senior Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4610D",
+        "class_nbr": "8071",
+        "course_title": "Senior Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620A",
+        "class_nbr": "8032",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Tsang Keung",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AA",
+        "class_nbr": "8024",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHENG Hok Chuen",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AB",
+        "class_nbr": "8025",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. DUNG On Yu",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ABJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AC",
+        "class_nbr": "7874",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor HUI Pak Ming",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ACJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AD",
+        "class_nbr": "8034",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. LAI Yu Hang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ADJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AE",
+        "class_nbr": "8026",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Po Kin",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AEJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AF",
+        "class_nbr": "7875",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. LIN Lap Ming",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AFJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AG",
+        "class_nbr": "6602",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. TONG Shiu Sing Dominic",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AGJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AH",
+        "class_nbr": "7985",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. YIP Long Sang Kenny",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AHJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AI",
+        "class_nbr": "6492",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Yuguang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AIJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AJ",
+        "class_nbr": "7876",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor GAO Yao",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AK",
+        "class_nbr": "7716",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor SUN Rongyang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AKJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AL",
+        "class_nbr": "7773",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Hengkai",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ALJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AM",
+        "class_nbr": "7999",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Jiarui",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AMJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620AN",
+        "class_nbr": "8532",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Ping Wah",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ANJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620B",
+        "class_nbr": "7944",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHING Shuk Chi Emily",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620C",
+        "class_nbr": "6598",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHU Ming Chung",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620D",
+        "class_nbr": "6599",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor Luis Roberto FLORES CASTILLO",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620E",
+        "class_nbr": "6204",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor GOH Swee Kuan",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620F",
+        "class_nbr": "7771",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor GU Zhengcheng",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620G",
+        "class_nbr": "7872",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor Otto Akseli HANNUKSELA",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620H",
+        "class_nbr": "6497",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor HU Chen",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620I",
+        "class_nbr": "8021",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LAN Tian",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620J",
+        "class_nbr": "7772",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Hua Bai",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620K",
+        "class_nbr": "8000",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Quan",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620L",
+        "class_nbr": "8001",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Yufan",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620M",
+        "class_nbr": "8002",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LIU Renbao",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620N",
+        "class_nbr": "8003",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LU Xinhui",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620O",
+        "class_nbr": "6279",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor NG Chun Yu",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620P",
+        "class_nbr": "6280",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ONG Hock Chun Daniel",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620Q",
+        "class_nbr": "8022",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WANG Dajun",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620R",
+        "class_nbr": "8023",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WANG Jianfang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620S",
+        "class_nbr": "6274",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WANG Qisi",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620T",
+        "class_nbr": "8004",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WANG Yi",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620U",
+        "class_nbr": "7873",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor WU Yilin",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620V",
+        "class_nbr": "6603",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor XU Lei",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620W",
+        "class_nbr": "6281",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor XUE Haoran",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "WJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620X",
+        "class_nbr": "6600",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor YAN Renbin",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620Y",
+        "class_nbr": "6601",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor YAN Yangqian",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "YJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4620Z",
+        "class_nbr": "8033",
+        "course_title": "Senior Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHU Junyi",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "ZJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4630A",
+        "class_nbr": "7839",
+        "course_title": "Other Phys Learning Experience 其他物理學習體驗",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4710A",
+        "class_nbr": "7840",
+        "course_title": "Short Experimental Project II 專題實驗（二）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4711A",
+        "class_nbr": "7769",
+        "course_title": "Short Experimental Project III 專題實驗（三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LAB",
+        "section_code": "AL01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4712A",
+        "class_nbr": "7870",
+        "course_title": "Short Experimental Project IV 專題實驗（四）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4802A",
+        "class_nbr": "7447",
+        "course_title": "Seminar II 學術報告（二）",
+        "units": "1.00",
+        "staff": "- Professor ONG Hock Chun Daniel",
+        "quota": "18",
+        "vacancy": "18",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "SC_139"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4802B",
+        "class_nbr": "7405",
+        "course_title": "Seminar II 學術報告（二）",
+        "units": "1.00",
+        "staff": "- Dr. LIN Lap Ming",
+        "quota": "18",
+        "vacancy": "18",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "MMW_706"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4811A",
+        "class_nbr": "7871",
+        "course_title": "Short Theoretical Project II 理論專題（二）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4812A",
+        "class_nbr": "7770",
+        "course_title": "Short Theoretical Project III 理論專題（三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PHYS4812B",
+        "class_nbr": "4942",
+        "course_title": "Short Theoretical Project III 理論專題（三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

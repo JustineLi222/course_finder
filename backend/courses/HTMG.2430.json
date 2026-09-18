@@ -1,0 +1,651 @@
+[
+    {
+        "class_code": "HTMG1092-",
+        "class_nbr": "6074",
+        "course_title": "Distinguished Speaker S II 行業領袖演講系列（二）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG2000B",
+        "class_nbr": "4866",
+        "course_title": "International Experience 國際經驗",
+        "units": "1.00",
+        "staff": "- Dr. TIAN Jie Jenny",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "OTH",
+        "section_code": "BO01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG2070B",
+        "class_nbr": "8915",
+        "course_title": "Food and Beverage Management 餐務管理",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Pui Gentiana",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_504"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG2091A",
+        "class_nbr": "6075",
+        "course_title": "Distinguished Speaker S III 行業領袖演講系列（三）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG2092-",
+        "class_nbr": "6087",
+        "course_title": "Distinguished Speaker S IV 行業領袖演講系列（四）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "55",
+        "vacancy": "55",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG2900B",
+        "class_nbr": "6485",
+        "course_title": "Summer Internship I 暑期行業體驗計劃（一）",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Pui Gentiana",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "BP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3010B",
+        "class_nbr": "8573",
+        "course_title": "Magt of Lodging Facilities 住宿設施管理",
+        "units": "3.00",
+        "staff": "- Professor LEE Po Lam Wilson",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_607"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3020-",
+        "class_nbr": "4867",
+        "course_title": "Hosp Organization Behavior 酒店及相關行業組織行為學",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Jie Jenny",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3041B",
+        "class_nbr": "9327",
+        "course_title": "Law for HRE Ind 酒店旅遊及房地產法律",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Ka Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3050-",
+        "class_nbr": "4917",
+        "course_title": "Travel and Tourism Management 旅遊業管理",
+        "units": "3.00",
+        "staff": "- Professor LI Wing Yen Wyn",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CYT_609"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3091A",
+        "class_nbr": "6156",
+        "course_title": "Distinguished Speaker Series V 行業領袖演講系列（五）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3092-",
+        "class_nbr": "6088",
+        "course_title": "Distinguished Speaker S VI 行業領袖演講系列（六）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "55",
+        "vacancy": "55",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3502-",
+        "class_nbr": "5577",
+        "course_title": "Real Estate Finance 房地產金融",
+        "units": "3.00",
+        "staff": "- Professor YANG Liuming",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3518-",
+        "class_nbr": "4901",
+        "course_title": "Wine Culture and Appreciation 葡萄酒文化與品嚐",
+        "units": "3.00",
+        "staff": "- Mr. Yohann Sebastien Gael JOUSSELIN",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_504"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3522-",
+        "class_nbr": "4868",
+        "course_title": "Land Conv Proc & Dev Control 土地變更過程及發展控制",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3523-",
+        "class_nbr": "4900",
+        "course_title": "Introduction to Real Est Inv 房地產投資入門",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_607"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3527-",
+        "class_nbr": "7016",
+        "course_title": "Designing and Managing Custom 設計和管理客戶體驗",
+        "units": "3.00",
+        "staff": "- Professor CHAN Ka Yan Elisa",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_501"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG3900B",
+        "class_nbr": "6651",
+        "course_title": "Summer Internship II 暑期行業體驗計劃（二）",
+        "units": "1.00",
+        "staff": "- Dr. CHEUNG Pui Gentiana",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "BP01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4091A",
+        "class_nbr": "6100",
+        "course_title": "Distinguished Speaker S VII 行業領袖演講系列（七）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4092-",
+        "class_nbr": "6101",
+        "course_title": "Distinguished Speaker S VIII 行業領袖演講系列（八）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "55",
+        "vacancy": "55",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM"
+        ],
+        "room": [
+            "LSK_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4190-",
+        "class_nbr": "9329",
+        "course_title": "Glo RE Asset Mgt 全球地產證券資產配置",
+        "units": "3.00",
+        "staff": "- Professor WONG Chi Fai Nelson",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4502-",
+        "class_nbr": "6807",
+        "course_title": "Leadership Excellence 卓越領導",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_607"
+        ],
+        "meeting_date": [
+            "15/2, 22/2, 1/3",
+            "15/3"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4505-",
+        "class_nbr": "9707",
+        "course_title": "Convent'n Exhibit'n & Evt Mgt 會議、展覽及節目策劃",
+        "units": "1.00",
+        "staff": "- Miss LAM Pui Tung Tendy",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_607"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4600B",
+        "class_nbr": "9571",
+        "course_title": "Facilities Dev and Mgt for HRE 酒店物業和房地產設施發展及管理",
+        "units": "3.00",
+        "staff": "- Dr. Ervi LIUSMAN",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4800-",
+        "class_nbr": "8433",
+        "course_title": "Hospitality Strategic Magt 酒店及相關行業策略管理",
+        "units": "3.00",
+        "staff": "- Dr. TIAN Jie Jenny",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_206"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "HTMG4900B",
+        "class_nbr": "9678",
+        "course_title": "HRE Capstone Project 酒店和房地產總結項目",
+        "units": "3.00",
+        "staff": "- Professor CHOI Sungwoo",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

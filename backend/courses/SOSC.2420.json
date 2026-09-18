@@ -1,0 +1,123 @@
+[
+    {
+        "class_code": "SOSC1001-",
+        "class_nbr": "4773",
+        "course_title": "Design Thinking, Social Innov. 社會創新中的「設計思維」",
+        "units": "3.00",
+        "staff": "- Miss KO Kar Yeung Rina",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_401"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOSC1003A",
+        "class_nbr": "8223",
+        "course_title": "Introduction to Art Tech D&I 自動化與互動設計",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ching",
+        "quota": "30",
+        "vacancy": "8",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_507"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOSC4001-",
+        "class_nbr": "6500",
+        "course_title": "ASK Project I 同創專題習作（一）",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "vacancy": "2",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOSC4002-",
+        "class_nbr": "8082",
+        "course_title": "ASK Project II 同創專題習作（二）",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "vacancy": "29",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOSC4010-",
+        "class_nbr": "6072",
+        "course_title": "ASK Internship I 同創實習（一）",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Yukun",
+        "quota": "30",
+        "vacancy": "25",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

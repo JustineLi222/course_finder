@@ -1,0 +1,1055 @@
+[
+    {
+        "class_code": "MGNT1010A",
+        "class_nbr": "7472",
+        "course_title": "Introduction to Business 企業導論",
+        "units": "3.00",
+        "staff": "- Dr. IUN Sio Kun Joyce",
+        "quota": "70",
+        "vacancy": "54",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020A",
+        "class_nbr": "7401",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor LIU Xuan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020B",
+        "class_nbr": "9337",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor WU Shuang",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020C",
+        "class_nbr": "7403",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor LIU Xuan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020D",
+        "class_nbr": "9325",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor WU Shuang",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020E",
+        "class_nbr": "9338",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor WU Shuang",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020F",
+        "class_nbr": "6018",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Dr. IUN Sio Kun Joyce",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020G",
+        "class_nbr": "7402",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Dr. TSUI Po Yung",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020H",
+        "class_nbr": "5839",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Dr. NG Wing Fung",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1020I",
+        "class_nbr": "9231",
+        "course_title": "Management 管理學",
+        "units": "3.00",
+        "staff": "- Professor LIU Xuan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT1070-",
+        "class_nbr": "8462",
+        "course_title": "The Founder’s Journey: EM & DT 創業歷程─創業精神與設計思考",
+        "units": "3.00",
+        "staff": "- Professor CHOI Wai Shan",
+        "quota": "55",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2040A",
+        "class_nbr": "8463",
+        "course_title": "Managing Human Capital 管理人力資本",
+        "units": "3.00",
+        "staff": "- Dr. TSUI Po Yung",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511A",
+        "class_nbr": "6397",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511B",
+        "class_nbr": "6398",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511C",
+        "class_nbr": "6395",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511D",
+        "class_nbr": "6396",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511E",
+        "class_nbr": "6399",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2511F",
+        "class_nbr": "6344",
+        "course_title": "Global Experiential Learning I 全球體驗式學習（一）",
+        "units": "1.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/09/2026 - 09/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2512A",
+        "class_nbr": "6167",
+        "course_title": "Global Experiential LearningII 全球體驗式學習（二）",
+        "units": "1.00",
+        "staff": "- Professor WU You Willow",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2512B",
+        "class_nbr": "6165",
+        "course_title": "Global Experiential LearningII 全球體驗式學習（二）",
+        "units": "1.00",
+        "staff": "- Professor WU You Willow",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2512C",
+        "class_nbr": "6346",
+        "course_title": "Global Experiential LearningII 全球體驗式學習（二）",
+        "units": "1.00",
+        "staff": "- Professor WU You Willow",
+        "quota": "70",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2512D",
+        "class_nbr": "8100",
+        "course_title": "Global Experiential LearningII 全球體驗式學習（二）",
+        "units": "1.00",
+        "staff": "- Professor WU You Willow",
+        "quota": "70",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2611A",
+        "class_nbr": "8461",
+        "course_title": "Business Sustainability 商業永續發展",
+        "units": "2.00",
+        "staff": "- Dr. IP Ching Loi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2611B",
+        "class_nbr": "9361",
+        "course_title": "Business Sustainability 商業永續發展",
+        "units": "2.00",
+        "staff": "- Dr. IP Ching Loi",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT2611C",
+        "class_nbr": "9153",
+        "course_title": "Business Sustainability 商業永續發展",
+        "units": "2.00",
+        "staff": "- Dr. TONG Toni Maria",
+        "quota": "70",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3010A",
+        "class_nbr": "8475",
+        "course_title": "Organizational Behaviour 組織行為學",
+        "units": "3.00",
+        "staff": "- Professor LIAO Huiyao",
+        "quota": "55",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3010B",
+        "class_nbr": "9439",
+        "course_title": "Organizational Behaviour 組織行為學",
+        "units": "3.00",
+        "staff": "- Dr. HO Kin Yan",
+        "quota": "55",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G01"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3060-",
+        "class_nbr": "4982",
+        "course_title": "Human Capital Training & Dev 人力資源培訓",
+        "units": "3.00",
+        "staff": "- Ms. LAM Ka Yan",
+        "quota": "55",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3090-",
+        "class_nbr": "9362",
+        "course_title": "Human Capital Analytics 人力資本分析",
+        "units": "3.00",
+        "staff": "- Professor WONG Chi Sum",
+        "quota": "55",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_202"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3580A",
+        "class_nbr": "9232",
+        "course_title": "Global Enterprise Management 環球企業管理",
+        "units": "3.00",
+        "staff": "- Professor LIN Ya",
+        "quota": "55",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT3580B",
+        "class_nbr": "8499",
+        "course_title": "Global Enterprise Management 環球企業管理",
+        "units": "3.00",
+        "staff": "- Professor LIN Ya",
+        "quota": "55",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010A",
+        "class_nbr": "9336",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor YANG Weikun",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010B",
+        "class_nbr": "7473",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Muhan",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_502"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010C",
+        "class_nbr": "8482",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Muhan",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_UG01"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010D",
+        "class_nbr": "7404",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor YANG Weikun",
+        "quota": "45",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010E",
+        "class_nbr": "9339",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor YANG Weikun",
+        "quota": "45",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4010F",
+        "class_nbr": "7422",
+        "course_title": "Strategic Management 戰略管理",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Muhan",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_502"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4070-",
+        "class_nbr": "9233",
+        "course_title": "Social Innov&Entrepreneurship 社會創新與創業",
+        "units": "3.00",
+        "staff": "- Professor Elsie Tsui",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4080-",
+        "class_nbr": "9379",
+        "course_title": "Leadership Development 領導力的開發",
+        "units": "3.00",
+        "staff": "- Dr. IUN Sio Kun Joyce",
+        "quota": "55",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4090A",
+        "class_nbr": "8279",
+        "course_title": "Technology & Innovation Mgt 科技和創新管理",
+        "units": "3.00",
+        "staff": "- Dr. TONG Toni Maria",
+        "quota": "55",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_209A"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4150A",
+        "class_nbr": "9313",
+        "course_title": "Global Strategy 全球策略",
+        "units": "3.00",
+        "staff": "- Dr. TONG Toni Maria",
+        "quota": "55",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4170-",
+        "class_nbr": "8484",
+        "course_title": "Entrepreneurship Launchpad 創業啟動平台",
+        "units": "3.00",
+        "staff": "- Mr. LIU Chun Wai- Professor CHOI Wai Shan",
+        "quota": "55",
+        "vacancy": "42",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Sa 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "12/9, 19/9",
+            "3/10, 10/10, 17/10, 24/10, 31/10, 7/11, 14/11, 21/11, 28/11, 5/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4510A",
+        "class_nbr": "9194",
+        "course_title": "China Business 中國商業",
+        "units": "3.00",
+        "staff": "- Professor WANG Jian",
+        "quota": "55",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4540-",
+        "class_nbr": "9813",
+        "course_title": "Asian Business 亞洲商業",
+        "units": "3.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "55",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "MGNT4570-",
+        "class_nbr": "8560",
+        "course_title": "Global Entrepreneurship 環球企業家精神",
+        "units": "3.00",
+        "staff": "- Dr. NG Wing Fung",
+        "quota": "55",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

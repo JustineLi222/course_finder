@@ -1,0 +1,202 @@
+[
+    {
+        "class_code": "EEEN2020-",
+        "class_nbr": "5670",
+        "course_title": "Renewable Energy Technologies 可再生能源技術",
+        "units": "3.00",
+        "staff": "- Professor REN Wei",
+        "quota": "65",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 05:30PM - 06:15PM",
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_702",
+            "MMW_703",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN3010-",
+        "class_nbr": "9309",
+        "course_title": "HVAC II 供熱通風與空調（二）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Chun",
+        "quota": "40",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT4",
+            "WMY_402",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN3020-",
+        "class_nbr": "7060",
+        "course_title": "Ener Utilizat'n & Human Behavi 能源運用與人類行為",
+        "units": "3.00",
+        "staff": "- Dr. LAU Alex Siu Hong",
+        "quota": "40",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 11:15AM",
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_703",
+            "WMY_406",
+            "TBA"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN4020-",
+        "class_nbr": "5230",
+        "course_title": "Solar Ener & Photovoltaic Tech 太陽能及光伏技術",
+        "units": "3.00",
+        "staff": "- Professor Martin STOLTERFOHT",
+        "quota": "50",
+        "vacancy": "27",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 11:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_408",
+            "LSB_C4",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN4060-",
+        "class_nbr": "5671",
+        "course_title": "Energy Distribution 能源分配",
+        "units": "3.00",
+        "staff": "- Professor XU Yunjian",
+        "quota": "40",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 05:30PM - 06:15PM",
+            "Th 01:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_713",
+            "ERB_712",
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN4998-",
+        "class_nbr": "6475",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "60",
+        "vacancy": "25",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "EEEN4999-",
+        "class_nbr": "8043",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "10",
+        "vacancy": "8",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

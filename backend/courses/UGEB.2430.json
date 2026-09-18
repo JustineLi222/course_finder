@@ -1,0 +1,807 @@
+[
+    {
+        "class_code": "UGEB1382-",
+        "class_nbr": "5410",
+        "course_title": "Energy Magic in Chemistry 能源魔法-化學與環保的奥秘",
+        "units": "2.00",
+        "staff": "- Dr. LO Chui Man",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_503"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB1408-",
+        "class_nbr": "8346",
+        "course_title": "AI in Action 實用人工智能",
+        "units": "3.00",
+        "staff": "- Mr. KEUNG Wai Yiu",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "HYS_G01",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB1492-",
+        "class_nbr": "7357",
+        "course_title": "Data Expl - Stat in Daily Life 數據探究：日常生活中的統計",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG King Chau",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LHC_G04"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB1506E",
+        "class_nbr": "7717",
+        "course_title": "Explore PHY World with STEM 從 STEM 角度探索物理世界",
+        "units": "3.00",
+        "staff": "- Dr. TONG Shiu Sing Dominic",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 05:15PM",
+            "Th 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2008-",
+        "class_nbr": "6932",
+        "course_title": "Mind, Brain and AI 心靈、人腦與人工智能",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Kin Lok",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2046-",
+        "class_nbr": "9263",
+        "course_title": "Phy in Movies: Sci or Friction 科幻電影中的物理",
+        "units": "2.00",
+        "staff": "- Professor NG Chun Yu",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "LSB_LT2"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2113-",
+        "class_nbr": "8368",
+        "course_title": "Nature Conservation in HK 自然保育在香港",
+        "units": "3.00",
+        "staff": "- Dr. NG Kit Ying",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CYT_LT1B",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2114-",
+        "class_nbr": "9441",
+        "course_title": "Climate, Energy & Life 氣候、能源與生命",
+        "units": "2.00",
+        "staff": "- Professor LI Jianfeng- Professor XU Yuan",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2123-",
+        "class_nbr": "8458",
+        "course_title": "Env Crises – China & the World 環境危機 ─ 中國與世界",
+        "units": "2.00",
+        "staff": "- Professor XU Yuan",
+        "quota": "105",
+        "vacancy": "105",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2149-",
+        "class_nbr": "9013",
+        "course_title": "Music, Mind and AI 音樂、心靈與人工智能",
+        "units": "2.00",
+        "staff": "- Dr. POON Kiu Tung- Dr. SZETO Wai Man",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "HYS_LG04"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2151-",
+        "class_nbr": "9631",
+        "course_title": "Chi Megaproj in New Millennium 中國世紀工程",
+        "units": "3.00",
+        "staff": "- Professor JIN Ting",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2161-",
+        "class_nbr": "9900",
+        "course_title": "Resource Issues in Age of Glob 全球化時代的資源問題",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2182-",
+        "class_nbr": "9487",
+        "course_title": "Environmental Challenges HK 香港環境的挑戰",
+        "units": "2.00",
+        "staff": "- Professor LI Jianfeng",
+        "quota": "54",
+        "vacancy": "54",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_203"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2262-",
+        "class_nbr": "5694",
+        "course_title": "From Genes to Life 從基因到生命",
+        "units": "2.00",
+        "staff": "- Dr. CHIU Chi Ming Lawrence",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2361-",
+        "class_nbr": "9662",
+        "course_title": "Great Discoveries in Life Sci 生命科學大發現",
+        "units": "2.00",
+        "staff": "- Dr. NGAI Hung Kui",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2362-",
+        "class_nbr": "9004",
+        "course_title": "Nutrition For Healthy Living 營養與健康生活",
+        "units": "3.00",
+        "staff": "- Ms. SIN Man Ching- Ms. YIP Pui Sze",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "SWH_2"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2370B",
+        "class_nbr": "7126",
+        "course_title": "Chemistry: The X-Files 化學X檔案",
+        "units": "2.00",
+        "staff": "- Dr. CHEUNG Yu San",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "MMW_710"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2380C",
+        "class_nbr": "6112",
+        "course_title": "Chemistry of Life 生命化學",
+        "units": "2.00",
+        "staff": "- Dr. HAU Chun Kit",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_308"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2381-",
+        "class_nbr": "5528",
+        "course_title": "Chem for a Sustainable Future 化學：可持續未來",
+        "units": "2.00",
+        "staff": "- Dr. CHAN Ka Long Donald",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_804"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2401A",
+        "class_nbr": "5430",
+        "course_title": "Astronomy 天文學",
+        "units": "3.00",
+        "staff": "- Dr. TONG Shiu Sing Dominic",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "We 03:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT2",
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2411D",
+        "class_nbr": "8494",
+        "course_title": "Astronomy – A Short Introd 天文學 - 簡介",
+        "units": "2.00",
+        "staff": "- Professor CHAN Tsang Keung",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_103"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2420B",
+        "class_nbr": "5790",
+        "course_title": "Chemistry in the Kitchen 化學色香味",
+        "units": "2.00",
+        "staff": "- Dr. LO Chui Man",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2440A",
+        "class_nbr": "5535",
+        "course_title": "Chemistry of Food and Drinks 飲食中的化學",
+        "units": "2.00",
+        "staff": "- Dr. MAK Kin Wah",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SC_LG23"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2440B",
+        "class_nbr": "9188",
+        "course_title": "Chemistry of Food and Drinks 飲食中的化學",
+        "units": "2.00",
+        "staff": "- Dr. MAK Kin Wah",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2460-",
+        "class_nbr": "9478",
+        "course_title": "Appreciation of Mathematics 數學賞析",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Tsz Lung",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LHC_104"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2530B",
+        "class_nbr": "7510",
+        "course_title": "Games and Strategic Thinking 博奕和策略思想",
+        "units": "3.00",
+        "staff": "- Dr. LIU Chun Lung",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2530C",
+        "class_nbr": "9197",
+        "course_title": "Games and Strategic Thinking 博奕和策略思想",
+        "units": "3.00",
+        "staff": "- Dr. WONG Chak Fu",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2781-",
+        "class_nbr": "7217",
+        "course_title": "Perspectives in Medical Sci. 醫學科學探索",
+        "units": "3.00",
+        "staff": "- Dr. WONG Pui Man Molly",
+        "quota": "135",
+        "vacancy": "135",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4",
+            "16/4",
+            "23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2831-",
+        "class_nbr": "7334",
+        "course_title": "Fundamentals in Chi Med 中醫與中藥",
+        "units": "3.00",
+        "staff": "- Dr. LIONG Ching- Dr. SO Tsz Ho- Miss HUNG Hing Yu",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2871-",
+        "class_nbr": "9462",
+        "course_title": "Climate Change Extreme Weather 氣候變化與極端天氣",
+        "units": "3.00",
+        "staff": "- Dr. AU-YEUNG Yee Man- Professor CHAN Chung Leung Johnny",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "UGEB2991-",
+        "class_nbr": "8183",
+        "course_title": "Viewing Communication from ST 從言語治療看溝通",
+        "units": "3.00",
+        "staff": "- Professor LAW Thomas Ka Tung",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

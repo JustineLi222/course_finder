@@ -1,0 +1,353 @@
+[
+    {
+        "class_code": "CHES1000-",
+        "class_nbr": "9816",
+        "course_title": "Intro to Chinese Studies 中國研究導論",
+        "units": "3.00",
+        "staff": "- Dr. VAN DEN TROOST Kristof",
+        "quota": "50",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_407"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES1101-",
+        "class_nbr": "9409",
+        "course_title": "China in Global Perspectives 全球視角下的中國",
+        "units": "3.00",
+        "staff": "- Professor Timothy Andrew SUMMERS",
+        "quota": "80",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES2002-",
+        "class_nbr": "9461",
+        "course_title": "Chinese Culture and Society 變遷中的中國文化與社會",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Xuyi",
+        "quota": "80",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_203"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES2004-",
+        "class_nbr": "9734",
+        "course_title": "Chinese Lit and Adaptation 中國古代文學與改編",
+        "units": "3.00",
+        "staff": "- Dr. GAO Yunwen",
+        "quota": "80",
+        "vacancy": "32",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "SC_L3"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES2005-",
+        "class_nbr": "7048",
+        "course_title": "Emotional Landscapes in China 當代中國社會的情感經驗",
+        "units": "3.00",
+        "staff": "- Dr. SUN Lin",
+        "quota": "50",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES2006-",
+        "class_nbr": "5076",
+        "course_title": "Sound Culture in Contemp China 當代中國的聽覺文化",
+        "units": "3.00",
+        "staff": "- Dr. GAO Yunwen",
+        "quota": "80",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_505"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES2107-",
+        "class_nbr": "7666",
+        "course_title": "Science & Technology in China 中國科技發展導論",
+        "units": "3.00",
+        "staff": "- Dr. William Joseph MORIARTY",
+        "quota": "50",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3002-",
+        "class_nbr": "5338",
+        "course_title": "China’s Financial Reform 中國金融改革",
+        "units": "3.00",
+        "staff": "- Professor LI Chen",
+        "quota": "25",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3102-",
+        "class_nbr": "9462",
+        "course_title": "East Asian Film Genres 全球化下的東亞電影類型",
+        "units": "3.00",
+        "staff": "- Dr. Abraham OVERBEEKE",
+        "quota": "25",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3103-",
+        "class_nbr": "5042",
+        "course_title": "Art in Contemporary China 當代中國的藝術",
+        "units": "3.00",
+        "staff": "- Dr. SHENG Hung",
+        "quota": "45",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3105-",
+        "class_nbr": "5045",
+        "course_title": "Cultural History of China 中國文化史",
+        "units": "3.00",
+        "staff": "- Professor SHI Yu",
+        "quota": "45",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ARC_211"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3108-",
+        "class_nbr": "5077",
+        "course_title": "Infrastructure and Development 基礎設施與發展",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Xuyi",
+        "quota": "45",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3201-",
+        "class_nbr": "8520",
+        "course_title": "Spec Topics in Chinese Studies 中國研究專題",
+        "units": "3.00",
+        "staff": "- Professor SHI Yu",
+        "quota": "45",
+        "vacancy": "13",
+        "mode": "DIS",
+        "section_code": "-D01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3402-",
+        "class_nbr": "8095",
+        "course_title": "China Experience Internship 中國見習",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHES3500-",
+        "class_nbr": "9434",
+        "course_title": "Chi Studies Research Methods 中國研究研究方法",
+        "units": "3.00",
+        "staff": "- Professor MIEGE Pierre Jean baptiste Edouard",
+        "quota": "35",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "class_code": "IASP2790-",
+        "class_nbr": "7794",
+        "course_title": "Special Topics in IAS (I) 亞洲研究特選論題（一）",
+        "units": "3.00",
+        "staff": "- Professor WU Ka Ming",
+        "quota": "30",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_402",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "IASP4090-",
+        "class_nbr": "7819",
+        "course_title": "Indep Rsrch on Int'l Stud 國際專題研究",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "16",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

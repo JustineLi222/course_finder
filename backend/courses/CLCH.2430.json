@@ -1,0 +1,53 @@
+[
+    {
+        "class_code": "CLCH1702A",
+        "class_nbr": "5774",
+        "course_title": "Hokkinese thru Poems & Songs 福建話詩與歌",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "H&amp;C&amp;P",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_501"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCH1702B",
+        "class_nbr": "6038",
+        "course_title": "Hokkinese thru Poems & Songs 福建話詩與歌",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "H&amp;C&amp;P",
+        "period": [
+            "Tu 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "CKB_108"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

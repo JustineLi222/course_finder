@@ -1,0 +1,995 @@
+[
+    {
+        "class_code": "GEUC1000-",
+        "class_nbr": "8636",
+        "course_title": "College Assembly 書院聚會",
+        "units": "0.00",
+        "staff": "- Professor LEE Hung Kay",
+        "quota": "1400",
+        "vacancy": "0",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC1000A",
+        "class_nbr": "8780",
+        "course_title": "College Assembly 書院聚會",
+        "units": "0.00",
+        "staff": "- Professor LEE Hung Kay",
+        "quota": "1400",
+        "vacancy": "258",
+        "mode": "ASB",
+        "section_code": "AA01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC1111-",
+        "class_nbr": "8637",
+        "course_title": "University Life & Learning 大學生活與學習",
+        "units": "1.00",
+        "staff": "- Professor LEE Hung Kay",
+        "quota": "1000",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 01:30PM - 03:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2017-",
+        "class_nbr": "8685",
+        "course_title": "Bacchus:Exploring Grape Wine 巴格斯：萄葡酒之旅",
+        "units": "1.00",
+        "staff": "- Mr LUK Yiu Man Raymond",
+        "quota": "35",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
+        "period": [
+            "Tu 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2019-",
+        "class_nbr": "7101",
+        "course_title": "Design Thinking 創新設計思維方法",
+        "units": "1.00",
+        "staff": "- Miss HO Wing Chee Beatrice",
+        "quota": "50",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "LSK_514"
+        ],
+        "meeting_date": [
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2211A",
+        "class_nbr": "5771",
+        "course_title": "Social Service in action: P&R 社會服務實踐：參與及反思",
+        "units": "2.00",
+        "staff": "- Ms. KWAN Ting Yan",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C",
+        "period": [
+            "Mo 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2211B",
+        "class_nbr": "5772",
+        "course_title": "Social Service in action: P&R 社會服務實踐：參與及反思",
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Wan Ying",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "C",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2211C",
+        "class_nbr": "5769",
+        "course_title": "Social Service in action: P&R 社會服務實踐：參與及反思",
+        "units": "2.00",
+        "staff": "- Dr CHOY Bing Kong",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "CF01",
+        "language": "E",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2211D",
+        "class_nbr": "4739",
+        "course_title": "Social Service in action: P&R 社會服務實踐：參與及反思",
+        "units": "2.00",
+        "staff": "- Ms. KWAN Ting Yan",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "DF01",
+        "language": "C",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2212A",
+        "class_nbr": "7003",
+        "course_title": "Public Affairs in action: P&R 公共事務實踐: 參與及反思",
+        "units": "2.00",
+        "staff": "- Professor TAM Kam Lan Annie",
+        "quota": "50",
+        "vacancy": "13",
+        "mode": "FLD",
+        "section_code": "AF01",
+        "language": "C",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2212B",
+        "class_nbr": "7004",
+        "course_title": "Public Affairs in action: P&R 公共事務實踐: 參與及反思",
+        "units": "2.00",
+        "staff": "- Professor TAM Kam Lan Annie",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "BF01",
+        "language": "E",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2213-",
+        "class_nbr": "7005",
+        "course_title": "Social Innovation 社會創新：社會創業與服務",
+        "units": "2.00",
+        "staff": "- Miss CHAN Shuk Kwan",
+        "quota": "50",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC2214-",
+        "class_nbr": "7006",
+        "course_title": "Leadership in Practice 實踐領導才：服務",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "32",
+        "vacancy": "0",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "C",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011A",
+        "class_nbr": "7727",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LEUNG Tak Wah",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_110"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011AA",
+        "class_nbr": "7138",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YAO Zhihua",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "AAJ1",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_208"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011AB",
+        "class_nbr": "7139",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YEUNG Chun Yiu",
+        "quota": "24",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "ABJ1",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011AC",
+        "class_nbr": "7014",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Jingjing",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "ACJ1",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011B",
+        "class_nbr": "7255",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chun Ho",
+        "quota": "24",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_207"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011C",
+        "class_nbr": "5830",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CHAN Kai Fung",
+        "quota": "24",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011D",
+        "class_nbr": "7256",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CHEN Jun",
+        "quota": "24",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "DJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_507"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011E",
+        "class_nbr": "7257",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Yin Chu",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "EJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011F",
+        "class_nbr": "7015",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor CHOW Hei Man",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "FJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_703"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011G",
+        "class_nbr": "5828",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor GAO Xiangyu",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "GJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011H",
+        "class_nbr": "7258",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor Adam Jasper SMITH",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "HJ01",
+        "language": "E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_508"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011I",
+        "class_nbr": "5829",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. IP Tak Sang",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "IJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_409"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011J",
+        "class_nbr": "7770",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. JIANG Yuli",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "JJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011K",
+        "class_nbr": "7259",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. KWAN Cheuk Kin",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "KJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011L",
+        "class_nbr": "7017",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. LI Chun Che",
+        "quota": "24",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "LJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_713"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011M",
+        "class_nbr": "5831",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor LOK Tat Ming",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "MJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_402"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011N",
+        "class_nbr": "7771",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. MOK Tik Lun",
+        "quota": "24",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "NJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "HYS_G01"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011O",
+        "class_nbr": "7260",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor SHAO Baihao",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "OJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011P",
+        "class_nbr": "7497",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor SHEN Jianfa",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "PJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011Q",
+        "class_nbr": "7261",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor SHI Weilei",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "QJ01",
+        "language": "P#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_501"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011R",
+        "class_nbr": "7016",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Ms. NG I Ling- Professor TAM Wai Lun",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "RJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_208"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011S",
+        "class_nbr": "5832",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor TANG Wing Ki",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "SJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "FYB_603"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011T",
+        "class_nbr": "7262",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor TO Kin Wah",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "TJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011U",
+        "class_nbr": "7263",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor TONG Man",
+        "quota": "24",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "UJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_306"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011V",
+        "class_nbr": "7264",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Dr. WONG Tat Wing",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "VJ01",
+        "language": "C",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_702"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011W",
+        "class_nbr": "4740",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor WU Xixin",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "WJ01",
+        "language": "C",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011X",
+        "class_nbr": "4741",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor XUE Haoran",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "XJ01",
+        "language": "P#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_404"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011Y",
+        "class_nbr": "7265",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor XUE Ying",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "YJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4011Z",
+        "class_nbr": "7018",
+        "course_title": "Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Professor YANG Tian",
+        "quota": "24",
+        "vacancy": "4",
+        "mode": "PRJ",
+        "section_code": "ZJ01",
+        "language": "C#E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GEUC4012-",
+        "class_nbr": "4742",
+        "course_title": "Social Enterprise & Innovation 社會企業與創新：實習",
+        "units": "3.00",
+        "staff": "- Dr. TSE Sze Hei",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C",
+        "period": [
+            "Fr 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "YIA_405"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "class_code": "CHED3160-",
+        "class_nbr": "5704",
+        "course_title": "Children’s Play in ECE 幼兒教育中的兒童遊戲",
+        "units": "3.00",
+        "staff": "- Miss AU Wai Yin",
+        "quota": "30",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_510"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4150-",
+        "class_nbr": "7136",
+        "course_title": "Children’s Literature 兒童文學",
+        "units": "2.00",
+        "staff": "- Miss SIN Long Yee Stephanie Donna",
+        "quota": "28",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_618"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4210-",
+        "class_nbr": "9222",
+        "course_title": "Leadership & Management in EC 幼兒教育場景的領導與管理",
+        "units": "3.00",
+        "staff": "- Dr. KOO Wai Sze",
+        "quota": "55",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CKB_UG05"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4310-",
+        "class_nbr": "8354",
+        "course_title": "Aes Exp & Creative Expre in EC 幼兒的美感經驗與創造性表現",
+        "units": "3.00",
+        "staff": "- Miss AU Wai Yin",
+        "quota": "45",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4330-",
+        "class_nbr": "8355",
+        "course_title": "Personal Growth of Teachers 教師個人成長",
+        "units": "2.00",
+        "staff": "- Ms. TANG Elizabeth",
+        "quota": "28",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 08:30AM - 11:15AM",
+            "Th 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "HTB_G6"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4340-",
+        "class_nbr": "8356",
+        "course_title": "Support Preschool Child w SEN 支援學前有特殊教育需要的兒童",
+        "units": "3.00",
+        "staff": "- Ms. CHENG Wan Yee",
+        "quota": "55",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_403"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4360-",
+        "class_nbr": "5452",
+        "course_title": "Advanced Study of EC Develop 幼兒發展進深課程",
+        "units": "3.00",
+        "staff": "- Dr. LAU Cin Yee Cindy",
+        "quota": "30",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_603"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4410-",
+        "class_nbr": "8474",
+        "course_title": "Fundamental Move Skill & Rhyth 幼兒基礎活動和節奏律動",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Hoi Sze Cecilia",
+        "quota": "45",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "HTB_B5"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4510-",
+        "class_nbr": "9683",
+        "course_title": "Values Education in ECE 幼兒教育中的價值教育",
+        "units": "2.00",
+        "staff": "- Dr. WONG Ping Man",
+        "quota": "50",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_406"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4520-",
+        "class_nbr": "8357",
+        "course_title": "Guided Study in Issues of Chil 兒童發展議題導讀",
+        "units": "3.00",
+        "staff": "- Dr. LAU Cin Yee Cindy",
+        "quota": "40",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G01",
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "CHED4530-",
+        "class_nbr": "8737",
+        "course_title": "Contemporary Issues in ECE 幼兒教育的當代議題及發展",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Ai Kei Annie",
+        "quota": "50",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_601A"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "class_code": "GERM1000G",
+        "class_nbr": "5983",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "GC01",
+        "language": "G&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1000H",
+        "class_nbr": "6065",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "HC01",
+        "language": "G&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_201"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1000I",
+        "class_nbr": "7075",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "IC01",
+        "language": "G&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CYT_201"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1000J",
+        "class_nbr": "5766",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "JC01",
+        "language": "G&amp;E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1000K",
+        "class_nbr": "7049",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "KC01",
+        "language": "G&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_506"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1000L",
+        "class_nbr": "8447",
+        "course_title": "German I 德語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "LC01",
+        "language": "G&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "LHC_G01"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM1001-",
+        "class_nbr": "6318",
+        "course_title": "First Step in German 德語入門",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "G&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM2000B",
+        "class_nbr": "5923",
+        "course_title": "German II 德語（二）",
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "G&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM2000C",
+        "class_nbr": "7084",
+        "course_title": "German II 德語（二）",
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "CC01",
+        "language": "G&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM2000D",
+        "class_nbr": "7048",
+        "course_title": "German II 德語（二）",
+        "units": "3.00",
+        "staff": "- Mr. Bernd ESCH",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "DC01",
+        "language": "G&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM2100-",
+        "class_nbr": "5363",
+        "course_title": "Exploring German Literature 德文文學探索",
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "G&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G03"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM3000A",
+        "class_nbr": "4963",
+        "course_title": "German IV 德語（四）",
+        "units": "3.00",
+        "staff": "- Ms. Annette Josefa Maria FROMEL",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "G&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_404"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "GERM3002A",
+        "class_nbr": "5642",
+        "course_title": "German VI 德語（六）",
+        "units": "3.00",
+        "staff": "- Mr. Alexander Markus KLING",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "G&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

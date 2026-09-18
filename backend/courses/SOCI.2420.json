@@ -1,0 +1,527 @@
+[
+    {
+        "class_code": "SOCI1001A",
+        "class_nbr": "8531",
+        "course_title": "Introduction to Sociology 社會學導論",
+        "units": "3.00",
+        "staff": "- Dr. LAU Siu Lun",
+        "quota": "120",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT4",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI1002A",
+        "class_nbr": "8314",
+        "course_title": "Approaching Sociology 社會學入門",
+        "units": "3.00",
+        "staff": "- Professor CHOI Yuk Ping",
+        "quota": "40",
+        "vacancy": "10",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI1002B",
+        "class_nbr": "8312",
+        "course_title": "Approaching Sociology 社會學入門",
+        "units": "3.00",
+        "staff": "- Professor HE Qian",
+        "quota": "40",
+        "vacancy": "10",
+        "mode": "SEM",
+        "section_code": "BS01",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI1002C",
+        "class_nbr": "5935",
+        "course_title": "Approaching Sociology 社會學入門",
+        "units": "3.00",
+        "staff": "- Professor ZHONG Hua",
+        "quota": "40",
+        "vacancy": "9",
+        "mode": "SEM",
+        "section_code": "CS01",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "SB_239"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI2003-",
+        "class_nbr": "5260",
+        "course_title": "Social Research Methods 社會研究法",
+        "units": "3.00",
+        "staff": "- Dr. LI Hang",
+        "quota": "80",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SB_LT2",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI2106-",
+        "class_nbr": "5237",
+        "course_title": "Eco Ref'm & Soc Impacts in Chi 中國的經濟改革與社會影響",
+        "units": "3.00",
+        "staff": "- Professor ZHU Ling",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_LT3",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI2208-",
+        "class_nbr": "5044",
+        "course_title": "Urban Sociology 都市社會學",
+        "units": "3.00",
+        "staff": "- Dr. LI Hang",
+        "quota": "80",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_LT4",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3002-",
+        "class_nbr": "8235",
+        "course_title": "Social Stratification 社會分層",
+        "units": "3.00",
+        "staff": "- Professor HE Qian",
+        "quota": "80",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_LT7",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3102-",
+        "class_nbr": "5246",
+        "course_title": "Soc Networks & Soc Capital 社會網絡與社會資本",
+        "units": "3.00",
+        "staff": "- Professor LEE Jaemin",
+        "quota": "60",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_C2",
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3208-",
+        "class_nbr": "7012",
+        "course_title": "Gender and Society 性別與社會",
+        "units": "3.00",
+        "staff": "- Professor CHOI Yuk Ping",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_109",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3223-",
+        "class_nbr": "5234",
+        "course_title": "Contemporary Soci Theory 當代社會學理論",
+        "units": "3.00",
+        "staff": "- Professor CHAN Hoi Man",
+        "quota": "80",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_LT3",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3238-",
+        "class_nbr": "7668",
+        "course_title": "Digital Sociology 數位社會學",
+        "units": "3.00",
+        "staff": "- Professor LEE Jaemin",
+        "quota": "60",
+        "vacancy": "42",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "CKB_109",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3240-",
+        "class_nbr": "5152",
+        "course_title": "Sociology of Science 科學社會學",
+        "units": "3.00",
+        "staff": "- Professor HAN Siqi",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_505",
+            "NRR"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3241-",
+        "class_nbr": "7450",
+        "course_title": "Intro. to Global Sociology 全球社會學導論",
+        "units": "3.00",
+        "staff": "- Professor SUN Jin",
+        "quota": "60",
+        "vacancy": "53",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI3242-",
+        "class_nbr": "5263",
+        "course_title": "Crime and Social Control 全球化下的罪案及社會控制",
+        "units": "3.00",
+        "staff": "- Professor NG Ka Sing David",
+        "quota": "80",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 11:30AM - 01:15PM",
+            "TBA"
+        ],
+        "room": [
+            "SB_LT2",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4010A",
+        "class_nbr": "9093",
+        "course_title": "Graduation Thesis I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor HAN Siqi",
+        "quota": "25",
+        "vacancy": "2",
+        "mode": "OTH",
+        "section_code": "AO01",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4010B",
+        "class_nbr": "8221",
+        "course_title": "Graduation Thesis I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor SHEN Wensong",
+        "quota": "25",
+        "vacancy": "5",
+        "mode": "OTH",
+        "section_code": "BO01",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_501"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4010C",
+        "class_nbr": "9094",
+        "course_title": "Graduation Thesis I 畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Professor TONG Yuying",
+        "quota": "25",
+        "vacancy": "3",
+        "mode": "OTH",
+        "section_code": "CO01",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4211-",
+        "class_nbr": "9564",
+        "course_title": "Sociology Internship 社會學實習",
+        "units": "3.00",
+        "staff": "- Dr. LEE King Wa",
+        "quota": "20",
+        "vacancy": "6",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_511"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4410A",
+        "class_nbr": "7998",
+        "course_title": "Directed Studies I 輔導研習（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "C",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "SOCI4420A",
+        "class_nbr": "7997",
+        "course_title": "Directed Studies II 輔導研習（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "C",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

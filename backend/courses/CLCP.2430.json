@@ -1,0 +1,1700 @@
+[
+    {
+        "class_code": "CLCP1000-",
+        "class_nbr": "5110",
+        "course_title": "Survival PTH for Int’l Student 生活中的普通話（以普通話/華語為第二語言者適用）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 06:30PM - 08:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_411",
+            "NRR"
+        ],
+        "meeting_date": [
+            "18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "17/01/2027 - 25/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1001-",
+        "class_nbr": "7951",
+        "course_title": "PTH Taster Course for Int'l St 國際生普通話先導學習科目",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "P&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1003A",
+        "class_nbr": "5125",
+        "course_title": "Intro to Mandarin Chinese 普通話入門",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1003B",
+        "class_nbr": "5126",
+        "course_title": "Intro to Mandarin Chinese 普通話入門",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_UG03"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1101-",
+        "class_nbr": "7842",
+        "course_title": "PTH Taster Course for Local St 本地學生普通話應用科目",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1113A",
+        "class_nbr": "5540",
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_404",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1113B",
+        "class_nbr": "9024",
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_404",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1113C",
+        "class_nbr": "9463",
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_605",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1113D",
+        "class_nbr": "9198",
+        "course_title": "Application of Voc & Gr I 詞彙與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1123A",
+        "class_nbr": "9368",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_404",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1123B",
+        "class_nbr": "9028",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_605",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1123C",
+        "class_nbr": "9608",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_605",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1123D",
+        "class_nbr": "5724",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_407",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1132-",
+        "class_nbr": "5513",
+        "course_title": "Preparation for HSK (Lv II) HSK（二級）進階科目",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1133A",
+        "class_nbr": "6069",
+        "course_title": "Comm in Context I 普通話能力訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_416",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1133B",
+        "class_nbr": "5953",
+        "course_title": "Comm in Context I 普通話能力訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_511",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1153A",
+        "class_nbr": "9207",
+        "course_title": "Basic Presentation Skills I 基本表達技巧訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_608",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP1153B",
+        "class_nbr": "8497",
+        "course_title": "Basic Presentation Skills I 基本表達技巧訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_410",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2213-",
+        "class_nbr": "9319",
+        "course_title": "Application of Voc & Gr II 詞匯與語法應用（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_503",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2223-",
+        "class_nbr": "8425",
+        "course_title": "Oral Skills Practice II 口語技能訓練（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_401",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2233-",
+        "class_nbr": "5524",
+        "course_title": "Comm in Context II 普通話能力訓練（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_409",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2253-",
+        "class_nbr": "5525",
+        "course_title": "Basic Presentation Skills II 基本表達技巧訓練（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_302",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703A",
+        "class_nbr": "8441",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_507",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703B",
+        "class_nbr": "9557",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_405",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703C",
+        "class_nbr": "9493",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_302",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703D",
+        "class_nbr": "5956",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_508",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703E",
+        "class_nbr": "9494",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_704",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703F",
+        "class_nbr": "5840",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "P",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_401",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703G",
+        "class_nbr": "8485",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_508",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703H",
+        "class_nbr": "5762",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "P",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_509",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703I",
+        "class_nbr": "8442",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "P",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_507",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703J",
+        "class_nbr": "5763",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "J",
+        "language": "P",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_506",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703K",
+        "class_nbr": "6114",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "K",
+        "language": "P",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_504",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703L",
+        "class_nbr": "8478",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "L",
+        "language": "P",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_407",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703M",
+        "class_nbr": "5864",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "M",
+        "language": "P",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_409",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703N",
+        "class_nbr": "5865",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "N",
+        "language": "P",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_511",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703O",
+        "class_nbr": "5710",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "O",
+        "language": "P",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_509",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703P",
+        "class_nbr": "7125",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "P",
+        "language": "P",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_201",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703Q",
+        "class_nbr": "5859",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "Q",
+        "language": "P",
+        "period": [
+            "Th 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_407",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2703R",
+        "class_nbr": "5860",
+        "course_title": "Intermediate Putonghua 中級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "R",
+        "language": "P",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_302",
+            "NRR"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP2843-",
+        "class_nbr": "8498",
+        "course_title": "Comprehensive Putonghua I 普通話綜合訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_401"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3323-",
+        "class_nbr": "8499",
+        "course_title": "Oral Skills Practice III 口語技能訓練（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_608"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3333-",
+        "class_nbr": "5353",
+        "course_title": "Comm in Context III 普通話能力訓練（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CYT_214"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3343-",
+        "class_nbr": "5337",
+        "course_title": "L & R Com Sks III - Bus Tps 聽力及閱讀理解訓練（三） – 商務專題",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_501"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3353-",
+        "class_nbr": "5912",
+        "course_title": "Presentation Skills & Dai Sit 表達技巧訓練",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3702A",
+        "class_nbr": "5827",
+        "course_title": "Learning PTH thru Movies 看電影學普通話",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "CKB_706B"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3702B",
+        "class_nbr": "6077",
+        "course_title": "Learning PTH thru Movies 看電影學普通話",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3702C",
+        "class_nbr": "5526",
+        "course_title": "Learning PTH thru Movies 看電影學普通話",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P",
+        "period": [
+            "Th 12:30PM - 02:15PM"
+        ],
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3703A",
+        "class_nbr": "9505",
+        "course_title": "Advanced Putonghua 高級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_511",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3703B",
+        "class_nbr": "8966",
+        "course_title": "Advanced Putonghua 高級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_402",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3703C",
+        "class_nbr": "7408",
+        "course_title": "Advanced Putonghua 高級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "P",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_408",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3703D",
+        "class_nbr": "6152",
+        "course_title": "Advanced Putonghua 高級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "P",
+        "period": [
+            "We 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_410",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP3703E",
+        "class_nbr": "8461",
+        "course_title": "Advanced Putonghua 高級普通話",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "E",
+        "language": "P",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_404",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4423-",
+        "class_nbr": "5862",
+        "course_title": "Essay Writing & Presentn Skill 寫作及表達技巧訓練",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_502"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4463-",
+        "class_nbr": "7091",
+        "course_title": "Special Topics I 特別論題（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4513-",
+        "class_nbr": "5725",
+        "course_title": "News & Presentation Skills II 新聞及專題討論訓練（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4702-",
+        "class_nbr": "8430",
+        "course_title": "Learning PTH thru Travelling 說著普通話去旅行",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_503"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4713-",
+        "class_nbr": "5338",
+        "course_title": "Current Affairs and Discussion 時事報告與討論",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_302",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4763-",
+        "class_nbr": "6153",
+        "course_title": "Special Topics in PTH (Bus) 普通話專題科（商貿）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_410",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4773-",
+        "class_nbr": "6984",
+        "course_title": "Putonghua Speech Training 普通話口才訓練（表達技巧及備考科）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_401"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4793A",
+        "class_nbr": "6003",
+        "course_title": "Special Topics in PTH (Med) 普通話專題科（醫學）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "P",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_406",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "CLCP4793B",
+        "class_nbr": "5527",
+        "course_title": "Special Topics in PTH (Med) 普通話專題科（醫學）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "P",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_407",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

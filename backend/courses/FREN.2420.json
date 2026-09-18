@@ -1,0 +1,403 @@
+[
+    {
+        "class_code": "FREN1000A",
+        "class_nbr": "7474",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Ms. Marie-helene Christiane F. MOULLOT",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "F&amp;E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000B",
+        "class_nbr": "4817",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "28",
+        "vacancy": "6",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "F&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_306"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000D",
+        "class_nbr": "5856",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "DC01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000E",
+        "class_nbr": "4820",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Edouard Pierre MAIRE",
+        "quota": "28",
+        "vacancy": "7",
+        "mode": "CLW",
+        "section_code": "EC01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000F",
+        "class_nbr": "4821",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "FC01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000G",
+        "class_nbr": "4823",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "GC01",
+        "language": "F&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_408"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000H",
+        "class_nbr": "4824",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "HC01",
+        "language": "F&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_406"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000I",
+        "class_nbr": "8313",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "IC01",
+        "language": "F&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000J",
+        "class_nbr": "9335",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "28",
+        "vacancy": "1",
+        "mode": "CLW",
+        "section_code": "JC01",
+        "language": "F&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_411"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000K",
+        "class_nbr": "7342",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Mr. Edouard Pierre MAIRE",
+        "quota": "28",
+        "vacancy": "13",
+        "mode": "CLW",
+        "section_code": "KC01",
+        "language": "F&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_407"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1000L",
+        "class_nbr": "5136",
+        "course_title": "French I 法語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Tarik MESLI",
+        "quota": "28",
+        "vacancy": "18",
+        "mode": "CLW",
+        "section_code": "LC01",
+        "language": "F&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN1100-",
+        "class_nbr": "5284",
+        "course_title": "Made in France 法國製造",
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "28",
+        "vacancy": "2",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "F&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "HYS_G06"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN2000A",
+        "class_nbr": "4825",
+        "course_title": "French II 法語（二）",
+        "units": "3.00",
+        "staff": "- Mr. Louis Jean MUNSCH",
+        "quota": "28",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN2001A",
+        "class_nbr": "4826",
+        "course_title": "French III 法語（三）",
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "28",
+        "vacancy": "7",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "F&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_204"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN2001B",
+        "class_nbr": "4829",
+        "course_title": "French III 法語（三）",
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "28",
+        "vacancy": "3",
+        "mode": "CLW",
+        "section_code": "BC01",
+        "language": "F&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN2020-",
+        "class_nbr": "7475",
+        "course_title": "Sounds of French 法語語音入門",
+        "units": "3.00",
+        "staff": "- Mr Raphael Ange Francois A. CHIARELLI",
+        "quota": "25",
+        "vacancy": "0",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "LSK_201",
+            "LSK_410"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "FREN3001A",
+        "class_nbr": "9127",
+        "course_title": "French V 法語（五）",
+        "units": "3.00",
+        "staff": "- Mr. Benjamin Malcom Thomas GAUDET",
+        "quota": "28",
+        "vacancy": "8",
+        "mode": "CLW",
+        "section_code": "AC01",
+        "language": "F&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_106"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

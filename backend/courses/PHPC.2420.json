@@ -1,0 +1,448 @@
+[
+    {
+        "class_code": "PHPC1001-",
+        "class_nbr": "6996",
+        "course_title": "Foundations in Public Health 公共衞生學基礎",
+        "units": "2.00",
+        "staff": "- Professor CHUNG Roger Yat Nork",
+        "quota": "183",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "YIA_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC1010-",
+        "class_nbr": "8532",
+        "course_title": "Anat & Physio: Body Functions 人體解剖學與生理學︰人體基本功能",
+        "units": "3.00",
+        "staff": "- Dr. MAN Lai Kwan",
+        "quota": "45",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_505"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC1019-",
+        "class_nbr": "8630",
+        "course_title": "Induction Programme I 先導計劃（一）",
+        "units": "1.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC1022-",
+        "class_nbr": "7008",
+        "course_title": "Lifestyle, Behav and Health 生活模式及行為與健康",
+        "units": "2.00",
+        "staff": "- Professor YEUNG Chun Yiu",
+        "quota": "60",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_404"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2005-",
+        "class_nbr": "7057",
+        "course_title": "Introduction to Biostatistics 生物統計學基礎",
+        "units": "2.00",
+        "staff": "- Professor YIP Hon Kei",
+        "quota": "66",
+        "vacancy": "14",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_301"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2007-",
+        "class_nbr": "7489",
+        "course_title": "Nutrition for Health and Ex 營養學於健康促進及運動之應用",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_407"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2009-",
+        "class_nbr": "5669",
+        "course_title": "Environment and Work 環境衞生及職業衞生",
+        "units": "3.00",
+        "staff": "- Professor CHUNG Ming Kei",
+        "quota": "50",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSB_LT5"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2010-",
+        "class_nbr": "7039",
+        "course_title": "Health Care System & Policy 醫療系統及政策",
+        "units": "3.00",
+        "staff": "- Professor WANG Kailu- Professor WONG Lai Yi",
+        "quota": "40",
+        "vacancy": "3",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_507"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2015-",
+        "class_nbr": "7149",
+        "course_title": "Biostatistics 生物統計學",
+        "units": "3.00",
+        "staff": "- Professor KWOK Kin On",
+        "quota": "50",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "HCA_103"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2016-",
+        "class_nbr": "5624",
+        "course_title": "Theories of Health Behaviours 健康行為理論基礎",
+        "units": "3.00",
+        "staff": "- Professor WANG Zixin",
+        "quota": "107",
+        "vacancy": "23",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_LT6"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC2017-",
+        "class_nbr": "8269",
+        "course_title": "Epidemiology 流行病學",
+        "units": "3.00",
+        "staff": "- Professor YANG Zuyao",
+        "quota": "128",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC3027-",
+        "class_nbr": "7272",
+        "course_title": "Qualitative Research 定性研究",
+        "units": "3.00",
+        "staff": "- Professor DONG Dong",
+        "quota": "40",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "SC_L2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4000A",
+        "class_nbr": "5117",
+        "course_title": "Professionalism and Ethics 專業操守與倫理",
+        "units": "0.00",
+        "staff": "- Dr. YUNG Ka Chun- Professor WONG Lai Yi",
+        "quota": "40",
+        "vacancy": "2",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4000B",
+        "class_nbr": "5118",
+        "course_title": "Professionalism and Ethics 專業操守與倫理",
+        "units": "0.00",
+        "staff": "- Dr. MUI Wai Ho- Professor MO Phoenix Kit Han",
+        "quota": "33",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4000C",
+        "class_nbr": "5119",
+        "course_title": "Professionalism and Ethics 專業操守與倫理",
+        "units": "0.00",
+        "staff": "- Dr. WANG Jingxuan- Professor YU Ho Yan",
+        "quota": "33",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4033-",
+        "class_nbr": "5806",
+        "course_title": "Medical Sociology 醫學社會學",
+        "units": "3.00",
+        "staff": "- Dr. WANG Jingxuan",
+        "quota": "45",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "ERB_703"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4913-",
+        "class_nbr": "8702",
+        "course_title": "Primary PH Research III 公共衞生基礎研究（三）",
+        "units": "4.00",
+        "staff": "- Professor CHONG Ka Chun- Professor WONG Lai Yi",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4922-",
+        "class_nbr": "8701",
+        "course_title": "PH Data Synthesis Research II 公共衞生數據整合研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHONG Ka Chun- Professor WONG Lai Yi",
+        "quota": "20",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHPC4930-",
+        "class_nbr": "6394",
+        "course_title": "Public Health Practicum 公共衞生實習",
+        "units": "2.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "40",
+        "vacancy": "6",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

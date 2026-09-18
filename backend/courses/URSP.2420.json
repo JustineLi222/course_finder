@@ -1,0 +1,361 @@
+[
+    {
+        "class_code": "URSP1001-",
+        "class_nbr": "5473",
+        "course_title": "Introduction to Urban Studies 城巿研究導論",
+        "units": "3.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "110",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Tu 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT6",
+            "WMY_508",
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2001-",
+        "class_nbr": "6484",
+        "course_title": "Field Studies 實地考察",
+        "units": "2.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "35",
+        "vacancy": "9",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2040-",
+        "class_nbr": "9740",
+        "course_title": "Real Estate &Construction Econ 房地產和建築經濟學",
+        "units": "3.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "30",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2060-",
+        "class_nbr": "5353",
+        "course_title": "Understand City Thr Field Trip 城市遊方",
+        "units": "3.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ELB_308",
+            "NRR"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2100-",
+        "class_nbr": "5990",
+        "course_title": "Urban Sustainability 城市可持續發展",
+        "units": "3.00",
+        "staff": "- Professor MO Kar Him",
+        "quota": "45",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2300-",
+        "class_nbr": "6985",
+        "course_title": "Urban Design and Place Making 城巿設計及地方營造工作室",
+        "units": "3.00",
+        "staff": "- Professor Hendrik TIEBEN",
+        "quota": "30",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_303",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2400-",
+        "class_nbr": "9160",
+        "course_title": "Studies of Cities 城巿比較研究",
+        "units": "3.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "50",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2700-",
+        "class_nbr": "8871",
+        "course_title": "Urban Visualisation Studio 城市視覺化工作室",
+        "units": "3.00",
+        "staff": "- Professor MO Kar Him",
+        "quota": "35",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM",
+            "Th 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "CKB_222"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP2800-",
+        "class_nbr": "4787",
+        "course_title": "UrbFormSenseofPlace&Well-being 城市面貌，地方感和身心社靈健康",
+        "units": "3.00",
+        "staff": "- Dr. HOU Ying-Chun- Professor Hendrik TIEBEN",
+        "quota": "45",
+        "vacancy": "4",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP3400-",
+        "class_nbr": "4750",
+        "course_title": "Essentials of Land Dev Process 土地發展過程綱要",
+        "units": "3.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "45",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP3600-",
+        "class_nbr": "4789",
+        "course_title": "Designing Smart Cities 設計智慧城市",
+        "units": "3.00",
+        "staff": "- Professor LAM Tat",
+        "quota": "35",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 11:15AM",
+            "Mo 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ARC_G04"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP4001-",
+        "class_nbr": "6575",
+        "course_title": "Capstone Thesis I 城市研究畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Dr. LI Jing- Dr. WONG Yu Hin Sampson- Professor CHUNG King Lam Calvin- Professor MO Kar Him",
+        "quota": "20",
+        "vacancy": "0",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP4003-",
+        "class_nbr": "6455",
+        "course_title": "Capstone Project I 城市研究畢業報告（一）",
+        "units": "3.00",
+        "staff": "- Professor Hendrik TIEBEN- Professor MO Kar Him",
+        "quota": "30",
+        "vacancy": "27",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "URSP4100-",
+        "class_nbr": "9525",
+        "course_title": "Urban Planning Theory&Practice 城市規劃理論與實踐",
+        "units": "3.00",
+        "staff": "- Professor CHUNG King Lam Calvin",
+        "quota": "45",
+        "vacancy": "21",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

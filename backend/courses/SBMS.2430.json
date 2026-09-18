@@ -1,0 +1,568 @@
+[
+    {
+        "class_code": "SBMS1102-",
+        "class_nbr": "5607",
+        "course_title": "Human Structure and Function 人體結構與功能",
+        "units": "3.00",
+        "staff": "- Dr. POON Hong Kit",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM",
+            "Th 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ARC_211",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS1432-",
+        "class_nbr": "8477",
+        "course_title": "Human Anatomy and Physiology 2 人類解剖學與生理學（二）",
+        "units": "2.00",
+        "staff": "- Dr. Robert George JESKY- Dr. WONG Pui Man Molly",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 01:15PM",
+            "Tu 01:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_103",
+            "LHC_104",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS1440-",
+        "class_nbr": "9506",
+        "course_title": "Cell and Molecular Biology 生物醫學工程的細胞與分子生物學",
+        "units": "2.00",
+        "staff": "- Dr. ZHOU Yuhuan",
+        "quota": "85",
+        "vacancy": "85",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "SC_L5"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS2104-",
+        "class_nbr": "4896",
+        "course_title": "Introduction to Bioethics 生命倫理學入門",
+        "units": "2.00",
+        "staff": "- Dr. KEE Francis- Dr. WAI Sen Mun",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_505",
+            "TBA"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS2105-",
+        "class_nbr": "8547",
+        "course_title": "Laboratory Techniques in Biome 生物醫學實驗技術",
+        "units": "3.00",
+        "staff": "- Dr. TANG Mei Kuen",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 11:15AM",
+            "Th 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS2106-",
+        "class_nbr": "9272",
+        "course_title": "Pharmacology and Toxicology 藥理學與毒理學",
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA",
+        "quota": "47",
+        "vacancy": "47",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "Th 09:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_401",
+            "ERB_804",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS2108-",
+        "class_nbr": "9370",
+        "course_title": "Human Functions and Diseases 2 人體功能與疾病(二)",
+        "units": "3.00",
+        "staff": "- Dr. HWANG Shui Shan Isabel- Professor CHAN Hon Fai",
+        "quota": "42",
+        "vacancy": "42",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "ERB_703",
+            "MMW_705",
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3105-",
+        "class_nbr": "8862",
+        "course_title": "Microbiology 微生物學",
+        "units": "2.00",
+        "staff": "- Dr. Shivani Salil SHINDE- Professor FENG Bo",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "IBSB_G02"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3202-",
+        "class_nbr": "7484",
+        "course_title": "Cancer Biology 癌症生物學",
+        "units": "3.00",
+        "staff": "- Professor CHAN Leung Franky",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LHC_G06",
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3204-",
+        "class_nbr": "8686",
+        "course_title": "Neuroscience 神經科學",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chi Kwan Vincent- Professor IP Pak Kan",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 09:30AM - 10:15AM",
+            "Fr 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "IBSB_G02",
+            "IBSB_G01",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3205-",
+        "class_nbr": "9311",
+        "course_title": "Stem Cell and Regenerative Me 幹細胞與再生醫學",
+        "units": "3.00",
+        "staff": "- Professor JIANG Xiaohua",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "We 09:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_715",
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3206-",
+        "class_nbr": "5382",
+        "course_title": "Cardiovascular & Metabolic Bio 心血管與代謝生物學",
+        "units": "3.00",
+        "staff": "- Dr. KEE Francis",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_715",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3209-",
+        "class_nbr": "8628",
+        "course_title": "Clinical Anatomical Pathology 臨床解剖病理學",
+        "units": "3.00",
+        "staff": "- Professor TSANG Chi Man",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 01:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3210-",
+        "class_nbr": "8687",
+        "course_title": "Instrumental Analysis and Appl 儀器分析與應用",
+        "units": "2.00",
+        "staff": "- Professor WAN Chao",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "IBSB_G02",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3211-",
+        "class_nbr": "9051",
+        "course_title": "Molecular Techniques in Geneti 遺傳學與醫學分子技術",
+        "units": "3.00",
+        "staff": "- Professor GU Shen",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_704",
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS3213-",
+        "class_nbr": "9499",
+        "course_title": "Drug Design and Development 藥物設計與開發",
+        "units": "3.00",
+        "staff": "- Dr. Julia MACEDO ROSA",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_706",
+            "TBA"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS4202-",
+        "class_nbr": "7948",
+        "course_title": "Capstone Research Project II 總結性科研項目(二)",
+        "units": "3.00",
+        "staff": "- Professor IP Pak Kan- Professor ZHAO Hui",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS4204-",
+        "class_nbr": "6648",
+        "course_title": "Biomedical Internship II 生物醫學實習(二)",
+        "units": "1.00",
+        "staff": "- Dr. YEUNG Hang Mee",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "SBMS4205-",
+        "class_nbr": "7881",
+        "course_title": "Biomedical Internship III 生物醫學實習 (三)",
+        "units": "1.00",
+        "staff": "- Dr. YEUNG Hang Mee",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

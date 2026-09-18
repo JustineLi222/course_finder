@@ -14,6 +14,14 @@
     // know what is running right now, so this defaults to OFF and only the checkbox
     // turns it into a filter.
     let nearMeOnly = false;
+    // The catalogue carries every term, so the user picks which one to look at.
+    // Defaults to whichever term actually has a class meeting right now.
+    let catalogue = [];          // every class, all terms, as fetched
+    let availableTerms = [];     // [{ code, label, count }]
+    let selectedTerm = "";
+    let nowDate = new Date();
+    $: selectedTermLabel =
+        (availableTerms.find((t) => t.code === selectedTerm) || {}).label || "";
     // Live clock, so it is obvious which time slot the list is showing.
     let nowLabel = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
     setInterval(() => {
@@ -26,6 +34,34 @@
 
     // Calculate slider percentage for dynamic background
     $: sliderPercent = ((distanceRange - 100) / (5000 - 100)) * 100;
+
+    /** Recompute "in session" for the currently selected term. */
+    function applyTerm() {
+        const live = [];
+        for (const c of catalogue) {
+            if (selectedTerm && c.term !== selectedTerm) continue;
+            const hit = inSession(c, nowDate);
+            if (!hit) continue;
+            live.push({
+                title: c.course_title,
+                "course code": c.class_code,
+                course_code: c.class_code,
+                timeslot: hit.timeslot,
+                location: (c.room || [])[0],
+                professor: c.staff,
+                quota: c.quota,
+                mode: c.mode,
+                units: c.units,
+            });
+        }
+        allCourses = live;
+        filteredCourses = live;
+        return live;
+    }
+
+    function handleTermChange() {
+        applyTerm();
+    }
 
     async function getCourses() {
         // The deployment is static, so the whole catalogue is loaded from a sibling
@@ -41,31 +77,41 @@
             loaded = true;
             return [];
         }
+        nowDate = now;
 
         try {
             const res = await fetch("courses.json", { cache: "no-cache" });
             if (!res.ok) throw new Error(`courses.json responded ${res.status}`);
-            const catalogue = await res.json();
+            catalogue = await res.json();
 
-            const live = [];
+            const seen = new Map();
             for (const c of catalogue) {
-                const hit = inSession(c, now);
-                if (!hit) continue;
-                live.push({
-                    title: c.course_title,
-                    "course code": c.class_code,
-                    course_code: c.class_code,
-                    timeslot: hit.timeslot,
-                    location: (c.room || [])[0],
-                    professor: c.staff,
-                    quota: c.quota,
-                    mode: c.mode,
-                    units: c.units,
-                });
+                if (!c.term) continue;
+                if (!seen.has(c.term)) {
+                    seen.set(c.term, {
+                        code: c.term,
+                        label: c.term_label || c.term,
+                        count: 0,
+                    });
+                }
+                seen.get(c.term).count += 1;
             }
-            allCourses = live;
-            filteredCourses = live;
-            return live;
+            availableTerms = [...seen.values()].sort((a, b) =>
+                String(a.code).localeCompare(String(b.code)),
+            );
+
+            // Prefer a term that actually has something on right now, so the page is
+            // never empty for no visible reason; otherwise fall back to the first term.
+            const withLive = availableTerms.find((t) =>
+                catalogue.some((c) => c.term === t.code && inSession(c, now)),
+            );
+            selectedTerm = withLive
+                ? withLive.code
+                : availableTerms.length
+                  ? availableTerms[0].code
+                  : "";
+
+            return applyTerm();
         } catch (err) {
             loadError = err && err.message ? err.message : String(err);
             allCourses = [];
@@ -196,7 +242,9 @@
     <!-- Header Section -->
     <div class="header">
         <h1 class="title">Course Finder</h1>
-        <p class="subtitle">Courses in session right now · {nowLabel}</p>
+        <p class="subtitle">
+            {selectedTermLabel ? `${selectedTermLabel} · ` : ""}in session at {nowLabel}
+        </p>
     </div>
 
     <!-- Search Section -->
@@ -205,6 +253,21 @@
 
         <!-- Controls Container -->
         <div class="controls-container">
+            <!-- Term Control -->
+            <div class="term-control">
+                <label for="term-select" class="control-label">Term</label>
+                <select
+                    id="term-select"
+                    class="term-select"
+                    bind:value={selectedTerm}
+                    on:change={handleTermChange}
+                >
+                    {#each availableTerms as t (t.code)}
+                        <option value={t.code}>{t.label}</option>
+                    {/each}
+                </select>
+            </div>
+
             <!-- Distance Range Control -->
             <div class="distance-control">
                 <div class="control-header">
@@ -326,14 +389,14 @@
                 <div class="empty-state">
                     <div class="empty-icon">{loadError ? "⚠️" : "🔍"}</div>
                     {#if loadError}
-                        <h3>Couldn't reach the API</h3>
-                        <p>
-                            {loadError} — is the backend running on port 3001?
-                        </p>
+                        <h3>Couldn't load the timetable</h3>
+                        <p>{loadError}</p>
                     {:else if allCourses.length === 0}
-                        <h3>No courses in session</h3>
+                        <h3>Nothing on right now in {selectedTermLabel || "this term"}</h3>
                         <p>
-                            Nothing in the timetable matches the current date and time.
+                            No class in this term meets on
+                            {nowDate.getDate()}/{nowDate.getMonth() + 1} at {nowLabel}.
+                            Try another term above, or jump to a date with ?at=.
                         </p>
                     {:else}
                         <h3>No courses found</h3>
@@ -517,6 +580,28 @@
         font-size: 0.75rem;
         color: #6b7280;
         margin-bottom: 1rem;
+    }
+
+    /* Term picker - the catalogue holds more than one term. */
+    .term-control {
+        margin-bottom: 1.25rem;
+    }
+
+    .term-select {
+        width: 100%;
+        padding: 0.55rem 0.75rem;
+        font-size: 0.95rem;
+        color: #111827;
+        background: #fff;
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    .term-select:focus {
+        outline: none;
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
     }
 
     /* Distance is opt-in, so the slider is inert until the box is ticked. */

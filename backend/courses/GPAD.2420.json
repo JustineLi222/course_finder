@@ -1,0 +1,439 @@
+[
+    {
+        "class_code": "GPAD1000-",
+        "class_nbr": "6682",
+        "course_title": "Learning GPA 認識政政",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "30",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD1015-",
+        "class_nbr": "8547",
+        "course_title": "Politics and Mass Media 政治與大眾傳媒",
+        "units": "3.00",
+        "staff": "- Dr. KWAN Chung Yin",
+        "quota": "55",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD1020B",
+        "class_nbr": "6684",
+        "course_title": "Fundamentals of Government 政治學初基",
+        "units": "3.00",
+        "staff": "- Dr. LI Ho Fai",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSB_C2"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD1050B",
+        "class_nbr": "5264",
+        "course_title": "Government of Hong Kong 香港政府",
+        "units": "3.00",
+        "staff": "- Dr. LI Ho Fai",
+        "quota": "70",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C1"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD2020-",
+        "class_nbr": "6686",
+        "course_title": "Politics of Culture 文化政治學",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "50",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD2130-",
+        "class_nbr": "9707",
+        "course_title": "Intro Comparative Politics 比較政治入門",
+        "units": "3.00",
+        "staff": "- Dr. LI Qin",
+        "quota": "84",
+        "vacancy": "37",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD2345-",
+        "class_nbr": "5758",
+        "course_title": "International Politics 國際政治",
+        "units": "3.00",
+        "staff": "- Professor WONG Seanon Si Lon",
+        "quota": "70",
+        "vacancy": "1",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT3"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD2370-",
+        "class_nbr": "6688",
+        "course_title": "Taiwan Studies 台灣研究",
+        "units": "3.00",
+        "staff": "- Dr. KWAN Chung Yin",
+        "quota": "60",
+        "vacancy": "7",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 11:30AM - 01:15PM",
+            "Th 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_C5",
+            "NAH_12",
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10",
+            "12/11, 19/11, 26/11",
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10",
+            "12/11, 19/11, 26/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD3070-",
+        "class_nbr": "7162",
+        "course_title": "Contem Pol Philosophy 當代政治哲學",
+        "units": "3.00",
+        "staff": "- Professor CHOW Po Chung",
+        "quota": "60",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "Mo 12:30PM - 02:15PM",
+            "Th 01:30PM - 03:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C4",
+            "UCC_102",
+            "UCC_105",
+            "LSK_410"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD3160-",
+        "class_nbr": "7163",
+        "course_title": "Governance of European Union 歐盟管治",
+        "units": "3.00",
+        "staff": "- Professor James Floyd DOWNES",
+        "quota": "40",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4077-",
+        "class_nbr": "9469",
+        "course_title": "Seminar in Political Theory 政治理論研討",
+        "units": "3.00",
+        "staff": "- Professor William James Clark SMITH",
+        "quota": "35",
+        "vacancy": "9",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_114"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4335-",
+        "class_nbr": "7164",
+        "course_title": "Modern Chinese Pol Thought 現代中國政治思潮",
+        "units": "3.00",
+        "staff": "- Professor CHOW Po Chung",
+        "quota": "30",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4601-",
+        "class_nbr": "6222",
+        "course_title": "Independent Studies I 自學研習（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "18",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4602-",
+        "class_nbr": "8069",
+        "course_title": "Independent Studies II 自學研習（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4701-",
+        "class_nbr": "6529",
+        "course_title": "Graduation Thesis I 畢業論文（一）",
+        "units": "0.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "18",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4702-",
+        "class_nbr": "6025",
+        "course_title": "Graduation Thesis II 畢業論文（二）",
+        "units": "6.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E&amp;P",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4801-",
+        "class_nbr": "6566",
+        "course_title": "Professional Practicum I 專業實習（一）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chee Hon",
+        "quota": "30",
+        "vacancy": "9",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "GPAD4802-",
+        "class_nbr": "5106",
+        "course_title": "Professional Practicum II 專業實習（二）",
+        "units": "3.00",
+        "staff": "- Professor CHAN Chee Hon",
+        "quota": "30",
+        "vacancy": "28",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C#E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]

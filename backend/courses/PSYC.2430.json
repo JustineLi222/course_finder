@@ -1,0 +1,608 @@
+[
+    {
+        "class_code": "PSYC1000C",
+        "class_nbr": "6068",
+        "course_title": "General Psychology 心理學概論",
+        "units": "3.00",
+        "staff": "- Professor ZHAO Jingjing",
+        "quota": "400",
+        "vacancy": "400",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT6"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC1020B",
+        "class_nbr": "6449",
+        "course_title": "Positive Psy in Everyday 正向心理學的生活應用",
+        "units": "1.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "WBL",
+        "section_code": "BX01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC1030-",
+        "class_nbr": "5514",
+        "course_title": "Psychology of Personal Growth 個人成長心理學",
+        "units": "3.00",
+        "staff": "- Dr. XU Xingya",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_401",
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2010-",
+        "class_nbr": "8489",
+        "course_title": "Introduction to Statistics 統計學概論",
+        "units": "3.00",
+        "staff": "- Professor INOUE Tomohiro",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2050-",
+        "class_nbr": "7529",
+        "course_title": "Psychological Testing 心理測驗",
+        "units": "3.00",
+        "staff": "- Dr. XU Xingya",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 08:30AM - 10:15AM",
+            "We 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "SB_LT2"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2190-",
+        "class_nbr": "7532",
+        "course_title": "Physiological Psychology 生理心理學",
+        "units": "3.00",
+        "staff": "- Professor LIU Xiaonan",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "Mo 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_LT4",
+            "WMY_502",
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2300-",
+        "class_nbr": "7045",
+        "course_title": "Basic Learning Processes 基本學習歷程",
+        "units": "3.00",
+        "staff": "- Dr. GONG Xianmin",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_LT1",
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2540-",
+        "class_nbr": "7538",
+        "course_title": "Developmental Psychology 人類發展心理學",
+        "units": "3.00",
+        "staff": "- Professor INOUE Tomohiro",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Fr 08:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
+        ],
+        "room": [
+            "ELB_LT4"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC2650-",
+        "class_nbr": "5820",
+        "course_title": "Personality Psychology 性格心理學",
+        "units": "3.00",
+        "staff": "- Dr. GONG Xianmin",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 08:30AM - 10:15AM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LKC_LT1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3003-",
+        "class_nbr": "5419",
+        "course_title": "Spec Topics Soc & Ind-Org Psy 社會、工業及組織心理學研讀專題",
+        "units": "3.00",
+        "staff": "- Professor HUI Chin Ming",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_205"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3440-",
+        "class_nbr": "5421",
+        "course_title": "Psychology of Music 音樂心理學",
+        "units": "3.00",
+        "staff": "- Professor TENG Xiangbin",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Tu 01:30PM - 02:15PM"
+        ],
+        "room": [
+            "ELB_LT4",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3640-",
+        "class_nbr": "5434",
+        "course_title": "Psychology of Gender 性別心理學",
+        "units": "3.00",
+        "staff": "- Dr. FOK Hung Kit",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "YIA_LT7",
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3700-",
+        "class_nbr": "5940",
+        "course_title": "Abnormal Psychology 異常心理學",
+        "units": "3.00",
+        "staff": "- Dr. GONG An Tong",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_LT4",
+            "CK_TSE"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3720-",
+        "class_nbr": "7540",
+        "course_title": "Health Psychology 健康心理學",
+        "units": "3.00",
+        "staff": "- Professor MA Pui Kwan",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_LT4"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3730-",
+        "class_nbr": "8305",
+        "course_title": "Professional Development 心理健康服務的專業發展與議題",
+        "units": "3.00",
+        "staff": "- Professor HO Yan Yee Fiona",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_LT4",
+            "CKB_UG04"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3770-",
+        "class_nbr": "8334",
+        "course_title": "Low-Intensity Interventions 常見心理健康問題的實證為本低強度心理治療",
+        "units": "3.00",
+        "staff": "- Professor CHIU Chui De",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_107A"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC3810-",
+        "class_nbr": "8336",
+        "course_title": "Applied Psychology in Business 商業應用心理學",
+        "units": "3.00",
+        "staff": "- Professor Julian PFROMBECK",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_LT1"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC4905-",
+        "class_nbr": "5785",
+        "course_title": "Research Practicum 研究實習",
+        "units": "3.00",
+        "staff": "- Professor HUI Chin Ming",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "YIA_509"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC4909-",
+        "class_nbr": "8338",
+        "course_title": "Psychology in Action II 心理學實踐（二）",
+        "units": "3.00",
+        "staff": "- Dr. FOK Hung Kit",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G02"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC4910-",
+        "class_nbr": "5024",
+        "course_title": "Senior Thesis Research I 論文研究（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Hoi Kei Gloria- Dr. FOK Hung Kit- Dr. GONG An Tong- Dr. GONG Xianmin- Dr. XU Xingya- Professor AU Wing Tung- Professor CHAN Sui Yin Agnes- Professor CHIU Chui De- Professor FUNG Hoi Lam Helene- Professor HO",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    },
+    {
+        "class_code": "PSYC4920-",
+        "class_nbr": "7748",
+        "course_title": "Senior Thesis Research II 論文研究（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHAN Hoi Kei Gloria- Dr. FOK Hung Kit- Dr. GONG An Tong- Dr. GONG Xianmin- Dr. XU Xingya- Professor AU Wing Tung- Professor CHAN Sui Yin Agnes- Professor CHIU Chui De- Professor FUNG Hoi Lam Helene- Professor HO",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "IND",
+        "section_code": "-I01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ],
+        "term": "2430",
+        "term_label": "2026-27 Term 2"
+    }
+]

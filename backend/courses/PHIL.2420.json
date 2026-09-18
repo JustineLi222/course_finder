@@ -1,0 +1,526 @@
+[
+    {
+        "class_code": "PHIL1110-",
+        "class_nbr": "7598",
+        "course_title": "Introduction to Philosophy 哲學概論",
+        "units": "3.00",
+        "staff": "- Professor LAU Chong Fuk",
+        "quota": "60",
+        "vacancy": "0",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "WMY_406"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL1310-",
+        "class_nbr": "7425",
+        "course_title": "Logic 邏輯",
+        "units": "3.00",
+        "staff": "- Dr. KOU Kei Chun",
+        "quota": "60",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_301",
+            "NRR"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL2020-",
+        "class_nbr": "8561",
+        "course_title": "History of Chin Philosophy I 中國哲學史（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Zemian",
+        "quota": "60",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
+        "period": [
+            "We 03:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL2040-",
+        "class_nbr": "8373",
+        "course_title": "History of West Philosophy I 西方哲學史（一）",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Ka Wing",
+        "quota": "60",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL2302-",
+        "class_nbr": "4956",
+        "course_title": "Guid Stud in West Phi Classics 西方哲學原典導讀",
+        "units": "3.00",
+        "staff": "- Dr. WONG Yiu Hong",
+        "quota": "40",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3000-",
+        "class_nbr": "9749",
+        "course_title": "Ethics 倫理學",
+        "units": "3.00",
+        "staff": "- Professor Nicholas K RIMELL",
+        "quota": "50",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_213",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3211-",
+        "class_nbr": "5214",
+        "course_title": "Indian Buddhist Philosophy 印度佛家哲學",
+        "units": "3.00",
+        "staff": "- Professor YAO Zhihua",
+        "quota": "40",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 09:30AM - 11:15AM",
+            "Mo 09:30AM - 10:15AM"
+        ],
+        "room": [
+            "CKB_706C",
+            "MMW_705"
+        ],
+        "meeting_date": [
+            "11/9, 18/9, 25/9, 2/10, 9/10, 16/10, 23/10, 30/10, 6/11, 13/11, 20/11, 27/11, 4/12",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3383-",
+        "class_nbr": "5193",
+        "course_title": "Philosophy of Death 死亡哲學",
+        "units": "3.00",
+        "staff": "- Dr. KWOK Pak Nin",
+        "quota": "40",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_206",
+            "TBA"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "07/09/2026 - 30/11/2026"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3541-",
+        "class_nbr": "7601",
+        "course_title": "Topics in Ancient Chinese Phil 古代中國哲學專題",
+        "units": "3.00",
+        "staff": "- Professor David CHAI",
+        "quota": "40",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "We 11:30AM - 12:15PM"
+        ],
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3652-",
+        "class_nbr": "4962",
+        "course_title": "Topics in Contempo West Phil 當代西方哲學專題",
+        "units": "3.00",
+        "staff": "- Professor Claudia BARACCHI",
+        "quota": "35",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Tu 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3683-",
+        "class_nbr": "9878",
+        "course_title": "Topics in Applied Philosophy 應用哲學專題",
+        "units": "3.00",
+        "staff": "- Professor LI Shiying",
+        "quota": "40",
+        "vacancy": "24",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 03:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "LHC_G03"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3820-",
+        "class_nbr": "7603",
+        "course_title": "Epistemology 知識論",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Jiji",
+        "quota": "50",
+        "vacancy": "26",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12",
+            "8/9, 15/9, 22/9, 29/9, 6/10, 13/10, 20/10, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL3833-",
+        "class_nbr": "7604",
+        "course_title": "Topics in Ethics 倫理學專題",
+        "units": "3.00",
+        "staff": "- Professor YE Ru",
+        "quota": "40",
+        "vacancy": "29",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12",
+            "9/9, 16/9, 23/9, 30/9, 7/10, 14/10, 21/10, 28/10, 4/11, 11/11, 18/11, 25/11, 2/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4153-",
+        "class_nbr": "7613",
+        "course_title": "Philosophy of Culture 文化哲學",
+        "units": "3.00",
+        "staff": "- Professor Gregory Scott MOSS",
+        "quota": "40",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "ERB_408"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4262-",
+        "class_nbr": "4960",
+        "course_title": "Existentialism 存在主義",
+        "units": "3.00",
+        "staff": "- Professor Hayden Sean Alexander KEE",
+        "quota": "35",
+        "vacancy": "12",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "HYS_G03"
+        ],
+        "meeting_date": [
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12",
+            "10/9, 17/9, 24/9",
+            "8/10, 15/10, 22/10, 29/10, 5/11, 12/11, 19/11, 26/11, 3/12"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4371-",
+        "class_nbr": "9441",
+        "course_title": "Seminar on Chinese Philosophy 中國哲學研討",
+        "units": "3.00",
+        "staff": "- Dr. CHONG Yun Chak",
+        "quota": "40",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "ERB_405"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4443-",
+        "class_nbr": "9911",
+        "course_title": "Seminar on Philosophical Issue 哲學問題研討",
+        "units": "3.00",
+        "staff": "- Professor LI Shiying",
+        "quota": "40",
+        "vacancy": "34",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 01:30PM - 03:15PM",
+            "Mo 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "CKB_706C"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4800A",
+        "class_nbr": "7453",
+        "course_title": "Thesis 論文",
+        "units": "3.00",
+        "staff": "- Professor Hayden Sean Alexander KEE",
+        "quota": "15",
+        "vacancy": "9",
+        "mode": "IND",
+        "section_code": "AI01",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 11:15AM",
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "LSK_203"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4800B",
+        "class_nbr": "7454",
+        "course_title": "Thesis 論文",
+        "units": "3.00",
+        "staff": "- Professor ZHENG Zemian",
+        "quota": "15",
+        "vacancy": "7",
+        "mode": "IND",
+        "section_code": "BI01",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM",
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "FYB_107A"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    },
+    {
+        "class_code": "PHIL4800C",
+        "class_nbr": "7455",
+        "course_title": "Thesis 論文",
+        "units": "3.00",
+        "staff": "- Professor YE Ru",
+        "quota": "15",
+        "vacancy": "10",
+        "mode": "IND",
+        "section_code": "CI01",
+        "language": "P&amp;E",
+        "period": [
+            "Mo 10:30AM - 11:15AM",
+            "Mo 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "LDS_218"
+        ],
+        "meeting_date": [
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11",
+            "7/9, 14/9, 21/9, 28/9, 5/10, 12/10",
+            "26/10, 2/11, 9/11, 16/11, 23/11, 30/11"
+        ],
+        "term": "2420",
+        "term_label": "2026-27 Term 1"
+    }
+]
