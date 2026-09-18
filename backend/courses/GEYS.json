@@ -1,142 +1,194 @@
 [
     {
-        "course_title": "College Assembly/ Forum 書院聚會／書院論壇",
         "class_code": "GEYS1000-",
-        "period": [
-            "Fr 11:30AM - 01:15PM"
-        ],
+        "class_nbr": "5958",
+        "course_title": "College Assembly/ Forum 書院聚會／書院論壇",
         "units": "0.00",
         "staff": "- Staff",
         "quota": "1300",
+        "vacancy": "1300",
         "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 11:30AM - 01:15PM"
+        ],
         "room": [
             "LSK_LT5"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Creative Social Responsibility 創新社會責任及持續發展",
         "class_code": "GEYS1010-",
-        "period": [
-            "Fr 03:30PM - 06:15PM"
-        ],
+        "class_nbr": "5861",
+        "course_title": "Creative Social Responsibility 創新社會責任及持續發展",
         "units": "3.00",
         "staff": "- Dr. LEUNG Po Kin- Dr. WONG Wing Yu Esther- Professor LEE Albert- Professor WONG Ka Fai",
         "quota": "150",
+        "vacancy": "150",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
         "room": [
             "MMW_LT1"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "College Senior Seminar 專題討論",
         "class_code": "GEYS4010A",
+        "class_nbr": "6022",
+        "course_title": "College Senior Seminar 專題討論",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Kwong Hon Philip",
+        "quota": "65",
+        "vacancy": "65",
+        "mode": "SEM",
+        "section_code": "AS01",
+        "language": "C&amp;E",
         "period": [
             "Fr 03:30PM - 06:15PM"
         ],
+        "room": [
+            "ERB_803"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "GEYS4010B",
+        "class_nbr": "5887",
+        "course_title": "College Senior Seminar 專題討論",
         "units": "3.00",
-        "staff": "- Mr HEUNG Louis Sai Kit",
+        "staff": "- Professor LEE Albert",
         "quota": "65",
+        "vacancy": "65",
         "mode": "SEM",
+        "section_code": "BS01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
         "room": [
             "MMW_710"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "College Senior Seminar 專題討論",
-        "class_code": "GEYS4010B",
-        "period": [
-            "Fr 03:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LEE Albert",
-        "quota": "65",
-        "mode": "SEM",
-        "room": [
-            "KKB_101"
-        ],
-        "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
-        ]
-    },
-    {
-        "course_title": "College Senior Seminar 專題討論",
         "class_code": "GEYS4010C",
-        "period": [
-            "Fr 03:30PM - 06:15PM"
-        ],
+        "class_nbr": "5968",
+        "course_title": "College Senior Seminar 專題討論",
         "units": "3.00",
-        "staff": "- Dr. WONG Kwong Cheong",
+        "staff": "- Dr. HO Sin Cheung",
         "quota": "45",
+        "vacancy": "45",
         "mode": "SEM",
-        "room": [
-            "ERB_703"
-        ],
-        "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
-        ]
-    },
-    {
-        "course_title": "College Senior Seminar 專題討論",
-        "class_code": "GEYS4010D",
+        "section_code": "CS01",
+        "language": "C&amp;E",
         "period": [
             "Fr 03:30PM - 06:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor LEUNG Tse Fong Terry",
-        "quota": "20",
-        "mode": "SEM",
         "room": [
-            "LDS_218"
+            "MMW_705"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "College Senior Seminar 專題討論",
-        "class_code": "GEYS4010E",
+        "class_code": "GEYS4011A",
+        "class_nbr": "9866",
+        "course_title": "Community Engagement 實踐社會責任：服務學習",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "PRJ",
+        "section_code": "AJ01",
+        "language": "C&amp;E",
         "period": [
             "Fr 03:30PM - 06:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor YIP Ngai Ming",
-        "quota": "20",
-        "mode": "SEM",
         "room": [
-            "SC_139"
+            "LSK_206"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "GEYS4011B",
+        "class_nbr": "9865",
+        "course_title": "Community Engagement 實踐社會責任：服務學習",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LDS_214"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "GEYS4011C",
+        "class_nbr": "9867",
+        "course_title": "Community Engagement 實踐社會責任：服務學習",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "PRJ",
+        "section_code": "CJ01",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "ERB_401"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     }
 ]

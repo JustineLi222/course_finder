@@ -1,300 +1,419 @@
 [
     {
-        "course_title": "Anatomy & Physio: Maj. Organ 人體解剖學與生理學︰主要器官系統",
         "class_code": "PHPC1012-",
+        "class_nbr": "5886",
+        "course_title": "Anatomy & Physio: Maj. Organ 人體解剖學與生理學︰主要器官系統",
+        "units": "3.00",
+        "staff": "- Professor HUANG Junjie",
+        "quota": "75",
+        "vacancy": "75",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Mo 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor HUANG Junjie",
-        "quota": "73",
-        "mode": "LEC",
         "room": [
-            "ARC_G03"
+            "YIA_LT6"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Prin of Infectious Diseases 傳染病學原理",
         "class_code": "PHPC1017-",
+        "class_nbr": "5837",
+        "course_title": "Prin of Infectious Diseases 傳染病學原理",
+        "units": "1.00",
+        "staff": "- Professor MOK Ka Pun",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
             "Mo 03:30PM - 05:15PM"
         ],
-        "units": "1.00",
-        "staff": "- Professor MOK Ka Pun",
-        "quota": "144",
-        "mode": "LEC",
         "room": [
             "TYW_LT"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Induction Programme II 先導計劃（二）",
         "class_code": "PHPC1020-",
-        "period": [
-            "Th 08:30AM - 12:15PM"
-        ],
+        "class_nbr": "8548",
+        "course_title": "Induction Programme II 先導計劃（二）",
         "units": "1.00",
         "staff": "- Dr. YUNG Ka Chun",
         "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 08:30AM - 12:15PM"
+        ],
         "room": [
             "NRR"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1, 30/1, 6/2, 13/2, 20/2, 27/2, 6/3, 13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Global Health 環球健康",
         "class_code": "PHPC2011-",
+        "class_nbr": "7139",
+        "course_title": "Global Health 環球健康",
+        "units": "3.00",
+        "staff": "- Professor TUN Hein Min",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor CHUNG Roger Yat Nork",
-        "quota": "50",
-        "mode": "LEC",
         "room": [
-            "MMW_702"
+            "LSB_LT6"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "ID of PH Importance 具公共衞生重要性的傳染病",
         "class_code": "PHPC2018-",
+        "class_nbr": "5890",
+        "course_title": "ID of PH Importance 具公共衞生重要性的傳染病",
+        "units": "3.00",
+        "staff": "- Dr. MAN Lai Kwan",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
             "Th 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor POON Kwok Ming",
-        "quota": "40",
-        "mode": "LEC",
         "room": [
-            "ERB_401"
+            "MMW_710"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Lit Search & Review 文獻檢索及評價技巧應用",
         "class_code": "PHPC2019-",
-        "period": [
-            "Th 04:30PM - 06:15PM"
-        ],
+        "class_nbr": "4864",
+        "course_title": "Lit Search & Ethical Use of AI 文獻檢索的實務技巧及人工智能的倫理使用",
         "units": "1.00",
-        "staff": "- Dr. MUI Wai Ho- Professor WANG Zixin",
+        "staff": "- Staff",
         "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
         "room": [
             "HCA_105"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "CB Learning for Healthy Ageing 社區服務實現健康耆年",
-        "class_code": "PHPC2020-",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. CHIU Cheuk Pong- Professor WONG Lai Yi",
-        "quota": "50",
-        "mode": "FLD",
-        "room": [
-            "WMY_306"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Public Health Ethics and Law 公共衞生道德與法律",
         "class_code": "PHPC3012-",
-        "period": [
-            "Mo 11:30AM - 01:15PM"
-        ],
+        "class_nbr": "5821",
+        "course_title": "Public Health Ethics and Law 公共衞生道德與法律",
         "units": "1.00",
         "staff": "- Professor CHUNG Roger Yat Nork",
         "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 11:30AM - 01:15PM"
+        ],
         "room": [
-            "LHC_106"
+            "SC_L5"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Evidence Based PH & Healthcare 循證公共衛生和醫療保健",
         "class_code": "PHPC3014-",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
+        "class_nbr": "6002",
+        "course_title": "Evidence Based PH & Healthcare 循證公共衞生和醫療保健",
         "units": "3.00",
         "staff": "- Professor WANG Zixin",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
-        "room": [
-            "HYS_501"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Prac Skills in PH Mgt of ID 公共衞生管理在傳染病學的應用",
-        "class_code": "PHPC3015-",
-        "period": [
-            "Tu 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor POON Kwok Ming",
-        "quota": "53",
-        "mode": "LEC",
-        "room": [
-            "BMS_LT"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Work and Health 工作與健康",
-        "class_code": "PHPC3017-",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Mo 02:30PM - 05:15PM"
         ],
+        "room": [
+            "MMW_707"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "PHPC3015-",
+        "class_nbr": "5969",
+        "course_title": "Prac Skills in PH Mgt of ID 公共衞生管理在傳染病學的應用",
+        "units": "3.00",
+        "staff": "- Dr. MAN Lai Kwan",
+        "quota": "53",
+        "vacancy": "53",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ERB_407"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "PHPC3017-",
+        "class_nbr": "6163",
+        "course_title": "Work and Health 工作與健康",
         "units": "3.00",
         "staff": "- Professor TSE Lap Ah",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
-            "MMW_706"
+            "ERB_404"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Econ & Fin in Healthcare Sys 衞生經濟學及醫療融資",
         "class_code": "PHPC3024-",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
+        "class_nbr": "5998",
+        "course_title": "Econ & Fin in Healthcare Sys 衞生經濟學及醫療融資",
         "units": "3.00",
         "staff": "- Professor YIP Hon Kei",
         "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
         "room": [
-            "ELB_202"
+            "ERB_401"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Prac Data Coll, Mgt & Analysis 數據收集、管理及分析技巧",
-        "class_code": "PHPC3028-",
+        "class_code": "PHPC3026-",
+        "class_nbr": "5459",
+        "course_title": "Health Promotion - Soc Mkt 健康促進與實踐 - 社會營銷",
+        "units": "3.00",
+        "staff": "- Professor WANG Zixin",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Th 01:30PM - 04:15PM"
+            "We 10:30AM - 01:15PM"
         ],
+        "room": [
+            "BMS_1"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "PHPC3028-",
+        "class_nbr": "8488",
+        "course_title": "Prac Data Coll, Mgt & Analysis 數據收集、管理及分析技巧",
         "units": "3.00",
         "staff": "- Professor KWOK Kin On",
         "quota": "50",
+        "vacancy": "50",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
         "room": [
-            "HCA_103"
+            "MMW_707"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Health & Healthcare Org & Mgt 衞生醫療組織與管理",
-        "class_code": "PHPC4029-",
+        "class_code": "PHPC4025-",
+        "class_nbr": "5352",
+        "course_title": "Intro Data Sci in Health & Med 環境健康和醫學中的數據科學導論",
+        "units": "3.00",
+        "staff": "- Professor CHUNG Ming Kei",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Th 12:30PM - 03:15PM"
         ],
+        "room": [
+            "YIA_404"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "PHPC4029-",
+        "class_nbr": "5966",
+        "course_title": "Health & Healthcare Org & Mgt 衞生醫療組織與管理",
         "units": "3.00",
         "staff": "- Dr. YAU Zi May Susan",
         "quota": "25",
+        "vacancy": "25",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 12:30PM - 03:15PM"
+        ],
         "room": [
-            "BMS_LT"
+            "ERB_401"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Primary PH Research I 公共衞生基礎研究（一）",
         "class_code": "PHPC4911-",
-        "period": [
-            "Tu 02:30PM - 06:15PM"
-        ],
+        "class_nbr": "8588",
+        "course_title": "Primary PH Research I 公共衞生基礎研究（一）",
         "units": "2.00",
         "staff": "- Professor CHONG Ka Chun- Professor WONG Lai Yi",
         "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
-        "room": [
-            "NRR"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "PH Data Synthesis Research I 公共衞生數據整合研究（一）",
-        "class_code": "PHPC4921-",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 02:30PM - 06:15PM"
         ],
-        "units": "1.00",
-        "staff": "- Professor CHONG Ka Chun- Professor WONG Lai Yi",
-        "quota": "20",
-        "mode": "LEC",
         "room": [
             "NRR"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1, 28/1, 4/2, 11/2, 18/2, 25/2, 4/3, 11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "PHPC4921-",
+        "class_nbr": "8612",
+        "course_title": "PH Data Synthesis Research I 公共衞生數據整合研究（一）",
+        "units": "1.00",
+        "staff": "- Professor CHONG Ka Chun- Professor WONG Lai Yi",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 06:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "PHPC4931-",
+        "class_nbr": "5266",
+        "course_title": "Public Health Practicum I 公共衞生實習﹙一﹚",
+        "units": "0.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

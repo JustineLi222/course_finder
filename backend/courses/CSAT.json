@@ -1,0 +1,25 @@
+[
+    {
+        "class_code": "CSAT2002B",
+        "class_nbr": "5088",
+        "course_title": "Creative Dialogue 創意對談",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ching",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_504"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    }
+]

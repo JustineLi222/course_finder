@@ -1,120 +1,144 @@
 [
     {
-        "course_title": "College Assembly/High Table 書院週會／高桌晚宴",
         "class_code": "GEWS1000-",
+        "class_nbr": "7463",
+        "course_title": "College Assembly/High Table 書院週會／高桌晚宴",
+        "units": "0.00",
+        "staff": "- Professor LIU Yan",
+        "quota": "400",
+        "vacancy": "400",
+        "mode": "ASB",
+        "section_code": "-A01",
+        "language": "C#E",
         "period": [
             "Fr 11:30AM - 01:15PM"
         ],
-        "units": "0.00",
-        "staff": "- Dr. LUK Sau Ha",
-        "quota": "400",
-        "mode": "ASB",
         "room": [
             "LSK_LT6"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Future of Food 糧食的未來",
         "class_code": "GEWS2041-",
+        "class_nbr": "8914",
+        "course_title": "Future of Food 糧食的未來",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Staff",
-        "quota": "23",
-        "mode": "LEC",
         "room": [
-            "WS1_LG104"
+            "WS1_205"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Nature's Classroom 自然教室",
         "class_code": "GEWS2061-",
+        "class_nbr": "5023",
+        "course_title": "Nature's Classroom 自然教室",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Mr. JOR Chi Keung",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
             "MMW_715"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Hong Kong Myths 香港神話",
         "class_code": "GEWS2131-",
+        "class_nbr": "9448",
+        "course_title": "Hong Kong Myths 香港神話",
+        "units": "3.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
         "period": [
             "Fr 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. FOK Yeung Yeung",
-        "quota": "32",
-        "mode": "LEC",
         "room": [
             "LSK_210"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "The Beauty of Chinese Painting 從中國筆墨感東方意韻",
         "class_code": "GEWS2141-",
+        "class_nbr": "8773",
+        "course_title": "The Beauty of Chinese Painting 從中國筆墨感東方意韻",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P",
         "period": [
             "Fr 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Staff",
-        "quota": "31",
-        "mode": "LEC",
         "room": [
             "WS1_LG301"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Compassionate Communication 善意溝通：理論與實踐",
         "class_code": "GEWS2161-",
+        "class_nbr": "9127",
+        "course_title": "Compassionate Communication 善意溝通：理論與實踐",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
         "period": [
             "Fr 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Staff",
-        "quota": "26",
-        "mode": "LEC",
         "room": [
             "YIA_605"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     }
 ]

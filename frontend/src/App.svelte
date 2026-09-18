@@ -3,12 +3,22 @@
     import MdLocationOn from "svelte-icons/md/MdLocationOn.svelte";
     import Card from "./Card.svelte";
     import { coord } from "./Coord.js";
+    import { resolveNow, inSession } from "./courseTime.js";
 
     let currentLocation = null;
     let search_bar_question = "";
     let allCourses = [];
     let filteredCourses = [];
     let distanceRange = 1000; // Default 1000 meters
+    // Distance is a refinement, not a gate. When you are off campus you still want to
+    // know what is running right now, so this defaults to OFF and only the checkbox
+    // turns it into a filter.
+    let nearMeOnly = false;
+    // Live clock, so it is obvious which time slot the list is showing.
+    let nowLabel = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+    setInterval(() => {
+        nowLabel = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+    }, 30000);
     // Track "have we finished loading?" separately from "did we get results?".
     // Using allCourses.length as the loading test made an empty result set spin forever.
     let loaded = false;
@@ -18,17 +28,44 @@
     $: sliderPercent = ((distanceRange - 100) / (5000 - 100)) * 100;
 
     async function getCourses() {
-        // Optional time-travel: /?at=2026-02-05T15:00 (or "5/2 15:00") is forwarded to the API.
-        // The dataset is a single past term, so "happening right now" is otherwise always empty.
-        const apiBase = "http://localhost:3001/api/courses";
+        // The deployment is static, so the whole catalogue is loaded from a sibling
+        // JSON file and "in session" is decided here in the browser. This removes the
+        // old hardcoded http://localhost:3001 dependency (which never worked in prod).
+        // ?at=2026-02-05T15:00 (or "5/2 15:00") still time-travels.
         const at = new URLSearchParams(window.location.search).get("at");
+        const now = resolveNow(at);
+        if (!now) {
+            loadError = 'Invalid ?at= - use ISO or "DD/MM HH:MM".';
+            allCourses = [];
+            filteredCourses = [];
+            loaded = true;
+            return [];
+        }
+
         try {
-            let res = await fetch(at ? `${apiBase}?at=${encodeURIComponent(at)}` : apiBase);
-            if (!res.ok) throw new Error(`API responded ${res.status}`);
-            let courses = await res.json();
-            allCourses = courses;
-            filteredCourses = courses;
-            return courses;
+            const res = await fetch("courses.json", { cache: "no-cache" });
+            if (!res.ok) throw new Error(`courses.json responded ${res.status}`);
+            const catalogue = await res.json();
+
+            const live = [];
+            for (const c of catalogue) {
+                const hit = inSession(c, now);
+                if (!hit) continue;
+                live.push({
+                    title: c.course_title,
+                    "course code": c.class_code,
+                    course_code: c.class_code,
+                    timeslot: hit.timeslot,
+                    location: (c.room || [])[0],
+                    professor: c.staff,
+                    quota: c.quota,
+                    mode: c.mode,
+                    units: c.units,
+                });
+            }
+            allCourses = live;
+            filteredCourses = live;
+            return live;
         } catch (err) {
             loadError = err && err.message ? err.message : String(err);
             allCourses = [];
@@ -59,18 +96,22 @@
 
     function handleSearch() {
         let searchTerm = search_bar_question.toLowerCase();
-        filteredCourses = [];
         console.log("Searching for:", searchTerm);
-        if (allCourses.length > 0) {
-            filteredCourses = allCourses.filter(
-                (course) =>
+        if (allCourses.length === 0) {
+            filteredCourses = [];
+            return;
+        }
+        // Text search always applies; the distance test only when explicitly enabled.
+        filteredCourses = allCourses.filter(
+            (course) =>
+                is_search_bar_question(course, searchTerm) &&
+                (!nearMeOnly ||
                     getNearbyCoursesByMeter(
                         currentLocation,
                         distanceRange,
                         course["location"],
-                    ) && is_search_bar_question(course, searchTerm),
-            );
-        }
+                    )),
+        );
     }
 
     // Function to format distance display
@@ -155,7 +196,7 @@
     <!-- Header Section -->
     <div class="header">
         <h1 class="title">Course Finder</h1>
-        <p class="subtitle">Find courses near your location</p>
+        <p class="subtitle">Courses in session right now · {nowLabel}</p>
     </div>
 
     <!-- Search Section -->
@@ -174,6 +215,14 @@
                         >{formatDistance(distanceRange)}</span
                     >
                 </div>
+                <label class="near-toggle">
+                    <input
+                        type="checkbox"
+                        bind:checked={nearMeOnly}
+                        on:change={handleDistanceChange}
+                    />
+                    <span>Only show courses within range</span>
+                </label>
                 <input
                     type="range"
                     id="distance-range"
@@ -184,6 +233,7 @@
                     on:change={handleDistanceChange}
                     on:input={handleDistanceChange}
                     class="range-slider"
+                    disabled={!nearMeOnly}
                     style="--slider-percent: {sliderPercent}%"
                 />
                 <div class="range-labels">
@@ -240,15 +290,13 @@
                             ? "No courses in session"
                             : "No courses found"}
                 </h2>
-                {#if filteredCourses.length > 0 && (search_bar_question || distanceRange < 5000)}
+                {#if filteredCourses.length > 0 && (search_bar_question || nearMeOnly)}
                     <p class="results-subtitle">
                         {search_bar_question
                             ? `Matching "${search_bar_question}"`
                             : ""}
-                        {search_bar_question && distanceRange < 5000
-                            ? " · "
-                            : ""}
-                        {distanceRange < 5000
+                        {search_bar_question && nearMeOnly ? " · " : ""}
+                        {nearMeOnly
                             ? `Within ${formatDistance(distanceRange)}`
                             : ""}
                     </p>
@@ -257,7 +305,7 @@
 
             {#if filteredCourses.length > 0}
                 <div class="card-container">
-                    {#key search_bar_question + distanceRange}
+                    {#key search_bar_question + distanceRange + nearMeOnly}
                         {#each filteredCourses as course}
                             <Card
                                 card={{
@@ -290,8 +338,9 @@
                     {:else}
                         <h3>No courses found</h3>
                         <p>
-                            Try adjusting your search criteria or increasing the
-                            search range
+                            {nearMeOnly
+                                ? "Nothing within range. Uncheck \u201cOnly show courses within range\u201d to see everything in session."
+                                : "Try adjusting your search criteria."}
                         </p>
                     {/if}
                 </div>
@@ -468,6 +517,34 @@
         font-size: 0.75rem;
         color: #6b7280;
         margin-bottom: 1rem;
+    }
+
+    /* Distance is opt-in, so the slider is inert until the box is ticked. */
+    .near-toggle {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.85rem;
+        color: #374151;
+        cursor: pointer;
+        margin-bottom: 0.75rem;
+        user-select: none;
+    }
+
+    .near-toggle input {
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+        accent-color: #3b82f6;
+    }
+
+    .range-slider:disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
+
+    .range-slider:disabled::-webkit-slider-thumb {
+        cursor: not-allowed;
     }
 
     .reset-btn {

@@ -1,59 +1,48 @@
 [
     {
-        "course_title": "Economic Integration 環球與區域經濟整合",
         "class_code": "GLEF3020-",
-        "period": [
-            "Th 08:30AM - 11:15AM"
-        ],
+        "class_nbr": "8427",
+        "course_title": "Economic Integration 環球與區域經濟整合",
         "units": "3.00",
         "staff": "- Professor Kevin Joseph Meredith DEVEREUX",
-        "quota": "40",
+        "quota": "55",
+        "vacancy": "55",
         "mode": "LEC",
-        "room": [
-            "YIA_502"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Global Financial Markets 環球金融市場",
-        "class_code": "GLEF3030-",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Th 02:30PM - 05:15PM"
+            "Th 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. MOK Ka Ming",
-        "quota": "45",
-        "mode": "LEC",
         "room": [
-            "ELB_205"
+            "ARC_G04"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Banking & Financial Regulation 國際金融與銀行監管",
-        "class_code": "GLEF4020-",
+        "class_code": "GLEF4010-",
+        "class_nbr": "9697",
+        "course_title": "China & Global Economy 中國與環球經濟",
+        "units": "3.00",
+        "staff": "- Professor LYU Dan",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 01:30PM - 04:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. HO Cheuk Yin",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
             "CKB_706B"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     }
 ]

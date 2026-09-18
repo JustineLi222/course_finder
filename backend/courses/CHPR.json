@@ -1,154 +1,207 @@
 [
     {
-        "course_title": "Health Edu & Health Behaviours 健康教育與健康行為",
         "class_code": "CHPR3002-",
+        "class_nbr": "5891",
+        "course_title": "Health Edu & Health Behaviours 健康教育與健康行為",
+        "units": "3.00",
+        "staff": "- Professor MO Phoenix Kit Han",
+        "quota": "53",
+        "vacancy": "53",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor MO Phoenix Kit Han",
-        "quota": "43",
-        "mode": "LEC",
         "room": [
-            "LHC_101"
+            "ERB_407"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Foundations of Health Promo 健康促進基礎",
         "class_code": "CHPR3008-",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
+        "class_nbr": "5722",
+        "course_title": "Foundations of Health Promo 健康促進基礎",
         "units": "2.00",
         "staff": "- Professor YEUNG Chun Yiu",
         "quota": "33",
+        "vacancy": "33",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
         "room": [
             "ERB_706"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Settings-App for Health Promo 場所主導的健康促進",
         "class_code": "CHPR4001-",
-        "period": [
-            "We 10:30AM - 12:15PM"
-        ],
+        "class_nbr": "5870",
+        "course_title": "Settings-App for Health Promo 場所主導的健康促進",
         "units": "2.00",
         "staff": "- Dr. YUNG Ka Chun",
         "quota": "33",
+        "vacancy": "33",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM"
+        ],
         "room": [
-            "MMW_715"
+            "BMS_2"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Health Communication 健康傳訊",
         "class_code": "CHPR4002-",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
+        "class_nbr": "5942",
+        "course_title": "Health Communication 健康傳訊",
         "units": "3.00",
         "staff": "- Professor DONG Dong",
         "quota": "33",
+        "vacancy": "33",
         "mode": "LEC",
-        "room": [
-            "MMW_715"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Management of NGOs 非政府機構的管理",
-        "class_code": "CHPR4004-",
-        "period": [
-            "Th 09:30AM - 12:15PM"
-        ],
-        "units": "1.00",
-        "staff": "- Dr. MUI Wai Ho",
-        "quota": "33",
-        "mode": "LEC",
-        "room": [
-            "WLS_LG204"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Social Marketing Methods 社會營銷學",
-        "class_code": "CHPR4005-",
+        "section_code": "-",
+        "language": "C#E",
         "period": [
             "Tu 10:30AM - 01:15PM"
         ],
+        "room": [
+            "BMS_LT"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "CHPR4004-",
+        "class_nbr": "5745",
+        "course_title": "Management of NGOs 非政府機構的管理",
+        "units": "1.00",
+        "staff": "- Dr. MUI Wai Ho",
+        "quota": "33",
+        "vacancy": "33",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "LHC_G06"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "CHPR4005-",
+        "class_nbr": "5746",
+        "course_title": "Social Marketing Methods 社會營銷學",
         "units": "3.00",
         "staff": "- Dr. MUI Wai Ho",
         "quota": "33",
+        "vacancy": "33",
         "mode": "LEC",
-        "room": [
-            "ERB_405"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Food Security 糧食保障：全球及本地視野",
-        "class_code": "CHPR4011-",
+        "section_code": "-",
+        "language": "C#E",
         "period": [
-            "Th 03:30PM - 06:15PM"
+            "Tu 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. YUNG Ka Chun",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "MMW_704"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Mental Health as a PH Issue 公共衞生與心理健康",
-        "class_code": "CHPR4012-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor YEUNG Chun Yiu",
-        "quota": "50",
-        "mode": "LEC",
         "room": [
             "MMW_707"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "CHPR4011-",
+        "class_nbr": "5807",
+        "course_title": "Food Security 糧食保障：全球及本地視野",
+        "units": "3.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "MMW_704"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "CHPR4012-",
+        "class_nbr": "5841",
+        "course_title": "Mental Health as a PH Issue 公共衞生與心理健康",
+        "units": "3.00",
+        "staff": "- Professor YEUNG Chun Yiu",
+        "quota": "48",
+        "vacancy": "48",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LHC_106"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "CHPR4902-",
+        "class_nbr": "6737",
+        "course_title": "Practicum in CHPR II 社區健康實習（二）",
+        "units": "5.00",
+        "staff": "- Dr. YUNG Ka Chun",
+        "quota": "33",
+        "vacancy": "33",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

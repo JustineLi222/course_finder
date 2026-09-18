@@ -1,439 +1,957 @@
 [
     {
-        "course_title": "Sur CAN for International STD 生活中的粵語（以粵語為第二語言的國際生適用）",
         "class_code": "CLCC1000A",
-        "period": [
-            "Tu 06:30PM - 08:15PM"
-        ],
+        "class_nbr": "5368",
+        "course_title": "Sur CAN for International STD 生活中的粵語（以粵語為第二語言的國際生適用）",
         "units": "0.00",
-        "staff": "- Miss SHEN Minyu",
+        "staff": "- Staff",
         "quota": "19",
+        "vacancy": "19",
         "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 06:30PM - 08:15PM",
+            "TBA"
+        ],
         "room": [
-            "YIA_507"
+            "YIA_409",
+            "NRR"
         ],
         "meeting_date": [
-            "14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Sur CAN for Native PTH Speaker 生活中的粵語（以普通話/華語為第一語言者適用）",
+        "class_code": "CLCC1001-",
+        "class_nbr": "7949",
+        "course_title": "CAN Taster Course for Int'l St 國際學生粵語應用學習",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
         "class_code": "CLCC1100A",
-        "period": [
-            "Mo 06:30PM - 08:15PM"
-        ],
+        "class_nbr": "5369",
+        "course_title": "Sur CAN for Native CHI Speaker 生活中的粵語（以華語為第一語言者適用）",
         "units": "0.00",
-        "staff": "- Mr. LAI Ka Ho",
+        "staff": "- Staff",
         "quota": "19",
+        "vacancy": "19",
         "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 06:30PM - 08:15PM",
+            "TBA"
+        ],
         "room": [
-            "YIA_401"
+            "YIA_410",
+            "NRR"
         ],
         "meeting_date": [
-            "13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Sur CAN for Native PTH Speaker 生活中的粵語（以普通話/華語為第一語言者適用）",
         "class_code": "CLCC1100B",
-        "period": [
-            "We 06:30PM - 08:15PM"
-        ],
+        "class_nbr": "7148",
+        "course_title": "Sur CAN for Native CHI Speaker 生活中的粵語（以華語為第一語言者適用）",
         "units": "0.00",
-        "staff": "- Miss SHEN Minyu",
+        "staff": "- Staff",
         "quota": "19",
+        "vacancy": "19",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 06:30PM - 08:15PM",
+            "TBA"
+        ],
         "room": [
-            "YIA_406"
+            "YIA_409",
+            "NRR"
         ],
         "meeting_date": [
-            "15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Sur CAN for Native PTH Speaker 生活中的粵語（以普通話/華語為第一語言者適用）",
-        "class_code": "CLCC1100C",
+        "class_code": "CLCC1101-",
+        "class_nbr": "7950",
+        "course_title": "CAN Taster Course (for Chi) 華語學生粵語應用學習",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "150",
+        "vacancy": "150",
+        "mode": "WBL",
+        "section_code": "-X01",
+        "language": "C",
         "period": [
-            "Th 06:30PM - 08:15PM"
+            "TBA"
         ],
-        "units": "0.00",
-        "staff": "- Miss SHEN Minyu",
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1102-",
+        "class_nbr": "5339",
+        "course_title": "Intro to Chinese Characters 漢字入門",
+        "units": "2.00",
+        "staff": "- Staff",
         "quota": "19",
+        "vacancy": "19",
         "mode": "LEC",
-        "room": [
-            "YIA_404"
-        ],
-        "meeting_date": [
-            "16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Sur CAN for Native PTH Speaker 生活中的粵語（以普通話/華語為第一語言者適用）",
-        "class_code": "CLCC1100D",
-        "period": [
-            "Mo 06:30PM - 08:15PM"
-        ],
-        "units": "0.00",
-        "staff": "- Miss WONG Chau Hung",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "YIA_501"
-        ],
-        "meeting_date": [
-            "13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
-        "class_code": "CLCC1113A",
-        "period": [
-            "Tu 10:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss YU Kam Ping Doris",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "YIA_404"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
-        "class_code": "CLCC1113C",
-        "period": [
-            "Tu 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss SHEN Minyu",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "YIA_510"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
-        "class_code": "CLCC1123A",
-        "period": [
-            "Th 10:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "LSK_410"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703A",
-        "period": [
-            "Mo 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. LAI Ka Ho",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "YIA_501"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703B",
-        "period": [
-            "Tu 04:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Ms. CHEUNG Pui Shan",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "MMW_706"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703C",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
             "Th 12:30PM - 02:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Ms. CHEUNG Pui Shan",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "MMW_704"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703D",
-        "period": [
-            "We 10:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss WONG Chau Hung",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "YIA_409"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703I",
-        "period": [
-            "Th 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss YUEN Sung Ying",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "ERB_713"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
-        "class_code": "CLCC1703J",
-        "period": [
-            "Th 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "UCC_110"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Application of Voc & Gr II 詞匯與語法應用（二）",
-        "class_code": "CLCC2213-",
-        "period": [
-            "Mo 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "YIA_409"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Oral Skills Practice II 口語技能訓練（二）",
-        "class_code": "CLCC2223-",
-        "period": [
-            "We 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "UCC_208"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Cantonese through Songs 聽著歌學廣東話",
-        "class_code": "CLCC2252A",
-        "period": [
-            "Mo 04:30PM - 06:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Ms. CHEUNG Pui Shan",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "ERB_408"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Cantonese through Songs 聽著歌學廣東話",
-        "class_code": "CLCC2252B",
-        "period": [
-            "Th 06:30PM - 08:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Miss YUEN Sung Ying",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "YIA_411"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
-        "class_code": "CLCC2703A",
-        "period": [
-            "Mo 08:30AM - 10:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. LEE Siu Lun",
-        "quota": "22",
-        "mode": "LEC",
         "room": [
             "YIA_506"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
+        "class_code": "CLCC1113A",
+        "class_nbr": "5343",
+        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_405",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1113B",
+        "class_nbr": "9231",
+        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_511",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1113C",
+        "class_nbr": "9464",
+        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_706",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1113D",
+        "class_nbr": "5340",
+        "course_title": "Application of Voc & Gr I 詞匯與語法應用（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "HYS_G03",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1123A",
+        "class_nbr": "8491",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C&amp;E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSK_401",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1123B",
+        "class_nbr": "5919",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_511",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1123C",
+        "class_nbr": "5341",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_406",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1123D",
+        "class_nbr": "5342",
+        "course_title": "Oral Skills Practice I 口語技能訓練（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C&amp;E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_510",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703A",
+        "class_nbr": "9128",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_501",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703B",
+        "class_nbr": "8974",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_406",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703C",
+        "class_nbr": "9237",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_411",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703D",
+        "class_nbr": "6090",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_409",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703I",
+        "class_nbr": "9167",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_501",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC1703J",
+        "class_nbr": "8518",
+        "course_title": "Elem CAN for Chi Speakers 華語學生粵語初級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "J",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2213-",
+        "class_nbr": "8396",
+        "course_title": "Application of Voc & Gr II 詞匯與語法應用（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2223-",
+        "class_nbr": "8490",
+        "course_title": "Oral Skills Practice II 口語技能訓練（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2252-",
+        "class_nbr": "9590",
+        "course_title": "Cantonese through Songs 聽著歌學粵語",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "CLCC2703A",
+        "class_nbr": "8393",
         "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_410",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
         "class_code": "CLCC2703B",
-        "period": [
-            "Mo 10:30AM - 12:15PM"
-        ],
+        "class_nbr": "8394",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
         "units": "3.00",
-        "staff": "- Dr. LEE Siu Lun",
+        "staff": "- Staff",
         "quota": "22",
+        "vacancy": "22",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "TBA"
+        ],
         "room": [
-            "YIA_511"
+            "FYB_106",
+            "NRR"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
+        "class_code": "CLCC2703C",
+        "class_nbr": "9355",
         "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Tu 08:30AM - 10:15AM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_411",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
         "class_code": "CLCC2703D",
-        "period": [
-            "Tu 10:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. LAI Ka Ho",
-        "quota": "22",
-        "mode": "LEC",
-        "room": [
-            "YIA_406"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
+        "class_nbr": "9597",
         "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
-        "class_code": "CLCC2703G",
-        "period": [
-            "We 12:30PM - 02:15PM"
-        ],
         "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
+        "staff": "- Staff",
         "quota": "22",
+        "vacancy": "22",
         "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "TBA"
+        ],
         "room": [
-            "UCC_114"
+            "YIA_406",
+            "NRR"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Advanced CAN for Chi Speakers 華語學生粵語高級",
-        "class_code": "CLCC3703A",
-        "period": [
-            "Tu 12:30PM - 02:15PM"
-        ],
+        "class_code": "CLCC2703E",
+        "class_nbr": "8395",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
         "units": "3.00",
-        "staff": "- Dr. CHAN Sze Mun",
+        "staff": "- Staff",
         "quota": "22",
+        "vacancy": "22",
         "mode": "LEC",
+        "section_code": "E",
+        "language": "C",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "TBA"
+        ],
         "room": [
-            "WMY_406"
+            "YIA_411",
+            "NRR"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2703F",
+        "class_nbr": "8398",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "F",
+        "language": "C",
+        "period": [
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2703G",
+        "class_nbr": "5723",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "G",
+        "language": "C",
+        "period": [
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "YIA_409",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2703H",
+        "class_nbr": "9356",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "H",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_401",
+            "NRR"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2703I",
+        "class_nbr": "8397",
+        "course_title": "Intermed CAN for Chi Speakers 華語學生粵語中級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "I",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_106",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC2903-",
+        "class_nbr": "5405",
+        "course_title": "Medical Cantonese II 醫學粵語（二）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "CKB_122"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "CLCC3323-",
+        "class_nbr": "8218",
+        "course_title": "Oral Skills Practice III 口語技能訓練（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "19",
+        "vacancy": "19",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "We 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "CKB_108",
+            "WMY_401"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "CLCC3703A",
+        "class_nbr": "9598",
+        "course_title": "Advanced CAN for Chi Speakers 華語學生粵語高級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "WMY_406",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC3703B",
+        "class_nbr": "5328",
+        "course_title": "Advanced CAN for Chi Speakers 華語學生粵語高級",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "22",
+        "vacancy": "22",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "TBA"
+        ],
+        "room": [
+            "FYB_603",
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "CLCC4423-",
+        "class_nbr": "7743",
+        "course_title": "Colloquial CAN and Local Cult 粵語方言和地方文化",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 10:30AM - 12:15PM",
+            "Th 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "HYS_G01",
+            "YIA_410"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     }
 ]

@@ -1,123 +1,205 @@
 [
     {
-        "course_title": "Energy & Environ Econ & Mgmt 能源和環境經濟學及管理",
         "class_code": "EEEN2030-",
-        "period": [
-            "Tu 09:30AM - 11:15AM",
-            "Th 02:30PM - 03:15PM"
-        ],
+        "class_nbr": "5839",
+        "course_title": "Energy & Environ Econ & Mgmt 能源和環境經濟學及管理",
         "units": "3.00",
         "staff": "- Professor XU Yunjian",
-        "quota": "55",
+        "quota": "50",
+        "vacancy": "50",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 11:15AM",
+            "Th 02:30PM - 03:15PM",
+            "TBA"
+        ],
         "room": [
             "LPN_LT",
-            "MMW_707"
+            "LSK_208",
+            "TBA"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "HVAC I 供熱通風與空調（一）",
         "class_code": "EEEN2040-",
-        "period": [
-            "We 11:30AM - 01:15PM",
-            "Fr 10:30AM - 11:15AM"
-        ],
+        "class_nbr": "9021",
+        "course_title": "HVAC I 供熱通風與空調（一）",
         "units": "3.00",
         "staff": "- Professor CHEN Chun",
-        "quota": "85",
+        "quota": "80",
+        "vacancy": "80",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Fr 10:30AM - 11:15AM",
+            "TBA"
+        ],
         "room": [
-            "LSB_LT3",
-            "LSB_LT4"
+            "SC_L3",
+            "LHC_104",
+            "TBA"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Engineering Materials 工程材料",
         "class_code": "EEEN3030-",
-        "period": [
-            "Mo 05:30PM - 06:15PM",
-            "Tu 02:30PM - 04:15PM"
-        ],
+        "class_nbr": "5751",
+        "course_title": "Engineering Materials 工程材料",
         "units": "3.00",
         "staff": "- Professor HE Qiguang",
-        "quota": "165",
+        "quota": "180",
+        "vacancy": "180",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 05:30PM - 06:15PM",
+            "Tu 02:30PM - 04:15PM",
+            "TBA"
+        ],
         "room": [
-            "ERB_LT",
-            "SC_L1"
+            "MMW_LT1",
+            "SC_L1",
+            "NRR",
+            "TBA"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Energy Storage Devices & Sys 能源存儲裝置與系統",
         "class_code": "EEEN4050-",
-        "period": [
-            "Tu 01:30PM - 02:15PM",
-            "Th 04:30PM - 06:15PM"
-        ],
+        "class_nbr": "9578",
+        "course_title": "Energy Storage Devices & Sys 能源存儲裝置與系統",
         "units": "3.00",
         "staff": "- Professor CHEN Yue",
-        "quota": "70",
+        "quota": "60",
+        "vacancy": "60",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 01:30PM - 02:15PM",
+            "Th 04:30PM - 06:15PM",
+            "TBA"
+        ],
         "room": [
-            "SC_L5",
-            "BMS_LT"
+            "MMW_702",
+            "ERB_404",
+            "NRR",
+            "TBA"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Green Building & Sustain Tech 綠色建築與可持續發展技術",
         "class_code": "EEEN4070-",
-        "period": [
-            "Tu 04:30PM - 06:15PM",
-            "Th 03:30PM - 04:15PM"
-        ],
+        "class_nbr": "5521",
+        "course_title": "Green Building & Sustain Tech 綠色建築與可持續發展技術",
         "units": "3.00",
         "staff": "- Professor CHEN Xi",
         "quota": "60",
+        "vacancy": "60",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 01:15PM",
+            "Th 09:30AM - 11:15AM",
+            "TBA"
+        ],
         "room": [
             "ERB_404",
-            "MMW_702"
+            "LHC_G04",
+            "TBA"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "EEEN4998-",
+        "class_nbr": "6730",
+        "course_title": "Final Year Project I 畢業專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "EEEN4999-",
+        "class_nbr": "7805",
+        "course_title": "Final Year Project II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Weizhao",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

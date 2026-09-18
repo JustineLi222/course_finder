@@ -1,415 +1,969 @@
 [
     {
-        "course_title": "Engineering Physics 工程物理",
         "class_code": "ESTR1003-",
+        "class_nbr": "7393",
+        "course_title": "Engineering Physics 工程物理",
+        "units": "3.00",
+        "staff": "- Professor LI Jizhou",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 02:30PM - 04:15PM",
-            "Th 04:30PM - 05:15PM",
-            "Th 05:30PM - 06:15PM"
+            "Fr 09:30AM - 10:15AM",
+            "Fr 10:30AM - 11:15AM"
         ],
-        "units": "3.00",
-        "staff": "- Professor ZHAO Ni",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
             "LHC_G04",
-            "BMS_2"
+            "ERB_804"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Linear Algebra for Engineers 線性代數及其工程應用",
         "class_code": "ESTR1005-",
+        "class_nbr": "5748",
+        "course_title": "Linear Algebra for Engineers 線性代數及其工程應用",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Mo 09:30AM - 11:15AM",
-            "We 09:30AM - 10:15AM",
-            "We 10:30AM - 11:15AM"
+            "We 10:30AM - 11:15AM",
+            "We 12:30PM - 02:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor LONG Zhuoyu",
-        "quota": "60",
-        "mode": "LEC",
         "room": [
             "LSB_C1",
-            "SWH_1"
+            "LHC_104",
+            "YIA_505"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Multivariable Calculus for Eng 多元微積分及其工程應用",
         "class_code": "ESTR1006-",
-        "period": [
-            "Tu 04:30PM - 06:15PM",
-            "Th 12:30PM - 01:15PM",
-            "Th 01:30PM - 02:15PM"
-        ],
+        "class_nbr": "9573",
+        "course_title": "Multivariable Calculus for Eng 多元微積分及其工程應用",
         "units": "3.00",
         "staff": "- Dr. HAN Dongkun",
         "quota": "60",
+        "vacancy": "60",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 04:30PM - 06:15PM",
+            "Th 03:30PM - 04:15PM",
+            "Th 04:30PM - 06:15PM"
+        ],
         "room": [
-            "WMY_506"
+            "WMY_506",
+            "WMY_403"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Differential Equations for Eng 微分方程及其工程應用",
         "class_code": "ESTR2016-",
+        "class_nbr": "8348",
+        "course_title": "Differential Equations for Eng 微分方程及其工程應用",
+        "units": "2.00",
+        "staff": "- Professor HUANG Chaoran",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Mo 09:30AM - 11:15AM",
             "Mo 11:30AM - 12:15PM",
             "We 09:30AM - 11:15AM"
         ],
-        "units": "2.00",
-        "staff": "- Professor HUANG Chaoran",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
-            "BMS_G18",
+            "SC_L1",
             "ERB_LT"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Statistics for Engineers 統計及其工程應用",
         "class_code": "ESTR2020-",
-        "period": [
-            "Mo 12:30PM - 02:15PM",
-            "Mo 02:30PM - 03:15PM",
-            "We 12:30PM - 02:15PM"
-        ],
+        "class_nbr": "8362",
+        "course_title": "Statistics for Engineers 統計及其工程應用",
         "units": "2.00",
         "staff": "- Professor PAN Jialin",
         "quota": "50",
+        "vacancy": "50",
         "mode": "LEC",
-        "room": [
-            "MMW_LT1",
-            "MMW_707"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Data Structures 數據結構",
-        "class_code": "ESTR2102-",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Mo 04:30PM - 05:15PM",
-            "Mo 05:30PM - 06:15PM",
-            "We 02:30PM - 04:15PM",
-            "We 05:30PM - 06:15PM",
-            "Th 05:30PM - 06:15PM"
+            "Mo 11:30AM - 12:15PM",
+            "Mo 12:30PM - 02:15PM",
+            "We 12:30PM - 02:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor KING Kuo Chin Irwin",
-        "quota": "20",
-        "mode": "LEC",
         "room": [
-            "MMW_LT2",
-            "LSB_LT6",
-            "LSB_LT1"
+            "MMW_LT1"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Signals and Systems 信號與系統",
         "class_code": "ESTR2206-",
-        "period": [
-            "We 11:30AM - 12:15PM",
-            "Th 12:30PM - 01:15PM",
-            "Fr 09:30AM - 11:15AM",
-            "We 12:30PM - 01:15PM"
-        ],
+        "class_nbr": "6557",
+        "course_title": "Signals and Systems 信號與系統",
         "units": "3.00",
         "staff": "- Ms. NGAN Lai Yin",
         "quota": "10",
+        "vacancy": "10",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 12:30PM - 01:15PM",
+            "Fr 09:30AM - 11:15AM",
+            "TBA",
+            "Th 01:30PM - 02:15PM"
+        ],
         "room": [
-            "LSB_LT2",
-            "ERB_405",
-            "ERB_401",
-            "LHC_106"
+            "ERB_407",
+            "LSB_LT5",
+            "TBA",
+            "NRR",
+            "ERB_706",
+            "ERB_703",
+            "MMW_704"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Discrete Struc and Probability 離散結構及概率論",
+        "class_code": "ESTR2306-",
+        "class_nbr": "5039",
+        "course_title": "Intro to Sys Programming 系統編程導論",
+        "units": "3.00",
+        "staff": "- Dr. YIN Ho Fai Hoover",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 02:15PM",
+            "Th 11:30AM - 12:15PM",
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT6",
+            "ERB_1004",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
         "class_code": "ESTR2362-",
+        "class_nbr": "4820",
+        "course_title": "Discrete Struc and Probability 離散結構及概率論",
+        "units": "3.00",
+        "staff": "- Professor Amin AMINZADEH GOHARI",
+        "quota": "13",
+        "vacancy": "13",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Mo 09:30AM - 11:15AM",
-            "We 09:30AM - 10:15AM",
-            "We 10:30AM - 11:15AM"
+            "We 08:30AM - 10:15AM",
+            "TBA"
         ],
-        "units": "3.00",
-        "staff": "- Professor LI Cheuk Ting",
-        "quota": "10",
-        "mode": "LEC",
         "room": [
-            "MMW_704",
-            "SC_LG23",
-            "ERB_713"
+            "MMW_706",
+            "BMS_2",
+            "TBA",
+            "NRR"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Optimization Methods 優化方法",
         "class_code": "ESTR2520-",
-        "period": [
-            "Mo 03:30PM - 04:15PM",
-            "We 03:30PM - 04:15PM",
-            "Fr 09:30AM - 11:15AM"
-        ],
+        "class_nbr": "6659",
+        "course_title": "Optimization Methods 優化方法",
         "units": "3.00",
         "staff": "- Professor WAI Hoi To",
         "quota": "10",
+        "vacancy": "10",
         "mode": "LEC",
-        "room": [
-            "LHC_101",
-            "MMW_710",
-            "BMS_G18"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
-        ]
-    },
-    {
-        "course_title": "Microele. Devices and Circuits 微電子器件與電路",
-        "class_code": "ESTR3200-",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Mo 12:30PM - 02:15PM",
-            "Tu 12:30PM - 01:15PM",
-            "Tu 11:30AM - 12:15PM"
+            "We 02:30PM - 04:15PM",
+            "Fr 10:30AM - 11:15AM",
+            "TBA",
+            "Tu 03:30PM - 04:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor PUN Kong Pang",
-        "quota": "7",
-        "mode": "LEC",
-        "room": [
-            "LHC_104",
-            "ERB_407",
-            "ERB_703",
-            "SC_L3",
-            "MMW_705"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Netwks: Tech, Eco, & Soc Inter 網絡：技術，經濟，和社會互動",
-        "class_code": "ESTR3302-",
-        "period": [
-            "Mo 09:30AM - 11:15AM",
-            "We 09:30AM - 10:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor ZHAO Changhong",
-        "quota": "10",
-        "mode": "LEC",
         "room": [
             "SC_L1",
-            "SC_L2"
+            "SC_L2",
+            "TBA",
+            "LSB_LT1"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Computer Networks 計算機網絡",
-        "class_code": "ESTR3310-",
+        "class_code": "ESTR3100-",
+        "class_nbr": "7676",
+        "course_title": "Rapid Prototyping of Dig Sys 數字系統之快速原型技術",
+        "units": "3.00",
+        "staff": "- Professor YANG Ming Chang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Tu 11:30AM - 12:15PM",
+            "Tu 09:30AM - 10:15AM",
+            "Tu 10:30AM - 12:15PM",
             "We 12:30PM - 02:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor LIEW Soung Chang",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
-            "SC_LG23",
-            "MMW_702"
+            "ERB_404",
+            "SHB_102"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Introduction to Robotics 機器人學導論",
-        "class_code": "ESTR3408-",
+        "class_code": "ESTR3106-",
+        "class_nbr": "6041",
+        "course_title": "Principles of Programming Lang 程序設計語言原理",
+        "units": "3.00",
+        "staff": "- Professor Lauren Marcelyn PICK",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Mo 01:30PM - 02:15PM",
-            "We 02:30PM - 04:15PM"
+            "Mo 02:30PM - 04:15PM",
+            "Tu 03:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM",
+            "Tu 05:30PM - 06:15PM",
+            "We 04:30PM - 05:15PM",
+            "Th 03:30PM - 04:15PM"
         ],
+        "room": [
+            "ERB_LT",
+            "LHC_104",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "ESTR3306-",
+        "class_nbr": "4822",
+        "course_title": "Soc Media & Human Infor Int 社交媒體與人際信息互動",
+        "units": "3.00",
+        "staff": "- Professor CHAN Yuen Yan",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 12:30PM - 01:15PM",
+            "Th 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "LSB_LT3",
+            "MMW_710",
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR3310-",
+        "class_nbr": "4824",
+        "course_title": "Computer Networks 計算機網絡",
+        "units": "3.00",
+        "staff": "- Professor LIEW Soung Chang",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "We 12:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "MMW_LT2",
+            "HTB_B6",
+            "TBA"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR3408-",
+        "class_nbr": "6491",
+        "course_title": "Introduction to Robotics 機器人學導論",
         "units": "3.00",
         "staff": "- Professor LAU Tat Ming",
         "quota": "5",
+        "vacancy": "5",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 01:30PM - 02:15PM",
+            "We 02:30PM - 04:15PM",
+            "TBA"
+        ],
         "room": [
-            "SB_UG06"
+            "SB_UG06",
+            "TBA"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Computational Finance 計算金融學",
-        "class_code": "ESTR4506-",
-        "period": [
-            "Mo 04:30PM - 05:15PM",
-            "We 11:30AM - 01:15PM",
-            "Th 01:30PM - 02:15PM"
-        ],
+        "class_code": "ESTR4120-",
+        "class_nbr": "5334",
+        "course_title": "Data Comm & Computer Networks 數據通信及計算機網絡",
         "units": "3.00",
-        "staff": "- Professor AHN Dohyun",
+        "staff": "- Professor XU Hong",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 04:30PM - 06:15PM",
+            "We 04:30PM - 05:15PM",
+            "We 05:30PM - 06:15PM",
+            "We 11:30AM - 12:15PM"
+        ],
         "room": [
-            "ERB_706",
-            "ERB_909",
-            "ERB_404"
+            "MMW_LT2",
+            "TYW_LT"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "ESTR4300-",
+        "class_nbr": "4835",
+        "course_title": "Web-scale Info Analytics 網絡規模資訊分析",
+        "units": "3.00",
+        "staff": "- Professor LAU Wing Cheong",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 11:15AM",
+            "Fr 09:30AM - 11:15AM",
+            "TBA"
+        ],
+        "room": [
+            "BMS_G18",
+            "NRR",
+            "TBA"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AB",
+        "class_nbr": "6215",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LO Chi Lik Eric",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "ABJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AC",
+        "class_nbr": "6789",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor Farzan FARNIA",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "ACJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AD",
+        "class_nbr": "6790",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHENG James",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "ADJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AE",
+        "class_nbr": "6791",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Yu",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "AEJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AF",
+        "class_nbr": "6792",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LIANG Xiao",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "AFJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AG",
+        "class_nbr": "6214",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LIU Shengchao",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "AGJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AH",
+        "class_nbr": "6630",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LU Songtao",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "AHJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AI",
+        "class_nbr": "6610",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LYU Rung Tsong Michael",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "AIJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999AJ",
+        "class_nbr": "6611",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor XU Hong",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "AJJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999BA",
+        "class_nbr": "6609",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Jizhou",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "BAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999BB",
+        "class_nbr": "7877",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor REN Hongliang",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "BBJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999CA",
+        "class_nbr": "6365",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LIN Xiaojun",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "CAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999CB",
+        "class_nbr": "8070",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor XING Guoliang",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "CBJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999CC",
+        "class_nbr": "8090",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor XUE Tianfan",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "CCJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999CD",
+        "class_nbr": "8091",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor YAN Zhenyu",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "CDJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999CE",
+        "class_nbr": "7768",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor YUE Xiangyu",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "CEJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999DA",
+        "class_nbr": "8519",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor CHEN Chun",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "DAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999DB",
+        "class_nbr": "8531",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor LI Zhongyu",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "PRJ",
+        "section_code": "DBJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "ESTR4999EA",
+        "class_nbr": "6366",
+        "course_title": "Graduation Thesis II 畢業專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor AHN Dohyun",
+        "quota": "34",
+        "vacancy": "34",
+        "mode": "PRJ",
+        "section_code": "EAJ1",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

@@ -1,21 +1,48 @@
 [
     {
-        "course_title": "Italian I 意大利語（一）",
         "class_code": "ITAL1000-",
+        "class_nbr": "4960",
+        "course_title": "Italian I 意大利語（一）",
+        "units": "3.00",
+        "staff": "- Dr. Beatrice DE MAGISTRIS",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "I&amp;E",
         "period": [
             "Th 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. Beatrice DE MAGISTRIS",
-        "quota": "24",
-        "mode": "CLW",
         "room": [
-            "ERB_402"
+            "ERB_408"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "ITAL2000-",
+        "class_nbr": "7183",
+        "course_title": "Italian II 意大利語（二）",
+        "units": "3.00",
+        "staff": "- Dr. Beatrice DE MAGISTRIS",
+        "quota": "28",
+        "vacancy": "28",
+        "mode": "CLW",
+        "section_code": "-C01",
+        "language": "I&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "FYB_401"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     }
 ]

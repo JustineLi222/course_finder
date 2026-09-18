@@ -1,192 +1,410 @@
 [
     {
-        "course_title": "Intro to Global Studies I 全球研究導論（一）",
         "class_code": "GLSD1001B",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
+        "class_nbr": "6082",
+        "course_title": "Theo. Perspectives on Glob. 全球化的理論視角",
         "units": "3.00",
         "staff": "- Dr. Efstratios POURZITAKIS",
-        "quota": "31",
+        "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
         "room": [
-            "WMY_404"
+            "WMY_504"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Intro to Global Studies II 全球研究導論（二）",
         "class_code": "GLSD1003-",
-        "period": [
-            "Mo 10:30AM - 01:15PM"
-        ],
+        "class_nbr": "5863",
+        "course_title": "Globalization: Issues & Debate 全球化：問題與爭論",
         "units": "3.00",
         "staff": "- Dr. CHEUNG Ho Yan Yannie",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "GLSD2201-",
+        "class_nbr": "8459",
+        "course_title": "Global'n, Cultures & Societies 全球化、文化與社會",
+        "units": "3.00",
+        "staff": "- Professor Maximilian Piers HOLLAND",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "GLSD2401-",
+        "class_nbr": "7046",
+        "course_title": "Global Sustainability 全球的可持續性",
+        "units": "3.00",
+        "staff": "- Dr. Maria Del Mar FRANCESCH HUIDOBRO",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "GLSD2701-",
+        "class_nbr": "6545",
+        "course_title": "Field Studies 實地考察",
+        "units": "3.00",
+        "staff": "- Professor LEUNG Ka Yee",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "GLSD3101-",
+        "class_nbr": "6802",
+        "course_title": "ICT & Society 資訊通訊科技及社會",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Ho Ming",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
         "room": [
             "CKB_706C"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "ICT & Society 資訊通訊科技及社會",
-        "class_code": "GLSD3101-",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
+        "class_code": "GLSD3105-",
+        "class_nbr": "5360",
+        "course_title": "Understanding Global Cities 認識全球城市和都市空間",
         "units": "3.00",
-        "staff": "- Professor CHEUNG Ho Ming",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
-        "room": [
-            "HYS_G03"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Cultural Psychology & Global'n 文化心理學與全球化",
-        "class_code": "GLSD3201-",
-        "period": [
-            "We 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LEUNG Ka Yee",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "HYS_G03"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Int'l Relations & Int'l Law 國際關係與國際法",
-        "class_code": "GLSD3301-",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Th 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. HUNG Wing Lok",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
-            "HYS_G03"
+            "UCA_102"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Understand Gbl Issue fr Movies 從電影看全球議題",
-        "class_code": "GLSD3303-",
+        "class_code": "GLSD3106-",
+        "class_nbr": "5967",
+        "course_title": "Rise of China I 全球化與中國崛起（一）：外交、貿易與軟實力",
+        "units": "3.00",
+        "staff": "- Dr. HORIUCHI Toru",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Mo 10:30AM - 01:15PM"
+            "Th 02:30PM - 05:15PM"
         ],
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "GLSD3301-",
+        "class_nbr": "7280",
+        "course_title": "Int'l Relations & Int'l Law 國際關係與國際法",
+        "units": "3.00",
+        "staff": "- Dr. HUNG Wing Lok",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CKB_123"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "GLSD3303-",
+        "class_nbr": "8472",
+        "course_title": "Understand Gbl Issue fr Movies 從電影看全球議題",
         "units": "3.00",
         "staff": "- Dr. Tobias ZUSER",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
         "room": [
-            "HYS_G03"
+            "UCA_105"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Glb Environmental Challenges 全球環境的挑戰",
         "class_code": "GLSD3401-",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
+        "class_nbr": "6803",
+        "course_title": "Glb Environmental Challenges 全球環境的挑戰",
         "units": "3.00",
         "staff": "- Professor LEE Fung",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
         "room": [
-            "HYS_G03"
+            "CKB_706C"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "European Union and the World 歐盟與世界",
         "class_code": "GLSD3403-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
+        "class_nbr": "5717",
+        "course_title": "European Union and the World 歐盟與世界",
         "units": "3.00",
         "staff": "- Dr. HUNG Wing Lok",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
         "room": [
-            "HYS_G03"
+            "UCA_111"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Glb Business Organizations 全球商業組織",
         "class_code": "GLSD3501-",
+        "class_nbr": "6804",
+        "course_title": "Glb Business Organizations 全球商業組織",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. CHAN Pak Cheung",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
-            "CKB_108"
+            "UCC_114"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Traditional Security: M, W P 傳統安全：軍事、戰爭與和平",
-        "class_code": "GLSD4401-",
+        "class_code": "GLSD3601-",
+        "class_nbr": "6570",
+        "course_title": "Internship 實習",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
         "period": [
-            "Mo 02:30PM - 05:15PM"
+            "TBA"
         ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "GLSD4001-",
+        "class_nbr": "6581",
+        "course_title": "GS Capstone Thesis I 全球研究畢業論文（一）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "GLSD4002-",
+        "class_nbr": "6528",
+        "course_title": "GS Capstone Thesis II 全球研究畢業論文（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung- Professor WONG Seanon Si Lon",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "TMC",
+        "section_code": "-M01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "GLSD4004-",
+        "class_nbr": "6580",
+        "course_title": "GS Capstone Project II 全球研究畢業報告（二）",
+        "units": "3.00",
+        "staff": "- Dr. CHEUNG Ho Yan Yannie- Dr. HORIUCHI Toru- Dr. HUNG Wing Lok- Professor LEE Fung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "GLSD4401-",
+        "class_nbr": "5412",
+        "course_title": "Traditional Security: M, W P 傳統安全：軍事、戰爭與和平",
         "units": "3.00",
         "staff": "- Dr. HORIUCHI Toru",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
-            "HYS_G03"
+            "NAH_11"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     }
 ]

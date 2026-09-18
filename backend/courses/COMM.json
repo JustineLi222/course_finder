@@ -1,1094 +1,1324 @@
 [
     {
-        "course_title": "Media and Everyday Life 媒體．生活",
         "class_code": "COMM1110C",
+        "class_nbr": "6182",
+        "course_title": "Media and Everyday Life 媒體．生活",
+        "units": "3.00",
+        "staff": "- Professor LEE LAI Annisa",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
         "period": [
             "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. Louis Joseph TRAVIS",
-        "quota": "60",
-        "mode": "LEC",
         "room": [
             "YIA_LT4"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Media and Everyday Life 媒體．生活",
         "class_code": "COMM1110D",
+        "class_nbr": "5656",
+        "course_title": "Media and Everyday Life 媒體．生活",
+        "units": "3.00",
+        "staff": "- Ms. LAM Yok Yiu Agnes",
+        "quota": "75",
+        "vacancy": "75",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Miss LAU Wai Yin Joanna",
-        "quota": "75",
-        "mode": "LEC",
         "room": [
             "WMY_507"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Development of Mass Comm 大眾傳播的發展",
-        "class_code": "COMM1120D",
+        "class_code": "COMM1120C",
+        "class_nbr": "7425",
+        "course_title": "Development of Media & Comm 媒體與傳播發展",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
         "period": [
             "Mo 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. HU Yang",
-        "quota": "60",
-        "mode": "LEC",
         "room": [
             "ELB_206"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Intro to Media Ind & Practices 媒體工業與實踐導論",
         "class_code": "COMM1150B",
-        "period": [
-            "We 03:30PM - 06:15PM"
-        ],
+        "class_nbr": "4857",
+        "course_title": "Intro to Media Ind & Practices 媒體工業與實踐導論",
         "units": "3.00",
-        "staff": "- Dr. Louis Joseph TRAVIS",
-        "quota": "63",
+        "staff": "- Mr. TANG Ho Man",
+        "quota": "60",
+        "vacancy": "60",
         "mode": "LEC",
-        "room": [
-            "ELB_LT2"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Audience Analysis and Strategy 受眾分析與策略研究",
-        "class_code": "COMM2100A",
+        "section_code": "B",
+        "language": "E",
         "period": [
-            "Tu 10:30AM - 01:15PM"
+            "Th 03:30PM - 06:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Mr. CHAN Wing Tai- Ms. LEUNG Kit Wah Jenny",
-        "quota": "20",
-        "mode": "LEC",
         "room": [
             "NAH_312"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Audience Analysis and Strategy 受眾分析與策略研究",
-        "class_code": "COMM2100B",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
+        "class_code": "COMM1500B",
+        "class_nbr": "9906",
+        "course_title": "Perspectives in Global Comm 全球傳播概論",
         "units": "3.00",
-        "staff": "- Mr. CHAN Wing Tai- Ms. LEUNG Kit Wah Jenny",
-        "quota": "20",
+        "staff": "- Professor CHAN Ngai Keung",
+        "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
         "room": [
-            "UCC_110"
+            "UCA_312"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Chinese News Reporting I 中文新聞採訪寫作（一）",
-        "class_code": "COMM2110-",
+        "class_code": "COMM2100A",
+        "class_nbr": "8575",
+        "course_title": "Audience Analysis and Strategy 受眾分析與策略研究",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Wing Tai- Ms. LEUNG Kit Wah Jenny",
+        "quota": "18",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C#E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_312"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM2100B",
+        "class_nbr": "9532",
+        "course_title": "Audience Analysis and Strategy 受眾分析與策略研究",
+        "units": "3.00",
+        "staff": "- Mr. CHAN Wing Tai- Ms. LEUNG Kit Wah Jenny",
+        "quota": "18",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C#E",
+        "period": [
+            "Tu 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM2110B",
+        "class_nbr": "8734",
+        "course_title": "Chin News Production (Writing) 中文新聞製作（文字）",
+        "units": "3.00",
+        "staff": "- Ms. CHAN Sik Chee",
+        "quota": "11",
+        "vacancy": "11",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
         "period": [
             "Th 01:30PM - 03:15PM",
             "We 10:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Ms. CHAN Sik Chee",
-        "quota": "16",
-        "mode": "LEC",
         "room": [
             "NAH_208",
             "UCA_103"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "English News Reporting I 英文新聞採訪寫作（一）",
         "class_code": "COMM2120-",
-        "period": [
-            "Mo 11:30AM - 01:15PM",
-            "We 11:30AM - 01:15PM"
-        ],
+        "class_nbr": "8735",
+        "course_title": "English News Production I 英文新聞製作（一）",
         "units": "3.00",
         "staff": "- Ms. LAM Yok Yiu Agnes",
         "quota": "24",
+        "vacancy": "24",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
         "room": [
             "NAH_208"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Med & Soc Dev in Mainland Chi 中國大陸的媒介與社會發展",
-        "class_code": "COMM2140-",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor FANG Kecheng",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "UCC_C5"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Communication Research Methods 傳播研究方法",
         "class_code": "COMM2160-",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
+        "class_nbr": "6010",
+        "course_title": "Communication Research Methods 傳播研究方法",
         "units": "3.00",
         "staff": "- Professor CHAN Che Ming",
         "quota": "120",
+        "vacancy": "120",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
         "room": [
             "NAH_115"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Chinese News Reporting II 中文新聞採訪寫作（二）",
-        "class_code": "COMM2170C",
-        "period": [
-            "We 10:30AM - 01:15PM"
-        ],
+        "class_code": "COMM2170B",
+        "class_nbr": "8721",
+        "course_title": "Chinese News Production (MM) 中文新聞製作（多媒體）",
         "units": "3.00",
-        "staff": "- Mr. SUM Wan Wah",
-        "quota": "16",
+        "staff": "- Ms. CHAN Sik Chee",
+        "quota": "10",
+        "vacancy": "10",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
-            "CML_203"
+            "NAH_312"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
+        "class_code": "COMM2210-",
+        "class_nbr": "6183",
         "course_title": "News and Society 新聞與社會",
-        "class_code": "COMM2210B",
+        "units": "3.00",
+        "staff": "- Professor MAK Ka Fai",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Miss LAM Miu Yan",
-        "quota": "40",
-        "mode": "LEC",
         "room": [
             "UCC_C2"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Sound and Creative Media 聲音與創意媒體",
         "class_code": "COMM2300-",
+        "class_nbr": "8695",
+        "course_title": "Sound and Creative Media 聲音與創意媒體",
+        "units": "3.00",
+        "staff": "- Professor POON Tat Pui",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
         "period": [
             "Tu 02:30PM - 04:15PM",
             "Tu 04:30PM - 06:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor POON Tat Pui",
-        "quota": "35",
-        "mode": "LEC",
         "room": [
             "NAH_6"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Creative Media Curation & Mgt 創意媒體策展與管理",
         "class_code": "COMM2320-",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
+        "class_nbr": "8569",
+        "course_title": "Creative Media Curation & Mgt 創意媒體策展與管理",
         "units": "3.00",
         "staff": "- Mr. TSANG Tsz Yeung",
         "quota": "35",
+        "vacancy": "35",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
             "CML_205"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Photojournalism 新聞攝影",
         "class_code": "COMM2440B",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr KWOK Hing Fai",
-        "quota": "15",
-        "mode": "LEC",
-        "room": [
-            "NAH_6"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
+        "class_nbr": "8670",
         "course_title": "Photojournalism 新聞攝影",
-        "class_code": "COMM2440C",
-        "period": [
-            "We 03:30PM - 06:15PM"
-        ],
         "units": "3.00",
-        "staff": "- Mr. TSANG Tsz Yeung",
-        "quota": "15",
+        "staff": "- Mr YEUNG Tak Ming",
+        "quota": "18",
+        "vacancy": "18",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
             "NAH_6"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Hong Kong Cinema 香港電影",
-        "class_code": "COMM2570-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
+        "class_code": "COMM2560-",
+        "class_nbr": "9294",
+        "course_title": "Field Study in Global Comm 全球傳播實地考察",
         "units": "3.00",
-        "staff": "- Mr LAU Yam",
-        "quota": "40",
-        "mode": "LEC",
+        "staff": "- Professor LIN Jian",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 04:15PM",
+            "Tu 04:30PM - 05:15PM"
+        ],
         "room": [
-            "NAH_208"
+            "UCA_102"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Global Cinema 全球電影",
         "class_code": "COMM2590-",
-        "period": [
-            "Th 03:30PM - 06:15PM"
-        ],
+        "class_nbr": "9728",
+        "course_title": "Global Cinema 全球電影",
         "units": "3.00",
         "staff": "- Dr. CHAN Ka Ming",
-        "quota": "35",
+        "quota": "27",
+        "vacancy": "27",
         "mode": "LEC",
-        "room": [
-            "WMY_504",
-            "FYB_401"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Foreign News Desk Practice 國際新聞實務",
-        "class_code": "COMM2610-",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "Th 06:30PM - 09:15PM"
+            "Tu 03:30PM - 06:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Ms LIN Ching Kit",
-        "quota": "25",
-        "mode": "LEC",
         "room": [
-            "NAH_312"
+            "YIA_608"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Radio Production 廣播製作",
-        "class_code": "COMM2733B",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
+        "class_code": "COMM2600-",
+        "class_nbr": "8220",
+        "course_title": "Intro to Chinese Journalism 中文新聞導論",
         "units": "3.00",
-        "staff": "- Mr YANG Kut Si",
-        "quota": "16",
+        "staff": "- Professor KOO Zhi Xiong",
+        "quota": "45",
+        "vacancy": "45",
         "mode": "LEC",
-        "room": [
-            "CML_203"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Soc Campaigning & PR for NGOs 社會議題推廣與非牟利組織公關策略",
-        "class_code": "COMM2814-",
+        "section_code": "-",
+        "language": "C",
         "period": [
             "Mo 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. Louis Joseph TRAVIS",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "LSK_LT3"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Advertising and Society 廣告與社會",
-        "class_code": "COMM2840B",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LEE LAI Annisa",
-        "quota": "35",
-        "mode": "LEC",
-        "room": [
-            "UCA_104"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Introduction to IMC 綜合市場傳播導論",
-        "class_code": "COMM2850B",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor CHAN Hon Ying Terri",
-        "quota": "50",
-        "mode": "LEC",
-        "room": [
-            "UCA_104"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Intro to Creative & New Media 創意媒體與新媒體導論",
-        "class_code": "COMM2922C",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. TANG Ho Man",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "NAH_314"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Principles of Editing in CM 創意媒體剪接原理",
-        "class_code": "COMM2925-",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss CHANG Yuk Mui",
-        "quota": "15",
-        "mode": "LEC",
-        "room": [
-            "CML_203"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Art Direction 美術指導",
-        "class_code": "COMM2928-",
-        "period": [
-            "Mo 06:30PM - 09:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss CHENG Wai Ying",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "NAH_312"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Understanding Movies 認識電影",
-        "class_code": "COMM2930B",
-        "period": [
-            "Tu 06:30PM - 09:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr CHOW Pui Ha",
-        "quota": "45",
-        "mode": "LEC",
-        "room": [
-            "UCC_C3"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Film Gen:Love, Death & Laughs 電影類型：愛情、死亡及笑話",
-        "class_code": "COMM2932B",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr TSUI Hong Chee Clarence",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "NAH_213"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Internet Digital Media Info So 互聯網、數碼媒體與資訊社會",
-        "class_code": "COMM2940B",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LIN Jian",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "NAH_11"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Photography 攝影研讀",
-        "class_code": "COMM2962B",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr SHAM Ka Ho",
-        "quota": "15",
-        "mode": "LEC",
-        "room": [
-            "NAH_314"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Special Top in Comm Studies I 傳播研讀專題（一）",
-        "class_code": "COMM3131A",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. LEUNG Chun Kan",
-        "quota": "40",
-        "mode": "LEC",
         "room": [
             "UCC_111"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Chinese News Editing 中文新聞編輯",
+        "class_code": "COMM2733B",
+        "class_nbr": "8764",
+        "course_title": "Radio and Podcast Production 電台與播客製作",
+        "units": "3.00",
+        "staff": "- Ms. AU Wing Lam Amber",
+        "quota": "16",
+        "vacancy": "16",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CML_203"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM2740-",
+        "class_nbr": "8761",
+        "course_title": "Chinese Broadcast News 中文廣播及電視新聞",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "CML_203"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM2813B",
+        "class_nbr": "5530",
+        "course_title": "Social Media and Crisis Comm 社交媒體與危機溝通",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Mengmeng",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "COMM2840-",
+        "class_nbr": "8222",
+        "course_title": "Advertising and Society 廣告與社會",
+        "units": "3.00",
+        "staff": "- Professor LEE LAI Annisa",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "COMM2850B",
+        "class_nbr": "6011",
+        "course_title": "Introduction to IMC 綜合市場傳播導論",
+        "units": "3.00",
+        "staff": "- Professor CHAN Hon Ying Terri",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM2920A",
+        "class_nbr": "6195",
+        "course_title": "Media, Sex and Violence 媒介、性與暴力",
+        "units": "3.00",
+        "staff": "- Miss TAM Wai Wan Vivian",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "COMM2920B",
+        "class_nbr": "7110",
+        "course_title": "Media, Sex and Violence 媒介、性與暴力",
+        "units": "3.00",
+        "staff": "- Miss TAM Wai Wan Vivian",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM2922C",
+        "class_nbr": "8744",
+        "course_title": "Intro to Creative & New Media 創意媒體與新媒體導論",
+        "units": "3.00",
+        "staff": "- Mr. TSANG Tsz Yeung",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_208"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM2922D",
+        "class_nbr": "9901",
+        "course_title": "Intro to Creative & New Media 創意媒體與新媒體導論",
+        "units": "3.00",
+        "staff": "- Mr. SIU Yat Long",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "NAH_312"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM2925-",
+        "class_nbr": "8851",
+        "course_title": "Principles of Editing in CM 創意媒體剪接原理",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_208"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM2928B",
+        "class_nbr": "8760",
+        "course_title": "Art Direction 美術指導",
+        "units": "3.00",
+        "staff": "- Miss CHENG Wai Ying",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Mo 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "NAH_312"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "COMM2930B",
+        "class_nbr": "7130",
+        "course_title": "Understanding Movies 認識電影",
+        "units": "3.00",
+        "staff": "- Dr CHOW Pui Ha",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM2940-",
+        "class_nbr": "8223",
+        "course_title": "Internet Digital Media Info So 互聯網、數碼媒體與資訊社會",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM2962B",
+        "class_nbr": "8696",
+        "course_title": "Photography 攝影研讀",
+        "units": "3.00",
+        "staff": "- Mr SHAM Ka Ho",
+        "quota": "18",
+        "vacancy": "18",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_314"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
         "class_code": "COMM3140B",
+        "class_nbr": "5657",
+        "course_title": "Chi News Edit & Content Mgt 中文新聞編輯與內容管理",
+        "units": "3.00",
+        "staff": "- Ms. CHAN Sik Chee",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
         "period": [
             "Tu 10:30AM - 12:15PM",
             "We 10:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Ms. CHAN Sik Chee",
-        "quota": "14",
-        "mode": "LEC",
         "room": [
             "UCC_108",
             "UCA_103"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Media and Gender 媒介與性別",
-        "class_code": "COMM3193-",
+        "class_code": "COMM3191-",
+        "class_nbr": "5531",
+        "course_title": "Film, TV and Hong Kong Culture 電影、電視與香港文化",
+        "units": "3.00",
+        "staff": "- Dr CHOW Pui Ha",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
         "period": [
-            "Th 02:30PM - 05:15PM"
+            "We 03:30PM - 06:15PM"
         ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM3193-",
+        "class_nbr": "8237",
+        "course_title": "Media and Gender 媒介與性別",
         "units": "3.00",
         "staff": "- Professor CHU Shun Chi Donna",
         "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
-        "room": [
-            "NAH_115"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Current Issues in Global Comm 全球傳播重要議題",
-        "class_code": "COMM3230-",
-        "period": [
-            "Tu 04:30PM - 05:15PM",
-            "Tu 02:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor CHAN Ngai Keung",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "UCC_201"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Integrated Strategic Camp' II 綜合策略推廣（二）",
-        "class_code": "COMM3400B",
+        "section_code": "-",
+        "language": "C#E",
         "period": [
             "We 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Mr. CHAN Wing Tai",
-        "quota": "19",
-        "mode": "LEC",
-        "room": [
-            "NAH_312"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Laws & Ethics for Comm 傳播法律與道德",
-        "class_code": "COMM3600B",
-        "period": [
-            "Mo 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss CHAN Yuen Ting Catherine- Professor LEE Lap Fung",
-        "quota": "70",
-        "mode": "LEC",
-        "room": [
-            "NAH_11"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "English News Editing 英文新聞編輯",
-        "class_code": "COMM3610B",
-        "period": [
-            "Tu 10:30AM - 12:15PM",
-            "We 11:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Ms. LAM Yok Yiu Agnes",
-        "quota": "12",
-        "mode": "LEC",
-        "room": [
-            "CML_203",
-            "NAH_208"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Info & Data Visualization 信息圖與數據可視化",
-        "class_code": "COMM3660-",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr LEUNG Kai Chi",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "NAH_114"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Issues in Current Affairs 時事重要議題",
-        "class_code": "COMM3670-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. Eric SAUTEDE",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "NAH_415"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "UI Design: Soc-cult Per & Prac 用戶介面設計：社會文化視角與實踐",
-        "class_code": "COMM3690-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor YANG Tian",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "UCC_201"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Diversity Issues in Comm 傳播與多元文化議題",
-        "class_code": "COMM3700-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Nishant Nikunj SHAH",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "WMY_504"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Script Writing and Screenplay 劇本寫作",
-        "class_code": "COMM3711-",
-        "period": [
-            "Mo 03:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. CHAN Hing Kai",
-        "quota": "50",
-        "mode": "LEC",
-        "room": [
-            "NAH_208"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Special Topic in Global Comm I 全球傳播專題（一）",
-        "class_code": "COMM3721-",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Ms. WONG Shuk Han",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "WMY_408"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Television Production 電視製作",
-        "class_code": "COMM3733-",
-        "period": [
-            "Sa 01:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. LO Yun Fai Donald",
-        "quota": "14",
-        "mode": "LEC",
-        "room": [
-            "CML_203"
-        ],
-        "meeting_date": [
-            "11/1, 18/1, 25/1",
-            "8/2, 15/2, 22/2, 1/3",
-            "15/3, 22/3, 29/3, 5/4, 12/4"
-        ]
-    },
-    {
-        "course_title": "Sp Topic in Public Relations I 公共關係專題（一）",
-        "class_code": "COMM3811B",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. CHEUNG Tin Yuen",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "UCC_C2"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Sp Top in Public Relations II 公共關係專題（二）",
-        "class_code": "COMM3812B",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Ms. CHU Tracy Tsin Suet",
-        "quota": "40",
-        "mode": "LEC",
         "room": [
             "UCC_111"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Media Management for PR 公共關係媒體管理",
-        "class_code": "COMM3820-",
-        "period": [
-            "Tu 06:30PM - 09:15PM"
-        ],
+        "class_code": "COMM3200B",
+        "class_nbr": "6777",
+        "course_title": "Comm Professional Internship 傳播專業實習",
         "units": "3.00",
-        "staff": "- Mr. CHIU Chun Ting",
-        "quota": "40",
-        "mode": "LEC",
+        "staff": "- Miss NGAI Yuet Ling",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "PRA",
+        "section_code": "BP01",
+        "language": "C#E",
+        "period": [
+            "TBA"
+        ],
         "room": [
-            "ARC_G02"
+            "NRR"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "11/01/2027 - 19/04/2027"
         ]
     },
     {
-        "course_title": "Special Topic in Advertis'g II 廣告專題（二）",
-        "class_code": "COMM3832-",
-        "period": [
-            "Mo 10:30AM - 01:15PM"
-        ],
+        "class_code": "COMM3400B",
+        "class_nbr": "8593",
+        "course_title": "Integrated Strategic Camp' II 綜合策略推廣（二）",
         "units": "3.00",
-        "staff": "- Mr. WONG Hiu Fan",
-        "quota": "25",
+        "staff": "- Mr. CHAN Wing Tai",
+        "quota": "18",
+        "vacancy": "18",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C#E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
         "room": [
             "NAH_312"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Media Invest & Perfm Mktg 媒體投資與成效營銷",
-        "class_code": "COMM3855-",
-        "period": [
-            "Th 06:30PM - 09:15PM"
-        ],
+        "class_code": "COMM3610B",
+        "class_nbr": "8736",
+        "course_title": "Eng News Content Mgt 英文新聞內容管理",
         "units": "3.00",
-        "staff": "- Mr. KAN Ka Lok Vincent",
+        "staff": "- Ms. LAM Yok Yiu Agnes",
+        "quota": "5",
+        "vacancy": "5",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_314"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM3690-",
+        "class_nbr": "8411",
+        "course_title": "UI Design: Soc-cult Per & Prac 用戶介面設計：社會文化視角與實踐",
+        "units": "3.00",
+        "staff": "- Professor YANG Tian",
         "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
-            "ARC_G02"
+            "UCC_201"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Creative Writing in Media 創意媒體寫作",
-        "class_code": "COMM3920B",
-        "period": [
-            "Th 01:30PM - 04:15PM"
-        ],
+        "class_code": "COMM3710-",
+        "class_nbr": "8239",
+        "course_title": "Legal & Eth Issu Digital Media 數碼媒體的法律與道德議題",
         "units": "3.00",
-        "staff": "- Miss HON Lai Chu",
-        "quota": "20",
+        "staff": "- Miss NGAI Yuet Ling",
+        "quota": "60",
+        "vacancy": "60",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
         "room": [
-            "CYT_202"
+            "UCC_C4"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Digital Video Production 數碼影像製作",
-        "class_code": "COMM3930A",
-        "period": [
-            "We 06:30PM - 09:15PM"
-        ],
+        "class_code": "COMM3711-",
+        "class_nbr": "8561",
+        "course_title": "Script Writing and Screenplay 劇本寫作",
         "units": "3.00",
-        "staff": "- Miss CHAN Man Yee Rita",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "CML_203"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Digital Video Production 數碼影像製作",
-        "class_code": "COMM3930B",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. TANG Ho Man",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "CML_203"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Film Directors 電影導演作品評賞",
-        "class_code": "COMM3939B",
-        "period": [
-            "Th 06:30PM - 09:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. SHIN Chi Man",
+        "staff": "- Mr. CHAN Hing Kai",
         "quota": "50",
+        "vacancy": "50",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 03:30PM - 06:15PM"
+        ],
         "room": [
             "NAH_208"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Documentary 紀錄片",
-        "class_code": "COMM4730-",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
+        "class_code": "COMM3800B",
+        "class_nbr": "8717",
+        "course_title": "Digital Media Design & App 數碼媒體設計與應用",
         "units": "3.00",
-        "staff": "- Professor POON Tat Pui",
-        "quota": "15",
+        "staff": "- Mr. SIU Yat Long",
+        "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
+        "section_code": "B",
+        "language": "C#E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
         "room": [
-            "NAH_6"
+            "NAH_209"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Cinematography 電影攝影",
-        "class_code": "COMM4935-",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
+        "class_code": "COMM3810-",
+        "class_nbr": "8253",
+        "course_title": "PR & Social Theory 公共關係與社會理論",
         "units": "3.00",
-        "staff": "- Mr. CHEUNG Yu Hon",
-        "quota": "15",
+        "staff": "- Professor LEE Kaman",
+        "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
         "room": [
-            "CML_205"
+            "NAH_208"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Advanced Photography 攝影研讀進階",
-        "class_code": "COMM4962-",
+        "class_code": "COMM3812-",
+        "class_nbr": "8412",
+        "course_title": "Sp Top in Public Relations II 公共關係專題（二）",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Mengmeng",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_201"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM3830-",
+        "class_nbr": "5532",
+        "course_title": "Legal Issues in PR & Adv 公關廣告業的法律議題",
+        "units": "3.00",
+        "staff": "- Ms. CHU Tracy Tsin Suet",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_312"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM3831-",
+        "class_nbr": "8255",
+        "course_title": "Special Topic in Advertising I 廣告專題（一）",
+        "units": "3.00",
+        "staff": "- Professor KIM Hanyoung",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "SB_UG06"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM3850-",
+        "class_nbr": "8642",
+        "course_title": "Advertising Art Direction 廣告美術指導與設計",
+        "units": "3.00",
+        "staff": "- Mr. WONG Hiu Fan",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
         "period": [
             "We 10:30AM - 01:15PM"
         ],
+        "room": [
+            "NAH_208"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "COMM3855-",
+        "class_nbr": "8270",
+        "course_title": "Media Invest & Perfm Mktg 媒體投資與成效營銷",
         "units": "3.00",
-        "staff": "- Mr YEUNG Tak Ming",
-        "quota": "16",
+        "staff": "- Mr. KAN Ka Lok Vincent",
+        "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
+        "period": [
+            "Th 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM3920B",
+        "class_nbr": "9424",
+        "course_title": "Creative Writing in Media 創意媒體寫作",
+        "units": "3.00",
+        "staff": "- Miss HON Lai Chu",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "CYT_202"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM3922-",
+        "class_nbr": "8271",
+        "course_title": "Sp Top in Creat & New Media II 創意媒體與新媒體專題（二）",
+        "units": "3.00",
+        "staff": "- Professor YIU Hoi Lam Melody",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "YIA_507"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM3930B",
+        "class_nbr": "8916",
+        "course_title": "Digital Video Production 數碼影像製作",
+        "units": "3.00",
+        "staff": "- Mr. TANG Ho Man",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CML_203"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "COMM3939-",
+        "class_nbr": "8652",
+        "course_title": "Film Directors 電影導演作品評賞",
+        "units": "3.00",
+        "staff": "- Mr. SHIN Chi Man",
+        "quota": "45",
+        "vacancy": "45",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_312"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM3940-",
+        "class_nbr": "8272",
+        "course_title": "Immersive Storytelling 沉浸式敍事技巧",
+        "units": "3.00",
+        "staff": "- Ms. FAN Ho Ki",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "NAH_209"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COMM4040AH",
+        "class_nbr": "5400",
+        "course_title": "Directed Studies in Comm 傳播導讀",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "AHJ1",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_111"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "COMM4150B",
+        "class_nbr": "6354",
+        "course_title": "Senior Research Project 研究導修",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "70",
+        "vacancy": "70",
+        "mode": "PRJ",
+        "section_code": "BJ01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "COMM4730B",
+        "class_nbr": "8273",
+        "course_title": "Documentary 紀錄片",
+        "units": "3.00",
+        "staff": "- Professor POON Tat Pui",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
         "room": [
             "NAH_6"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     }
 ]

@@ -1,21 +1,162 @@
 [
     {
-        "course_title": "Bus Model Inno' for Startups 初創企業創新商業營運模式",
-        "class_code": "EPIN3010-",
+        "class_code": "EPIN2900-",
+        "class_nbr": "6452",
+        "course_title": "Internship in EPIN I 創業與創新實習（一）",
+        "units": "1.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
         "period": [
-            "We 10:30AM - 01:15PM"
+            "TBA"
         ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "EPIN3010-",
+        "class_nbr": "8154",
+        "course_title": "Bus Model Inno' for Startups 初創企業創新商業營運模式",
         "units": "3.00",
         "staff": "- Professor WONG Ka Chat Andrew",
-        "quota": "40",
+        "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_402"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "EPIN3020-",
+        "class_nbr": "6531",
+        "course_title": "Innovation Bootcamp 創新實訓營",
+        "units": "1.00",
+        "staff": "- Professor WONG Ka Chat Andrew",
+        "quota": "25",
+        "vacancy": "25",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "EPIN3040-",
+        "class_nbr": "6542",
+        "course_title": "Entrepreneurship Practicum 創業實習",
+        "units": "2.00",
+        "staff": "- Professor CHOI Wai Shan",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 05:30PM - 07:15PM"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "EPIN3900-",
+        "class_nbr": "6454",
+        "course_title": "Internship in EPIN II 創業與創新實習（二）",
+        "units": "2.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "EPIN4020-",
+        "class_nbr": "5089",
+        "course_title": "Creative Problem-Solving 創新的解決方案",
+        "units": "3.00",
+        "staff": "- Professor CHOI Wai Shan- Professor WONG Ka Chat Andrew",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 05:30PM - 08:15PM"
+        ],
         "room": [
             "WMY_303"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "EPIN4900-",
+        "class_nbr": "6455",
+        "course_title": "Internship in EPIN III 創業與創新實習（三）",
+        "units": "3.00",
+        "staff": "- Professor WONG Kam Fai William",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027",
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

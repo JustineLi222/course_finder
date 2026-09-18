@@ -1,1112 +1,1269 @@
 [
     {
-        "course_title": "Experiencing Architecture 建築之體驗",
-        "class_code": "UGEC1016-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. HAN Man",
-        "quota": "25",
-        "mode": "LEC",
-        "room": [
-            "ARC_212"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "His of Eng:Fr Nation to Empire 英國史：從國家到帝國",
         "class_code": "UGEC1031-",
-        "period": [
-            "Th 02:30PM - 04:15PM"
-        ],
+        "class_nbr": "5015",
+        "course_title": "His of Eng:Fr Nation to Empire 英國史：從國家到帝國",
         "units": "2.00",
         "staff": "- Dr. WOO Tze Yan Jessie",
         "quota": "100",
+        "vacancy": "100",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 02:30PM - 04:15PM"
+        ],
         "room": [
-            "SWH_2"
+            "LSK_LT4"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
+        "class_code": "UGEC1232B",
+        "class_nbr": "7747",
         "course_title": "Jap Culture & Society 日本文化與社會",
-        "class_code": "UGEC1232C",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
         "units": "3.00",
-        "staff": "- Mr IP Kin Ho",
+        "staff": "- Dr. MITO Takamichi",
         "quota": "35",
+        "vacancy": "35",
         "mode": "LEC",
-        "room": [
-            "LSK_308"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
-        "class_code": "UGEC1271D",
+        "section_code": "B",
+        "language": "E",
         "period": [
-            "We 09:30AM - 12:15PM"
+            "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor NG Wai Ming",
-        "quota": "120",
-        "mode": "LEC",
-        "room": [
-            "LSK_LT4"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
-        "class_code": "UGEC1271E",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor NG Wai Ming",
-        "quota": "120",
-        "mode": "LEC",
-        "room": [
-            "LSK_LT4"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
-        "class_code": "UGEC1281B",
-        "period": [
-            "Mo 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor HO Chi Ming",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "LPN_LT"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
-        "class_code": "UGEC1281C",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor HO Chi Ming",
-        "quota": "40",
-        "mode": "LEC",
         "room": [
             "WMY_408"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Tourism & Sus Dev 旅遊與可持續發展",
-        "class_code": "UGEC1372-",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
+        "class_code": "UGEC1232C",
+        "class_nbr": "9649",
+        "course_title": "Jap Culture & Society 日本文化與社會",
         "units": "3.00",
-        "staff": "- Dr. TU Shiu Hong Simon",
-        "quota": "20",
+        "staff": "- Mr IP Kin Ho",
+        "quota": "35",
+        "vacancy": "35",
         "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
         "room": [
-            "WMY_503"
+            "LSK_308"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Perspectives in Economics 經濟學概觀",
-        "class_code": "UGEC1511C",
+        "class_code": "UGEC1271D",
+        "class_nbr": "6018",
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
+        "units": "3.00",
+        "staff": "- Mr. LAU Ching",
+        "quota": "120",
+        "vacancy": "120",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "C",
         "period": [
             "Tu 10:30AM - 01:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. LEUNG Chi Ming Michael",
-        "quota": "80",
-        "mode": "LEC",
-        "room": [
-            "CKB_LT3"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Perspectives in Economics 經濟學概觀",
-        "class_code": "UGEC1511D",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss LEUNG Yuk Chun",
-        "quota": "80",
-        "mode": "LEC",
-        "room": [
-            "CKB_LT3"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Perspectives in Economics 經濟學概觀",
-        "class_code": "UGEC1511E",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Miss LEUNG Yuk Chun",
-        "quota": "80",
-        "mode": "LEC",
-        "room": [
-            "CKB_LT3"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Fundamentals of Government 政治學初基",
-        "class_code": "UGEC1512B",
-        "period": [
-            "Mo 03:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. ZHANG Wenya",
-        "quota": "25",
-        "mode": "LEC",
-        "room": [
-            "UCA_312"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Fundamentals of Public Admin 行政學初基",
-        "class_code": "UGEC1522-",
-        "period": [
-            "Th 08:30AM - 11:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. KWAN Chung Yin",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "UCC_C1"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Government & Politics of China 中國政府與政治",
-        "class_code": "UGEC1540-",
-        "period": [
-            "Mo 08:30AM - 11:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor CHEN Xi",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "UCC_C3"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Glob'n of Korean Pop Culture 韓國流行文化的全球化",
-        "class_code": "UGEC1544-",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. CHUNG Lok Wai",
-        "quota": "100",
-        "mode": "LEC",
-        "room": [
-            "LKC_LT1"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Basic Banking & Finance 銀行與金融概觀",
-        "class_code": "UGEC1560C",
-        "period": [
-            "We 08:30AM - 11:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. YAN Wai Hin",
-        "quota": "115",
-        "mode": "LEC",
-        "room": [
-            "CK_TSE"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Basic Banking & Finance 銀行與金融概觀",
-        "class_code": "UGEC1560D",
-        "period": [
-            "Mo 08:30AM - 11:15AM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. YAN Wai Hin",
-        "quota": "115",
-        "mode": "LEC",
-        "room": [
-            "HTB_B6"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Marriage, Family and Kinship 婚姻、家庭與親屬",
-        "class_code": "UGEC1625-",
-        "period": [
-            "We 03:30PM - 05:15PM",
-            "We 05:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Aaron Jeffrey HAMES",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "UCC_114"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Humans and Culture 人類與文化",
-        "class_code": "UGEC1681-",
-        "period": [
-            "Mo 10:30AM - 12:15PM",
-            "Mo 12:30PM - 01:15PM",
-            "Mo 01:30PM - 02:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. TANG Wai Man",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "NAH_12",
-            "UCC_208"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Drugs and Culture 毒品與文化",
-        "class_code": "UGEC1685-",
-        "period": [
-            "Th 11:30AM - 01:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Dr. TANG Wai Man",
-        "quota": "100",
-        "mode": "LEC",
-        "room": [
-            "ICS_L1"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Politics, Law and Society 政治、法律與社會",
-        "class_code": "UGEC1814-",
-        "period": [
-            "We 11:30AM - 02:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. LEE Ka Kiu",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "NAH_115"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Culture of Hong Kong 香港的文化",
-        "class_code": "UGEC1835-",
-        "period": [
-            "We 12:30PM - 02:15PM",
-            "We 02:30PM - 03:15PM",
-            "We 03:30PM - 04:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Gordon Clark MATHEWS",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "UCC_C1",
-            "UCC_C4"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Government of Hong Kong 香港政府",
-        "class_code": "UGEC1885-",
-        "period": [
-            "Mo 11:30AM - 02:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. LEE Ka Kiu",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "NAH_115"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Experiencing City thru Walking 城市散步與體驗城市",
-        "class_code": "UGEC1915-",
-        "period": [
-            "Mo 04:30PM - 06:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Dr. WONG Yu Hin Sampson",
-        "quota": "120",
-        "mode": "LEC",
-        "room": [
-            "ELB_LT2"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "History of Macau: E&W Cultures 澳門史：東西文化的匯聚",
-        "class_code": "UGEC2020-",
-        "period": [
-            "Tu 02:30PM - 04:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Miss CHEUNG Ching Man",
-        "quota": "100",
-        "mode": "LEC",
         "room": [
             "LSK_LT4"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Hong Kong English 香港英語及其文化",
-        "class_code": "UGEC2188-",
-        "period": [
-            "Fr 09:30AM - 11:15AM",
-            "Fr 08:30AM - 09:15AM",
-            "Th 04:30PM - 05:15PM",
-            "Th 05:30PM - 06:15PM"
-        ],
+        "class_code": "UGEC1271E",
+        "class_nbr": "7514",
+        "course_title": "Jas Pop Cul in Cul Global 日本流行文化與文化全球化",
         "units": "3.00",
-        "staff": "- Professor PUN Kwok Hung",
-        "quota": "20",
+        "staff": "- Staff",
+        "quota": "120",
+        "vacancy": "120",
         "mode": "LEC",
-        "room": [
-            "NRR",
-            "LSK_203",
-            "LSK_515"
-        ],
-        "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Food and Hunger 糧食與饑餓",
-        "class_code": "UGEC2210-",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. GUO Chunlan",
-        "quota": "80",
-        "mode": "LEC",
-        "room": [
-            "WMY_505"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Discovering Africa 解讀非洲：環境˴社會與展望",
-        "class_code": "UGEC2226-",
-        "period": [
-            "We 02:30PM - 04:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Professor Lawal Mohammed MARAFA",
-        "quota": "60",
-        "mode": "LEC",
-        "room": [
-            "YIA_405"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Chinese Temples and Festivals 中國廟宇與節誕",
-        "class_code": "UGEC2500-",
-        "period": [
-            "Tu 02:30PM - 04:15PM",
-            "Tu 04:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LAI Chi Tim",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "CYT_202"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "News and Society 新聞與社會",
-        "class_code": "UGEC2623B",
+        "section_code": "E",
+        "language": "C",
         "period": [
             "We 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Miss LAM Miu Yan",
-        "quota": "6",
-        "mode": "LEC",
-        "room": [
-            "UCC_C2"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Internet Digital Media Info So 互聯網、數碼媒體與資訊社會",
-        "class_code": "UGEC2624B",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LIN Jian",
-        "quota": "4",
-        "mode": "LEC",
-        "room": [
-            "NAH_11"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Eco Insec & Soc Sec in Gl Con 全球經濟逆境與社會保障",
-        "class_code": "UGEC2631-",
-        "period": [
-            "Th 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr TSOI Kcon Wah",
-        "quota": "50",
-        "mode": "LEC",
-        "room": [
-            "UCC_C3"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Med & Soc Dev in Mainland Chi 中國大陸的媒介與社會發展",
-        "class_code": "UGEC2634-",
-        "period": [
-            "Tu 10:30AM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor FANG Kecheng",
-        "quota": "12",
-        "mode": "LEC",
-        "room": [
-            "UCC_C5"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Advertising and Society 廣告與社會",
-        "class_code": "UGEC2638B",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor LEE LAI Annisa",
-        "quota": "8",
-        "mode": "LEC",
-        "room": [
-            "UCA_104"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Culture and Business 文化與商業",
-        "class_code": "UGEC2662-",
-        "period": [
-            "Th 12:30PM - 02:15PM",
-            "Th 02:30PM - 03:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Avron Albert BORETZ",
-        "quota": "15",
-        "mode": "LEC",
-        "room": [
-            "UCC_114"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Sports and Culture 體育與文化",
-        "class_code": "UGEC2664-",
-        "period": [
-            "Th 03:30PM - 05:15PM",
-            "Th 05:30PM - 06:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Marco MONTAGNER",
-        "quota": "17",
-        "mode": "LEC",
-        "room": [
-            "UCC_114"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Interpersonal Violence 人際暴力",
-        "class_code": "UGEC2680B",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor CHEN Mengtong",
-        "quota": "50",
-        "mode": "LEC",
-        "room": [
-            "NAH_12"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Soc Work & Cultural Diversity 社會工作與多元文化",
-        "class_code": "UGEC2684-",
-        "period": [
-            "Tu 12:30PM - 03:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Mr. CHAN Kar Choi",
-        "quota": "30",
-        "mode": "LEC",
-        "room": [
-            "UCC_C3"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
-        ]
-    },
-    {
-        "course_title": "Soc Inno & Soc Change for Good 社會創新與社會臻善",
-        "class_code": "UGEC2686-",
-        "period": [
-            "Th 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor WONG Hung",
-        "quota": "45",
-        "mode": "LEC",
-        "room": [
-            "UCC_C4"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Environmentalism and Envir Ed 環境主義與環境教育",
-        "class_code": "UGEC2710-",
-        "period": [
-            "Mo 09:30AM - 11:15AM"
-        ],
-        "units": "2.00",
-        "staff": "- Professor LAU Kwok Chi",
-        "quota": "50",
-        "mode": "LEC",
-        "room": [
-            "YIA_503"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Belt and Road Collab Modern 一帶一路與合作現代化",
-        "class_code": "UGEC2917-",
-        "period": [
-            "Mo 10:30AM - 12:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Dr. LI Jing",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "FYB_405"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Museum and Heritage 博物館與文化遺產",
-        "class_code": "UGEC2942-",
-        "period": [
-            "Mo 04:30PM - 06:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Dr. FOK Yeung Yeung",
-        "quota": "100",
-        "mode": "LEC",
-        "room": [
-            "LSK_LT2"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Peoples of HK 歷史上的香港族群",
-        "class_code": "UGEC2944-",
-        "period": [
-            "Mo 02:30PM - 04:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Miss CHEUNG Ching Man",
-        "quota": "100",
-        "mode": "LEC",
         "room": [
             "LSK_LT3"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "History of Hong Kong 香港史",
-        "class_code": "UGEC2945-",
-        "period": [
-            "Mo 10:30AM - 12:15PM"
-        ],
-        "units": "2.00",
-        "staff": "- Miss CHEUNG Ching Man",
-        "quota": "100",
-        "mode": "LEC",
-        "room": [
-            "LSK_LT4"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Env Crises and Cul of Sur 環境危機、生存與文化",
-        "class_code": "UGEC2950-",
-        "period": [
-            "We 01:30PM - 03:15PM",
-            "We 03:30PM - 04:15PM"
-        ],
+        "class_code": "UGEC1281B",
+        "class_nbr": "6017",
+        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
         "units": "3.00",
-        "staff": "- Professor TAM Man Kei",
-        "quota": "10",
+        "staff": "- Professor HO Chi Ming",
+        "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
-        "room": [
-            "UCC_C3",
-            "UCC_108"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Magic, Myth & the Supernatural 魔法、神話與超自然",
-        "class_code": "UGEC2960-",
+        "section_code": "B",
+        "language": "C",
         "period": [
-            "Th 10:30AM - 12:15PM",
-            "Th 12:30PM - 01:15PM",
-            "Th 01:30PM - 02:15PM"
+            "Mo 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor Leilah Sohrab VEVAINA",
-        "quota": "35",
-        "mode": "LEC",
         "room": [
-            "SWH_2",
-            "UCA_103"
+            "LPN_LT"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Social Problems in China 中國的社會問題",
-        "class_code": "UGEC2963-",
+        "class_code": "UGEC1281C",
+        "class_nbr": "9567",
+        "course_title": "Understanding Jas Lang & Cult 日本語言文化面面觀",
+        "units": "3.00",
+        "staff": "- Professor HO Chi Ming",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
         "period": [
-            "We 04:30PM - 06:15PM"
+            "We 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor ZHONG Hua",
-        "quota": "20",
-        "mode": "LEC",
         "room": [
-            "YIA_405"
+            "WMY_408"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Gender in Asia 性別在亞洲",
-        "class_code": "UGEC2970-",
+        "class_code": "UGEC1302B",
+        "class_nbr": "6016",
+        "course_title": "Japanese Cinema 日本電影",
+        "units": "3.00",
+        "staff": "- Professor Matthew Stanhope MEWHINNEY",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
         "period": [
-            "Tu 10:30AM - 12:15PM",
-            "Tu 12:30PM - 01:15PM"
+            "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor Manynooch FAMING",
-        "quota": "15",
-        "mode": "LEC",
         "room": [
-            "UCC_110"
+            "LSB_LT3"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Globalization and Culture 全球化與文化",
-        "class_code": "UGEC2990-",
+        "class_code": "UGEC1302C",
+        "class_nbr": "5179",
+        "course_title": "Japanese Cinema 日本電影",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C",
         "period": [
-            "Tu 02:30PM - 04:15PM",
-            "Tu 05:30PM - 06:15PM",
-            "We 11:30AM - 12:15PM"
+            "Mo 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor Gordon Clark MATHEWS",
-        "quota": "45",
-        "mode": "LEC",
         "room": [
-            "NAH_115",
-            "UCC_114"
+            "LSB_LT4"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "Gender&Sexuality in Contem Soc 當代社會的性別與性",
-        "class_code": "UGEC3203-",
-        "period": [
-            "Mo 10:30AM - 12:15PM",
-            "Mo 12:30PM - 01:15PM"
-        ],
+        "class_code": "UGEC1302D",
+        "class_nbr": "7513",
+        "course_title": "Japanese Cinema 日本電影",
         "units": "3.00",
-        "staff": "- Professor SONG Jing",
-        "quota": "5",
+        "staff": "- Staff",
+        "quota": "40",
+        "vacancy": "40",
         "mode": "LEC",
-        "room": [
-            "FYB_UG02"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Living Feminisms 活出女性主義：創造非暴力與協作",
-        "class_code": "UGEC3204-",
-        "period": [
-            "We 10:30AM - 12:15PM",
-            "We 12:30PM - 01:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. CHO Man Kit",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "ARC_G01"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4",
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Innovating the Future 創新未來：性別、科學與技術",
-        "class_code": "UGEC3213-",
-        "period": [
-            "Th 02:30PM - 04:15PM",
-            "Th 04:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. Anita VENANZI",
-        "quota": "10",
-        "mode": "LEC",
-        "room": [
-            "ARC_G03"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4",
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Media and Gender 媒介與性別",
-        "class_code": "UGEC3612-",
+        "section_code": "D",
+        "language": "C",
         "period": [
             "Th 02:30PM - 05:15PM"
         ],
+        "room": [
+            "LPN_LT"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1372-",
+        "class_nbr": "7515",
+        "course_title": "Tourism & Sus Dev 旅遊與可持續發展",
         "units": "3.00",
-        "staff": "- Professor CHU Shun Chi Donna",
-        "quota": "5",
+        "staff": "- Dr. TU Shiu Hong Simon",
+        "quota": "35",
+        "vacancy": "35",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_302"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1511C",
+        "class_nbr": "9242",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
+        "period": [
+            "Tu 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1511D",
+        "class_nbr": "6059",
+        "course_title": "Perspectives in Economics 經濟學概觀",
+        "units": "3.00",
+        "staff": "- Miss LEUNG Yuk Chun",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "D",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "CKB_LT3"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1522B",
+        "class_nbr": "9288",
+        "course_title": "Fundamentals of Public Admin 行政學初基",
+        "units": "3.00",
+        "staff": "- Professor ZHANG Jiasheng",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 11:30AM - 02:15PM"
+        ],
+        "room": [
+            "YIA_LT8"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1540-",
+        "class_nbr": "6159",
+        "course_title": "Government & Politics of China 中國政府與政治",
+        "units": "3.00",
+        "staff": "- Dr. LI Qin",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1560B",
+        "class_nbr": "6043",
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "HTB_B6"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1560C",
+        "class_nbr": "6177",
+        "course_title": "Basic Banking & Finance 銀行與金融概觀",
+        "units": "3.00",
+        "staff": "- Dr. YAN Wai Hin",
+        "quota": "90",
+        "vacancy": "90",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "C&amp;E",
+        "period": [
+            "Fr 08:30AM - 11:15AM"
+        ],
+        "room": [
+            "YIA_LT6"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1625-",
+        "class_nbr": "6052",
+        "course_title": "Marriage, Family and Kinship 婚姻、家庭與親屬",
+        "units": "3.00",
+        "staff": "- Professor Aaron Jeffrey HAMES",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 04:15PM",
+            "Th 04:30PM - 05:15PM",
+            "Th 05:30PM - 06:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1633-",
+        "class_nbr": "6055",
+        "course_title": "Understanding Archaeology 認識考古學",
+        "units": "3.00",
+        "staff": "- Professor LAM Weng Cheong",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM",
+            "We 01:30PM - 02:15PM",
+            "We 02:30PM - 03:15PM"
+        ],
+        "room": [
+            "UCC_C2",
+            "UCC_206",
+            "UCA_103"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1681-",
+        "class_nbr": "9022",
+        "course_title": "Humans and Culture 人類與文化",
+        "units": "3.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM",
+            "Mo 01:30PM - 02:15PM",
+            "TBA"
+        ],
+        "room": [
+            "NAH_12",
+            "UCC_208",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "UGEC1685-",
+        "class_nbr": "5651",
+        "course_title": "Drugs and Culture 毒品與文化",
+        "units": "2.00",
+        "staff": "- Dr. TANG Wai Man",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 11:30AM - 01:15PM"
+        ],
+        "room": [
+            "ICS_L1"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1835-",
+        "class_nbr": "7614",
+        "course_title": "Culture of Hong Kong 香港的文化",
+        "units": "3.00",
+        "staff": "- Professor CHEUNG Chin Hung Sidney",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 12:30PM - 02:15PM",
+            "Tu 02:30PM - 03:15PM",
+            "TBA"
+        ],
+        "room": [
+            "UCC_C4",
+            "NRR"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "UGEC1885-",
+        "class_nbr": "7239",
+        "course_title": "Government of Hong Kong 香港政府",
+        "units": "3.00",
+        "staff": "- Dr. LEE Ka Kiu",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 11:30AM - 02:15PM"
+        ],
         "room": [
             "NAH_115"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC1915-",
+        "class_nbr": "9601",
+        "course_title": "Experiencing City thru Walking 城市散步與體驗城市",
+        "units": "2.00",
+        "staff": "- Dr. WONG Yu Hin Sampson",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2231-",
+        "class_nbr": "7056",
+        "course_title": "Decoding Cities 城巿解碼",
+        "units": "2.00",
+        "staff": "- Professor LEE Wai Ying Joanna",
+        "quota": "55",
+        "vacancy": "55",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 04:15PM"
+        ],
+        "room": [
+            "ELB_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2294-",
+        "class_nbr": "8163",
+        "course_title": "Xiqu and Culture 戲曲與文化",
+        "units": "3.00",
+        "staff": "- Dr. LI Mei Ting",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2335-",
+        "class_nbr": "5212",
+        "course_title": "Medicine, Health and Culture 醫藥、健康與文化",
+        "units": "3.00",
+        "staff": "- Professor Venera KHALIKOVA",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 01:30PM - 03:15PM",
+            "We 03:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2351-",
+        "class_nbr": "8329",
+        "course_title": "Global'n, Cultures & Societies 全球化、文化與社會",
+        "units": "3.00",
+        "staff": "- Professor Maximilian Piers HOLLAND",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 01:30PM - 04:15PM"
+        ],
+        "room": [
+            "UCC_206"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2354-",
+        "class_nbr": "8330",
+        "course_title": "Global Sustainability 全球的可持續性",
+        "units": "3.00",
+        "staff": "- Dr. Maria Del Mar FRANCESCH HUIDOBRO",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2601-",
+        "class_nbr": "8391",
+        "course_title": "Edu Change in Chi Societies 華人社會中的教育變遷",
+        "units": "3.00",
+        "staff": "- Professor WONG Lai Ngok Jocelyn",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "WMY_302"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2623-",
+        "class_nbr": "9651",
+        "course_title": "News and Society 新聞與社會",
+        "units": "3.00",
+        "staff": "- Professor MAK Ka Fai",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C2"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2631-",
+        "class_nbr": "7479",
+        "course_title": "Eco Insec & Soc Sec in Gl Con 全球經濟逆境與社會保障",
+        "units": "3.00",
+        "staff": "- Mr TSOI Kcon Wah",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Th 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C4"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2632A",
+        "class_nbr": "6150",
+        "course_title": "Media, Sex and Violence 媒介、性與暴力",
+        "units": "3.00",
+        "staff": "- Miss TAM Wai Wan Vivian",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "C",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2632B",
+        "class_nbr": "8188",
+        "course_title": "Media, Sex and Violence 媒介、性與暴力",
+        "units": "3.00",
+        "staff": "- Miss TAM Wai Wan Vivian",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C",
+        "period": [
+            "We 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "NAH_115"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2636B",
+        "class_nbr": "8189",
+        "course_title": "Social Media and Crisis Comm 社交媒體與危機溝通",
+        "units": "3.00",
+        "staff": "- Dr. ZHAO Mengmeng",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_C5"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2638-",
+        "class_nbr": "8274",
+        "course_title": "Advertising and Society 廣告與社會",
+        "units": "3.00",
+        "staff": "- Professor LEE LAI Annisa",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCA_104"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2655-",
+        "class_nbr": "7631",
+        "course_title": "Indian Cultures and Society 印度文化與社會",
+        "units": "3.00",
+        "staff": "- Professor Leilah Sohrab VEVAINA",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 10:30AM - 12:15PM",
+            "We 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2680B",
+        "class_nbr": "6843",
+        "course_title": "Interpersonal Violence 人際暴力",
+        "units": "3.00",
+        "staff": "- Professor CHEN Mengtong",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 12:30PM - 03:15PM"
+        ],
+        "room": [
+            "NAH_12"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2686-",
+        "class_nbr": "9623",
+        "course_title": "Soc Inno & Soc Change for Good 社會創新與社會臻善",
+        "units": "3.00",
+        "staff": "- Mr. LEUNG Wing Yee",
+        "quota": "35",
+        "vacancy": "35",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "NAH_11"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2693-",
+        "class_nbr": "8206",
+        "course_title": "Mission-dri. Social Enterprise 由使命推動的社會企業",
+        "units": "3.00",
+        "staff": "- Dr. NG Chui Ha- Dr. WONG Po Ki- Ms. NG Tsui Shan",
+        "quota": "40",
+        "vacancy": "40",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2853-",
+        "class_nbr": "4810",
+        "course_title": "Sexuality and Culture 性與文化",
+        "units": "3.00",
+        "staff": "- Professor LI Shiying",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Fr 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_304"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2917-",
+        "class_nbr": "6196",
+        "course_title": "Belt and Road Collab Modern 一帶一路與合作現代化",
+        "units": "2.00",
+        "staff": "- Dr. LI Jing",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "FYB_405"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2925-",
+        "class_nbr": "7593",
+        "course_title": "Language and Society 語言與社會",
+        "units": "3.00",
+        "staff": "- Dr. Jonathan James WEBSTER",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 04:15PM",
+            "We 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "SWH_1"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4",
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2942-",
+        "class_nbr": "9199",
+        "course_title": "Museum and Heritage 博物館與文化遺產",
+        "units": "2.00",
+        "staff": "- Dr. FOK Yeung Yeung",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "LSK_LT2"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC2945-",
+        "class_nbr": "4951",
+        "course_title": "History of Hong Kong 香港史",
+        "units": "2.00",
+        "staff": "- Miss CHEUNG Ching Man",
+        "quota": "100",
+        "vacancy": "100",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "Mo 10:30AM - 12:15PM"
+        ],
+        "room": [
+            "LSK_LT4"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3204-",
+        "class_nbr": "5997",
+        "course_title": "Living Feminisms 活出女性主義：創造非暴力與協作",
+        "units": "3.00",
+        "staff": "- Dr. CHO Man Kit",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 10:30AM - 12:15PM",
+            "Mo 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "FYB_UG02"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3225-",
+        "class_nbr": "8298",
+        "course_title": "Gender Biases in Edu & Work 教育和職場的性別偏見",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "TBA",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "YIA_201",
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/01/2027 - 19/04/2027",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3227-",
+        "class_nbr": "6037",
+        "course_title": "LGBTQI+ Studies LGBTQI+ 研究：身份與社",
+        "units": "3.00",
+        "staff": "- Dr. CHO Man Kit",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "ARC_G03"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3229-",
+        "class_nbr": "8310",
+        "course_title": "Understanding Masculinities 陽剛特質與社會變遷",
+        "units": "3.00",
+        "staff": "- Dr. LEE Chi Shing",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 10:30AM - 12:15PM",
+            "Th 12:30PM - 01:15PM"
+        ],
+        "room": [
+            "HYS_G05"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4",
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3612-",
+        "class_nbr": "8275",
+        "course_title": "Media and Gender 媒介與性別",
+        "units": "3.00",
+        "staff": "- Professor CHU Shun Chi Donna",
+        "quota": "10",
+        "vacancy": "10",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C#E",
+        "period": [
+            "We 10:30AM - 01:15PM"
+        ],
+        "room": [
+            "UCC_111"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "UGEC3635-",
+        "class_nbr": "8190",
+        "course_title": "Film, TV and Hong Kong Culture 電影、電視與香港文化",
+        "units": "3.00",
+        "staff": "- Dr CHOW Pui Ha",
+        "quota": "15",
+        "vacancy": "15",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C",
+        "period": [
+            "We 03:30PM - 06:15PM"
+        ],
+        "room": [
+            "UCC_C3"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     }
 ]

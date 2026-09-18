@@ -1,0 +1,128 @@
+[
+    {
+        "class_code": "STAR2000-",
+        "class_nbr": "7808",
+        "course_title": "UG Research in Science I 科研培訓（一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "STAR2050-",
+        "class_nbr": "7807",
+        "course_title": "Seminar I 學術報告（一）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "STAR3000-",
+        "class_nbr": "6222",
+        "course_title": "UG Research in Science II 科研培訓（二）",
+        "units": "2.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "STAR3050-",
+        "class_nbr": "6224",
+        "course_title": "Seminar II 學術報告（二）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "STAR4000-",
+        "class_nbr": "6612",
+        "course_title": "UG Research in Science III 科研培訓（三）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "STAR4050-",
+        "class_nbr": "6621",
+        "course_title": "Seminar III 學術報告（三）",
+        "units": "1.00",
+        "staff": "- Staff",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    }
+]

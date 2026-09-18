@@ -1,184 +1,304 @@
 [
     {
-        "course_title": "Introduction to Molecular Biot 分子生物科技導論",
         "class_code": "MBTE2000-",
+        "class_nbr": "7541",
+        "course_title": "Introduction to Molecular Biot 分子生物科技導論",
+        "units": "2.00",
+        "staff": "- Mr. WANG Jun- Professor CHAN Ho Yin Edwin- Professor CHOI Chung Hang Jonathan- Professor LAM Hon Ming- Professor WONG Kam Bo- Professor WONG Wing Tak Jack",
+        "quota": "80",
+        "vacancy": "80",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Th 12:30PM - 02:15PM"
         ],
-        "units": "2.00",
-        "staff": "- Professor CHAN Ho Yin Edwin- Professor CHOI Chung Hang Jonathan- Professor LAM Hon Ming- Professor WONG Kam Bo- Professor WONG Wing Tak Jack",
-        "quota": "80",
-        "mode": "LEC",
         "room": [
             "MMW_LT1"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Diversity of Life: Application 生物多樣性：應用及可持續發展",
         "class_code": "MBTE2010-",
-        "period": [
-            "Th 09:30AM - 11:15AM"
-        ],
+        "class_nbr": "6089",
+        "course_title": "Diversity of Life: Application 生物多樣性：應用及可持續發展",
         "units": "2.00",
         "staff": "- Dr. CHIU Siu Wai- Professor HUI Jerome Ho Lam- Professor LAM Hon Ming- Professor TSUI Tsz Ki Martin",
         "quota": "50",
+        "vacancy": "50",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 09:30AM - 11:15AM"
+        ],
         "room": [
             "LSK_LT1"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Transgen Tech in Animals & App 動物轉基因技術及其應用",
         "class_code": "MBTE3521-",
-        "period": [
-            "Tu 12:30PM - 01:15PM",
-            "Fr 08:30AM - 10:15AM"
-        ],
+        "class_nbr": "6180",
+        "course_title": "Transgen Tech in Animals & App 動物轉基因技術及其應用",
         "units": "1.00",
         "staff": "- Professor CHAN Ho Yin Edwin",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
-        "room": [
-            "LSB_LT6",
-            "MMW_LT2"
-        ],
-        "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2"
-        ]
-    },
-    {
-        "course_title": "Project in Tran Tech in Animal 動物轉基因技術及其應用專題研習",
-        "class_code": "MBTE3528-",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 12:30PM - 01:15PM",
             "Fr 08:30AM - 10:15AM"
         ],
-        "units": "2.00",
-        "staff": "- Professor CHAN Ho Yin Edwin",
-        "quota": "30",
-        "mode": "PRJ",
         "room": [
             "LSB_LT6",
             "MMW_LT2"
         ],
         "meeting_date": [
-            "18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2"
         ]
     },
     {
-        "course_title": "Microbes and Bioremediation 微生物與生物修復",
-        "class_code": "MBTE3531-",
+        "class_code": "MBTE3528-",
+        "class_nbr": "6172",
+        "course_title": "Project in Tran Tech in Animal 動物轉基因技術及其應用專題研習",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ho Yin Edwin",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
         "period": [
-            "Th 02:30PM - 05:15PM"
+            "Tu 12:30PM - 01:15PM",
+            "Fr 08:30AM - 10:15AM"
         ],
+        "room": [
+            "LSB_LT6",
+            "MMW_LT2"
+        ],
+        "meeting_date": [
+            "2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
+        "class_code": "MBTE3531-",
+        "class_nbr": "9588",
+        "course_title": "Microbes and Bioremediation 微生物與生物修復",
         "units": "1.00",
         "staff": "- Professor WANG Guanqun",
         "quota": "30",
+        "vacancy": "30",
         "mode": "LEC",
-        "room": [
-            "BMS_G18"
-        ],
-        "meeting_date": [
-            "13/2, 20/2, 27/2",
-            "13/3"
-        ]
-    },
-    {
-        "course_title": "Protein Engineer & Drug Design 蛋白質工程和藥物設計",
-        "class_code": "MBTE3560-",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Th 02:30PM - 05:15PM"
         ],
-        "units": "1.00",
-        "staff": "- Professor WONG Kam Bo",
-        "quota": "30",
-        "mode": "LEC",
         "room": [
             "BMS_G18"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2"
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3"
         ]
     },
     {
-        "course_title": "Methods in MBT Lab II 分子生物技術學方法實驗（二）",
-        "class_code": "MBTE4034-",
+        "class_code": "MBTE3550-",
+        "class_nbr": "7077",
+        "course_title": "Biotech for Environ & Sustain 環境和可持續性生物技術",
+        "units": "1.00",
+        "staff": "- Dr. CHIU Siu Wai- Professor HUI Jerome Ho Lam- Professor LAM Hon Ming- Professor TSUI Tsz Ki Martin",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
-            "We 02:30PM - 06:15PM"
+            "Mo 02:30PM - 05:15PM"
         ],
+        "room": [
+            "YIA_LT9"
+        ],
+        "meeting_date": [
+            "18/1, 25/1, 1/2",
+            "15/2, 22/2"
+        ]
+    },
+    {
+        "class_code": "MBTE3558-",
+        "class_nbr": "6544",
+        "course_title": "Proj in Biotech for Environ & 環境和可持續性生物技術小組研習",
+        "units": "2.00",
+        "staff": "- Professor HUI Jerome Ho Lam- Professor LAM Hon Ming- Professor TSUI Tsz Ki Martin",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "22/02/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "MBTE3560-",
+        "class_nbr": "9429",
+        "course_title": "Protein Engineer & Drug Design 蛋白質工程和藥物設計",
+        "units": "1.00",
+        "staff": "- Professor WONG Kam Bo",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Th 02:30PM - 05:15PM"
+        ],
+        "room": [
+            "BMS_G18"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2"
+        ]
+    },
+    {
+        "class_code": "MBTE3568-",
+        "class_nbr": "6510",
+        "course_title": "Proj in Protein Engine & Drug 蛋白質工程和藥物設計小組研習",
+        "units": "2.00",
+        "staff": "- Professor AU Wing Ngor Shannon- Professor NGO Chi Ki Jacky- Professor WONG Kam Bo",
+        "quota": "30",
+        "vacancy": "30",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "08/02/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "MBTE4034-",
+        "class_nbr": "8754",
+        "course_title": "Methods in MBT Lab II 分子生物技術學方法實驗（二）",
         "units": "2.00",
         "staff": "- Dr. SIOW Lam",
         "quota": "28",
+        "vacancy": "28",
         "mode": "LAB",
+        "section_code": "-L01",
+        "language": "E",
+        "period": [
+            "We 02:30PM - 06:15PM"
+        ],
         "room": [
             "SC_188"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
         ]
     },
     {
-        "course_title": "Animal Biotechnology 動物生物技術學",
         "class_code": "MBTE4520-",
+        "class_nbr": "9657",
+        "course_title": "Animal Biotechnology 動物生物技術學",
+        "units": "3.00",
+        "staff": "- Professor CHAN Ho Yin Edwin",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Tu 12:30PM - 01:15PM",
             "Fr 08:30AM - 10:15AM"
         ],
-        "units": "3.00",
-        "staff": "- Professor CHAN Ho Yin Edwin",
-        "quota": "50",
-        "mode": "LEC",
         "room": [
             "LSB_LT6",
             "MMW_LT2"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4",
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4",
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Microbial Biotechnology 微生物生物技術學",
         "class_code": "MBTE4530-",
+        "class_nbr": "6181",
+        "course_title": "Microbial Biotechnology 微生物生物技術學",
+        "units": "3.00",
+        "staff": "- Professor WANG Guanqun- Professor WONG Kam Bo",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
         "period": [
             "Th 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor CHAN Michael Kenneth- Professor WANG Guanqun- Professor WONG Kam Bo",
-        "quota": "50",
-        "mode": "LEC",
         "room": [
             "BMS_G18"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "MBTE4903-",
+        "class_nbr": "6234",
+        "course_title": "Senior Experimental Project II 實驗專題討論（三）",
+        "units": "2.00",
+        "staff": "- Professor CHAN Ting Fung Philos- Professor JIANG Liwen- Professor LAM Hon Ming- Professor LUO Haiwei- Professor WANG Guanqun- Professor WONG Wing Tak Jack",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "PRJ",
+        "section_code": "-J01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

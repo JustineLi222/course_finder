@@ -1,95 +1,157 @@
 [
     {
-        "course_title": "Greater Bay Area Field Trip 大灣區考察",
         "class_code": "COOP1001-",
-        "period": [
-            "Mo -"
-        ],
+        "class_nbr": "6661",
+        "course_title": "China Field Trip 中國內地考察",
         "units": "1.00",
         "staff": "- Dr. LAI Hon Weng",
-        "quota": "30",
+        "quota": "60",
+        "vacancy": "60",
         "mode": "FLD",
-        "room": [
-            "NRR"
-        ],
-        "meeting_date": [
-            "6/1"
-        ]
-    },
-    {
-        "course_title": "Asia Field Trip 亞洲考察",
-        "class_code": "COOP2001-",
+        "section_code": "-F01",
+        "language": "C&amp;E&amp;P",
         "period": [
             "Mo -"
         ],
-        "units": "2.00",
-        "staff": "- Dr. LAI Hon Weng",
-        "quota": "30",
-        "mode": "FLD",
         "room": [
             "NRR"
         ],
         "meeting_date": [
-            "6/1"
+            "11/1"
         ]
     },
     {
-        "course_title": "Develop Workplace Professional 培養職場專業技能",
-        "class_code": "COOP3002A",
-        "period": [
-            "Fr 08:30AM - 10:15AM"
-        ],
+        "class_code": "COOP2001-",
+        "class_nbr": "6662",
+        "course_title": "Asia Field Trip 亞洲考察",
         "units": "2.00",
         "staff": "- Dr. LAI Hon Weng",
-        "quota": "100",
-        "mode": "LEC",
+        "quota": "60",
+        "vacancy": "60",
+        "mode": "FLD",
+        "section_code": "-F01",
+        "language": "E",
+        "period": [
+            "Mo -"
+        ],
         "room": [
-            "SB_UG06"
+            "NRR"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "11/1"
         ]
     },
     {
+        "class_code": "COOP3001-",
+        "class_nbr": "6997",
+        "course_title": "Unlocking Potential & Branding 提升潛能及個人品牌",
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "WKS",
+        "section_code": "-W01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "TBA"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "COOP3002A",
+        "class_nbr": "7035",
         "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "130",
+        "vacancy": "130",
+        "mode": "LEC",
+        "section_code": "A",
+        "language": "E",
+        "period": [
+            "Fr 04:30PM - 06:15PM"
+        ],
+        "room": [
+            "YIA_LT7"
+        ],
+        "meeting_date": [
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
+        ]
+    },
+    {
         "class_code": "COOP3002B",
+        "class_nbr": "7026",
+        "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "130",
+        "vacancy": "130",
+        "mode": "LEC",
+        "section_code": "B",
+        "language": "E",
         "period": [
             "Fr 02:30PM - 04:15PM"
         ],
-        "units": "2.00",
-        "staff": "- Dr. LAI Hon Weng",
-        "quota": "100",
-        "mode": "LEC",
         "room": [
-            "SB_UG06"
+            "YIA_LT7"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "15/1, 22/1, 29/1",
+            "12/2, 19/2, 26/2, 5/3",
+            "19/3",
+            "2/4, 9/4, 16/4, 23/4"
         ]
     },
     {
-        "course_title": "Develop Workplace Professional 培養職場專業技能",
         "class_code": "COOP3002C",
+        "class_nbr": "8508",
+        "course_title": "Develop Workplace Professional 培養職場專業技能",
+        "units": "2.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "130",
+        "vacancy": "130",
+        "mode": "LEC",
+        "section_code": "C",
+        "language": "E",
         "period": [
             "Th 04:30PM - 06:15PM"
         ],
-        "units": "2.00",
-        "staff": "- Dr. LAI Hon Weng",
-        "quota": "100",
-        "mode": "LEC",
         "room": [
-            "CYT_202"
+            "ELB_LT2"
         ],
         "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "COOP4001-",
+        "class_nbr": "6748",
+        "course_title": "Placement and Assessment 工作體驗及持續評估",
+        "units": "1.00",
+        "staff": "- Dr. LAI Hon Weng",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "OTH",
+        "section_code": "-O01",
+        "language": "E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

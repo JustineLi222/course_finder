@@ -1,235 +1,333 @@
 [
     {
-        "course_title": "Approaches to Christian Stud 基督教研究導論",
-        "class_code": "THEO1000-",
+        "class_code": "THEO1212-",
+        "class_nbr": "9883",
+        "course_title": "Intro to the New Testament 新約聖經導論",
+        "units": "3.00",
+        "staff": "- Professor IP Hon Ho",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
             "Th 09:30AM - 12:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor IP Hon Ho",
-        "quota": "60",
-        "mode": "LEC",
-        "room": [
-            "ELB_LT2"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Intro to the New Testament 新約聖經導論",
-        "class_code": "THEO1212-",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Bruce Garrett WORTHINGTON",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "ELB_308"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "The Reformation Era 改革時代",
-        "class_code": "THEO2222-",
-        "period": [
-            "Mo 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Dr. MOK Kie Man Bryan",
-        "quota": "25",
-        "mode": "LEC",
         "room": [
             "YCT_LG201"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
         ]
     },
     {
-        "course_title": "Systematic Theology II 系統神學（二）",
-        "class_code": "THEO2236-",
-        "period": [
-            "Tu 02:30PM - 05:15PM"
-        ],
+        "class_code": "THEO2215-",
+        "class_nbr": "5346",
+        "course_title": "Johannine Literature 約翰之著作",
         "units": "3.00",
-        "staff": "- Professor YAM Cheuk Yin Colten",
+        "staff": "- Professor Bruce Garrett WORTHINGTON",
         "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
         "room": [
-            "WMY_508"
+            "ELB_303"
         ],
         "meeting_date": [
-            "7/1, 14/1, 21/1",
-            "4/2, 11/2, 18/2, 25/2",
-            "11/3, 18/3, 25/3, 1/4, 8/4, 15/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Biblical Studies: Sp Topic I 聖經研究：專題研究（一）",
-        "class_code": "THEO3213-",
-        "period": [
-            "Fr 06:30PM - 09:15PM"
-        ],
+        "class_code": "THEO2222-",
+        "class_nbr": "8182",
+        "course_title": "The Reformation Era 改革時代",
         "units": "3.00",
-        "staff": "- Professor IP Hon Ho",
+        "staff": "- Dr. MOK Kie Man Bryan",
         "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
         "room": [
             "CKB_UG04"
         ],
         "meeting_date": [
-            "10/1, 17/1, 24/1",
-            "7/2, 14/2, 21/2, 28/2",
-            "14/3, 21/3, 28/3",
-            "11/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
         ]
     },
     {
-        "course_title": "Biblical Studies: Sp Topic II 聖經研究：專題研究（二）",
-        "class_code": "THEO3214-",
+        "class_code": "THEO2233-",
+        "class_nbr": "8194",
+        "course_title": "Christ, Church and Spirit 基督、教會與聖靈",
+        "units": "3.00",
+        "staff": "- Professor CHAN Ka Fu Keith",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
             "Mo 06:30PM - 09:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Professor WONG Sonia Kwok",
-        "quota": "20",
-        "mode": "SEM",
         "room": [
-            "ELB_205"
+            "ELB_405"
         ],
         "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
         ]
     },
     {
-        "course_title": "New Testament Greek II 新約希臘文（二）",
-        "class_code": "THEO3216-",
-        "period": [
-            "Mo 09:30AM - 11:15AM",
-            "Mo 11:30AM - 12:15PM"
-        ],
+        "class_code": "THEO2236-",
+        "class_nbr": "8479",
+        "course_title": "Systematic Theology II 系統神學（二）",
         "units": "3.00",
         "staff": "- Professor YAM Cheuk Yin Colten",
         "quota": "20",
+        "vacancy": "20",
         "mode": "LEC",
-        "room": [
-            "WMY_502"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4",
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "Biblical Hebrew II 聖經希伯來文（二）",
-        "class_code": "THEO3218-",
+        "section_code": "-",
+        "language": "C&amp;E",
         "period": [
-            "Mo 09:30AM - 12:15PM"
+            "Tu 02:30PM - 05:15PM"
         ],
-        "units": "3.00",
-        "staff": "- Dr. LI Kwan Hung Leo",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "CCT_T31"
-        ],
-        "meeting_date": [
-            "6/1, 13/1, 20/1, 27/1",
-            "10/2, 17/2, 24/2",
-            "10/3, 17/3, 24/3, 31/3, 7/4, 14/4"
-        ]
-    },
-    {
-        "course_title": "History of Christianity in Chi 中國基督教史",
-        "class_code": "THEO3221-",
-        "period": [
-            "Th 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Naomi Elaine THURSTON",
-        "quota": "20",
-        "mode": "LEC",
-        "room": [
-            "CCT_T31"
-        ],
-        "meeting_date": [
-            "9/1, 16/1, 23/1",
-            "6/2, 13/2, 20/2, 27/2",
-            "13/3, 20/3, 27/3, 3/4, 10/4, 17/4"
-        ]
-    },
-    {
-        "course_title": "Theol Studies: Sp Topic I 神學：專題研究（一）",
-        "class_code": "THEO3235-",
-        "period": [
-            "We 06:30PM - 09:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor YIP Ching Wah Francis",
-        "quota": "20",
-        "mode": "SEM",
-        "room": [
-            "ARC_G04"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Death and Dying 生寄死歸",
-        "class_code": "THEO3246-",
-        "period": [
-            "We 09:30AM - 12:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor KUNG Lap Yan",
-        "quota": "40",
-        "mode": "LEC",
-        "room": [
-            "ARC_G04"
-        ],
-        "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
-        ]
-    },
-    {
-        "course_title": "Ecumenics 普世教會學",
-        "class_code": "THEO3251-",
-        "period": [
-            "We 02:30PM - 05:15PM"
-        ],
-        "units": "3.00",
-        "staff": "- Professor Tobias BRANDNER",
-        "quota": "20",
-        "mode": "LEC",
         "room": [
             "ELB_308"
         ],
         "meeting_date": [
-            "8/1, 15/1, 22/1",
-            "5/2, 12/2, 19/2, 26/2",
-            "12/3, 19/3, 26/3, 2/4, 9/4, 16/4"
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "THEO3213-",
+        "class_nbr": "7179",
+        "course_title": "Biblical Studies: Sp Topic I 聖經研究：專題研究（一）",
+        "units": "3.00",
+        "staff": "- Professor WONG Sonia Kwok",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "We 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "THEO3214-",
+        "class_nbr": "8195",
+        "course_title": "Biblical Studies: Sp Topic II 聖經研究：專題研究（二）",
+        "units": "3.00",
+        "staff": "- Professor IP Hon Ho",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "Tu 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "ELB_303"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "THEO3216-",
+        "class_nbr": "8197",
+        "course_title": "New Testament Greek II 新約希臘文（二）",
+        "units": "3.00",
+        "staff": "- Dr. XIE Ganlin",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 02:30PM - 04:15PM",
+            "Mo 04:30PM - 05:15PM"
+        ],
+        "room": [
+            "ELB_207"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "THEO3218-",
+        "class_nbr": "8975",
+        "course_title": "Biblical Hebrew II 聖經希伯來文（二）",
+        "units": "3.00",
+        "staff": "- Dr. LI Kwan Hung Leo",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "C&amp;E",
+        "period": [
+            "Mo 06:30PM - 08:15PM",
+            "Mo 08:30PM - 09:15PM"
+        ],
+        "room": [
+            "CCT_T31"
+        ],
+        "meeting_date": [
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4",
+            "11/1, 18/1, 25/1, 1/2",
+            "15/2, 22/2, 1/3",
+            "15/3, 22/3",
+            "12/4, 19/4"
+        ]
+    },
+    {
+        "class_code": "THEO3221-",
+        "class_nbr": "5347",
+        "course_title": "History of Christianity in Chi 中國基督教史",
+        "units": "3.00",
+        "staff": "- Professor Naomi Elaine THURSTON",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "E",
+        "period": [
+            "Tu 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "ELB_307"
+        ],
+        "meeting_date": [
+            "12/1, 19/1, 26/1, 2/2",
+            "16/2, 23/2, 2/3",
+            "16/3, 23/3, 30/3, 6/4, 13/4, 20/4"
+        ]
+    },
+    {
+        "class_code": "THEO3235-",
+        "class_nbr": "8198",
+        "course_title": "Theol Studies: Sp Topic I 神學：專題研究（一）",
+        "units": "3.00",
+        "staff": "- Staff",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "SEM",
+        "section_code": "-S01",
+        "language": "C&amp;E",
+        "period": [
+            "We 06:30PM - 09:15PM"
+        ],
+        "room": [
+            "ELB_308"
+        ],
+        "meeting_date": [
+            "13/1, 20/1, 27/1, 3/2",
+            "17/2, 24/2, 3/3",
+            "17/3, 24/3, 31/3, 7/4, 14/4, 21/4"
+        ]
+    },
+    {
+        "class_code": "THEO3244-",
+        "class_nbr": "5361",
+        "course_title": "Liturgics 禮儀學",
+        "units": "3.00",
+        "staff": "- Professor REN Baixin",
+        "quota": "20",
+        "vacancy": "20",
+        "mode": "LEC",
+        "section_code": "-",
+        "language": "P&amp;E",
+        "period": [
+            "Th 09:30AM - 12:15PM"
+        ],
+        "room": [
+            "WMY_303"
+        ],
+        "meeting_date": [
+            "14/1, 21/1, 28/1, 4/2",
+            "18/2, 25/2, 4/3",
+            "18/3, 25/3, 1/4, 8/4, 15/4, 22/4"
+        ]
+    },
+    {
+        "class_code": "THEO4241-",
+        "class_nbr": "6749",
+        "course_title": "Field Education I 實習（一）",
+        "units": "2.00",
+        "staff": "- Miss SHIU Sin Man",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
+        ]
+    },
+    {
+        "class_code": "THEO4242-",
+        "class_nbr": "6775",
+        "course_title": "Field Education II 實習（二）",
+        "units": "2.00",
+        "staff": "- Miss SHIU Sin Man",
+        "quota": "50",
+        "vacancy": "50",
+        "mode": "PRA",
+        "section_code": "-P01",
+        "language": "C&amp;E",
+        "period": [
+            "TBA"
+        ],
+        "room": [
+            "NRR"
+        ],
+        "meeting_date": [
+            "11/01/2027 - 19/04/2027"
         ]
     }
 ]

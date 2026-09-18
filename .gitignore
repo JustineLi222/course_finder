@@ -88,4 +88,7 @@ temp/
 
 
 
-frontend/public/bootstrap-4.0.0-dist/
+# Bootstrap 4 was previously ignored here, which meant a git-based deploy shipped an
+# unstyled site (index.html links bootstrap-4.0.0-dist/css/bootstrap.min.css). It is a
+# declared dependency (see frontend/package.json) and is vendored so the static deploy works.
+# frontend/public/bootstrap-4.0.0-dist/
